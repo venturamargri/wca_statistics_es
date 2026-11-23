@@ -30,8 +30,8 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Más resultados sub-X por categoría](most_sub_x_results_by_event)
 - [Más récords personales (PB) por categoría](most_personal_records_by_event)
 - [Racha más larga de competiciones logrando al menos un récord personal (PB)](longest_streak_of_personal_records)
+- [Rankings anuales](yearly_rankings)
 - [Resultados más frecuentes](most_frequent_results)
-- [Yearly rankings](yearly_rankings)
 
 ## Récords {#records}
 
@@ -50,27 +50,27 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 
 ## Podios y medallas {#podiums}
 
-- [Best all-Polish podiums](best_all_spanish_podiums)
-- [Best podiums at Polish competitions](best_podiums_in_spain)
 - [Ganadores de todas las categorías de una competición](complete_competition_winners)
 - [Mayor porcentaje de competiciones con al menos una medalla](highest_percentage_of_competitions_with_medal)
 - [Mejor medallero en el extranjero por persona](best_medal_collection_from_abroad_by_person)
 - [Mejor medallero por categoría](best_medal_collection_by_event)
 - [Mejor resultado fuera del podio](best_result_off_podium)
+- [Mejores podios en competiciones en España](best_podiums_in_spain)
+- [Mejores podios íntegramente españoles](best_all_spanish_podiums)
 - [Más competiciones antes de ganar por primera vez](most_competitions_before_winning)
 - [Más cuartos puestos](most_4th_places)
 - [Más finales disputadas](most_finals)
 - [Más podios en una misma competición](most_podiums_at_single_competition)
 - [Más podios juntos](most_podiums_together)
 - [Más semanas ganadas](winned_week_count)
+- [Peor resultado que logró podio](worst_result_on_podium)
+- [Peor resultado que logró podio por año en competiciones en España](yearly_worst_result_on_podium)
+- [Peor resultado que logró victoria](worst_winning_result)
+- [Peor resultado que logró victoria por año en competiciones en España](yearly_worst_winning_result)
 - [Podios en el Campeonato de España por persona](spanish_championship_podiums_by_person)
 - [Podios en el Campeonato del Mundo por persona](world_championship_podiums_by_person)
 - [Proporción de medallas por competición](medals_competitions_ratio)
 - [Racha más larga de podios](longest_streak_of_podiums)
-- [Worst result providing a podium](worst_result_on_podium)
-- [Worst result providing a podium by year at Polish competitions](yearly_worst_result_on_podium)
-- [Worst result providing a win](worst_winning_result)
-- [Worst result providing a win by year at Polish competitions](yearly_worst_winning_result)
 
 ## Hitos {#milestones}
 

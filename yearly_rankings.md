@@ -1,6 +1,6 @@
-## Yearly rankings
+## Rankings anuales
 
-*Nota: By definition these rankings include only results from the current year.*
+*Nota: Incluye únicamente resultados del año en curso.*
 *Actualizado el 22 de noviembre de 2026*
 
 

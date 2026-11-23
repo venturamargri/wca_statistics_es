@@ -1,6 +1,6 @@
 ## Mejor primer single
 
-*Nota: Mejor primer intento oficial conseguido al participar por primera vez en cada categoría.*
+*Nota: Mejor primer intento oficial conseguido al participar por primera vez en cada categoría (si el primer intento absoluto fue DNF/DNS, no cuenta).*
 *Actualizado el 22 de noviembre de 2026*
 
 
@@ -46,8 +46,8 @@
 | 43.44 | [Manuel José Beiras Belloso](https://www.worldcubeassociation.org/persons/2025BELL13) |
 | 44.20 | [Diego Lago Mendoza](https://www.worldcubeassociation.org/persons/2017MEND27) |
 | 45.32 | [Héctor Voces Prieto](https://www.worldcubeassociation.org/persons/2025PRIE05) |
-| 46.21 | [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) |
-| 46.70 | [Ernesto Cristo González Alemán](https://www.worldcubeassociation.org/persons/2014ALEM01) |
+| 46.72 | [Liam Nilsson González](https://www.worldcubeassociation.org/persons/2023GONZ35) |
+| 47.58 | [Joël Lechuga Sobral](https://www.worldcubeassociation.org/persons/2026SOBR02) |
 
 ### 5x5x5 Cube
 
@@ -69,7 +69,6 @@
 | Primer single | Persona |
 | ---: | :--- |
 | 1:59.52 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) |
-| 2:06.02 | [Óscar Pérez Mengual](https://www.worldcubeassociation.org/persons/2022MENG02) |
 | 2:15.84 | [Pedro Sanz Rodriguez](https://www.worldcubeassociation.org/persons/2019RODR39) |
 | 2:16.32 | [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) |
 | 2:27.40 | [Abel Pérez Gisbert](https://www.worldcubeassociation.org/persons/2014GISB01) |
@@ -78,6 +77,7 @@
 | 2:33.76 | [Daniel Rodríguez Espinosa](https://www.worldcubeassociation.org/persons/2017ESPI14) |
 | 2:34.96 | [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) |
 | 2:36.40 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) |
+| 2:37.39 | [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) |
 
 ### 7x7x7 Cube
 
@@ -98,31 +98,31 @@
 
 | Primer single | Persona |
 | ---: | :--- |
-| 24.88 | [Iker Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2016RUIZ05) |
-| 47.09 | [Lucas Benito Rolando](https://www.worldcubeassociation.org/persons/2010BENI02) |
 | 51.06 | [Alejandro Jiménez Hernández](https://www.worldcubeassociation.org/persons/2022HERN16) |
-| 1:12.05 | [Iván García Vidal](https://www.worldcubeassociation.org/persons/2022VIDA02) |
-| 1:12.97 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
 | 1:13.01 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
-| 1:21.51 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
-| 1:27.73 | [Julio Perugorria Lorente](https://www.worldcubeassociation.org/persons/2014LORE02) |
-| 1:30.99 | [Fernando Lago Díaz](https://www.worldcubeassociation.org/persons/2024DIAZ02) |
-| 1:34.63 | [Vidal Perea Cívico](https://www.worldcubeassociation.org/persons/2024CIVI01) |
+| 2:30.50 | [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) |
+| 2:33.34 | [Ot Serra Taribó](https://www.worldcubeassociation.org/persons/2022TARI01) |
+| 2:39.73 | [Pablo Izquierdo](https://www.worldcubeassociation.org/persons/2023IZQU01) |
+| 2:44.07 | [Víctor Martín Sola](https://www.worldcubeassociation.org/persons/2023SOLA10) |
+| 3:24.78 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
+| 3:32.92 | [Sergio Bodega Herráiz](https://www.worldcubeassociation.org/persons/2014HERR08) |
+| 3:33.52 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
+| 3:42.00 | [Victor Sanchez Redondo](https://www.worldcubeassociation.org/persons/2013REDO01) |
 
 ### 3x3x3 Fewest Moves
 
 | Primer single | Persona |
 | ---: | :--- |
 | 26 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
-| 27 | [Roberto Lloréns Dueñas](https://www.worldcubeassociation.org/persons/2024DUEN04) |
-| 28 | [Miguel Valero Olmo](https://www.worldcubeassociation.org/persons/2023VALE42) |
-| 29 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
 | 31 | [Manuel López Sheriff](https://www.worldcubeassociation.org/persons/2007LOPE01) |
-| 31 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
-| 31 | [Guillem Serrallonga Rosell](https://www.worldcubeassociation.org/persons/2023ROSE09) |
 | 32 | [Lía Medina Ortells](https://www.worldcubeassociation.org/persons/2022MEDI03) |
-| 32 | [Javier Cabezuelo Sánchez](https://www.worldcubeassociation.org/persons/2007SANC01) |
 | 34 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
+| 34 | [Martí Esquerda Amézcua](https://www.worldcubeassociation.org/persons/2022AMEZ01) |
+| 34 | [Vidal Perea Cívico](https://www.worldcubeassociation.org/persons/2024CIVI01) |
+| 35 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
+| 35 | [Francisco Montañés Barbudo](https://www.worldcubeassociation.org/persons/2014BARB07) |
+| 36 | [Eki Gartzia González](https://www.worldcubeassociation.org/persons/2013GONZ05) |
+| 38 | [Raúl Morales Hidalgo](https://www.worldcubeassociation.org/persons/2013MORA02) |
 
 ### 3x3x3 One-Handed
 
@@ -173,8 +173,6 @@
 
 | Primer single | Persona |
 | ---: | :--- |
-| 6.79 | [Alejandro Martín López](https://www.worldcubeassociation.org/persons/2019LOPE30) |
-| 6.97 | [Sergio Márquez Fernández-Jardón](https://www.worldcubeassociation.org/persons/2023FERN54) |
 | 8.56 | [Vidal Perea Cívico](https://www.worldcubeassociation.org/persons/2024CIVI01) |
 | 8.57 | [Núria Carrillo Pascual](https://www.worldcubeassociation.org/persons/2025PASC02) |
 | 8.83 | [Pedro Sanz Rodriguez](https://www.worldcubeassociation.org/persons/2019RODR39) |
@@ -183,6 +181,8 @@
 | 10.11 | [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) |
 | 10.12 | [Federico Alfaro](https://www.worldcubeassociation.org/persons/2024ALFA08) |
 | 10.33 | [David Monteagudo](https://www.worldcubeassociation.org/persons/2024MONT03) |
+| 10.34 | [Jaime Espinazo](https://www.worldcubeassociation.org/persons/2022ESPI06) |
+| 10.50 | [Alberto Rodríguez Escobar](https://www.worldcubeassociation.org/persons/2025ESCO04) |
 
 ### Skewb
 
@@ -218,76 +218,72 @@
 
 | Primer single | Persona |
 | ---: | :--- |
-| 3:05.77 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
-| 3:26.37 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
-| 3:47.30 | [Iker Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2016RUIZ05) |
-| 4:39.59 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
-| 7:19.04 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
-| 7:24.24 | [Jorge Rodón Leiva](https://www.worldcubeassociation.org/persons/2018LEIV03) |
-| 7:39.47 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) |
 | 7:41.56 | [Vidal Perea Cívico](https://www.worldcubeassociation.org/persons/2024CIVI01) |
-| 8:25.66 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
-| 9:10.63 | [Rodrigo Pueblas Núñez](https://www.worldcubeassociation.org/persons/2014NUNE05) |
+| 10:45.00 | [Muxi Yan](https://www.worldcubeassociation.org/persons/2022YANM02) |
+| 11:57.00 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
+| 12:11.00 | [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) |
+| 13:05.00 | [Javier Vega Aramburu](https://www.worldcubeassociation.org/persons/2009ARAM01) |
+| 13:17.00 | [Artur Miralles Hernàndez](https://www.worldcubeassociation.org/persons/2015HERN17) |
+| 13:25.00 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
+| 14:33.00 | [Sergio Bodega Herráiz](https://www.worldcubeassociation.org/persons/2014HERR08) |
+| 14:45.00 | [Blai Solernou Lòpez](https://www.worldcubeassociation.org/persons/2012LAPE01) |
+| 24:42.00 | [Marcos Plaza Nocito](https://www.worldcubeassociation.org/persons/2018NOCI01) |
 
 ### 5x5x5 Blindfolded
 
 | Primer single | Persona |
 | ---: | :--- |
-| 7:00.31 | [Iker Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2016RUIZ05) |
 | 8:33.10 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
-| 10:14.00 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
-| 17:56.00 | [Rodrigo Pueblas Núñez](https://www.worldcubeassociation.org/persons/2014NUNE05) |
-| 19:52.00 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
-| 20:16.00 | [Sergio Chaparro Díaz-Cano](https://www.worldcubeassociation.org/persons/2023DIAZ45) |
-| 20:30.00 | [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) |
-| 21:30.00 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 21:37.00 | [Vidal Perea Cívico](https://www.worldcubeassociation.org/persons/2024CIVI01) |
-| 22:15.00 | [Muxi Yan](https://www.worldcubeassociation.org/persons/2022YANM02) |
+| 28:47.00 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
+| 29:19.00 | [Sergio Bodega Herráiz](https://www.worldcubeassociation.org/persons/2014HERR08) |
+| 34:57.00 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
+| 47:20.00 | [Ot Caminals Aleu](https://www.worldcubeassociation.org/persons/2022ALEU01) |
 
 ### 3x3x3 Multi-Blind
 
 | Primer single | Persona |
 | ---: | :--- |
 | 20/23 56:08 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
-| 10/10 57:13 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 8/8 43:01 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
-| 7/8 46:14 | [Sergio Bodega Herráiz](https://www.worldcubeassociation.org/persons/2014HERR08) |
-| 6/7 44:12 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
-| 4/4 19:41 | [Sergi Sabat](https://www.worldcubeassociation.org/persons/2010SABA01) |
-| 7/10 40:18 | [Jorge Rodón Leiva](https://www.worldcubeassociation.org/persons/2018LEIV03) |
 | 5/6 40:30 | [Laura Freitas Martín](https://www.worldcubeassociation.org/persons/2018MART18) |
-| 7/10 44:13 | [Julio Perugorria Lorente](https://www.worldcubeassociation.org/persons/2014LORE02) |
-| 5/6 48:57 | [Albert Garriga Gea](https://www.worldcubeassociation.org/persons/2019GEAA01) |
+| 3/3 24:23 | [Iván García Vidal](https://www.worldcubeassociation.org/persons/2022VIDA02) |
+| 3/3 29:49 | [Ángel de Jaén Gotarredona](https://www.worldcubeassociation.org/persons/2007GOTA01) |
+| 2/2 7:23 | [Javier Vega Aramburu](https://www.worldcubeassociation.org/persons/2009ARAM01) |
+| 2/2 10:31 | [Marcos Plaza Nocito](https://www.worldcubeassociation.org/persons/2018NOCI01) |
+| 2/2 12:00 | [Mar Gallego Vicente](https://www.worldcubeassociation.org/persons/2013VICE01) |
+| 2/2 12:23 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
+| 2/2 14:35 | [Ignacio Vázquez Jiménez](https://www.worldcubeassociation.org/persons/2010VAZQ02) |
 
 ### 3x3x3 With Feet
 
 | Primer single | Persona |
 | ---: | :--- |
-| 54.49 | [Gabriel Núñez Cantos](https://www.worldcubeassociation.org/persons/2017CANT07) |
 | 1:19.19 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
-| 1:37.67 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
 | 1:40.55 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 1:40.66 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
 | 1:49.53 | [Bea García Rutea](https://www.worldcubeassociation.org/persons/2017RUTE01) |
-| 1:55.75 | [Damián Sánchez Izar](https://www.worldcubeassociation.org/persons/2011SANC04) |
 | 2:01.33 | [Daniel Ortega Pastor](https://www.worldcubeassociation.org/persons/2014PAST03) |
 | 2:04.69 | [David Bautista García](https://www.worldcubeassociation.org/persons/2017GARC55) |
 | 2:22.24 | [Ricardo Bayona Salvador](https://www.worldcubeassociation.org/persons/2014SALV02) |
+| 2:35.53 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
+| 2:35.96 | [Erik Subirats](https://www.worldcubeassociation.org/persons/2016SUBI01) |
+| 2:38.53 | [Álvaro Gala López](https://www.worldcubeassociation.org/persons/2016LOPE04) |
 
 ### Rubik's Magic
 
 | Primer single | Persona |
 | ---: | :--- |
-| 1.16 | [Jorge Morata Carrasco](https://www.worldcubeassociation.org/persons/2008MORA02) |
-| 1.28 | [Alejandro Riveiro Rodríguez](https://www.worldcubeassociation.org/persons/2008RODR01) |
-| 1.33 | [Rodrigo Septién Rodríguez](https://www.worldcubeassociation.org/persons/2008SEPT01) |
 | 1.44 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
-| 1.53 | [Raúl Sancho Molinero](https://www.worldcubeassociation.org/persons/2011MOLI02) |
 | 1.53 | [Javier Rodríguez Domínguez](https://www.worldcubeassociation.org/persons/2011DOMA01) |
-| 1.55 | [Sergi Sabat](https://www.worldcubeassociation.org/persons/2010SABA01) |
+| 1.53 | [Raúl Sancho Molinero](https://www.worldcubeassociation.org/persons/2011MOLI02) |
 | 1.61 | [Marcos Ameijeiras Moreno](https://www.worldcubeassociation.org/persons/2008MORE01) |
 | 1.61 | [Raúl Sánchez Vara](https://www.worldcubeassociation.org/persons/2010VARA02) |
-| 1.61 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
+| 1.68 | [Daniel Borrajo Gutiérrez](https://www.worldcubeassociation.org/persons/2008BORR01) |
+| 1.68 | [Arnau Mora Tarragona](https://www.worldcubeassociation.org/persons/2010TARR01) |
+| 1.71 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) |
+| 1.72 | [Álvaro García Navarro](https://www.worldcubeassociation.org/persons/2011NAVA02) |
+| 1.78 | [Helena Vela García](https://www.worldcubeassociation.org/persons/2010GARC05) |
 
 ### Master Magic
 
@@ -300,9 +296,9 @@
 | 3.91 | [Alejandro Riveiro Rodríguez](https://www.worldcubeassociation.org/persons/2008RODR01) |
 | 4.03 | [Ignacio Vázquez Jiménez](https://www.worldcubeassociation.org/persons/2010VAZQ02) |
 | 4.34 | [Damián Sánchez Izar](https://www.worldcubeassociation.org/persons/2011SANC04) |
-| 4.52 | [Rómulo Guillén López](https://www.worldcubeassociation.org/persons/2007GUIL02) |
 | 4.83 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) |
 | 5.03 | [Daniel Ortiga Villatoro](https://www.worldcubeassociation.org/persons/2007ORTI01) |
+| 5.09 | [Ramón Viladomat Arro](https://www.worldcubeassociation.org/persons/2009ARRO01) |
 
 ### 3x3x3 Multi-Blind Old-Style
 
@@ -310,7 +306,6 @@
 | ---: | :--- |
 | 3/3 29:49 | [Ángel de Jaén Gotarredona](https://www.worldcubeassociation.org/persons/2007GOTA01) |
 | 4/7 1:05:15 | [Manuel López Sheriff](https://www.worldcubeassociation.org/persons/2007LOPE01) |
-| 1/2 10:50 | [Javier Soto Bustos](https://www.worldcubeassociation.org/persons/2008SOTO02) |
 | 1/2 16:48 | [Alejandro Aguado Barahona](https://www.worldcubeassociation.org/persons/2007AGUA01) |
 
 

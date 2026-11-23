@@ -1,6 +1,6 @@
-## Worst result providing a win by year at Polish competitions
+## Peor resultado que logró victoria por año en competiciones en España
 
-*Nota: Only finals at competitions held in Poland are taken into account, regardless of the winners' countries. Results where the main statistic is DNF are ignored. Each year is considered separately.*
+*Nota: Solo finales en competiciones celebradas en España, independientemente de la nacionalidad del ganador. Se ignoran resultados donde la métrica principal sea DNF.*
 *Actualizado el 22 de noviembre de 2026*
 
 

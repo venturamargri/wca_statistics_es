@@ -1,6 +1,6 @@
-## Worst result providing a podium
+## Peor resultado que logró podio
 
-*Nota: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
+*Nota: Solo se tienen en cuenta finales. Se ignoran resultados donde la métrica principal sea DNF.*
 *Actualizado el 22 de noviembre de 2026*
 
 
