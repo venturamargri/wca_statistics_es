@@ -1,0 +1,78 @@
+require_relative "../core/statistic"
+
+class LongestStreakOfPodiums < Statistic
+  def initialize
+    @title = "Racha más larga de podios"
+    @category = :podiums
+    @note = "Solo se tienen en cuenta finales en competiciones que celebraron dicha categoría."
+    @table_header = { "Podios" => :right, "Persona" => :left, "Categoría" => :left, "Inicio" => :left, "Fin" => :left }
+  end
+
+  def query
+    <<-SQL
+      SELECT
+        event.name AS event_name,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') AS person_link,
+        CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') AS competition_link,
+        competition.start_date,
+        base.is_final,
+        base.place,
+        base.single
+      FROM (
+        SELECT
+          results.person_id,
+          results.event_id,
+          results.competition_id,
+          MAX(round_type.final) AS is_final,
+          COALESCE(
+            MAX(CASE WHEN results.round_type_id = 'f' THEN results.pos  ELSE NULL END),
+            MAX(CASE WHEN round_type.final = 1      THEN results.pos  ELSE NULL END)
+          ) AS place,
+          COALESCE(
+            MAX(CASE WHEN results.round_type_id = 'f' THEN results.best ELSE NULL END),
+            MAX(CASE WHEN round_type.final = 1      THEN results.best ELSE NULL END)
+          ) AS single
+        FROM results
+        JOIN persons person ON person.wca_id = results.person_id AND person.sub_id = 1 AND person.country_id = 'Spain'
+        JOIN round_types round_type ON round_type.id = results.round_type_id
+        GROUP BY results.person_id, results.event_id, results.competition_id
+      ) base
+      JOIN events event ON event.id = base.event_id
+      JOIN persons person ON person.wca_id = base.person_id AND person.sub_id = 1
+      JOIN competitions competition ON competition.id = base.competition_id
+      ORDER BY competition.start_date
+    SQL
+  end
+
+  def transform(query_results)
+    query_results
+      .group_by { |result| result["person_link"] }
+      .map do |person_link, person_results|
+        podiums_streaks = []
+        current_podiums_streak_by_event = {}
+        person_results
+          .group_by { |result| [result["competition_link"], result["event_name"]] }
+          .each do |(competition_link, event_name), person_competition_event_results|
+            current_podiums_streak_by_event[event_name] ||= {
+              event_name: event_name, count: 0, person_link: person_link, first_competition: competition_link
+            }
+            current_podiums_streak = current_podiums_streak_by_event[event_name]
+            last_round_result = person_competition_event_results.last
+            if last_round_result["is_final"] == 1 && last_round_result["place"] <= 3 && last_round_result["single"] > 0
+              current_podiums_streak[:count] += 1
+            else
+              current_podiums_streak[:last_competition] = competition_link
+              podiums_streaks << current_podiums_streak
+              current_podiums_streak_by_event.delete(event_name)
+            end
+          end
+        podiums_streaks.concat(current_podiums_streak_by_event.values)
+      end
+      .flatten
+      .sort_by! { |podiums_streak| -podiums_streak[:count] }
+      .first(100)
+      .map! do |streak|
+        [streak[:count], streak[:person_link], streak[:event_name], streak[:first_competition], streak[:last_competition]]
+      end
+  end
+end

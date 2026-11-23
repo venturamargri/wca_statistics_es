@@ -1,0 +1,52 @@
+require_relative "../core/grouped_statistic"
+require_relative "../core/events"
+require_relative "../core/solve_time"
+
+class BestFirstSingle < GroupedStatistic
+  def initialize
+    @title = "Mejor primer single"
+    @category = :results
+    @note = "Mejor primer intento oficial conseguido al participar por primera vez en cada categoría."
+    @table_header = { "Primer single" => :right, "Persona": :left }
+  end
+
+  def query
+    <<-SQL
+      SELECT
+        r.event_id,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
+        ra.value single
+      FROM results r
+      JOIN result_attempts ra 
+        ON ra.result_id = r.id
+        AND ra.attempt_number = 1
+      JOIN persons person 
+        ON person.wca_id = r.person_id 
+        AND person.sub_id = 1 
+        AND person.country_id = 'Spain'
+      JOIN competitions competition 
+        ON competition.id = r.competition_id
+      JOIN round_types round_type 
+        ON round_type.id = r.round_type_id
+      WHERE ra.value > 0
+      ORDER BY competition.start_date, round_type.rank
+    SQL
+  end
+
+  def transform(query_results)
+    Events::ALL.map do |event_id, event_name|
+      results = query_results
+        .select { |result| result["event_id"] == event_id }
+        .group_by { |result| result["person_link"] }
+        .map { |person_link, results| results.first }
+        .select { |result| result["single"] > 0 }
+        .sort_by! { |result| result["single"] }
+        .first(10)
+        .map! do |result|
+          single_solve_time = SolveTime.new(event_id, :single, result["single"]).clock_format
+          [single_solve_time, result["person_link"]]
+        end
+      [event_name, results]
+    end
+  end
+end
