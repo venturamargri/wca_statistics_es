@@ -11,3 +11,4 @@ class YearlyRankings < Rankings
     )
   end
 end
+# v2

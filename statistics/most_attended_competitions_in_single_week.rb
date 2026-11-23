@@ -1,10 +1,11 @@
 require_relative "../core/statistic"
+require_relative "../core/spanish_format"
 
 class MostAttendedCompetitionsInSingleWeek < Statistic
   def initialize
     @title = "Más competiciones disputadas en una misma semana"
     @category = :competing
-    @table_header = { "Competiciones" => :right, "Persona" => :left, "Inicio" => :left, "Fin" => :left, "Competiciones" => :left }
+    @table_header = { "Competiciones" => :right, "Persona" => :left, "Inicio" => :left, "Fin" => :left, "Competiciones (lista)" => :left }
   end
 
   def query
@@ -37,15 +38,13 @@ class MostAttendedCompetitionsInSingleWeek < Statistic
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1 AND person.country_id = 'Spain'
       ORDER BY attended_within_week DESC, person.name
       LIMIT 100
-      LIMIT 100
     SQL
   end
 
   def transform(query_results)
     query_results.map do |result|
-      date_format = "%e&nbsp;%b&nbsp;%Y"
-      week_start = result["week_start_date"].strftime(date_format)
-      week_end = result["week_end_date"].strftime(date_format)
+      week_start = SpanishFormat.short_date(result["week_start_date"])
+      week_end = SpanishFormat.short_date(result["week_end_date"])
       [result["attended_within_week"], result["person_link"], week_start, week_end, result["competition_links"]]
     end
   end

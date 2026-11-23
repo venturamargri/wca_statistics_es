@@ -29,3 +29,4 @@ class MostFinals < Statistic
     SQL
   end
 end
+# v2

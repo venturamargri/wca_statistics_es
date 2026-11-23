@@ -20,3 +20,4 @@ class BestAllSpanishPodiums < BestPodiums
     )
   end
 end
+# v2

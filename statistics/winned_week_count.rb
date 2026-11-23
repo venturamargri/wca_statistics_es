@@ -48,3 +48,4 @@ class WinnedWeekCount < GroupedStatistic
     end
   end
 end
+# v2

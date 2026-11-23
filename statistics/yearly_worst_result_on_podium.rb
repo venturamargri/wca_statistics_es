@@ -11,3 +11,4 @@ class YearlyWorstResultOnPodium < WorstQualifyingResults
     )
   end
 end
+# v2

@@ -12,3 +12,4 @@ class WorstWinningResult < WorstQualifyingResults
     )
   end
 end
+# v2

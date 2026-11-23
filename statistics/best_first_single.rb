@@ -50,3 +50,4 @@ class BestFirstSingle < GroupedStatistic
     end
   end
 end
+# v2

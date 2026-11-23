@@ -51,3 +51,4 @@ class BestResultOffPodium < GroupedStatistic
     end
   end
 end
+# v2
