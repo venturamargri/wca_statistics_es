@@ -3,8 +3,8 @@ require_relative "./abstract/best_podiums"
 class BestAllSpanishPodiums < BestPodiums
   def initialize
     super(
-      title: "Best all-Polish podiums",
-      note: "Podiums at any competition where all three podium places were taken by people representing Poland. Podium places with sum of best or average times depending on format.",
+      title: "Mejores podios íntegramente españoles",
+      note: "Podios en cualquier competición donde los tres medallistas representaban a España, ordenados por la suma de sus resultados de clasificación.",
       condition: <<-SQL
         AND results.country_id = 'Spain'
         AND NOT EXISTS (
@@ -14,7 +14,7 @@ class BestAllSpanishPodiums < BestPodiums
             AND r3.round_type_id = results.round_type_id
             AND r3.pos IN (1, 2, 3)
             AND r3.best > 0
-            AND r3.country_id != 'Poland'
+            AND r3.country_id != 'Spain'
         )
       SQL
     )

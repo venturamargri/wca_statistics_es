@@ -6,8 +6,8 @@ class BestFirstSingle < GroupedStatistic
   def initialize
     @title = "Mejor primer single"
     @category = :results
-    @note = "Mejor primer intento oficial conseguido al participar por primera vez en cada categoría."
-    @table_header = { "Primer single" => :right, "Persona": :left }
+    @note = "Mejor primer intento oficial conseguido al participar por primera vez en cada categoría (si el primer intento absoluto fue DNF/DNS, no cuenta)."
+    @table_header = { "Primer single" => :right, "Persona" => :left }
   end
 
   def query
@@ -17,19 +17,19 @@ class BestFirstSingle < GroupedStatistic
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         ra.value single
       FROM results r
-      JOIN result_attempts ra 
+      JOIN result_attempts ra
         ON ra.result_id = r.id
         AND ra.attempt_number = 1
-      JOIN persons person 
-        ON person.wca_id = r.person_id 
-        AND person.sub_id = 1 
+      JOIN persons person
+        ON person.wca_id = r.person_id
+        AND person.sub_id = 1
         AND person.country_id = 'Spain'
-      JOIN competitions competition 
+      JOIN competitions competition
         ON competition.id = r.competition_id
-      JOIN round_types round_type 
+      JOIN round_types round_type
         ON round_type.id = r.round_type_id
-      WHERE ra.value > 0
-      ORDER BY competition.start_date, round_type.rank
+      WHERE ra.value != 0
+      ORDER BY competition.start_date, competition.id, round_type.rank
     SQL
   end
 
@@ -38,7 +38,7 @@ class BestFirstSingle < GroupedStatistic
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .group_by { |result| result["person_link"] }
-        .map { |person_link, results| results.first }
+        .map { |_person_link, person_results| person_results.first }
         .select { |result| result["single"] > 0 }
         .sort_by! { |result| result["single"] }
         .first(10)

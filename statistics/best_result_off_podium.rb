@@ -6,7 +6,7 @@ class BestResultOffPodium < GroupedStatistic
   def initialize
     @title = "Mejor resultado fuera del podio"
     @category = :podiums
-    @note = "Solo se tienen en cuenta finales celebradas en España."
+    @note = "Solo se tienen en cuenta finales disputadas por competidores españoles en cualquier competición."
     @table_header = { "Persona" => :left, "Single" => :right, "Average" => :right, "Competición" => :left, "Puesto" => :center }
   end
 
@@ -22,8 +22,8 @@ class BestResultOffPodium < GroupedStatistic
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/all#e', results.event_id, '_', round_type_id, ')') podium_link,
         pos place
       FROM results
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
-      JOIN competitions competition ON competition.id = competition_id AND competition.country_id = 'Spain'
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Spain'
+      JOIN competitions competition ON competition.id = competition_id
       JOIN preferred_formats preferred_format ON preferred_format.event_id = results.event_id AND ranking = 1
       JOIN formats format ON format.id = preferred_format.format_id
       WHERE round_type_id IN ('c', 'f') AND pos > 3

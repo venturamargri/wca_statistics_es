@@ -39,8 +39,10 @@ class MostAttendedCompetitionsInSingleWeekUnique < Statistic
         FROM weekly_stats
       ) ws
       JOIN persons p ON p.wca_id = ws.person_id AND p.sub_id = 1
-      WHERE ws.rn = 1 AND ws.attended_within_week >= 3
+      WHERE ws.rn = 1 AND ws.attended_within_week >= 2
       ORDER BY ws.attended_within_week DESC, p.name
+      LIMIT 100
+      LIMIT 100
     SQL
   end
 
