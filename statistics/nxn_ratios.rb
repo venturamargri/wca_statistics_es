@@ -75,3 +75,4 @@ class NxnRatios < GroupedStatistic
     end
   end
 end
+# v2

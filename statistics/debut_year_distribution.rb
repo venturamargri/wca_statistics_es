@@ -73,3 +73,4 @@ class DebutYearDistribution < GroupedStatistic
     end.reject { |_, rows| rows.empty? }
   end
 end
+# v2

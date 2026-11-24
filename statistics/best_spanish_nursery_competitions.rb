@@ -94,3 +94,4 @@ class BestSpanishNurseryCompetitions < Statistic
       .map { |x| [x[:nr_count], x[:gold_count], x[:debutants], x[:comp_link], x[:nr_list]] }
   end
 end
+# v2

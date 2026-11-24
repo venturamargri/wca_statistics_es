@@ -90,3 +90,4 @@ class ChocolateTimesInRound < Statistic
       .map { |x| ["#{x[:choc_count]} / #{x[:total_attempts]}", x[:person_link], x[:event_name], x[:formatted], x[:comp_link]] }
   end
 end
+# v2

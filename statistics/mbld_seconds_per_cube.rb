@@ -34,9 +34,7 @@ class MbldSecondsPerCube < Statistic
   end
 
   def transform(query_results)
-    best_by_person = {}
-
-    query_results.each do |r|
+    candidates = query_results.filter_map do |r|
       val = r["value"].to_i
       diff = 99 - (val / 10_000_000)
       time_sec = (val / 100) % 100_000
@@ -46,24 +44,21 @@ class MbldSecondsPerCube < Statistic
 
       next if time_sec <= 0 || time_sec >= 99_999 || attempted < 5
 
-      sec_per_cube = time_sec.to_f / attempted
-      pid = r["person_id"]
-      candidate = {
-        sec_per_cube: sec_per_cube,
+      {
+        person_id: r["person_id"],
+        sec_per_cube: time_sec.to_f / attempted,
         attempted: attempted,
         val: val,
-        start_date: r["start_date"],
+        start_date: r["start_date"].to_s,
         person_link: r["person_link"],
         comp_link: r["comp_link"]
       }
-
-      prev = best_by_person[pid]
-      if prev.nil? || [candidate[:sec_per_cube], -candidate[:attempted], candidate[:start_date]] < [prev[:sec_per_cube], -prev[:attempted], prev[:start_date]]
-        best_by_person[pid] = candidate
-      end
     end
 
-    best_by_person.values
+    candidates
+      .group_by { |x| x[:person_id] }
+      .values
+      .map { |rows| rows.min_by { |x| [x[:sec_per_cube], -x[:attempted], x[:start_date]] } }
       .sort_by { |x| [x[:sec_per_cube], -x[:attempted], x[:person_link]] }
       .first(50)
       .map do |x|

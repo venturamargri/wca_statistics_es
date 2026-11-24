@@ -130,3 +130,4 @@ class CumulativeDaysAsNr < GroupedStatistic
     groups
   end
 end
+# v2

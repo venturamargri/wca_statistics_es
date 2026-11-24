@@ -95,3 +95,4 @@ class BestWorstNationalRank < Statistic
       .map { |x| [x[:person_link], x[:worst_rank], x[:worst_events]] }
   end
 end
+# v2

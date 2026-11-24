@@ -33,3 +33,4 @@ class MajorChampionshipFinalsByPerson < Statistic
     SQL
   end
 end
+# v2
