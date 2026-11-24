@@ -1,6 +1,6 @@
 Todas las estadísticas están calculadas únicamente para competidores que representan a España o competiciones celebradas en España.
 
-[Resultados](#results) (28) · [Récords](#records) (12) · [Podios y medallas](#podiums) (21) · [Hitos](#milestones) (10) · [Participación](#competing) (29) · [Viajes](#travel) (10) · [Delegados](#delegating) (23) · [Organización](#organizing) (5) · [Competiciones](#competitions) (19)
+[Resultados](#results) (33) · [Récords](#records) (13) · [Podios y medallas](#podiums) (26) · [Hitos](#milestones) (10) · [Participación](#competing) (31) · [Viajes](#travel) (10) · [Delegados](#delegating) (23) · [Organización](#organizing) (5) · [Competiciones](#competitions) (21)
 
 ## Resultados {#results}
 
@@ -9,10 +9,13 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Average de 25](average_of_25)
 - [Average de 50](average_of_50)
 - [Average de 100](average_of_100)
+- [Clasificación Kinch de españoles por año](yearly_kinch_ranks)
+- [Clasificación Sum of Ranks (SoR) de españoles por año](yearly_sum_of_ranks)
 - [Comparación de resultados de 3x3 One-Handed frente a 3x3 (España)](oh_to_333)
 - [Comparación de resultados de Megaminx frente a 3x3 (España)](minx_to_333)
 - [Mayor % de resoluciones válidas en cada categoría](most_successful_solves_percentage_by_event)
 - [Mayor % de rondas disputadas en una competición](most_competition_rounds_percentage)
+- [Mayor porcentaje de DNF en toda la carrera](highest_dnf_percentage)
 - [Mayor porcentaje medio de intentos disponibles utilizados](average_attempts_used_percentage)
 - [Media de resoluciones válidas por competición](average_successful_solves_per_competition)
 - [Media móvil (Moving Average)](moving_average)
@@ -20,9 +23,11 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Mejor primer average](best_first_average)
 - [Mejor primer single](best_first_single)
 - [Mejor single que cuenta en un average de 5](best_single_counting_into_average)
+- [Mejores marcas de rookies españoles](best_rookie_results)
 - [Menor diferencia entre single y average](smallest_diff_between_single_and_average)
 - [Más aciertos N/N en 3x3x3 Multi-Blind](most_nxn_mbld_successes)
 - [Más intentos antes de lograr una resolución válida en BLD](most_solves_before_bld_success)
+- [Más puntos netos acumulados en 3x3x3 Multi-Blind](most_mbld_net_points)
 - [Más resoluciones completadas](most_completed_solves)
 - [Más resoluciones completadas en una competición](most_completed_solves_at_one_competition)
 - [Más resoluciones en una categoría](most_solves_in_event)
@@ -37,6 +42,7 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 
 - [Averages récord nacional con todos los intentos mejores que el anterior récord nacional](nr_averages_with_all_attempts_sub_previous_nr)
 - [Días en los que un récord nacional de España se batió más de una vez](national_records_broken_multiple_times_in_one_day)
+- [Mayor tiempo entre el primer y el último Récord Nacional (NR)](longest_nr_span)
 - [Mayor tiempo ostentando un récord nacional](longest_time_holding_national_record)
 - [Más récords en una misma competición](most_records_at_single_competition)
 - [Número de récords mundiales por persona](world_records_by_person)
@@ -50,6 +56,7 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 
 ## Podios y medallas {#podiums}
 
+- [Eternos aspirantes (platas y bronces sin oro, y cuartos puestos sin podio)](almost_there_podiums)
 - [Ganadores de todas las categorías de una competición](complete_competition_winners)
 - [Mayor porcentaje de competiciones con al menos una medalla](highest_percentage_of_competitions_with_medal)
 - [Mejor medallero en el extranjero por persona](best_medal_collection_from_abroad_by_person)
@@ -57,6 +64,8 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Mejor resultado fuera del podio](best_result_off_podium)
 - [Mejores podios en competiciones en España](best_podiums_in_spain)
 - [Mejores podios íntegramente españoles](best_all_spanish_podiums)
+- [Menor diferencia entre el oro y la plata](smallest_gold_silver_difference)
+- [Más categorías distintas con oro](most_events_with_gold)
 - [Más competiciones antes de ganar por primera vez](most_competitions_before_winning)
 - [Más cuartos puestos](most_4th_places)
 - [Más finales disputadas](most_finals)
@@ -71,6 +80,8 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Podios en el Campeonato del Mundo por persona](world_championship_podiums_by_person)
 - [Proporción de medallas por competición](medals_competitions_ratio)
 - [Racha más larga de podios](longest_streak_of_podiums)
+- [Racha más larga invicto en finales de una categoría](longest_finals_win_streak)
+- [Tiempo en hacer podio en todas las categorías](time_to_podium_in_all_events)
 
 ## Hitos {#milestones}
 
@@ -87,6 +98,7 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 
 ## Participación {#competing}
 
+- [Carreras más longevas](longest_career_span)
 - [Competiciones disputadas por comunidad autónoma](most_attended_competitions_in_ccaa)
 - [Competiciones disputadas por provincia](most_attended_competitions_in_province)
 - [Competiciones por año por persona](competitions_per_year_by_person)
@@ -94,6 +106,7 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Mayor % de competiciones disputadas en la misma ciudad que la primera competición](most_competitions_in_city_at_first_comp)
 - [Mayor % de competiciones disputadas en la provincia de la primera competición](most_competitions_in_province_at_first_comp)
 - [Mayor media de personas nuevas conocidas por competición](average_new_people_met_per_competition)
+- [Mayor porcentaje de competiciones fuera de España](highest_percentage_foreign_competitions)
 - [Mayores intervalos entre competiciones](longest_competition_gaps)
 - [Menor % de competiciones disputadas en la comunidad autónoma de la primera competición](fewest_competitions_in_ccaa_at_first_comp)
 - [Menor % de competiciones disputadas en la misma ciudad que la primera competición](fewest_competitions_in_city_at_first_comp)
@@ -169,6 +182,7 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Ciudades con más competiciones cada año](cities_with_most_competitions_by_year)
 - [Competiciones con menos ausencias (no-shows) en España](least_no_shows)
 - [Competiciones con menos competidores](fewest_competitors_contest)
+- [Competiciones en España que llenaron plazas más rápido](fastest_filling_competitions)
 - [Competiciones más largas en España](longest_competitions)
 - [Comunidades autónomas con más competiciones cada año](ccaa_with_most_competitions_by_year)
 - [Cuota media de inscripción por año](average_fee_per_year)
@@ -184,9 +198,10 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Más favoritos (bookmarks) respecto al límite de competidores](most_bookmarks)
 - [Más rondas celebradas en una competición](most_rounds_at_competition)
 - [Número de competiciones por semana](competitions_count_by_week)
+- [Organizadores puros (sin competir)](pure_organizers)
 - [Provincias con más competiciones cada año](provinces_with_most_competitions_by_year)
 
 
-Esta información se basa en los resultados oficiales publicados por la World Cube Association en [https://worldcubeassociation.org](https://worldcubeassociation.org) a fecha de 23 de noviembre de 2026.
+Esta información se basa en los resultados oficiales publicados por la World Cube Association en [https://worldcubeassociation.org](https://worldcubeassociation.org) a fecha de 24 de noviembre de 2026.
 
 <a href="https://github.com/venturamargri/wca_statistics_es" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
