@@ -187,7 +187,7 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Ciudades con más competiciones cada año](cities_with_most_competitions_by_year)
 - [Competiciones con menos ausencias (no-shows)](least_no_shows)
 - [Competiciones con menos competidores](fewest_competitors_contest)
-- [Competiciones donde debutaron más personas con oros y récords nacionales](best_spanish_nursery_competitions)
+- [Competiciones donde debutaron más campeones de España y récords nacionales](best_spanish_nursery_competitions)
 - [Competiciones más largas](longest_competitions)
 - [Competiciones que llenaron plazas más rápido](fastest_filling_competitions)
 - [Comunidades autónomas con más competiciones cada año](ccaa_with_most_competitions_by_year)
