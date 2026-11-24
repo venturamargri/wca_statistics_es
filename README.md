@@ -1,6 +1,6 @@
 Todas las estadísticas están calculadas únicamente para competidores que representan a España o competiciones celebradas en España.
 
-[Resultados](#results) (33) · [Récords](#records) (13) · [Podios y medallas](#podiums) (26) · [Hitos](#milestones) (10) · [Participación](#competing) (31) · [Viajes](#travel) (10) · [Delegados](#delegating) (23) · [Organización](#organizing) (5) · [Competiciones](#competitions) (21)
+[Resultados](#results) (39) · [Récords](#records) (14) · [Podios y medallas](#podiums) (27) · [Hitos](#milestones) (10) · [Participación](#competing) (32) · [Viajes](#travel) (10) · [Delegados](#delegating) (23) · [Organización](#organizing) (5) · [Competiciones](#competitions) (22)
 
 ## Resultados {#results}
 
@@ -11,17 +11,22 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Average de 100](average_of_100)
 - [Clasificación Kinch de españoles por año](yearly_kinch_ranks)
 - [Clasificación Sum of Ranks (SoR) de españoles por año](yearly_sum_of_ranks)
+- [Comparación de NxNxN entre cubos consecutivos](nxn_ratios)
 - [Comparación de resultados de 3x3 One-Handed frente a 3x3 (España)](oh_to_333)
 - [Comparación de resultados de Megaminx frente a 3x3 (España)](minx_to_333)
+- [El suelo del all-rounder (mejor peor ranking nacional)](best_worst_national_rank)
+- [Escalado a ciegas (ratios en single)](bld_scaling_ratios)
 - [Mayor % de resoluciones válidas en cada categoría](most_successful_solves_percentage_by_event)
 - [Mayor % de rondas disputadas en una competición](most_competition_rounds_percentage)
 - [Mayor porcentaje de DNF en toda la carrera](highest_dnf_percentage)
 - [Mayor porcentaje medio de intentos disponibles utilizados](average_attempts_used_percentage)
+- [Mayor racha de éxitos seguidos a ciegas](longest_bld_success_streak)
 - [Media de resoluciones válidas por competición](average_successful_solves_per_competition)
 - [Media móvil (Moving Average)](moving_average)
 - [Mejor media potencial de FMC](best_potential_fmc_mean)
 - [Mejor primer average](best_first_average)
 - [Mejor primer single](best_first_single)
+- [Mejor ritmo en 3x3x3 Multi-Blind (segundos por cubo intentado)](mbld_seconds_per_cube)
 - [Mejor single que cuenta en un average de 5](best_single_counting_into_average)
 - [Mejores marcas de rookies españoles](best_rookie_results)
 - [Menor diferencia entre single y average](smallest_diff_between_single_and_average)
@@ -37,6 +42,7 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Racha más larga de competiciones logrando al menos un récord personal (PB)](longest_streak_of_personal_records)
 - [Rankings anuales](yearly_rankings)
 - [Resultados más frecuentes](most_frequent_results)
+- [Rondas con más tiempos chocolate (.00)](chocolate_times_in_round)
 
 ## Récords {#records}
 
@@ -53,6 +59,7 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Récords mundiales potencialmente presenciados](potentially_seen_world_records)
 - [Récords mundiales y europeos batidos por españoles](world_and_european_records)
 - [Récords nacionales más longevos](longest_standing_records)
+- [Tiempo acumulado siendo Récord Nacional (NR)](cumulative_days_as_nr)
 
 ## Podios y medallas {#podiums}
 
@@ -72,6 +79,7 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Más podios en una misma competición](most_podiums_at_single_competition)
 - [Más podios juntos](most_podiums_together)
 - [Más semanas ganadas](winned_week_count)
+- [Número de finales en grandes campeonatos por persona](major_championship_finals_by_person)
 - [Peor resultado que logró podio](worst_result_on_podium)
 - [Peor resultado que logró podio por año en competiciones en España](yearly_worst_result_on_podium)
 - [Peor resultado que logró victoria](worst_winning_result)
@@ -102,6 +110,7 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Competiciones disputadas por comunidad autónoma](most_attended_competitions_in_ccaa)
 - [Competiciones disputadas por provincia](most_attended_competitions_in_province)
 - [Competiciones por año por persona](competitions_per_year_by_person)
+- [Distribución por año de debut del Top 100 de España](debut_year_distribution)
 - [Mayor % de competiciones disputadas en la comunidad autónoma de la primera competición](most_competitions_in_ccaa_at_first_comp)
 - [Mayor % de competiciones disputadas en la misma ciudad que la primera competición](most_competitions_in_city_at_first_comp)
 - [Mayor % de competiciones disputadas en la provincia de la primera competición](most_competitions_in_province_at_first_comp)
@@ -189,6 +198,7 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Cuota media de inscripción por ciudad](average_fee_per_city)
 - [Cuota media de inscripción por comunidad autónoma](average_fee_per_ccaa)
 - [Cuota media de inscripción por provincia](average_fee_per_province)
+- [La mejor cantera de España](best_spanish_nursery_competitions)
 - [Mayor cuota de inscripción en competiciones en España](highest_registration_fee)
 - [Mayor número posible de resoluciones en una competición](highest_possible_number_of_solves_at_one_competition)
 - [Mayores competiciones en España](biggest_competitions_in_spain)
