@@ -13,7 +13,6 @@ class DebutYearDistribution < GroupedStatistic
     @table_header = {
       "Año de debut" => :center,
       "Competidores" => :right,
-      "%" => :right,
       "Mejor clasificado" => :left
     }
   end
@@ -52,8 +51,7 @@ class DebutYearDistribution < GroupedStatistic
     CURRENT_EVENTS.map do |event_id|
       event_name = Events::ALL[event_id] || event_id
       rows = by_event[event_id] || []
-      total = rows.size
-      next [event_name, []] if total == 0
+      next [event_name, []] if rows.empty?
 
       table = rows
         .group_by { |r| r["person_id"][0, 4] }
@@ -62,12 +60,11 @@ class DebutYearDistribution < GroupedStatistic
           {
             year: year,
             count: group.size,
-            pct: format("%.1f%%", (group.size.to_f / total) * 100.0),
             best_label: "##{best['country_rank']} #{best['person_link']}"
           }
         end
         .sort_by { |x| [-x[:count], -x[:year].to_i] }
-        .map { |x| [x[:year], x[:count], x[:pct], x[:best_label]] }
+        .map { |x| [x[:year], x[:count], x[:best_label]] }
 
       [event_name, table]
     end.reject { |_, rows| rows.empty? }

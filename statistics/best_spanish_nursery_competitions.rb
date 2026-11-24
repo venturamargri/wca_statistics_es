@@ -97,7 +97,7 @@ class BestSpanishNurseryCompetitions < Statistic
           people_list: people_list
         }
       end
-      .select { |x| x[:total_count] > 0 }
+      .select { |x| x[:total_count] >= 2 }
       .sort_by { |x| [-x[:total_count], -x[:nr_count], -x[:champ_count], x[:comp_link]] }
       .first(50)
       .map { |x| [x[:total_count], x[:nr_count], x[:champ_count], x[:comp_link], x[:people_list]] }

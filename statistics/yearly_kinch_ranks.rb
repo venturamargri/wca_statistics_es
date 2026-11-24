@@ -80,7 +80,7 @@ class YearlyKinchRanks < GroupedStatistic
       table = person_scores
         .map { |pid, total| [pid, total / num_events, person_counts[pid]] }
         .sort_by { |pid, kinch, _| [-kinch, person_links[pid]] }
-        .first(20)
+        .first(30)
         .map { |pid, kinch, cnt| [person_links[pid], format("%.2f", kinch), "#{cnt}/#{num_events}"] }
 
       [year.to_s, table]

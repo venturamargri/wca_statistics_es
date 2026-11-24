@@ -76,7 +76,7 @@ class YearlySumOfRanks < GroupedStatistic
           [pid, sor, cnt]
         end
         .sort_by { |pid, sor, cnt| [sor, -cnt, person_links[pid]] }
-        .first(20)
+        .first(30)
         .map { |pid, sor, cnt| [person_links[pid], sor, "#{cnt}/#{active_events.size}"] }
 
       [year.to_s, table]
