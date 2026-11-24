@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class HighestPercentageForeignCompetitions < Statistic
   def initialize
-    @title = "Mayor porcentaje de competiciones fuera de España"
+    @title = "Mayor porcentaje de competiciones en el extranjero"
     @category = :competing
     @note = "Porcentaje de competiciones disputadas fuera de España sobre el total de competiciones oficiales. Mínimo 10 competiciones (se excluyen competiciones multisede internacionales)."
     @table_header = {

@@ -4,7 +4,7 @@ require_relative "../core/solve_time"
 
 class BiggestRounds < GroupedStatistic
   def initialize
-    @title = "Mayores rondas en España"
+    @title = "Mayores rondas"
     @category = :competitions
     @table_header = { "Competidores" => :right, "Competición": :left }
   end

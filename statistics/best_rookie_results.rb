@@ -4,7 +4,7 @@ require_relative "../core/solve_time"
 
 class BestRookieResults < GroupedStatistic
   def initialize
-    @title = "Mejores marcas de rookies españoles"
+    @title = "Mejores marcas de rookies"
     @category = :results
     @note = "Mejores singles y averages logrados por competidores españoles con menos de 366 días transcurridos desde su primera competición oficial (debut absoluto en la WCA). Se muestra la mejor marca rookie de cada persona."
     @table_header = {

@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class MinxTo333 < Statistic
   def initialize
-    @title = "Comparación de resultados de Megaminx frente a 3x3 (España)"
+    @title = "Comparación de resultados de Megaminx frente a 3x3"
     @category = :results
     @table_header = { "Persona" => :left, "Megaminx" => :right, "3x3" => :right, "Proporción" => :right }
     @note = "Compara el mejor average oficial de Megaminx con el de 3x3x3 en competidores españoles."

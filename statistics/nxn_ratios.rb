@@ -3,22 +3,22 @@ require_relative "../core/solve_time"
 
 class NxnRatios < GroupedStatistic
   PAIRS = [
-    ["7x7x7 / 6x6x6", "777", "666"],
-    ["6x6x6 / 5x5x5", "666", "555"],
-    ["5x5x5 / 4x4x4", "555", "444"],
-    ["4x4x4 / 3x3x3", "444", "333"],
-    ["3x3x3 / 2x2x2", "333", "222"]
+    ["7x7x7 / 6x6x6", "777", "666", "7x7x7", "6x6x6"],
+    ["6x6x6 / 5x5x5", "666", "555", "6x6x6", "5x5x5"],
+    ["5x5x5 / 4x4x4", "555", "444", "5x5x5", "4x4x4"],
+    ["4x4x4 / 3x3x3", "444", "333", "4x4x4", "3x3x3"],
+    ["3x3x3 / 2x2x2", "333", "222", "3x3x3", "2x2x2"]
   ].freeze
 
   def initialize
     @title = "Comparación de NxNxN entre cubos consecutivos"
     @category = :results
-    @note = "Menor ratio entre los averages oficiales (PB) de dos cubos NxNxN consecutivos. Es obligatorio tener average oficial en ambas categorías."
+    @note = "Menor proporción entre los averages oficiales (PB) de dos cubos NxNxN consecutivos. Es obligatorio tener average oficial en ambas categorías."
     @table_header = {
-      "Ratio" => :right,
       "Persona" => :left,
-      "Cubo grande (Avg)" => :right,
-      "Cubo pequeño (Avg)" => :right
+      "__BIG__" => :right,
+      "__SMALL__" => :right,
+      "Proporción" => :right
     }
   end
 
@@ -46,7 +46,9 @@ class NxnRatios < GroupedStatistic
       links[pid] = r["person_link"]
     end
 
-    PAIRS.map do |label, big_id, small_id|
+    @rendered_pairs = []
+
+    PAIRS.filter_map do |label, big_id, small_id, big_col, small_col|
       rows = marks.filter_map do |pid, evs|
         big_val = evs[big_id]
         small_val = evs[small_id]
@@ -64,15 +66,25 @@ class NxnRatios < GroupedStatistic
         .first(20)
         .map do |x|
           [
-            format("%.3f", x[:ratio]),
             x[:person_link],
             SolveTime.new(big_id, :average, x[:big_val]).clock_format,
-            SolveTime.new(small_id, :average, x[:small_val]).clock_format
+            SolveTime.new(small_id, :average, x[:small_val]).clock_format,
+            format("%.3f", x[:ratio])
           ]
         end
 
+      next if rows.empty?
+
+      @rendered_pairs << [big_col, small_col]
       [label, rows]
     end
   end
+
+  def markdown
+    md = super
+    (@rendered_pairs || []).each do |big_col, small_col|
+      md = md.sub("__BIG__", big_col).sub("__SMALL__", small_col)
+    end
+    md
+  end
 end
-# v2

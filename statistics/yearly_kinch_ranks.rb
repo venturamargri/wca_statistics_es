@@ -5,13 +5,12 @@ class YearlyKinchRanks < GroupedStatistic
   SINGLE_EVENTS = %w[333bf 444bf 555bf 333mbf].freeze
 
   def initialize
-    @title = "Clasificación Kinch de españoles por año"
+    @title = "Clasificación Kinch por año"
     @category = :results
     @note = "Ranking Kinch calculado anualmente usando únicamente las marcas del formato principal WCA conseguidas en ese año, comparadas frente a la mejor marca española de ese mismo año (sobre las categorías oficiales con resultados españoles en dicho año)."
     @table_header = {
       "Persona" => :left,
-      "Kinch" => :right,
-      "Categorías" => :center
+      "Kinch" => :right
     }
   end
 
@@ -87,4 +86,10 @@ class YearlyKinchRanks < GroupedStatistic
       [year.to_s, table]
     end
   end
+  def data
+    @filtered_data ||= super.map do |group, rows|
+      [group, rows.map { |r| r.each_with_index.reject { |_, i| i == 2 }.map(&:first) }]
+    end
+  end
+
 end

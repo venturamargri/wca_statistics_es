@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class LeastNoShows < Statistic
   def initialize
-    @title = "Competiciones con menos ausencias (no-shows) en España"
+    @title = "Competiciones con menos ausencias (no-shows)"
     @category = :competitions
     @note = "Competiciones en España con registro WCA activo ordenadas por menor número de inscritos aceptados que no llegaron a competir."
     @table_header = { "Competición" => :left, "Inscritos" => :right, "Compitieron" => :right, "Ausencias" => :right }

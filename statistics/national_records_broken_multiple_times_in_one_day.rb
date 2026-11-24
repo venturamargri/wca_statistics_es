@@ -6,7 +6,7 @@ class NationalRecordsBrokenMultipleTimesInOneDay < Statistic
   RESULTS_LIMIT = 5
 
   def initialize
-    @title = "Días en los que un récord nacional de España se batió más de una vez"
+    @title = "Días en los que un récord nacional se batió más de una vez"
     @category = :records
     @note = "Siguiendo el Reglamento 9i2, solo el mejor resultado del día es oficial, pero aquí se listan todos los resultados que igualaron o superaron el récord nacional previo ese día."
     @table_header = { "#" => :right, "Fecha" => :left, "Categoría" => :left, "Tipo" => :left, "NR previo" => :right, "Resultados" => :left }

@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class OhTo333 < Statistic
   def initialize
-    @title = "Comparación de resultados de 3x3 One-Handed frente a 3x3 (España)"
+    @title = "Comparación de resultados de 3x3 One-Handed frente a 3x3"
     @category = :results
     @table_header = { "Persona" => :left, "3x3 OH" => :right, "3x3" => :right, "Proporción" => :right }
     @note = "Compara el mejor average oficial de 3x3x3 One-Handed con el de 3x3x3 en competidores españoles."

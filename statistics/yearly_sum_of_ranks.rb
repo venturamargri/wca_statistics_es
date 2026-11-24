@@ -3,13 +3,12 @@ require_relative "../core/events"
 
 class YearlySumOfRanks < GroupedStatistic
   def initialize
-    @title = "Clasificación Sum of Ranks (SoR) de españoles por año"
+    @title = "Clasificación Sum of Ranks (SoR) por año"
     @category = :results
     @note = "Sum of Ranks anual usando únicamente las marcas del formato principal WCA logradas ese año. En las categorías oficiales vigentes de ese año en las que no se registró marca, se asigna el puesto (total de clasificados españoles ese año + 1)."
     @table_header = {
       "Persona" => :left,
-      "Sum of Ranks" => :right,
-      "Categorías" => :center
+      "Sum of Ranks" => :right
     }
   end
 
@@ -83,4 +82,10 @@ class YearlySumOfRanks < GroupedStatistic
       [year.to_s, table]
     end
   end
+  def data
+    @filtered_data ||= super.map do |group, rows|
+      [group, rows.map { |r| r.each_with_index.reject { |_, i| i == 2 }.map(&:first) }]
+    end
+  end
+
 end

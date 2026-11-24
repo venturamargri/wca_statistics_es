@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class MostMbldNetPoints < Statistic
   def initialize
-    @title = "Más puntos netos acumulados en 3x3x3 Multi-Blind"
+    @title = "Más puntos acumulados en 3x3x3 Multi-Blind"
     @category = :results
     @note = "Suma histórica de los puntos netos (resueltos menos fallados) de todos los intentos válidos oficiales de 3x3x3 Multi-Blind."
     @table_header = {

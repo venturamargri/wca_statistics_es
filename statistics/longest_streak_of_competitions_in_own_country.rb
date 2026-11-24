@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class LongestStreakOfCompetitionsInOwnCountry < Statistic
   def initialize
-    @title = "Racha más larga de competiciones consecutivas en España"
+    @title = "Racha más larga de competiciones consecutivas"
     @category = :competing
     @note = "La racha termina cuando el competidor falta a una competición celebrada en España."
     @table_header = { "Competiciones" => :right, "Persona" => :left, "Inicio" => :left, "Fin" => :left }

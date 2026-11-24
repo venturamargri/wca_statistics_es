@@ -7,9 +7,9 @@ class BestWorstNationalRank < Statistic
   ALL_EVENTS = (AVG_EVENTS + SGL_EVENTS).freeze
 
   def initialize
-    @title = "El suelo del all-rounder (mejor peor ranking nacional)"
+    @title = "Mejor peor ranking nacional"
     @category = :results
-    @note = "Competidores españoles ordenados según su peor posición nacional (NR más alto) entre las 17 categorías actuales (formato principal WCA: average en 13 y single en las 4 a ciegas). En las categorías sin marca oficial se asigna el puesto penalizado (total de españoles clasificados + 1)."
+    @note = "Competidores ordenados según su peor posición nacional (NR más alto) entre las 17 categorías actuales (formato principal WCA: average en 13 y single en las 4 a ciegas). En las categorías sin ranking nacional se asigna el puesto penalizado (total de clasificados + 1)."
     @table_header = {
       "Persona" => :left,
       "Peor ranking" => :right,
@@ -29,6 +29,7 @@ class BestWorstNationalRank < Statistic
       FROM ranks_average ra
       JOIN persons p ON p.wca_id = ra.person_id AND p.sub_id = 1 AND p.country_id = 'Spain'
       WHERE ra.event_id IN (#{avg_list})
+        AND ra.country_rank > 0
 
       UNION ALL
 
@@ -40,6 +41,7 @@ class BestWorstNationalRank < Statistic
       FROM ranks_single rs
       JOIN persons p ON p.wca_id = rs.person_id AND p.sub_id = 1 AND p.country_id = 'Spain'
       WHERE rs.event_id IN (#{sgl_list})
+        AND rs.country_rank > 0
     SQL
   end
 
@@ -95,4 +97,3 @@ class BestWorstNationalRank < Statistic
       .map { |x| [x[:person_link], x[:worst_rank], x[:worst_events]] }
   end
 end
-# v2

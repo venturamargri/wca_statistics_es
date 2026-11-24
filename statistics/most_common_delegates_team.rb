@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class MostCommonDelegatesTeam < Statistic
   def initialize
-    @title = "Equipos de delegados más habituales en España"
+    @title = "Equipos de delegados más habituales"
     @category = :delegating
     @note = "Número de competiciones en España donde coincidió exactamente el mismo equipo de delegados."
     @table_header = { "Competiciones" => :left, "Equipo": :left }

@@ -3,7 +3,7 @@ require_relative "../core/solve_time"
 
 class MbldSecondsPerCube < Statistic
   def initialize
-    @title = "Mejor ritmo en 3x3x3 Multi-Blind (segundos por cubo intentado)"
+    @title = "Mejor ritmo en 3x3x3 Multi-Blind"
     @category = :results
     @note = "Menor tiempo medio por cubo intentado en intentos oficiales válidos de 3x3x3 Multi-Blind con al menos 5 cubos intentados (los DNF no registran tiempo ni cubos en la base de datos). Se muestra el mejor registro de cada persona."
     @table_header = {

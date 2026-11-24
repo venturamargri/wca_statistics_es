@@ -7,9 +7,9 @@ class DebutYearDistribution < GroupedStatistic
   SGL_EVENTS = %w[333bf 444bf 555bf 333mbf].freeze
 
   def initialize
-    @title = "Distribución por año de debut del Top 100 de España"
+    @title = "Distribución por año de debut del Top 100"
     @category = :competing
-    @note = "Año de debut (según el WCA ID) de los 100 mejores competidores españoles vigentes en cada una de las 17 categorías oficiales actuales (usando el formato principal WCA), ordenado de más a menos competidores."
+    @note = "Año de debut (según el WCA ID) de los 100 mejores competidores vigentes en el ranking nacional de cada una de las 17 categorías oficiales actuales (usando el formato principal WCA), ordenado de más a menos competidores."
     @table_header = {
       "Año de debut" => :center,
       "Competidores" => :right,
@@ -30,7 +30,7 @@ class DebutYearDistribution < GroupedStatistic
       FROM ranks_average ra
       JOIN persons p ON p.wca_id = ra.person_id AND p.sub_id = 1 AND p.country_id = 'Spain'
       WHERE ra.event_id IN (#{avg_list})
-        AND ra.country_rank <= 100
+        AND ra.country_rank BETWEEN 1 AND 100
 
       UNION ALL
 
@@ -42,7 +42,7 @@ class DebutYearDistribution < GroupedStatistic
       FROM ranks_single rs
       JOIN persons p ON p.wca_id = rs.person_id AND p.sub_id = 1 AND p.country_id = 'Spain'
       WHERE rs.event_id IN (#{sgl_list})
-        AND rs.country_rank <= 100
+        AND rs.country_rank BETWEEN 1 AND 100
     SQL
   end
 
@@ -73,4 +73,3 @@ class DebutYearDistribution < GroupedStatistic
     end.reject { |_, rows| rows.empty? }
   end
 end
-# v2

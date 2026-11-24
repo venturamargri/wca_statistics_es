@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class FastestFillingCompetitions < Statistic
   def initialize
-    @title = "Competiciones en España que llenaron plazas más rápido"
+    @title = "Competiciones que llenaron plazas más rápido"
     @category = :competitions
     @note = "Tiempo transcurrido desde la apertura oficial de inscripciones hasta alcanzarse el límite de plazas (mínimo 15 plazas, solo competiciones ya celebradas)."
     @table_header = {

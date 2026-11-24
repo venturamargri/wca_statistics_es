@@ -2,15 +2,15 @@ require_relative "../core/statistic"
 
 class BestSpanishNurseryCompetitions < Statistic
   def initialize
-    @title = "La mejor cantera de España"
+    @title = "Competiciones donde debutaron más personas con oros y récords nacionales"
     @category = :competitions
-    @note = "Competiciones celebradas en España donde debutaron más competidores españoles que posteriormente lograron al menos un Récord Nacional (NR) o una medalla de oro oficial."
+    @note = "Competiciones celebradas en España donde debutaron más competidores que posteriormente lograron al menos un Récord Nacional (NR) o una medalla de oro oficial. Si una persona logró tanto oro como NR, cuenta una sola vez en el total."
     @table_header = {
+      "Total" => :right,
       "Futuros NRs" => :right,
       "Futuros oros" => :right,
-      "Debutantes" => :right,
       "Competición" => :left,
-      "Futuros poseedores de NR" => :left
+      "Personas" => :left
     }
   end
 
@@ -76,22 +76,22 @@ class BestSpanishNurseryCompetitions < Statistic
       .group_by { |r| r["comp_id"] }
       .values
       .map do |rows|
-        nrs = rows.select { |r| r["has_nr"].to_i == 1 }
+        nrs = rows.count { |r| r["has_nr"].to_i == 1 }
         golds = rows.count { |r| r["has_gold"].to_i == 1 }
-        nr_list = nrs.sort_by { |r| r["person_name"] }.map { |r| r["person_link"] }.join(", ")
+        featured = rows.select { |r| r["has_nr"].to_i == 1 || r["has_gold"].to_i == 1 }
+        people_list = featured.sort_by { |r| r["person_name"] }.map { |r| r["person_link"] }.join(", ")
 
         {
-          nr_count: nrs.size,
+          total_count: featured.size,
+          nr_count: nrs,
           gold_count: golds,
-          debutants: rows.size,
           comp_link: rows.first["comp_link"],
-          nr_list: nr_list
+          people_list: people_list
         }
       end
-      .select { |x| x[:nr_count] > 0 || x[:gold_count] > 0 }
-      .sort_by { |x| [-x[:nr_count], -x[:gold_count], -x[:debutants], x[:comp_link]] }
+      .select { |x| x[:total_count] > 0 }
+      .sort_by { |x| [-x[:total_count], -x[:nr_count], -x[:gold_count], x[:comp_link]] }
       .first(50)
-      .map { |x| [x[:nr_count], x[:gold_count], x[:debutants], x[:comp_link], x[:nr_list]] }
+      .map { |x| [x[:total_count], x[:nr_count], x[:gold_count], x[:comp_link], x[:people_list]] }
   end
 end
-# v2

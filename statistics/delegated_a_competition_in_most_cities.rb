@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class DelegatedACompetitionInMostCities < Statistic
   def initialize
-    @title = "Delegado en más ciudades de España"
+    @title = "Delegado en más ciudades"
     @category = :delegating
     @note = "Muestra los delegados españoles que han delegado competiciones en más ciudades distintas de España."
     @table_header = { "Nombre" => :left, "Ciudades" => :right }

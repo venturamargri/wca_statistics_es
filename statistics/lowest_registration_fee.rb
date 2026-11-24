@@ -2,7 +2,7 @@ require_relative "../core/grouped_statistic"
 
 class LowestRegistrationFee < GroupedStatistic
   def initialize
-    @title = "Menor cuota de inscripción en competiciones en España"
+    @title = "Menor cuota de inscripción en competiciones"
     @category = :competitions
     @note = "Solo se incluyen competiciones con cuota base en EUR."
     @table_header = { "Cuota" => :right, "Competición" => :left, "Fecha" => :left }

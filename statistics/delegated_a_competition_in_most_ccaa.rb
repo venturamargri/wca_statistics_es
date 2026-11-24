@@ -5,7 +5,7 @@ class DelegatedACompetitionInMostCcaa < Statistic
   include Regions::CCAA
 
   def initialize
-    @title = "Delegado en más comunidades autónomas de España"
+    @title = "Delegado en más comunidades autónomas"
     @category = :delegating
     @note = "Comunidad o ciudad autónoma calculada a partir de las coordenadas de la competición (17 comunidades autónomas y 2 ciudades autónomas). Solo se incluyen delegados españoles y competiciones en España con resultados publicados."
     @table_header = {

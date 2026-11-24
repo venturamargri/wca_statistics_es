@@ -3,20 +3,20 @@ require_relative "../core/solve_time"
 
 class BldScalingRatios < GroupedStatistic
   PAIRS = [
-    ["3x3x3 Blindfolded / 3x3x3", "333bf", "333"],
-    ["4x4x4 Blindfolded / 3x3x3 Blindfolded", "444bf", "333bf"],
-    ["5x5x5 Blindfolded / 4x4x4 Blindfolded", "555bf", "444bf"]
+    ["3x3x3 Blindfolded / 3x3x3", "333bf", "333", "3BLD", "3x3x3"],
+    ["4x4x4 Blindfolded / 3x3x3 Blindfolded", "444bf", "333bf", "4BLD", "3BLD"],
+    ["5x5x5 Blindfolded / 4x4x4 Blindfolded", "555bf", "444bf", "5BLD", "4BLD"]
   ].freeze
 
   def initialize
-    @title = "Escalado a ciegas (ratios en single)"
+    @title = "Comparación de blind entre cubos consecutivos"
     @category = :results
-    @note = "Menor ratio entre los singles oficiales (PB) de categorías a ciegas consecutivas (y 3BLD frente a 3x3). Es obligatorio tener single oficial en ambas categorías."
+    @note = "Menor proporción entre los singles oficiales (PB) de categorías a ciegas consecutivas (y 3BLD frente a 3x3x3). Es obligatorio tener single oficial en ambas categorías."
     @table_header = {
-      "Ratio" => :right,
       "Persona" => :left,
-      "Categoría superior (Single)" => :right,
-      "Categoría base (Single)" => :right
+      "__TOP__" => :right,
+      "__BASE__" => :right,
+      "Proporción" => :right
     }
   end
 
@@ -44,7 +44,9 @@ class BldScalingRatios < GroupedStatistic
       links[pid] = r["person_link"]
     end
 
-    PAIRS.map do |label, top_id, base_id|
+    @rendered_pairs = []
+
+    PAIRS.filter_map do |label, top_id, base_id, top_col, base_col|
       rows = marks.filter_map do |pid, evs|
         top_val = evs[top_id]
         base_val = evs[base_id]
@@ -62,15 +64,25 @@ class BldScalingRatios < GroupedStatistic
         .first(20)
         .map do |x|
           [
-            format("%.3f", x[:ratio]),
             x[:person_link],
             SolveTime.new(top_id, :single, x[:top_val]).clock_format,
-            SolveTime.new(base_id, :single, x[:base_val]).clock_format
+            SolveTime.new(base_id, :single, x[:base_val]).clock_format,
+            format("%.3f", x[:ratio])
           ]
         end
 
+      next if rows.empty?
+
+      @rendered_pairs << [top_col, base_col]
       [label, rows]
     end
   end
+
+  def markdown
+    md = super
+    (@rendered_pairs || []).each do |top_col, base_col|
+      md = md.sub("__TOP__", top_col).sub("__BASE__", base_col)
+    end
+    md
+  end
 end
-# v2

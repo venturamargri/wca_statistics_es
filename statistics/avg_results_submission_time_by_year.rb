@@ -2,7 +2,7 @@ require_relative "../core/grouped_statistic"
 
 class AvgResultsSubmissionTimeByYear < GroupedStatistic
   def initialize
-    @title = "Tiempo medio de envío de resultados por delegados españoles cada año"
+    @title = "Tiempo medio de envío de resultados por delegados cada año"
     @category = :delegating
     @table_header = { "Delegado" => :right, "Tiempo medio" => :left, "Total delegadas" => :right }
   end

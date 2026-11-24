@@ -3,7 +3,7 @@ require_relative "../core/solve_time"
 
 class WorldAndEuropeanRecords < GroupedStatistic
   def initialize
-    @title = "Récords mundiales y europeos batidos por españoles"
+    @title = "Récords mundiales y europeos batidos"
     @category = :records
     @note = "Se incluyen todos los récords históricos. Los récords que fueron WR en su momento aparecen solo en la tabla de récords mundiales."
     @table_header = { "Fecha" => :left, "Categoría" => :left, "Tipo" => :left, "Resultado" => :right, "Persona" => :left, "Competición" => :left }

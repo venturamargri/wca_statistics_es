@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class PureOrganizers < Statistic
   def initialize
-    @title = "Organizadores puros (sin competir)"
+    @title = "Más competiciones organizadas sin competir"
     @category = :competitions
     @note = "Competidores españoles que figuran como organizadores de competiciones ya celebradas en las que no registraron ningún resultado propio."
     @table_header = {

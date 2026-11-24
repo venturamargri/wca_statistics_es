@@ -2,7 +2,7 @@ require_relative "../core/grouped_statistic"
 
 class AlmostTherePodiums < GroupedStatistic
   def initialize
-    @title = "Eternos aspirantes (platas y bronces sin oro, y cuartos puestos sin podio)"
+    @title = "Más podios sin ganar y cuartos puestos sin podio"
     @category = :podiums
     @note = "Competidores españoles con más medallas de plata o bronce sin haber ganado todavía ningún oro, y con más cuartos puestos en finales sin haber pisado nunca el podio."
     @table_header = {

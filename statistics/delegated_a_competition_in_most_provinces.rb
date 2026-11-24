@@ -5,7 +5,7 @@ class DelegatedACompetitionInMostProvinces < Statistic
   include Regions::Provinces
 
   def initialize
-    @title = "Delegado en más provincias de España"
+    @title = "Delegado en más provincias"
     @category = :delegating
     @note = "Provincia o ciudad autónoma calculada a partir de las coordenadas de la competición (50 provincias y 2 ciudades autónomas). Solo se incluyen delegados españoles y competiciones en España con resultados publicados."
     @table_header = {
