@@ -1,6 +1,6 @@
 Todas las estadísticas están calculadas únicamente para competidores que representan a España o competiciones celebradas en España.
 
-[Resultados](#results) (39) · [Récords](#records) (14) · [Podios y medallas](#podiums) (27) · [Hitos](#milestones) (6) · [Participación](#competing) (32) · [Viajes](#travel) (10) · [Delegados](#delegating) (23) · [Organización](#organizing) (5) · [Competiciones](#competitions) (22)
+[Resultados](#results) (39) · [Récords](#records) (14) · [Podios y medallas](#podiums) (28) · [Hitos](#milestones) (6) · [Participación](#competing) (34) · [Viajes](#travel) (10) · [Delegados](#delegating) (23) · [Organización](#organizing) (5) · [Competiciones](#competitions) (24)
 
 ## Resultados {#results}
 
@@ -84,6 +84,7 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Peor resultado que logró podio por año en competiciones en España](yearly_worst_result_on_podium)
 - [Peor resultado que logró victoria](worst_winning_result)
 - [Peor resultado que logró victoria por año en competiciones en España](yearly_worst_winning_result)
+- [Podios con múltiples mujeres](podiums_with_multiple_women)
 - [Podios en el Campeonato de España por persona](spanish_championship_podiums_by_person)
 - [Podios en el Campeonato del Mundo por persona](world_championship_podiums_by_person)
 - [Proporción de medallas por competición](medals_competitions_ratio)
@@ -130,6 +131,8 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Más fechas distintas del año en las que se ha competido](most_distinct_dates_competed_on)
 - [Más personas distintas conocidas en competiciones](most_unique_people_met_at_competitions)
 - [Más semanas consecutivas compitiendo](competed_in_most_consecutive_weeks)
+- [Participación femenina en organización y delegación](female_organizers_and_delegates)
+- [Porcentaje de nuevas debutantes por año](female_debutants_over_time)
 - [Racha más larga asistiendo a todas las competiciones de una ciudad](longest_streak_of_all_competitions_in_same_city)
 - [Racha más larga asistiendo a todas las competiciones de una comunidad autónoma](longest_streak_of_all_competitions_in_same_ccaa)
 - [Racha más larga asistiendo a todas las competiciones de una provincia](longest_streak_of_all_competitions_in_same_province)
@@ -185,6 +188,7 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 ## Competiciones {#competitions}
 
 - [Ciudades con más competiciones cada año](cities_with_most_competitions_by_year)
+- [Competiciones con mayor porcentaje de participación femenina](competitions_highest_female_percentage)
 - [Competiciones con menos ausencias (no-shows)](least_no_shows)
 - [Competiciones con menos competidores](fewest_competitors_contest)
 - [Competiciones donde debutaron más campeones de España y récords nacionales](best_spanish_nursery_competitions)
@@ -205,6 +209,7 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Más favoritos (bookmarks) respecto al límite de competidores](most_bookmarks)
 - [Más rondas celebradas en una competición](most_rounds_at_competition)
 - [Número de competiciones por semana](competitions_count_by_week)
+- [Porcentaje de participación femenina a través del tiempo](female_participation_over_time)
 - [Provincias con más competiciones cada año](provinces_with_most_competitions_by_year)
 
 
