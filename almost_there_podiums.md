@@ -1,4 +1,4 @@
-## Eternos aspirantes (platas y bronces sin oro, y cuartos puestos sin podio)
+## Más podios sin ganar y cuartos puestos sin podio
 
 *Nota: Competidores españoles con más medallas de plata o bronce sin haber ganado todavía ningún oro, y con más cuartos puestos en finales sin haber pisado nunca el podio.*
 *Actualizado el 22 de noviembre de 2026*

@@ -1,4 +1,4 @@
-## Media de competiciones previas de los delegados en España según número de delegados
+## Media de competiciones previas de los delegados según número de delegados
 
 *Nota: Agrupa las competiciones según el número de delegados asignados y muestra aquellas con mayor media de competiciones disputadas por sus delegados hasta esa fecha.*
 *Actualizado el 22 de noviembre de 2026*

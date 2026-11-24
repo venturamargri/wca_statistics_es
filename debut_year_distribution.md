@@ -1,6 +1,6 @@
-## Distribución por año de debut del Top 100 de España
+## Distribución por año de debut del Top 100
 
-*Nota: Año de debut (según el WCA ID) de los 100 mejores competidores españoles vigentes en cada una de las 17 categorías oficiales actuales (usando el formato principal WCA), ordenado de más a menos competidores.*
+*Nota: Año de debut (según el WCA ID) de los 100 mejores competidores vigentes en el ranking nacional de cada una de las 17 categorías oficiales actuales (usando el formato principal WCA), ordenado de más a menos competidores.*
 *Actualizado el 22 de noviembre de 2026*
 
 
@@ -8,18 +8,18 @@
 
 | Año de debut | Competidores | % | Mejor clasificado |
 | :--: | ---: | ---: | :--- |
-| 2023 | 17 | 16.7% | #0 [Christian Daniel Avila Mendez](https://www.worldcubeassociation.org/persons/2023MEND45) |
-| 2022 | 14 | 13.7% | #0 [Nicolas Ucieda](https://www.worldcubeassociation.org/persons/2022UCIE01) |
-| 2016 | 13 | 12.7% | #3 [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
-| 2024 | 10 | 9.8% | #22 [Mikel Manterola Zarraga](https://www.worldcubeassociation.org/persons/2024ZARR01) |
-| 2015 | 8 | 7.8% | #2 [Biel Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ08) |
-| 2018 | 7 | 6.9% | #19 [Álvaro González Vizuete](https://www.worldcubeassociation.org/persons/2018VIZU01) |
-| 2017 | 6 | 5.9% | #1 [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
-| 2025 | 5 | 4.9% | #24 [Gael Galeote Flores](https://www.worldcubeassociation.org/persons/2025FLOR26) |
-| 2014 | 5 | 4.9% | #18 [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
-| 2019 | 4 | 3.9% | #49 [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) |
-| 2013 | 3 | 2.9% | #43 [Borja Perez](https://www.worldcubeassociation.org/persons/2013PERE05) |
-| 2010 | 3 | 2.9% | #6 [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
+| 2023 | 16 | 16.0% | #11 [Alec Stromberg](https://www.worldcubeassociation.org/persons/2023STRO13) |
+| 2022 | 13 | 13.0% | #4 [Marisa Revaliente Ruiz](https://www.worldcubeassociation.org/persons/2022RUIZ02) |
+| 2016 | 13 | 13.0% | #3 [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
+| 2024 | 10 | 10.0% | #22 [Mikel Manterola Zarraga](https://www.worldcubeassociation.org/persons/2024ZARR01) |
+| 2015 | 8 | 8.0% | #2 [Biel Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ08) |
+| 2018 | 7 | 7.0% | #19 [Álvaro González Vizuete](https://www.worldcubeassociation.org/persons/2018VIZU01) |
+| 2017 | 6 | 6.0% | #1 [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
+| 2025 | 5 | 5.0% | #24 [Gael Galeote Flores](https://www.worldcubeassociation.org/persons/2025FLOR26) |
+| 2014 | 5 | 5.0% | #18 [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
+| 2019 | 4 | 4.0% | #49 [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) |
+| 2013 | 3 | 3.0% | #43 [Borja Perez](https://www.worldcubeassociation.org/persons/2013PERE05) |
+| 2010 | 3 | 3.0% | #6 [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 2012 | 2 | 2.0% | #15 [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) |
 | 2011 | 2 | 2.0% | #9 [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) |
 | 2021 | 1 | 1.0% | #50 [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) |
@@ -30,16 +30,16 @@
 
 | Año de debut | Competidores | % | Mejor clasificado |
 | :--: | ---: | ---: | :--- |
-| 2023 | 29 | 27.9% | #0 [Christian Daniel Avila Mendez](https://www.worldcubeassociation.org/persons/2023MEND45) |
-| 2022 | 15 | 14.4% | #0 [Nicolas Ucieda](https://www.worldcubeassociation.org/persons/2022UCIE01) |
-| 2024 | 11 | 10.6% | #23 [José Ángel Morales Gómez](https://www.worldcubeassociation.org/persons/2024GOME54) |
-| 2016 | 10 | 9.6% | #11 [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
-| 2018 | 8 | 7.7% | #3 [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) |
-| 2017 | 8 | 7.7% | #25 [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
-| 2015 | 6 | 5.8% | #4 [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
-| 2011 | 4 | 3.8% | #34 [Daniel Cofreces Jaureguizar](https://www.worldcubeassociation.org/persons/2011COFR01) |
-| 2014 | 3 | 2.9% | #7 [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
-| 2012 | 2 | 1.9% | #22 [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
+| 2023 | 27 | 26.7% | #1 [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) |
+| 2022 | 14 | 13.9% | #5 [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) |
+| 2024 | 11 | 10.9% | #23 [José Ángel Morales Gómez](https://www.worldcubeassociation.org/persons/2024GOME54) |
+| 2016 | 10 | 9.9% | #11 [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
+| 2018 | 8 | 7.9% | #3 [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) |
+| 2017 | 8 | 7.9% | #25 [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
+| 2015 | 6 | 5.9% | #4 [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
+| 2011 | 4 | 4.0% | #34 [Daniel Cofreces Jaureguizar](https://www.worldcubeassociation.org/persons/2011COFR01) |
+| 2014 | 3 | 3.0% | #7 [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
+| 2012 | 2 | 2.0% | #22 [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 2025 | 1 | 1.0% | #99 [Gael Galeote Flores](https://www.worldcubeassociation.org/persons/2025FLOR26) |
 | 2021 | 1 | 1.0% | #2 [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) |
 | 2020 | 1 | 1.0% | #65 [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) |
@@ -53,13 +53,13 @@
 
 | Año de debut | Competidores | % | Mejor clasificado |
 | :--: | ---: | ---: | :--- |
-| 2023 | 16 | 15.8% | #0 [Christian Daniel Avila Mendez](https://www.worldcubeassociation.org/persons/2023MEND45) |
-| 2016 | 14 | 13.9% | #15 [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
-| 2017 | 12 | 11.9% | #8 [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
-| 2022 | 11 | 10.9% | #11 [Óscar Pérez Mengual](https://www.worldcubeassociation.org/persons/2022MENG02) |
-| 2015 | 7 | 6.9% | #2 [Biel Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ08) |
-| 2024 | 6 | 5.9% | #35 [Mario Clemente Serrano](https://www.worldcubeassociation.org/persons/2024SERR09) |
-| 2018 | 6 | 5.9% | #32 [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 2023 | 15 | 15.0% | #4 [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
+| 2016 | 14 | 14.0% | #15 [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
+| 2017 | 12 | 12.0% | #8 [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
+| 2022 | 11 | 11.0% | #11 [Óscar Pérez Mengual](https://www.worldcubeassociation.org/persons/2022MENG02) |
+| 2015 | 7 | 7.0% | #2 [Biel Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ08) |
+| 2024 | 6 | 6.0% | #35 [Mario Clemente Serrano](https://www.worldcubeassociation.org/persons/2024SERR09) |
+| 2018 | 6 | 6.0% | #32 [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 2011 | 5 | 5.0% | #3 [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) |
 | 2019 | 4 | 4.0% | #6 [Pedro Sanz Rodriguez](https://www.worldcubeassociation.org/persons/2019RODR39) |
 | 2014 | 4 | 4.0% | #9 [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
@@ -146,16 +146,16 @@
 
 | Año de debut | Competidores | % | Mejor clasificado |
 | :--: | ---: | ---: | :--- |
-| 2022 | 13 | 13.0% | #3 [Alejandro Jiménez Hernández](https://www.worldcubeassociation.org/persons/2022HERN16) |
-| 2023 | 11 | 11.0% | #0 [Christian Daniel Avila Mendez](https://www.worldcubeassociation.org/persons/2023MEND45) |
-| 2016 | 9 | 9.0% | #1 [Iker Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2016RUIZ05) |
-| 2018 | 8 | 8.0% | #4 [Jorge Rodón Leiva](https://www.worldcubeassociation.org/persons/2018LEIV03) |
-| 2014 | 8 | 8.0% | #2 [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) |
-| 2013 | 6 | 6.0% | #37 [Victor Sanchez Redondo](https://www.worldcubeassociation.org/persons/2013REDO01) |
-| 2010 | 6 | 6.0% | #10 [Lucas Benito Rolando](https://www.worldcubeassociation.org/persons/2010BENI02) |
-| 2024 | 5 | 5.0% | #25 [Vidal Perea Cívico](https://www.worldcubeassociation.org/persons/2024CIVI01) |
-| 2015 | 5 | 5.0% | #6 [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
-| 2008 | 5 | 5.0% | #16 [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
+| 2022 | 13 | 13.1% | #3 [Alejandro Jiménez Hernández](https://www.worldcubeassociation.org/persons/2022HERN16) |
+| 2023 | 10 | 10.1% | #7 [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
+| 2016 | 9 | 9.1% | #1 [Iker Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2016RUIZ05) |
+| 2018 | 8 | 8.1% | #4 [Jorge Rodón Leiva](https://www.worldcubeassociation.org/persons/2018LEIV03) |
+| 2014 | 8 | 8.1% | #2 [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) |
+| 2013 | 6 | 6.1% | #37 [Victor Sanchez Redondo](https://www.worldcubeassociation.org/persons/2013REDO01) |
+| 2010 | 6 | 6.1% | #10 [Lucas Benito Rolando](https://www.worldcubeassociation.org/persons/2010BENI02) |
+| 2024 | 5 | 5.1% | #25 [Vidal Perea Cívico](https://www.worldcubeassociation.org/persons/2024CIVI01) |
+| 2015 | 5 | 5.1% | #6 [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
+| 2008 | 5 | 5.1% | #16 [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 2017 | 4 | 4.0% | #54 [Iago González Carballo](https://www.worldcubeassociation.org/persons/2017CARB01) |
 | 2011 | 4 | 4.0% | #24 [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) |
 | 2009 | 4 | 4.0% | #11 [Asier Cardoso Sánchez](https://www.worldcubeassociation.org/persons/2009SANC06) |
@@ -194,14 +194,14 @@
 
 | Año de debut | Competidores | % | Mejor clasificado |
 | :--: | ---: | ---: | :--- |
-| 2023 | 18 | 17.8% | #0 [Christian Daniel Avila Mendez](https://www.worldcubeassociation.org/persons/2023MEND45) |
-| 2016 | 14 | 13.9% | #5 [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
-| 2022 | 12 | 11.9% | #36 [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
-| 2018 | 8 | 7.9% | #2 [Álvaro González Vizuete](https://www.worldcubeassociation.org/persons/2018VIZU01) |
-| 2015 | 7 | 6.9% | #3 [Biel Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ08) |
-| 2024 | 6 | 5.9% | #1 [Mikel Manterola Zarraga](https://www.worldcubeassociation.org/persons/2024ZARR01) |
-| 2017 | 6 | 5.9% | #11 [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
-| 2014 | 6 | 5.9% | #16 [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
+| 2023 | 17 | 17.0% | #6 [Marcos Juan López Barberá](https://www.worldcubeassociation.org/persons/2023BARB18) |
+| 2016 | 14 | 14.0% | #5 [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
+| 2022 | 12 | 12.0% | #36 [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
+| 2018 | 8 | 8.0% | #2 [Álvaro González Vizuete](https://www.worldcubeassociation.org/persons/2018VIZU01) |
+| 2015 | 7 | 7.0% | #3 [Biel Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ08) |
+| 2024 | 6 | 6.0% | #1 [Mikel Manterola Zarraga](https://www.worldcubeassociation.org/persons/2024ZARR01) |
+| 2017 | 6 | 6.0% | #11 [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
+| 2014 | 6 | 6.0% | #16 [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
 | 2011 | 5 | 5.0% | #14 [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) |
 | 2013 | 4 | 4.0% | #10 [Borja Perez](https://www.worldcubeassociation.org/persons/2013PERE05) |
 | 2025 | 3 | 3.0% | #12 [Gael Galeote Flores](https://www.worldcubeassociation.org/persons/2025FLOR26) |
@@ -261,13 +261,13 @@
 
 | Año de debut | Competidores | % | Mejor clasificado |
 | :--: | ---: | ---: | :--- |
-| 2023 | 27 | 26.7% | #0 [Christian Daniel Avila Mendez](https://www.worldcubeassociation.org/persons/2023MEND45) |
-| 2022 | 14 | 13.9% | #1 [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) |
-| 2016 | 10 | 9.9% | #3 [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
-| 2024 | 9 | 8.9% | #9 [Darío Ramírez Pino](https://www.worldcubeassociation.org/persons/2024PINO01) |
-| 2018 | 7 | 6.9% | #9 [Héctor Haro Guerrero](https://www.worldcubeassociation.org/persons/2018GUER09) |
-| 2017 | 7 | 6.9% | #25 [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
-| 2015 | 7 | 6.9% | #18 [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
+| 2023 | 26 | 26.0% | #3 [Asier Prieto Manzarraga](https://www.worldcubeassociation.org/persons/2023MANZ03) |
+| 2022 | 14 | 14.0% | #1 [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) |
+| 2016 | 10 | 10.0% | #3 [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
+| 2024 | 9 | 9.0% | #9 [Darío Ramírez Pino](https://www.worldcubeassociation.org/persons/2024PINO01) |
+| 2018 | 7 | 7.0% | #9 [Héctor Haro Guerrero](https://www.worldcubeassociation.org/persons/2018GUER09) |
+| 2017 | 7 | 7.0% | #25 [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
+| 2015 | 7 | 7.0% | #18 [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 2025 | 3 | 3.0% | #57 [David Berenjeno Gonzalez](https://www.worldcubeassociation.org/persons/2025GONZ01) |
 | 2014 | 3 | 3.0% | #62 [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
 | 2020 | 2 | 2.0% | #45 [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) |
@@ -284,13 +284,13 @@
 
 | Año de debut | Competidores | % | Mejor clasificado |
 | :--: | ---: | ---: | :--- |
-| 2023 | 20 | 19.8% | #0 [Christian Daniel Avila Mendez](https://www.worldcubeassociation.org/persons/2023MEND45) |
-| 2022 | 15 | 14.9% | #31 [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
-| 2017 | 12 | 11.9% | #6 [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
-| 2016 | 12 | 11.9% | #8 [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) |
-| 2024 | 10 | 9.9% | #13 [Santiago Arias Ferreiro](https://www.worldcubeassociation.org/persons/2024FERR09) |
-| 2015 | 9 | 8.9% | #4 [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
-| 2014 | 6 | 5.9% | #5 [Julio Perugorria Lorente](https://www.worldcubeassociation.org/persons/2014LORE02) |
+| 2023 | 19 | 19.0% | #1 [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
+| 2022 | 15 | 15.0% | #31 [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
+| 2017 | 12 | 12.0% | #6 [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
+| 2016 | 12 | 12.0% | #8 [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) |
+| 2024 | 10 | 10.0% | #13 [Santiago Arias Ferreiro](https://www.worldcubeassociation.org/persons/2024FERR09) |
+| 2015 | 9 | 9.0% | #4 [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
+| 2014 | 6 | 6.0% | #5 [Julio Perugorria Lorente](https://www.worldcubeassociation.org/persons/2014LORE02) |
 | 2019 | 4 | 4.0% | #59 [Alejandro Martín López](https://www.worldcubeassociation.org/persons/2019LOPE30) |
 | 2018 | 4 | 4.0% | #3 [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
 | 2021 | 2 | 2.0% | #12 [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) |
@@ -327,19 +327,19 @@
 
 | Año de debut | Competidores | % | Mejor clasificado |
 | :--: | ---: | ---: | :--- |
-| 2023 | 8 | 14.0% | #0 [Christian Daniel Avila Mendez](https://www.worldcubeassociation.org/persons/2023MEND45) |
-| 2022 | 8 | 14.0% | #9 [Muxi Yan](https://www.worldcubeassociation.org/persons/2022YANM02) |
-| 2018 | 6 | 10.5% | #7 [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
-| 2015 | 5 | 8.8% | #5 [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
-| 2014 | 5 | 8.8% | #1 [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) |
-| 2013 | 4 | 7.0% | #20 [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) |
-| 2012 | 4 | 7.0% | #17 [Javier Hernandez Requena](https://www.worldcubeassociation.org/persons/2012REQU01) |
-| 2009 | 4 | 7.0% | #14 [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
-| 2008 | 3 | 5.3% | #12 [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
-| 2024 | 2 | 3.5% | #10 [Vidal Perea Cívico](https://www.worldcubeassociation.org/persons/2024CIVI01) |
-| 2019 | 2 | 3.5% | #49 [Aurelio Sanchez Jimenez](https://www.worldcubeassociation.org/persons/2019JIME10) |
-| 2016 | 2 | 3.5% | #3 [Iker Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2016RUIZ05) |
-| 2010 | 2 | 3.5% | #40 [Gonzalo Orellana Barrasa](https://www.worldcubeassociation.org/persons/2010OREL02) |
+| 2022 | 8 | 14.3% | #9 [Muxi Yan](https://www.worldcubeassociation.org/persons/2022YANM02) |
+| 2023 | 7 | 12.5% | #2 [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
+| 2018 | 6 | 10.7% | #7 [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 2015 | 5 | 8.9% | #5 [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
+| 2014 | 5 | 8.9% | #1 [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) |
+| 2013 | 4 | 7.1% | #20 [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) |
+| 2012 | 4 | 7.1% | #17 [Javier Hernandez Requena](https://www.worldcubeassociation.org/persons/2012REQU01) |
+| 2009 | 4 | 7.1% | #14 [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
+| 2008 | 3 | 5.4% | #12 [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
+| 2024 | 2 | 3.6% | #10 [Vidal Perea Cívico](https://www.worldcubeassociation.org/persons/2024CIVI01) |
+| 2019 | 2 | 3.6% | #49 [Aurelio Sanchez Jimenez](https://www.worldcubeassociation.org/persons/2019JIME10) |
+| 2016 | 2 | 3.6% | #3 [Iker Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2016RUIZ05) |
+| 2010 | 2 | 3.6% | #40 [Gonzalo Orellana Barrasa](https://www.worldcubeassociation.org/persons/2010OREL02) |
 | 2025 | 1 | 1.8% | #35 [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 2011 | 1 | 1.8% | #37 [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
 
@@ -363,15 +363,15 @@
 
 | Año de debut | Competidores | % | Mejor clasificado |
 | :--: | ---: | ---: | :--- |
-| 2023 | 13 | 13.0% | #0 [Christian Daniel Avila Mendez](https://www.worldcubeassociation.org/persons/2023MEND45) |
-| 2022 | 9 | 9.0% | #18 [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) |
-| 2010 | 9 | 9.0% | #16 [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
-| 2018 | 8 | 8.0% | #7 [Laura Freitas Martín](https://www.worldcubeassociation.org/persons/2018MART18) |
-| 2015 | 8 | 8.0% | #5 [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
-| 2014 | 8 | 8.0% | #2 [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) |
-| 2013 | 8 | 8.0% | #10 [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) |
-| 2016 | 6 | 6.0% | #1 [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
-| 2012 | 5 | 5.0% | #6 [Blai Solernou Lòpez](https://www.worldcubeassociation.org/persons/2012LAPE01) |
+| 2023 | 12 | 12.1% | #3 [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
+| 2022 | 9 | 9.1% | #18 [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) |
+| 2010 | 9 | 9.1% | #16 [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
+| 2018 | 8 | 8.1% | #7 [Laura Freitas Martín](https://www.worldcubeassociation.org/persons/2018MART18) |
+| 2015 | 8 | 8.1% | #5 [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
+| 2014 | 8 | 8.1% | #2 [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) |
+| 2013 | 8 | 8.1% | #10 [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) |
+| 2016 | 6 | 6.1% | #1 [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
+| 2012 | 5 | 5.1% | #6 [Blai Solernou Lòpez](https://www.worldcubeassociation.org/persons/2012LAPE01) |
 | 2017 | 4 | 4.0% | #20 [Iago González Carballo](https://www.worldcubeassociation.org/persons/2017CARB01) |
 | 2009 | 4 | 4.0% | #14 [Asier Cardoso Sánchez](https://www.worldcubeassociation.org/persons/2009SANC06) |
 | 2008 | 4 | 4.0% | #15 [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |

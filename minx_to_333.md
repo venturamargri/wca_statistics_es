@@ -1,4 +1,4 @@
-## Comparación de resultados de Megaminx frente a 3x3 (España)
+## Comparación de resultados de Megaminx frente a 3x3
 
 *Nota: Compara el mejor average oficial de Megaminx con el de 3x3x3 en competidores españoles.*
 *Actualizado el 22 de noviembre de 2026*

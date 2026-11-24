@@ -1,4 +1,4 @@
-## Mayores rondas en España
+## Mayores rondas
 
 *Actualizado el 22 de noviembre de 2026*
 

@@ -1,4 +1,4 @@
-## Organizadores puros (sin competir)
+## Más competiciones organizadas sin competir
 
 *Nota: Competidores españoles que figuran como organizadores de competiciones ya celebradas en las que no registraron ningún resultado propio.*
 *Actualizado el 22 de noviembre de 2026*

@@ -1,4 +1,4 @@
-## Mayores competiciones en España
+## Mayores competiciones
 
 *Nota: Se cuenta a todo competidor con al menos un resultado, independientemente de su nacionalidad.*
 *Actualizado el 22 de noviembre de 2026*

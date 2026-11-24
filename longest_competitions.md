@@ -1,4 +1,4 @@
-## Competiciones más largas en España
+## Competiciones más largas
 
 *Actualizado el 22 de noviembre de 2026*
 

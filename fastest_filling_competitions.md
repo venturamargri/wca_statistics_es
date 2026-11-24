@@ -1,4 +1,4 @@
-## Competiciones en España que llenaron plazas más rápido
+## Competiciones que llenaron plazas más rápido
 
 *Nota: Tiempo transcurrido desde la apertura oficial de inscripciones hasta alcanzarse el límite de plazas (mínimo 15 plazas, solo competiciones ya celebradas).*
 *Actualizado el 22 de noviembre de 2026*

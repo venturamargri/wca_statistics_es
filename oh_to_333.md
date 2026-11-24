@@ -1,4 +1,4 @@
-## Comparación de resultados de 3x3 One-Handed frente a 3x3 (España)
+## Comparación de resultados de 3x3 One-Handed frente a 3x3
 
 *Nota: Compara el mejor average oficial de 3x3x3 One-Handed con el de 3x3x3 en competidores españoles.*
 *Actualizado el 22 de noviembre de 2026*

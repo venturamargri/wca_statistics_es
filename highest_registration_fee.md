@@ -1,4 +1,4 @@
-## Mayor cuota de inscripción en competiciones en España
+## Mayor cuota de inscripción en competiciones
 
 *Nota: Solo se incluyen competiciones con cuota base en EUR.*
 *Actualizado el 22 de noviembre de 2026*

@@ -1,4 +1,4 @@
-## Tiempo medio de envío de resultados por delegados españoles
+## Tiempo medio de envío de resultados por delegados
 
 *Actualizado el 22 de noviembre de 2026*
 

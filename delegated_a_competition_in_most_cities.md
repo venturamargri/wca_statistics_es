@@ -1,4 +1,4 @@
-## Delegado en más ciudades de España
+## Delegado en más ciudades
 
 *Nota: Muestra los delegados españoles que han delegado competiciones en más ciudades distintas de España.*
 *Actualizado el 22 de noviembre de 2026*

@@ -1,4 +1,4 @@
-## Proporción de competiciones delegadas respecto a asistidas por año (España)
+## Proporción de competiciones delegadas respecto a asistidas por año
 
 *Actualizado el 22 de noviembre de 2026*
 

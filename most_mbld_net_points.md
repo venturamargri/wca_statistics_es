@@ -1,4 +1,4 @@
-## Más puntos netos acumulados en 3x3x3 Multi-Blind
+## Más puntos acumulados en 3x3x3 Multi-Blind
 
 *Nota: Suma histórica de los puntos netos (resueltos menos fallados) de todos los intentos válidos oficiales de 3x3x3 Multi-Blind.*
 *Actualizado el 22 de noviembre de 2026*
