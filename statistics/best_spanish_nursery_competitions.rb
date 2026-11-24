@@ -2,13 +2,13 @@ require_relative "../core/statistic"
 
 class BestSpanishNurseryCompetitions < Statistic
   def initialize
-    @title = "Competiciones donde debutaron más personas con oros y récords nacionales"
+    @title = "Competiciones donde debutaron más campeones de España y récords nacionales"
     @category = :competitions
-    @note = "Competiciones celebradas en España donde debutaron más competidores que posteriormente lograron al menos un Récord Nacional (NR) o una medalla de oro oficial. Si una persona logró tanto oro como NR, cuenta una sola vez en el total."
+    @note = "Competiciones celebradas en España donde debutaron más competidores que han logrado al menos un Récord Nacional (NR) o un título de campeón de España (mejor español clasificado con marca válida en la final de un Campeonato de España). Si una persona cumple ambos criterios, cuenta una sola vez en el total."
     @table_header = {
       "Total" => :right,
       "Futuros NRs" => :right,
-      "Futuros oros" => :right,
+      "Campeones de España" => :right,
       "Competición" => :left,
       "Personas" => :left
     }
@@ -49,12 +49,20 @@ class BestSpanishNurseryCompetitions < Statistic
             OR (regional_average_record IS NOT NULL AND regional_average_record != '')
           )
       ),
-      gold_holders AS (
-        SELECT DISTINCT r.person_id
+      es_champ_finals AS (
+        SELECT
+          r.person_id,
+          RANK() OVER (PARTITION BY r.competition_id, r.event_id ORDER BY r.pos ASC) AS es_rank
         FROM results r
         JOIN round_types rt ON rt.id = r.round_type_id AND rt.final = 1
-        JOIN spanish_persons sp ON sp.wca_id = r.person_id
-        WHERE r.pos = 1 AND r.best > 0
+        JOIN championships ch ON ch.competition_id = r.competition_id AND ch.championship_type = 'ES'
+        WHERE r.country_id = 'Spain'
+          AND r.best > 0
+      ),
+      es_champions AS (
+        SELECT DISTINCT person_id
+        FROM es_champ_finals
+        WHERE es_rank = 1
       )
       SELECT
         c.id AS comp_id,
@@ -62,12 +70,12 @@ class BestSpanishNurseryCompetitions < Statistic
         sp.name AS person_name,
         CONCAT('[', sp.name, '](https://www.worldcubeassociation.org/persons/', sp.wca_id, ')') AS person_link,
         CASE WHEN nh.person_id IS NOT NULL THEN 1 ELSE 0 END AS has_nr,
-        CASE WHEN gh.person_id IS NOT NULL THEN 1 ELSE 0 END AS has_gold
+        CASE WHEN ec.person_id IS NOT NULL THEN 1 ELSE 0 END AS has_champ
       FROM debuts_in_spain d
       JOIN competitions c ON c.id = d.competition_id
       JOIN spanish_persons sp ON sp.wca_id = d.person_id
       LEFT JOIN nr_holders nh ON nh.person_id = d.person_id
-      LEFT JOIN gold_holders gh ON gh.person_id = d.person_id
+      LEFT JOIN es_champions ec ON ec.person_id = d.person_id
     SQL
   end
 
@@ -77,21 +85,21 @@ class BestSpanishNurseryCompetitions < Statistic
       .values
       .map do |rows|
         nrs = rows.count { |r| r["has_nr"].to_i == 1 }
-        golds = rows.count { |r| r["has_gold"].to_i == 1 }
-        featured = rows.select { |r| r["has_nr"].to_i == 1 || r["has_gold"].to_i == 1 }
+        champs = rows.count { |r| r["has_champ"].to_i == 1 }
+        featured = rows.select { |r| r["has_nr"].to_i == 1 || r["has_champ"].to_i == 1 }
         people_list = featured.sort_by { |r| r["person_name"] }.map { |r| r["person_link"] }.join(", ")
 
         {
           total_count: featured.size,
           nr_count: nrs,
-          gold_count: golds,
+          champ_count: champs,
           comp_link: rows.first["comp_link"],
           people_list: people_list
         }
       end
       .select { |x| x[:total_count] > 0 }
-      .sort_by { |x| [-x[:total_count], -x[:nr_count], -x[:gold_count], x[:comp_link]] }
+      .sort_by { |x| [-x[:total_count], -x[:nr_count], -x[:champ_count], x[:comp_link]] }
       .first(50)
-      .map { |x| [x[:total_count], x[:nr_count], x[:gold_count], x[:comp_link], x[:people_list]] }
+      .map { |x| [x[:total_count], x[:nr_count], x[:champ_count], x[:comp_link], x[:people_list]] }
   end
 end
