@@ -2,6 +2,8 @@ require_relative "../core/statistic"
 require_relative "../core/events"
 
 class MostEventsWithGold < Statistic
+  CURRENT_EVENTS = %w[333 222 444 555 666 777 333bf 333fm 333oh clock minx pyram skewb sq1 444bf 555bf 333mbf].freeze
+
   def initialize
     @title = "Más categorías distintas con oro"
     @category = :podiums
@@ -15,7 +17,7 @@ class MostEventsWithGold < Statistic
   end
 
   def query
-    event_list = Events::ALL.keys.map { |e| "'#{e}'" }.join(", ")
+    event_list = CURRENT_EVENTS.map { |e| "'#{e}'" }.join(", ")
     <<-SQL
       SELECT
         COUNT(DISTINCT r.event_id) AS events_with_gold,
@@ -35,10 +37,13 @@ class MostEventsWithGold < Statistic
   end
 
   def transform(query_results)
-    total_events = Events::ALL.size
+    total_events = CURRENT_EVENTS.size
     query_results.map do |r|
       won_set = r["event_ids"].split(",")
-      ordered_names = Events::ALL.select { |id, _| won_set.include?(id) }.values.join(", ")
+      ordered_names = CURRENT_EVENTS
+        .select { |id| won_set.include?(id) }
+        .map { |id| Events::ALL[id] || id }
+        .join(", ")
       ["#{r['events_with_gold']} / #{total_events}", r["person_link"], r["total_golds"], ordered_names]
     end
   end

@@ -3,6 +3,8 @@ require_relative "../core/events"
 require_relative "../core/spanish_format"
 
 class TimeToPodiumInAllEvents < Statistic
+  CURRENT_EVENTS = %w[333 222 444 555 666 777 333bf 333fm 333oh clock minx pyram skewb sq1 444bf 555bf 333mbf].freeze
+
   def initialize
     @title = "Tiempo en hacer podio en todas las categorías"
     @category = :podiums
@@ -17,7 +19,7 @@ class TimeToPodiumInAllEvents < Statistic
   end
 
   def query
-    event_list = Events::ALL.keys.map { |e| "'#{e}'" }.join(", ")
+    event_list = CURRENT_EVENTS.map { |e| "'#{e}'" }.join(", ")
     <<-SQL
       WITH spanish_persons AS (
         SELECT wca_id, name
@@ -59,7 +61,7 @@ class TimeToPodiumInAllEvents < Statistic
   end
 
   def transform(query_results)
-    total_events = Events::ALL.size
+    total_events = CURRENT_EVENTS.size
 
     query_results
       .group_by { |r| r["person_id"] }
@@ -68,7 +70,7 @@ class TimeToPodiumInAllEvents < Statistic
       .map do |rows|
         max_days = rows.map { |r| r["days_from_debut"] }.max
         last_rows = rows.select { |r| r["days_from_debut"] == max_days }
-        last_events = last_rows.map { |r| Events::ALL[r["event_id"]] }.join(", ")
+        last_events = last_rows.map { |r| Events::ALL[r["event_id"]] || r["event_id"] }.join(", ")
         first_row = rows.first
         completion_date = last_rows.first["first_podium_date"]
         {
