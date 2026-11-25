@@ -214,6 +214,7 @@ class TwoByTwoFourMovers < Statistic
   def query
     <<-SQL
       SELECT
+        'scramble' AS row_type,
         s.competition_id,
         s.round_type_id,
         rt.cell_name AS round_name,
@@ -223,34 +224,157 @@ class TwoByTwoFourMovers < Statistic
         s.scramble_num,
         s.scramble,
         c.start_date,
-        CONCAT('[', c.cell_name, '](https://www.worldcubeassociation.org/competitions/', c.id, '/results/all#e222_', s.round_type_id, ')') AS comp_link
+        CONCAT('[', c.cell_name, '](https://www.worldcubeassociation.org/competitions/', c.id, '/results/all#e222_', s.round_type_id, ')') AS comp_link,
+        NULL AS person_id,
+        NULL AS person_name,
+        NULL AS person_link
       FROM scrambles s
       JOIN competitions c ON c.id = s.competition_id
       JOIN round_types rt ON rt.id = s.round_type_id
       WHERE c.country_id = 'Spain'
         AND s.event_id = '222'
-      ORDER BY c.start_date DESC, c.id ASC, rt.rank ASC, s.group_id ASC, s.is_extra ASC, s.scramble_num ASC
+
+      UNION ALL
+
+      SELECT
+        'result' AS row_type,
+        r.competition_id,
+        r.round_type_id,
+        NULL AS round_name,
+        NULL AS round_rank,
+        NULL AS group_id,
+        NULL AS is_extra,
+        NULL AS scramble_num,
+        NULL AS scramble,
+        NULL AS start_date,
+        NULL AS comp_link,
+        r.person_id,
+        p.name AS person_name,
+        CONCAT('[', p.name, '](https://www.worldcubeassociation.org/persons/', p.wca_id, ')') AS person_link
+      FROM results r
+      JOIN competitions c ON c.id = r.competition_id
+      JOIN persons p ON p.wca_id = r.person_id AND p.sub_id = 1
+      WHERE c.country_id = 'Spain'
+        AND r.event_id = '222'
     SQL
   end
 
   def transform(query_results)
-    query_results.filter_map do |r|
-      scramble = r["scramble"].to_s.strip.gsub(/\s+/, " ")
-      solution = Solver.solve_if_four_mover(scramble)
-      next unless solution
+    four_mover_rows = []
+    round_four_movers = Hash.new { |h, k| h[k] = [] }
+    results_by_round = Hash.new { |h, k| h[k] = [] }
 
-      round_label = ROUND_NAMES[r["round_type_id"]] || r["round_name"]
-      is_extra = (r["is_extra"] == true || r["is_extra"] == 1 || r["is_extra"].to_s == "1")
-      num_label = is_extra ? "Extra #{r['scramble_num']}" : r["scramble_num"].to_s
+    query_results.each do |r|
+      if r["row_type"] == "scramble"
+        scramble = r["scramble"].to_s.strip.gsub(/\s+/, " ")
+        solution = Solver.solve_if_four_mover(scramble)
+        next unless solution
 
+        is_extra = (r["is_extra"] == true || r["is_extra"] == 1 || r["is_extra"].to_s == "1")
+        date_int = r["start_date"].to_s.delete("-").to_i
+        round_label = ROUND_NAMES[r["round_type_id"]] || r["round_name"]
+        num_label = is_extra ? "Extra #{r['scramble_num']}" : r["scramble_num"].to_s
+
+        entry = {
+          comp_id: r["competition_id"],
+          round_type_id: r["round_type_id"],
+          round_rank: r["round_rank"].to_i,
+          group_id: r["group_id"].to_s,
+          is_extra_int: is_extra ? 1 : 0,
+          scramble_num: r["scramble_num"].to_i,
+          date_int: date_int,
+          comp_link: r["comp_link"],
+          round_label: round_label,
+          num_label: num_label,
+          scramble: scramble,
+          solution: solution
+        }
+
+        four_mover_rows << entry
+        round_four_movers[[entry[:comp_id], entry[:round_type_id]]] << entry
+      else
+        results_by_round[[r["competition_id"], r["round_type_id"]]] << {
+          person_id: r["person_id"],
+          person_name: r["person_name"],
+          person_link: r["person_link"]
+        }
+      end
+    end
+
+    four_mover_rows.sort_by! do |e|
+      [-e[:date_int], e[:comp_id], e[:round_rank], e[:group_id], e[:is_extra_int], e[:scramble_num]]
+    end
+
+    # Calcular tabla de 4-movers potencialmente ejecutadas
+    person_hits = Hash.new do |h, k|
+      h[k] = { name: nil, link: nil, count: 0, comps: {} }
+    end
+
+    round_four_movers.each do |round_key, entries|
+      participants = results_by_round[round_key]
+      next if participants.empty?
+
+      seen_in_round = {}
+      participants.each do |p|
+        pid = p[:person_id]
+        next if seen_in_round[pid]
+        seen_in_round[pid] = true
+
+        rec = person_hits[pid]
+        rec[:name] = p[:person_name]
+        rec[:link] = p[:person_link]
+        rec[:count] += entries.size
+
+        first_entry = entries.first
+        rec[:comps][first_entry[:comp_id]] ||= {
+          date_int: first_entry[:date_int],
+          comp_id: first_entry[:comp_id],
+          comp_link: first_entry[:comp_link]
+        }
+      end
+    end
+
+    @potential_rows = person_hits.values
+      .select { |rec| rec[:comps].size >= 2 }
+      .sort_by { |rec| [-rec[:count], -rec[:comps].size, rec[:name]] }
+      .map do |rec|
+        comps_str = rec[:comps].values
+          .sort_by { |c| [-c[:date_int], c[:comp_id]] }
+          .map { |c| c[:comp_link] }
+          .join(", ")
+        [rec[:link], rec[:count], comps_str]
+      end
+
+    four_mover_rows.map do |e|
       [
-        r["comp_link"],
-        round_label,
-        r["group_id"],
-        num_label,
-        "`#{scramble}`",
-        "`#{solution}`"
+        e[:comp_link],
+        e[:round_label],
+        e[:group_id],
+        e[:num_label],
+        "`#{e[:scramble]}`",
+        "`#{e[:solution]}`"
       ]
     end
+  end
+
+  def markdown
+    md = super
+    return md if @potential_rows.nil? || @potential_rows.empty?
+
+    extra = [
+      "",
+      "## 4-movers potencialmente ejecutadas",
+      "",
+      "Personas que compitieron en la ronda de 2x2x2 correspondiente en 2 o más competiciones donde salió una 4-mover (no se puede garantizar que la ejecutaran si la ronda tuvo varios grupos o fue una mezcla extra).",
+      "",
+      "| Persona | 4-movers | Competiciones |",
+      "| :--- | ---: | :--- |"
+    ]
+
+    @potential_rows.each do |person_link, count, comps_str|
+      extra << "| #{person_link} | #{count} | #{comps_str} |"
+    end
+
+    md.rstrip + "\n" + extra.join("\n") + "\n"
   end
 end
