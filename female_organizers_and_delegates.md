@@ -1,7 +1,7 @@
 ## Participación femenina en organización y delegación
 
 *Nota: Mujeres que más competiciones oficiales celebradas en España han organizado o delegado. El total cuenta competiciones distintas (si ejerció ambos roles en el mismo torneo, cuenta una sola vez).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Persona | Organizadas | Delegadas | Total |
 | :--- | ---: | ---: | ---: |
@@ -63,6 +63,7 @@
 | [Mónica Boladeres](https://www.worldcubeassociation.org/persons/2023BOLA01) | 1 | 0 | 1 |
 | [Noa Blanco Illera](https://www.worldcubeassociation.org/persons/2023ILLE01) | 1 | 0 | 1 |
 | [Nora Gómez](https://www.worldcubeassociation.org/persons/2012GOME07) | 1 | 0 | 1 |
+| [Paula Escamilla Carrasco](https://www.worldcubeassociation.org/persons/2022CARR32) | 1 | 0 | 1 |
 | [Pilar Mesa Blanco](https://www.worldcubeassociation.org/persons/2025BLAN03) | 1 | 0 | 1 |
 | [Rocío Natividad Cataluña](https://www.worldcubeassociation.org/persons/2024CATA03) | 1 | 0 | 1 |
 | [Sandra Novales Peláez](https://www.worldcubeassociation.org/persons/2015PELA01) | 1 | 0 | 1 |
