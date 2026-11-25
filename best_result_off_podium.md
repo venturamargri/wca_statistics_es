@@ -1,7 +1,7 @@
 ## Mejor resultado fuera del podio
 
 *Nota: Solo se tienen en cuenta finales disputadas por competidores españoles en cualquier competición.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -32,7 +32,7 @@
 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) | 1.32 | **1.74** | [Spanish Championship 2024](https://www.worldcubeassociation.org/competitions/SpanishChampionship2024/results/all#e222_f) | 4 |
 | [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) | 1.33 | **1.74** | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025/results/all#e222_f) | 7 |
 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) | 0.98 | **1.76** | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025/results/all#e222_f) | 8 |
-| [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 1.35 | **1.84** | [Gasteiz Open 2026](https://www.worldcubeassociation.org/competitions/GasteizOpen2026/results/all#e222_f) | 5 |
+| [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) | 1.51 | **1.77** | [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026/results/all#e222_f) | 4 |
 
 ### 4x4x4 Cube
 

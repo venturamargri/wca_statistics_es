@@ -1,6 +1,6 @@
 ## Más días potencialmente pasados en competiciones
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Días | Persona | Competiciones |
 | ---: | :--- | ---: |
@@ -8,13 +8,13 @@
 | 298 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | 158 |
 | 283 | [Jesús Masanet García](https://www.worldcubeassociation.org/persons/2004MASA01) | 137 |
 | 281 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) | 140 |
-| 279 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 139 |
-| 274 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 138 |
+| 281 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 140 |
+| 276 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 139 |
 | 273 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 138 |
-| 271 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) | 140 |
+| 273 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) | 141 |
 | 252 | [Francisco Montañés Barbudo](https://www.worldcubeassociation.org/persons/2014BARB07) | 126 |
 | 249 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | 125 |
-| 246 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 121 |
+| 248 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 122 |
 | 246 | [Marcos Ameijeiras Moreno](https://www.worldcubeassociation.org/persons/2008MORE01) | 126 |
 | 245 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | 116 |
 | 241 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | 120 |

@@ -1,7 +1,7 @@
 ## Más semanas ganadas
 
 *Nota: Número de semanas (de lunes a domingo) en las que el competidor logró el mejor single de todos los competidores españoles en esa categoría.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -40,8 +40,8 @@
 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 28 |
 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | 26 |
 | [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) | 18 |
+| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 18 |
 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 17 |
-| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 17 |
 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 16 |
 | [Jesús Masanet García](https://www.worldcubeassociation.org/persons/2004MASA01) | 10 |
 | [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) | 9 |
@@ -65,7 +65,7 @@
 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) | 23 |
 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | 18 |
 | [David Calvo Vivas](https://www.worldcubeassociation.org/persons/2005CALV02) | 17 |
-| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 15 |
+| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 16 |
 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 14 |
 | [Biel Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ08) | 13 |
 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | 13 |
@@ -169,9 +169,9 @@
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 12 |
 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) | 12 |
 | [Jorge Rodón Leiva](https://www.worldcubeassociation.org/persons/2018LEIV03) | 11 |
+| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 9 |
 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 9 |
 | [Manuel López Sheriff](https://www.worldcubeassociation.org/persons/2007LOPE01) | 9 |
-| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 8 |
 | [Asier Cardoso Sánchez](https://www.worldcubeassociation.org/persons/2009SANC06) | 8 |
 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | 7 |
 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 6 |
@@ -316,15 +316,15 @@
 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | 18 |
 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | 14 |
 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 10 |
-| [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) | 9 |
+| [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) | 10 |
 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 9 |
 | [Izan Cantero Herrera](https://www.worldcubeassociation.org/persons/2018HERR18) | 7 |
 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | 7 |
 | [Eki Gartzia González](https://www.worldcubeassociation.org/persons/2013GONZ05) | 6 |
 | [Ricardo Bayona Salvador](https://www.worldcubeassociation.org/persons/2014SALV02) | 6 |
+| [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) | 5 |
 | [Antoni Guiscafrè Rosselló](https://www.worldcubeassociation.org/persons/2017ROSS03) | 5 |
 | [Héctor Haro Guerrero](https://www.worldcubeassociation.org/persons/2018GUER09) | 5 |
-| [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) | 4 |
 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | 4 |
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 4 |
 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | 3 |
@@ -333,7 +333,7 @@
 
 | Persona | Semanas ganadas |
 | :--- | ---: |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 46 |
+| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 47 |
 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 31 |
 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | 29 |
 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) | 27 |

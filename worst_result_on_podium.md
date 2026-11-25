@@ -1,7 +1,7 @@
 ## Peor resultado que logró podio
 
 *Nota: Solo se tienen en cuenta finales. Se ignoran resultados donde la métrica principal sea DNF.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

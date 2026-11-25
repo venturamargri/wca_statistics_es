@@ -1,7 +1,7 @@
 ## Mayor tiempo entre el primer y el último Récord Nacional (NR)
 
 *Nota: Tiempo transcurrido entre el primer y el último récord (NR, ER o WR) conseguido representando a España.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Años | Días | Persona | Primer NR | Último NR | Total NRs |
 | ---: | ---: | :--- | :--- | :--- | ---: |

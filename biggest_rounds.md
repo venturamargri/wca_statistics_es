@@ -1,6 +1,6 @@
 ## Mayores rondas
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -73,8 +73,8 @@
 | 101 | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025) |
 | 79 | [Spanish Championship 2023](https://www.worldcubeassociation.org/competitions/SpanishChampionship2023) |
 | 65 | [Spanish Championship 2022](https://www.worldcubeassociation.org/competitions/SpanishChampionship2022) |
-| 53 | [Spanish Championship 2024](https://www.worldcubeassociation.org/competitions/SpanishChampionship2024) |
 | 53 | [Parets Open 2026](https://www.worldcubeassociation.org/competitions/ParetsOpen2026) |
+| 53 | [Spanish Championship 2024](https://www.worldcubeassociation.org/competitions/SpanishChampionship2024) |
 | 45 | [Parets Open 2024](https://www.worldcubeassociation.org/competitions/ParetsOpen2024) |
 | 42 | [Fires de Girona 2024](https://www.worldcubeassociation.org/competitions/FiresdeGirona2024) |
 
@@ -115,13 +115,13 @@
 | 92 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 63 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
 | 48 | [FMC Spain 2023](https://www.worldcubeassociation.org/competitions/FMCSpain2023) |
-| 46 | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
 | 46 | [Spanish Championship 2017](https://www.worldcubeassociation.org/competitions/SpanishChampionship2017) |
+| 46 | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
 | 41 | [Spanish Championship 2022](https://www.worldcubeassociation.org/competitions/SpanishChampionship2022) |
 | 40 | [Euro 2008](https://www.worldcubeassociation.org/competitions/Euro2008) |
 | 36 | [Fires de Girona 2024](https://www.worldcubeassociation.org/competitions/FiresdeGirona2024) |
 | 36 | [FMC Spanish Championship 2026](https://www.worldcubeassociation.org/competitions/FMCSpanishChampionship2026) |
-| 32 | [FMC Spanish Championship 2023](https://www.worldcubeassociation.org/competitions/FMCSpanishChampionship2023) |
+| 32 | [Spain 2018](https://www.worldcubeassociation.org/competitions/Spain2018) |
 
 ### 3x3x3 One-Handed
 
@@ -236,8 +236,8 @@
 | 35 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
 | 23 | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
 | 15 | [Spanish Championship 2017](https://www.worldcubeassociation.org/competitions/SpanishChampionship2017) |
-| 13 | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025) |
 | 13 | [Parets Open 2024](https://www.worldcubeassociation.org/competitions/ParetsOpen2024) |
+| 13 | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025) |
 | 13 | [Amore Amorebieta Open 2026](https://www.worldcubeassociation.org/competitions/AmoreAmorebietaOpen2026) |
 | 12 | [Begastri Open 2025](https://www.worldcubeassociation.org/competitions/BegastriOpen2025) |
 | 11 | [Fires de Girona 2024](https://www.worldcubeassociation.org/competitions/FiresdeGirona2024) |
@@ -249,12 +249,12 @@
 | ---: | :--- |
 | 38 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 28 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
+| 23 | [Fires de Girona 2024](https://www.worldcubeassociation.org/competitions/FiresdeGirona2024) |
 | 23 | [Parets Open 2024](https://www.worldcubeassociation.org/competitions/ParetsOpen2024) |
 | 23 | [Baztan Side Events 2023](https://www.worldcubeassociation.org/competitions/BaztanSideEvents2023) |
-| 23 | [Fires de Girona 2024](https://www.worldcubeassociation.org/competitions/FiresdeGirona2024) |
-| 21 | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
-| 21 | [Spanish Championship 2017](https://www.worldcubeassociation.org/competitions/SpanishChampionship2017) |
 | 21 | [Amore Amorebieta Open 2026](https://www.worldcubeassociation.org/competitions/AmoreAmorebietaOpen2026) |
+| 21 | [Spanish Championship 2017](https://www.worldcubeassociation.org/competitions/SpanishChampionship2017) |
+| 21 | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024) |
 | 19 | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025) |
 | 19 | [Spanish Championship 2013](https://www.worldcubeassociation.org/competitions/SpanishChampionships2013) |
 
@@ -266,12 +266,12 @@
 | 20 | [WCA Euro 2018](https://www.worldcubeassociation.org/competitions/Euro2018) |
 | 19 | [Spanish Championship 2017](https://www.worldcubeassociation.org/competitions/SpanishChampionship2017) |
 | 14 | [Spanish Championship 2019](https://www.worldcubeassociation.org/competitions/SpanishChampionship2019) |
-| 13 | [Euro 2008](https://www.worldcubeassociation.org/competitions/Euro2008) |
 | 13 | [Spain 2018](https://www.worldcubeassociation.org/competitions/Spain2018) |
+| 13 | [Euro 2008](https://www.worldcubeassociation.org/competitions/Euro2008) |
 | 12 | [Cubéate Weekend 2016](https://www.worldcubeassociation.org/competitions/CubeateWeekend2016) |
+| 10 | [Bilbao Open 2019](https://www.worldcubeassociation.org/competitions/BilbaoOpen2019) |
 | 10 | [Iruña Open 2019](https://www.worldcubeassociation.org/competitions/IrunaOpen2019) |
 | 10 | [Juan Manuel Zafra Open 2019](https://www.worldcubeassociation.org/competitions/JuanManuelZafraOpen2019) |
-| 10 | [Bilbao Open 2019](https://www.worldcubeassociation.org/competitions/BilbaoOpen2019) |
 
 ### Rubik's Magic
 
@@ -299,9 +299,9 @@
 | 11 | [Granada Open 2012](https://www.worldcubeassociation.org/competitions/GranadaOpen2012) |
 | 10 | [Madrid Open Rubik 2010](https://www.worldcubeassociation.org/competitions/MadridOpenRubik2010) |
 | 10 | [Spanish Championship 2009](https://www.worldcubeassociation.org/competitions/SpanishChampionship2009) |
-| 8 | [Válgame Open 2011](https://www.worldcubeassociation.org/competitions/ValgameOpen2011) |
-| 8 | [Zaragoza Open 2010](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2010) |
+| 8 | [Granada Open 2012](https://www.worldcubeassociation.org/competitions/GranadaOpen2012) |
 | 8 | [Rubikaz Anniversary Open 2012](https://www.worldcubeassociation.org/competitions/Rubikaz10thAnniversary2012) |
+| 8 | [Spanish Championship 2010](https://www.worldcubeassociation.org/competitions/SpanishChampionship2010) |
 
 ### 3x3x3 Multi-Blind Old-Style
 

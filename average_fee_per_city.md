@@ -1,7 +1,7 @@
 ## Cuota media de inscripción por ciudad
 
 *Nota: Solo se incluyen competiciones en EUR con al menos 2 ediciones en el mismo año.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 2026

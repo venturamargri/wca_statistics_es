@@ -1,7 +1,7 @@
 ## Ganadores de todas las categorías de una competición
 
 *Nota: Una victoria completa consiste en ganar el primer puesto en todas las categorías disputadas en esa competición.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Categorías | Persona | País | Competición |
 | ---: | :--- | :--- | :--- |

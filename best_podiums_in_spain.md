@@ -1,7 +1,7 @@
 ## Mejores podios en competiciones en España
 
 *Nota: Podios en competiciones celebradas en España, independientemente de la nacionalidad de los medallistas.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -219,8 +219,8 @@
 | Competición | Podio | Total |
 | :--- | :--- | ---: |
 | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) | [Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01) (1.69), [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) (2.09), [Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28) (2.18) | 5.96 |
-| [Nerja Chanquete Open 2024](https://www.worldcubeassociation.org/competitions/NerjaChanqueteOpen2024) | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) (2.04), [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) (2.48), [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) (2.63) | 7.15 |
 | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025) | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) (2.14), [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) (2.43), [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) (2.58) | 7.15 |
+| [Nerja Chanquete Open 2024](https://www.worldcubeassociation.org/competitions/NerjaChanqueteOpen2024) | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) (2.04), [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) (2.48), [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) (2.63) | 7.15 |
 | [UC3M Leganés Open 2026](https://www.worldcubeassociation.org/competitions/UC3MLeganesOpen2026) | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) (2.20), [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) (2.59), [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) (3.14) | 7.93 |
 | [X-Madrid Open 2025](https://www.worldcubeassociation.org/competitions/XMadridOpen2025) | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) (2.37), [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) (2.48), [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) (3.17) | 8.02 |
 | [Spanish Championship 2024](https://www.worldcubeassociation.org/competitions/SpanishChampionship2024) | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) (2.22), [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) (2.90), [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) (3.01) | 8.13 |

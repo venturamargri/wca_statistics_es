@@ -1,7 +1,7 @@
 ## Más competiciones delegadas y organizadas cada año
 
 *Nota: Muestra cuántas de las competiciones delegadas por cada delegado español en un año fueron también organizadas por él.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 2026
@@ -9,20 +9,20 @@
 | Delegadas y organizadas | Delegadas | Porcentaje | Persona |
 | ---: | ---: | ---: | :--- |
 | 8 | 9 | 88.9% | [Albert Garriga Gea](https://www.worldcubeassociation.org/persons/2019GEAA01) |
+| 2 | 3 | 66.7% | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 14 | 22 | 63.6% | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 2 | 4 | 50.0% | [Pau Carbonell](https://www.worldcubeassociation.org/persons/2021CARB01) |
-| 1 | 2 | 50.0% | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 1 | 2 | 50.0% | [María Ángeles García Franco](https://www.worldcubeassociation.org/persons/2018FRAN17) |
 | 5 | 15 | 33.3% | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) |
-| 4 | 24 | 16.7% | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
+| 4 | 25 | 16.0% | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 2 | 17 | 11.8% | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 2 | 17 | 11.8% | [Rocío Fernández Usero](https://www.worldcubeassociation.org/persons/2014USER01) |
-| 1 | 9 | 11.1% | [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) |
-| 2 | 20 | 10.0% | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 1 | 10 | 10.0% | [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) |
+| 2 | 21 | 9.5% | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 2 | 22 | 9.1% | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) |
 | 1 | 12 | 8.3% | [Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44) |
 | 1 | 13 | 7.7% | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
-| 1 | 14 | 7.1% | [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) |
+| 1 | 15 | 6.7% | [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) |
 | 0 | 2 | 0.0% | [Jaione Bengoetxea Azurmendi](https://www.worldcubeassociation.org/persons/2023AZUR01) |
 
 ### 2025

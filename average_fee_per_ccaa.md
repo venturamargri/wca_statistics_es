@@ -1,7 +1,7 @@
 ## Cuota media de inscripción por comunidad autónoma
 
 *Nota: Comunidad o ciudad autónoma calculada a partir de las coordenadas de la competición (17 comunidades autónomas y 2 ciudades autónomas). Solo se incluyen competiciones en EUR.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 2026
@@ -13,11 +13,11 @@
 | Región de Murcia | 15.00 € | 3 |
 | Cantabria | 15.00 € | 1 |
 | Illes Balears | 15.00 € | 1 |
-| Andalucía | 14.87 € | 15 |
 | Castilla y León | 14.80 € | 5 |
+| Andalucía | 14.69 € | 16 |
 | Castilla-La Mancha | 14.57 € | 7 |
+| Comunitat Valenciana | 13.36 € | 7 |
 | Cataluña | 13.12 € | 8 |
-| Comunitat Valenciana | 13.08 € | 6 |
 | Galicia | 12.60 € | 5 |
 | País Vasco | 12.36 € | 11 |
 | Comunidad de Madrid | 11.85 € | 20 |

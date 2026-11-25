@@ -1,7 +1,7 @@
 ## Competiciones con mayor porcentaje de participación femenina
 
 *Nota: Top 30 de competiciones celebradas en España (mínimo 15 competidores de cualquier nacionalidad) con mayor porcentaje de participación femenina sobre el total de asistentes.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | % | Mujeres | Total | Competición |
 | ---: | ---: | ---: | :--- |

@@ -1,6 +1,6 @@
 ## Proporción de competiciones delegadas respecto a asistidas por año
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 2026
@@ -8,21 +8,21 @@
 | Delegadas | Asistidas | Proporción | Persona | Lista en WCA |
 | ---: | ---: | ---: | :--- | :--: |
 | 15 | 13 | 1.15 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=47863) |
-| 14 | 14 | 1.00 | [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=6666) |
-| 9 | 9 | 1.00 | [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=284641) |
+| 15 | 15 | 1.00 | [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=6666) |
+| 10 | 10 | 1.00 | [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=284641) |
 | 9 | 9 | 1.00 | [Albert Garriga Gea](https://www.worldcubeassociation.org/persons/2019GEAA01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=135764) |
 | 22 | 23 | 0.96 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=7399) |
 | 22 | 25 | 0.88 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=25588) |
-| 20 | 23 | 0.87 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=90178) |
+| 21 | 24 | 0.88 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=90178) |
 | 12 | 14 | 0.86 | [Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=29128) |
-| 24 | 29 | 0.83 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=8717) |
+| 25 | 30 | 0.83 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=8717) |
 | 17 | 22 | 0.77 | [Rocío Fernández Usero](https://www.worldcubeassociation.org/persons/2014USER01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=13900) |
 | 17 | 23 | 0.74 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=6113) |
 | 13 | 20 | 0.65 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=77586) |
 | 4 | 11 | 0.36 | [Pau Carbonell](https://www.worldcubeassociation.org/persons/2021CARB01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=204558) |
 | 2 | 7 | 0.29 | [Jaione Bengoetxea Azurmendi](https://www.worldcubeassociation.org/persons/2023AZUR01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=329050) |
 | 2 | 8 | 0.25 | [María Ángeles García Franco](https://www.worldcubeassociation.org/persons/2018FRAN17) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=112652) |
-| 2 | 20 | 0.10 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=462633) |
+| 3 | 21 | 0.14 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=462633) |
 
 ### 2025
 

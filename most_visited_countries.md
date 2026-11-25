@@ -1,6 +1,6 @@
 ## Más países visitados
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Países | Persona |
 | ---: | :--- |

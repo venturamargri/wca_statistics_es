@@ -1,7 +1,7 @@
 ## Podios con múltiples mujeres
 
 *Nota: Podios oficiales (en cualquier competición del mundo) en los que han coincidido dos o más competidoras españolas. Los podios con 3 mujeres aparecen arriba; dentro de cada grupo se ordenan cronológicamente (más antiguos primero).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Competición | Categoría | Personas |
 | :--- | :--- | :--- |

@@ -1,7 +1,7 @@
 ## Más podios sin ganar y cuartos puestos sin podio
 
 *Nota: Competidores españoles con más medallas de plata o bronce sin haber ganado todavía ningún oro, y con más cuartos puestos en finales sin haber pisado nunca el podio.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### Más medallas de plata sin ningún oro
@@ -65,7 +65,7 @@
 | 4 | [Amaia de Pablo](https://www.worldcubeassociation.org/persons/2012PABL01) | 39 |
 | 4 | [Asier Prieto Manzarraga](https://www.worldcubeassociation.org/persons/2023MANZ03) | 34 |
 | 4 | [Javier Soto Bustos](https://www.worldcubeassociation.org/persons/2008SOTO02) | 29 |
-| 3 | [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) | 101 |
+| 3 | [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) | 103 |
 | 3 | [Gonzalo Blanco Herrero](https://www.worldcubeassociation.org/persons/2015HERR12) | 88 |
 | 3 | [Abel Pérez Gisbert](https://www.worldcubeassociation.org/persons/2014GISB01) | 85 |
 | 3 | [Francisco Gallego Salido](https://www.worldcubeassociation.org/persons/2012SALI03) | 71 |

@@ -1,31 +1,31 @@
 ## Media de resoluciones válidas por competición
 
 *Nota: Cuenta intentos individuales válidos (valor > 0). Se excluyen DNS e intentos vacíos. Mínimo 20 competiciones.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Persona | Media válidas | Total válidas | Competiciones |
 | :--- | ---: | ---: | ---: |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 84.35 | 6242 | 74 |
-| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 82.85 | 10025 | 121 |
+| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 82.99 | 10125 | 122 |
 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | 81.96 | 10245 | 125 |
 | [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) | 78.39 | 2195 | 28 |
 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 75.17 | 6239 | 83 |
 | [Alec Stromberg](https://www.worldcubeassociation.org/persons/2023STRO13) | 74.83 | 1796 | 24 |
-| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 74.34 | 4312 | 58 |
+| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 74.71 | 4408 | 59 |
 | [Samuel María Liñares](https://www.worldcubeassociation.org/persons/2022LINA04) | 74.28 | 2154 | 29 |
-| [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | 74.05 | 4665 | 63 |
 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 73.99 | 6733 | 91 |
+| [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | 73.83 | 4725 | 64 |
 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | 73.23 | 6078 | 83 |
 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 73.16 | 3731 | 51 |
 | [Jorge Alfageme Sotillos](https://www.worldcubeassociation.org/persons/2016SOTI01) | 72.66 | 2761 | 38 |
 | [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) | 72.50 | 2900 | 40 |
 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | 70.92 | 8227 | 116 |
 | [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) | 69.83 | 2514 | 36 |
-| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 69.28 | 3256 | 47 |
+| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 69.63 | 3342 | 48 |
 | [Jorge Marín Segovia](https://www.worldcubeassociation.org/persons/2016SEGO02) | 69.18 | 1522 | 22 |
 | [Óscar Gervasini Lois](https://www.worldcubeassociation.org/persons/2023LOIS01) | 68.62 | 1784 | 26 |
-| [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | 68.36 | 3623 | 53 |
-| [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) | 68.08 | 3472 | 51 |
+| [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | 68.44 | 3696 | 54 |
+| [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) | 68.31 | 3552 | 52 |
 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 67.30 | 6057 | 90 |
 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) | 67.11 | 9395 | 140 |
 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | 67.08 | 5031 | 75 |
@@ -33,10 +33,10 @@
 | [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) | 66.50 | 3591 | 54 |
 | [Daniele Vanoli Hernández](https://www.worldcubeassociation.org/persons/2016HERN05) | 66.22 | 2119 | 32 |
 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | 65.97 | 1979 | 30 |
+| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 65.50 | 9104 | 139 |
 | [Francisco Javier García Góngora](https://www.worldcubeassociation.org/persons/2023GONG04) | 65.43 | 1374 | 21 |
 | [Blanca Hidalgo Domingo](https://www.worldcubeassociation.org/persons/2022DOMI02) | 65.42 | 3598 | 55 |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 65.35 | 9083 | 139 |
-| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 65.33 | 9015 | 138 |
+| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 65.37 | 9152 | 140 |
 | [Gonzalo Orellana Barrasa](https://www.worldcubeassociation.org/persons/2010OREL02) | 65.03 | 2536 | 39 |
 | [Marisa Revaliente Ruiz](https://www.worldcubeassociation.org/persons/2022RUIZ02) | 64.36 | 2317 | 36 |
 | [Diego Garcia Pino](https://www.worldcubeassociation.org/persons/2022PINO01) | 64.24 | 2377 | 37 |

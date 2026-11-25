@@ -1,7 +1,7 @@
 ## Competiciones disputadas por comunidad autónoma
 
 *Nota: Comunidad o ciudad autónoma calculada a partir de las coordenadas de la competición (17 comunidades autónomas y 2 ciudades autónomas).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### Comunidad de Madrid
@@ -41,40 +41,40 @@ _Total de competiciones: 101_
 | [Rafael Alférez Robisco](https://www.worldcubeassociation.org/persons/2015ROBI03) | 33 |
 
 ### Andalucía
-_Total de competiciones: 84_
+_Total de competiciones: 85_
 
 | Persona | Competiciones |
 | :--- | ---: |
-| [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) | 70 |
-| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 66 |
-| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 62 |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 60 |
+| [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) | 71 |
+| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 67 |
+| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 63 |
+| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 61 |
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 50 |
 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) | 49 |
-| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 42 |
+| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 43 |
 | [David Sánchez Serrano](https://www.worldcubeassociation.org/persons/2016SERR09) | 41 |
 | [Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02) | 37 |
-| [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) | 33 |
+| [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) | 34 |
+| [Sergio Chaparro Díaz-Cano](https://www.worldcubeassociation.org/persons/2023DIAZ45) | 32 |
 | [Blanca Hidalgo Domingo](https://www.worldcubeassociation.org/persons/2022DOMI02) | 32 |
-| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 31 |
-| [Sergio Chaparro Díaz-Cano](https://www.worldcubeassociation.org/persons/2023DIAZ45) | 31 |
+| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 32 |
+| [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | 30 |
 | [Gladys Garcés](https://www.worldcubeassociation.org/persons/2018NAYL01) | 30 |
 | [Marisa Revaliente Ruiz](https://www.worldcubeassociation.org/persons/2022RUIZ02) | 30 |
 | [Francisco José Campos Rocamora](https://www.worldcubeassociation.org/persons/2013ROCA01) | 29 |
-| [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | 29 |
-| [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 28 |
-| [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) | 27 |
+| [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 29 |
+| [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) | 28 |
+| [Alejandro Delgado Barcia](https://www.worldcubeassociation.org/persons/2023BARC03) | 25 |
 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | 25 |
-| [Alejandro Delgado Barcia](https://www.worldcubeassociation.org/persons/2023BARC03) | 24 |
 | [Miguel Ángel Galdeano Medina](https://www.worldcubeassociation.org/persons/2019MEDI04) | 24 |
+| [David Landero Villalón](https://www.worldcubeassociation.org/persons/2024VILL48) | 21 |
 | [Liberto Ventura Mesa](https://www.worldcubeassociation.org/persons/2023MESA04) | 21 |
 | [Arturo Pérez Anguita](https://www.worldcubeassociation.org/persons/2022ANGU03) | 20 |
-| [David Landero Villalón](https://www.worldcubeassociation.org/persons/2024VILL48) | 20 |
 | [Francisco Javier García Góngora](https://www.worldcubeassociation.org/persons/2023GONG04) | 19 |
 | [Alberto de la Torre Lamenca](https://www.worldcubeassociation.org/persons/2023LAME03) | 19 |
 | [Blanca Piédrola Sánchez](https://www.worldcubeassociation.org/persons/2023SANC29) | 19 |
 | [Alec Stromberg](https://www.worldcubeassociation.org/persons/2023STRO13) | 18 |
-| [Thiago de la Torre Lamenca](https://www.worldcubeassociation.org/persons/2024LAME01) | 17 |
+| [Sergio Hidalgo López](https://www.worldcubeassociation.org/persons/2022LOPE08) | 17 |
 
 ### Cataluña
 _Total de competiciones: 73_
@@ -149,40 +149,40 @@ _Total de competiciones: 65_
 | [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) | 20 |
 
 ### Comunitat Valenciana
-_Total de competiciones: 55_
+_Total de competiciones: 56_
 
 | Persona | Competiciones |
 | :--- | ---: |
-| [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | 38 |
-| [Raúl Banacloche Biot](https://www.worldcubeassociation.org/persons/2015BANA01) | 34 |
+| [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | 39 |
+| [Raúl Banacloche Biot](https://www.worldcubeassociation.org/persons/2015BANA01) | 35 |
 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) | 32 |
-| [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | 30 |
-| [Ricardo Bayona Salvador](https://www.worldcubeassociation.org/persons/2014SALV02) | 28 |
-| [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | 26 |
+| [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | 31 |
+| [Ricardo Bayona Salvador](https://www.worldcubeassociation.org/persons/2014SALV02) | 29 |
+| [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | 27 |
+| [Raúl Serrano Martínez](https://www.worldcubeassociation.org/persons/2017MART16) | 25 |
 | [Lucía Pascual Muñoz](https://www.worldcubeassociation.org/persons/2016MUNO13) | 24 |
-| [Raúl Serrano Martínez](https://www.worldcubeassociation.org/persons/2017MART16) | 24 |
-| [David Sánchez Peris](https://www.worldcubeassociation.org/persons/2017PERI05) | 21 |
-| [Jesús Masanet García](https://www.worldcubeassociation.org/persons/2004MASA01) | 20 |
-| [Héctor Sanchis Miedes](https://www.worldcubeassociation.org/persons/2022MIED01) | 20 |
+| [David Sánchez Peris](https://www.worldcubeassociation.org/persons/2017PERI05) | 22 |
+| [Héctor Sanchis Miedes](https://www.worldcubeassociation.org/persons/2022MIED01) | 21 |
+| [Elena Filiberto Chamorro](https://www.worldcubeassociation.org/persons/2022CHAM12) | 20 |
 | [Nadia Ghadban Gimeno](https://www.worldcubeassociation.org/persons/2017GIME01) | 20 |
-| [Elena Filiberto Chamorro](https://www.worldcubeassociation.org/persons/2022CHAM12) | 19 |
-| [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 18 |
-| [Miguel Sánchez Escribano](https://www.worldcubeassociation.org/persons/2016ESCR01) | 18 |
+| [Jesús Masanet García](https://www.worldcubeassociation.org/persons/2004MASA01) | 20 |
+| [Pau Tamarit Montalt](https://www.worldcubeassociation.org/persons/2023MONT39) | 18 |
 | [Jose Angel Montesa Solaz](https://www.worldcubeassociation.org/persons/2011SOLA01) | 18 |
-| [Pau Tamarit Montalt](https://www.worldcubeassociation.org/persons/2023MONT39) | 17 |
+| [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) | 18 |
+| [Miguel Sánchez Escribano](https://www.worldcubeassociation.org/persons/2016ESCR01) | 18 |
+| [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 18 |
+| [Moisés Abad Suárez](https://www.worldcubeassociation.org/persons/2022SUAR09) | 17 |
 | [Víctor Martín Sola](https://www.worldcubeassociation.org/persons/2023SOLA10) | 17 |
-| [David Bay Revert](https://www.worldcubeassociation.org/persons/2023REVE03) | 17 |
 | [Lía Medina Ortells](https://www.worldcubeassociation.org/persons/2022MEDI03) | 17 |
-| [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) | 17 |
-| [Javier Bay](https://www.worldcubeassociation.org/persons/2023BAYJ01) | 16 |
+| [Marc García Díaz](https://www.worldcubeassociation.org/persons/2017DIAZ19) | 17 |
+| [David Bay Revert](https://www.worldcubeassociation.org/persons/2023REVE03) | 17 |
 | [Óscar Roldán Blay](https://www.worldcubeassociation.org/persons/2014BLAY01) | 16 |
-| [Pedro Luis Muñoz Yañez](https://www.worldcubeassociation.org/persons/2004LUIS03) | 16 |
-| [Marc García Díaz](https://www.worldcubeassociation.org/persons/2017DIAZ19) | 16 |
+| [Javier Bay](https://www.worldcubeassociation.org/persons/2023BAYJ01) | 16 |
 | [Lucas Rojas Plomer](https://www.worldcubeassociation.org/persons/2022PLOM01) | 16 |
-| [Moisés Abad Suárez](https://www.worldcubeassociation.org/persons/2022SUAR09) | 16 |
-| [Sergi Sabat](https://www.worldcubeassociation.org/persons/2010SABA01) | 14 |
+| [Pedro Luis Muñoz Yañez](https://www.worldcubeassociation.org/persons/2004LUIS03) | 16 |
+| [Alexandre Toledo Guillén](https://www.worldcubeassociation.org/persons/2005TOLE01) | 14 |
 | [Rubén Moreno Martinez](https://www.worldcubeassociation.org/persons/2013MART02) | 14 |
-| [Samuel Abad Suárez](https://www.worldcubeassociation.org/persons/2022SUAR14) | 14 |
+| [Patxi Griffiths](https://www.worldcubeassociation.org/persons/2024GRIF09) | 14 |
 
 ### Región de Murcia
 _Total de competiciones: 41_

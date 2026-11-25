@@ -1,7 +1,7 @@
 ## Average de 12
 
 *Nota: Se consideran 12 intentos oficiales consecutivos. Solo se incluyen competidores del top 200 nacional en single.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -179,8 +179,8 @@
 | 3.96 | [Aitor Javier Rubio Pozuelo](https://www.worldcubeassociation.org/persons/2022POZU01) | 3.15, 4.07, 3.12, 5.26, 3.39, 4.00, 4.61, 4.18, 4.52, 3.77, 3.79, 4.08 |
 | 4.13 | [Marcos Caballero Marsilla](https://www.worldcubeassociation.org/persons/2023MARS33) | 4.55, 4.86, 3.06, 3.79, 5.38, 2.88, 4.53, 3.22, 6.50, 4.64, 4.26, 2.97 |
 | 4.22 | [Francisco Javier García Góngora](https://www.worldcubeassociation.org/persons/2023GONG04) | 4.81, 4.32, 3.75, 4.02, 3.38, 7.22, 4.05, 3.23, 4.32, 4.31, 5.34, 3.87 |
-| 4.23 | [Rodrigo Delgado Martínez](https://www.worldcubeassociation.org/persons/2022MART63) | 4.76, 3.20, 3.69, 4.07, 4.44, 5.69, 5.03, DNF, 3.82, 3.34, 3.44, 4.06 |
 | 4.23 | [Lucía González Garcia-Moya](https://www.worldcubeassociation.org/persons/2024GARC06) | 4.93, 3.77, 4.01, 4.23, 4.39, 3.27, 4.28, 3.04, 8.43, 4.48, 4.91, 3.98 |
+| 4.23 | [Rodrigo Delgado Martínez](https://www.worldcubeassociation.org/persons/2022MART63) | 4.76, 3.20, 3.69, 4.07, 4.44, 5.69, 5.03, DNF, 3.82, 3.34, 3.44, 4.06 |
 | 4.50 | [Alex Mora](https://www.worldcubeassociation.org/persons/2025MORA11) | 4.02, 3.61, DNF, 4.90, 5.78, 4.56, 4.64, 4.43, 3.67, 3.85, 5.14, 4.01 |
 | 4.52 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | 3.88, 4.01, 4.44, 6.52, 3.42, 7.73, 3.36, 6.45, 4.48, 4.04, 3.81, 4.14 |
 

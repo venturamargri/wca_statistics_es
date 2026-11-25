@@ -1,7 +1,7 @@
 ## Equipos de delegados más habituales
 
 *Nota: Número de competiciones en España donde coincidió exactamente el mismo equipo de delegados.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Competiciones | Equipo |
 | :--- | :--- |
@@ -9,7 +9,7 @@
 | 15 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) + [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 13 | [Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44) + [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) |
 | 7 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) + [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
-| 5 | [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) + [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) |
+| 6 | [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) + [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) |
 | 5 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) + [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 5 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) + [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 4 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) + [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) + [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
@@ -31,6 +31,7 @@
 | 2 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) + [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) |
 | 2 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) + [María Ángeles García Franco](https://www.worldcubeassociation.org/persons/2018FRAN17) |
 | 2 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) + [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) + [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) + [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
+| 2 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) + [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) + [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 2 | [Alberto Masó Molina](https://www.worldcubeassociation.org/persons/2011MOLI01) + [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 2 | [Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44) + [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) + [Pedro Azevedo](https://www.worldcubeassociation.org/persons/2018AZEV03) |
 | 2 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) + [Guillaume Bernard](https://www.worldcubeassociation.org/persons/2024BERN05) + [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
@@ -95,7 +96,6 @@
 | 1 | [Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44) + [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) + [Pedro Azevedo](https://www.worldcubeassociation.org/persons/2018AZEV03) + [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) + [Rocío Fernández Usero](https://www.worldcubeassociation.org/persons/2014USER01) |
 | 1 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) + [Maxime Lefebvre](https://www.worldcubeassociation.org/persons/2019LEFE02) + [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) + [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) + [Tristan Patrick](https://www.worldcubeassociation.org/persons/2016PATR03) |
 | 1 | [Ben Royce](https://www.worldcubeassociation.org/persons/2015ROYC01) + [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
-| 1 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) + [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) + [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 1 | [Albert Garriga Gea](https://www.worldcubeassociation.org/persons/2019GEAA01) + [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01) + [Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27) |
 | 1 | [Albert Garriga Gea](https://www.worldcubeassociation.org/persons/2019GEAA01) + [Rocío Fernández Usero](https://www.worldcubeassociation.org/persons/2014USER01) |
 | 1 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) + [Jaione Bengoetxea Azurmendi](https://www.worldcubeassociation.org/persons/2023AZUR01) + [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |

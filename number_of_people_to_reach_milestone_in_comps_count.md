@@ -1,11 +1,11 @@
 ## Número de personas que alcanzaron hitos de competiciones
 
 *Nota: Solo incluye competidores españoles.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Competiciones | Personas |
 | :--- | ---: |
-| >= 1 | 5591 |
+| >= 1 | 5604 |
 | >= 50 | 96 |
 | >= 100 | 23 |
 | >= 150 | 2 |

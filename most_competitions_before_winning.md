@@ -1,7 +1,7 @@
 ## Más competiciones antes de ganar por primera vez
 
 *Nota: Solo se cuentan competiciones que celebraron dicha categoría.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -58,11 +58,11 @@
 | 51 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | [Albacete Cubea y Vete 2025](https://www.worldcubeassociation.org/competitions/AlbaceteCubeayVete2025) |
 | 36 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) | [León Open 2025](https://www.worldcubeassociation.org/competitions/LeonOpen2025) |
 | 32 | [Daniel Cofreces Jaureguizar](https://www.worldcubeassociation.org/persons/2011COFR01) | [Alella Open 2026](https://www.worldcubeassociation.org/competitions/AlellaOpen2026) |
+| 30 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026) |
 | 26 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | [Nerja Chanquete Open 2026](https://www.worldcubeassociation.org/competitions/NerjaChanqueteOpen2026) |
 | 26 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | [Mairena Open 2023](https://www.worldcubeassociation.org/competitions/MairenaOpen2023) |
 | 20 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Euskadi Open Portugalete 2018](https://www.worldcubeassociation.org/competitions/EuskadiOpenPortugalete2018) |
 | 18 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | [Parla Open 2022](https://www.worldcubeassociation.org/competitions/ParlaOpen2022) |
-| 15 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Gijón Open 2014](https://www.worldcubeassociation.org/competitions/GijonOpen2014) |
 
 ### 6x6x6 Cube
 
@@ -73,11 +73,11 @@
 | 16 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | [Ciu La Mancha Open 2026](https://www.worldcubeassociation.org/competitions/CiuLaManchaOpen2026) |
 | 15 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | [Ruta Cubera: Arriate Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaArriateOpen2025) |
 | 12 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | [Puerto Real Camaleón Open 2026](https://www.worldcubeassociation.org/competitions/PuertoRealCamaleonOpen2026) |
+| 12 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026) |
 | 12 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | [Getafe Open 2025](https://www.worldcubeassociation.org/competitions/GetafeOpen2025) |
 | 11 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | [Archena Open 2019](https://www.worldcubeassociation.org/competitions/ArchenaOpen2019) |
 | 11 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Euskadi Open Portugalete 2018](https://www.worldcubeassociation.org/competitions/EuskadiOpenPortugalete2018) |
 | 10 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Parla Open 2018](https://www.worldcubeassociation.org/competitions/ParlaOpen2018) |
-| 9 | [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) | [Ocaña BotijOpen 2025](https://www.worldcubeassociation.org/competitions/OcanaBotijOpen2025) |
 
 ### 7x7x7 Cube
 
@@ -137,12 +137,13 @@
 | 23 | [Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13) | [Iruña Open 2017](https://www.worldcubeassociation.org/competitions/IrunaOpen2017) |
 | 23 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Euskadi Open Portugalete 2018](https://www.worldcubeassociation.org/competitions/EuskadiOpenPortugalete2018) |
 | 22 | [Erik Subirats](https://www.worldcubeassociation.org/persons/2016SUBI01) | [Val d'Aran Open 2024](https://www.worldcubeassociation.org/competitions/ValdAranOpen2024) |
-| 21 | [Adrián Bernete Berlanga](https://www.worldcubeassociation.org/persons/2015BERL01) | [Móstoles Open 2026](https://www.worldcubeassociation.org/competitions/MostolesOpen2026) |
+| 21 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | [Jesuitinas Txantrea Open 2022](https://www.worldcubeassociation.org/competitions/JesuitinasTxantreaOpen2022) |
 
 ### Megaminx
 
 | Competiciones | Persona | Primera victoria |
 | ---: | :--- | :--- |
+| 37 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | [L'Eliana Open 2026](https://www.worldcubeassociation.org/competitions/LElianaOpen2026) |
 | 29 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | [Ruta Cubera: Vila-real Open 2026](https://www.worldcubeassociation.org/competitions/RutaCuberaVilarealOpen2026) |
 | 25 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | [Dual Games Alicante 2019](https://www.worldcubeassociation.org/competitions/DualGamesAlicante2019) |
 | 20 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | [Lleida Winter Open 2023](https://www.worldcubeassociation.org/competitions/LleidaWinter2023) |
@@ -152,7 +153,6 @@
 | 16 | [Germán García Molina](https://www.worldcubeassociation.org/persons/2023MOLI01) | [Moroccan Championship 2025](https://www.worldcubeassociation.org/competitions/MoroccanChampionship2025) |
 | 16 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Chanquete Open 2022](https://www.worldcubeassociation.org/competitions/ChanqueteOpen2022) |
 | 16 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | [Euskadi Open Portugalete 2019](https://www.worldcubeassociation.org/competitions/EuskadiOpenPortugalete2019) |
-| 14 | [Arabel•la Puig Villacorta](https://www.worldcubeassociation.org/persons/2023VILL48) | [Canet d'en Berenguer Open 2026](https://www.worldcubeassociation.org/competitions/CanetdenBerenguerOpen2026) |
 
 ### Pyraminx
 
@@ -190,14 +190,14 @@
 | ---: | :--- | :--- |
 | 59 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | [Ruta Valenciana IV: Sueca 2024](https://www.worldcubeassociation.org/competitions/RutaValencianaIVSueca2024) |
 | 56 | [Daniel Ortega Pastor](https://www.worldcubeassociation.org/persons/2014PAST03) | [L'Eliana Open 2024](https://www.worldcubeassociation.org/competitions/LElianaOpen2024) |
+| 53 | [Oscar Sánchez Najarro](https://www.worldcubeassociation.org/persons/2017NAJA02) | [El Masnou Open 2024](https://www.worldcubeassociation.org/competitions/ElMasnouOpen2024) |
 | 53 | [Àlex Domingo Risco](https://www.worldcubeassociation.org/persons/2015RISC01) | [Vall de Núria 2025](https://www.worldcubeassociation.org/competitions/ValldeNuria2025) |
 | 53 | [Maider Arce López de Ipiña](https://www.worldcubeassociation.org/persons/2015ARCE04) | [Ruta Cubera: Tenerife Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaTenerifeOpen2025) |
-| 53 | [Oscar Sánchez Najarro](https://www.worldcubeassociation.org/persons/2017NAJA02) | [El Masnou Open 2024](https://www.worldcubeassociation.org/competitions/ElMasnouOpen2024) |
+| 51 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026) |
 | 48 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | [Sarriguren Open 2026](https://www.worldcubeassociation.org/competitions/SarrigurenOpen2026) |
 | 47 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | [Ciu La Mancha Open 2026](https://www.worldcubeassociation.org/competitions/CiuLaManchaOpen2026) |
 | 44 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) | [Ocaña BotijOpen 2025](https://www.worldcubeassociation.org/competitions/OcanaBotijOpen2025) |
 | 40 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [UMA Open 2023](https://www.worldcubeassociation.org/competitions/UMAOpen2023) |
-| 38 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [CCPA Open 2019](https://www.worldcubeassociation.org/competitions/CCPAOpen2019) |
 
 ### Square-1
 

@@ -1,7 +1,7 @@
 ## Rankings anuales
 
 *Nota: Incluye únicamente resultados del año en curso.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -44,7 +44,7 @@
 | [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) | **0.75** | [GAN CubingVic 2026](https://www.worldcubeassociation.org/competitions/GANCubingVic2026) | 0.75, 1.51, 3.81, 0.93, 1.14 |
 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | **0.76** | [Tarancón Open 2026](https://www.worldcubeassociation.org/competitions/TaranconOpen2026) | 0.76, 3.61, 3.22, 3.72, 3.77 |
 | [Germán García Molina](https://www.worldcubeassociation.org/persons/2023MOLI01) | **0.80** | [Tomelloso Open 2026](https://www.worldcubeassociation.org/competitions/TomellosoOpen2026) | 4.30, 10.90, 3.35, 0.80, 3.56 |
-| [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) | **0.83** | [Amore Amorebieta Open 2026](https://www.worldcubeassociation.org/competitions/AmoreAmorebietaOpen2026) | 4.26, 3.79, 0.83, 1.31, 1.68 |
+| [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) | **0.83** | [Gasteiz Open 2026](https://www.worldcubeassociation.org/competitions/GasteizOpen2026) | 1.14, 1.05, 1.85, 0.83, 3.74 |
 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | **0.91** | [Amore Amorebieta Open 2026](https://www.worldcubeassociation.org/competitions/AmoreAmorebietaOpen2026) | 2.54, 2.16, 0.91, DNF, 3.53 |
 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | **0.93** | [Mirasierra Open 2026](https://www.worldcubeassociation.org/competitions/MirasierraOpen2026) | 3.40, 1.39, 0.93, 3.42, 3.74 |
 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | **0.96** | [Parets Open 2026](https://www.worldcubeassociation.org/competitions/ParetsOpen2026) | 3.66, 3.48, 2.74, 0.96, 7.87 |
@@ -57,12 +57,12 @@
 | [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) | **1.19** | [GAN CubingVic 2026](https://www.worldcubeassociation.org/competitions/GANCubingVic2026) | 0.75, 1.51, 3.81, 0.93, 1.14 |
 | [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) | **1.35** | [Gasteiz Open 2026](https://www.worldcubeassociation.org/competitions/GasteizOpen2026) | 1.14, 1.05, 1.85, 0.83, 3.74 |
 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | **1.44** | [Cervantes Cubea Alcalá 2026](https://www.worldcubeassociation.org/competitions/CervantesCubeaAlcala2026) | 1.09, 2.08, 1.26, 1.76, 1.31 |
+| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | **1.49** | [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026) | 1.67, 1.45, 1.21, 1.34, 1.74 |
 | [Sergio Márquez Fernández-Jardón](https://www.worldcubeassociation.org/persons/2023FERN54) | **1.52** | [Cervantes Cubea Alcalá 2026](https://www.worldcubeassociation.org/competitions/CervantesCubeaAlcala2026) | 1.24, 1.84, 1.05, 1.87, 1.48 |
 | [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) | **1.55** | [Villanueva Open 2026](https://www.worldcubeassociation.org/competitions/VillanuevaOpen2026) | 1.66, 1.55, 2.50, 1.40, 1.43 |
-| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | **1.56** | [Amore Amorebieta Open 2026](https://www.worldcubeassociation.org/competitions/AmoreAmorebietaOpen2026) | 1.99, 1.40, 1.18, 1.28, 2.23 |
+| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | **1.56** | [Fuentes de Andalucía Open 2026](https://www.worldcubeassociation.org/competitions/FuentesdeAndaluciaOpen2026) | 1.43, 1.59, 1.66, 1.35, 3.11 |
 | [Óscar Gervasini Lois](https://www.worldcubeassociation.org/persons/2023LOIS01) | **1.59** | [Durango Open 2026](https://www.worldcubeassociation.org/competitions/DurangoOpen2026) | 0.98, 1.72, 1.88, 4.44, 1.18 |
 | [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) | **1.61** | [Granada Open 2026](https://www.worldcubeassociation.org/competitions/GranadaOpen2026) | 4.07, 1.55, 1.52, 1.59, 1.70 |
-| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | **1.69** | [Chiclana Open 2026](https://www.worldcubeassociation.org/competitions/ChiclanaOpen2026) | 1.71, 1.46, 1.91, 1.27, 2.62 |
 
 ### 4x4x4 Cube - Single
 
@@ -89,10 +89,10 @@
 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | **29.31** | [Torrelodones Open 2026](https://www.worldcubeassociation.org/competitions/TorrelodonesOpen2026) | 29.44, 32.31, 26.10, 30.15, 28.33 |
 | [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) | **29.63** | [Begastri Open 2026](https://www.worldcubeassociation.org/competitions/BegastriOpen2026) | 28.62, 28.18, 35.84, 28.77, 31.49 |
 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | **29.74** | [Madrid Norte Open 2026](https://www.worldcubeassociation.org/competitions/MadridNorteOpen2026) | 30.49, 25.90, 34.14, 27.89, 30.83 |
+| [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | **29.84** | [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026) | 36.54, 30.12, 30.12, 28.97, 29.28 |
 | [Óscar Pérez Mengual](https://www.worldcubeassociation.org/persons/2022MENG02) | **30.20** | [Alella Open 2026](https://www.worldcubeassociation.org/competitions/AlellaOpen2026) | 27.40, 29.18, 34.03, 45.65, 27.32 |
 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | **30.43** | [Tarancón Open 2026](https://www.worldcubeassociation.org/competitions/TaranconOpen2026) | 26.96, 35.47, 27.45, 39.01, 28.38 |
 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | **30.52** | [UPV Open 2026](https://www.worldcubeassociation.org/competitions/UPVOpen2026) | 32.10, 38.28, 27.71, 30.35, 29.10 |
-| [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) | **30.71** | [Cintruenigo Open 2026](https://www.worldcubeassociation.org/competitions/CintruenigoOpen2026) | 29.13, 26.00, 31.05, 31.95, 35.25 |
 
 ### 5x5x5 Cube - Single
 
@@ -219,12 +219,12 @@
 | Persona | Resultado | Competición | Detalles |
 | :--- | ---: | :--- | :--- |
 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | **19** | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026) | 22, 19, 23 |
-| [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) | **19** | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026) | 25, 19, 32 |
 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | **19** | [FMC Spanish Championship 2026](https://www.worldcubeassociation.org/competitions/FMCSpanishChampionship2026) | 19, 26, 32 |
+| [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) | **19** | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026) | 25, 19, 32 |
 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) | **20** | [FMC Spanish Championship 2026](https://www.worldcubeassociation.org/competitions/FMCSpanishChampionship2026) | 24, 20, 27 |
 | [Roberto Lloréns Dueñas](https://www.worldcubeassociation.org/persons/2024DUEN04) | **24** | [Begastri Open 2026](https://www.worldcubeassociation.org/competitions/BegastriOpen2026) | 40, 32, 24 |
 | [Javier Cabezuelo Sánchez](https://www.worldcubeassociation.org/persons/2007SANC01) | **25** | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 25, DNF, 30 |
-| [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | **25** | [Begastri Open 2026](https://www.worldcubeassociation.org/competitions/BegastriOpen2026) | 33, 35, 25 |
+| [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | **25** | [FMC Spanish Championship 2026](https://www.worldcubeassociation.org/competitions/FMCSpanishChampionship2026) | 30, 34, 25 |
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | **26** | [Europe FMC Friends Winter 2026](https://www.worldcubeassociation.org/competitions/EuropeFMCFriendsWinter2026) | 28, 34, 26 |
 | [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) | **26** | [FMC Spanish Championship 2026](https://www.worldcubeassociation.org/competitions/FMCSpanishChampionship2026) | 35, 37, 26 |
 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | **27** | [FMC Spanish Championship 2026](https://www.worldcubeassociation.org/competitions/FMCSpanishChampionship2026) | 27, 34, 34 |
@@ -329,7 +329,7 @@
 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | **1.91** | [Granada Open 2026](https://www.worldcubeassociation.org/competitions/GranadaOpen2026) | 2.19, 1.64, 3.27, 1.79, 1.76 |
 | [Oriol Mas Alarcón](https://www.worldcubeassociation.org/persons/2023ALAR04) | **2.03** | [Santpedor Open 2026](https://www.worldcubeassociation.org/competitions/SantpedorOpen2026) | 1.65, 2.46, 1.68, 4.48, 1.96 |
 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | **2.03** | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026) | 1.16, 1.61, 2.11, 2.37, 2.82 |
-| [Darío Ramírez Pino](https://www.worldcubeassociation.org/persons/2024PINO01) | **2.28** | [Chiclana Open 2026](https://www.worldcubeassociation.org/competitions/ChiclanaOpen2026) | 2.26, 2.62, 1.97, 3.45, 1.78 |
+| [Darío Ramírez Pino](https://www.worldcubeassociation.org/persons/2024PINO01) | **2.28** | [Bormujos Open 2026](https://www.worldcubeassociation.org/competitions/BormujosOpen2026) | 1.76, 1.82, 2.12, 2.89, 5.16 |
 | [Aleix Foguet](https://www.worldcubeassociation.org/persons/2023FOGU01) | **2.30** | [GAN CubingVic 2026](https://www.worldcubeassociation.org/competitions/GANCubingVic2026) | 4.48, 2.22, 2.11, 2.24, 2.44 |
 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | **2.31** | [Bilbao Open 2026](https://www.worldcubeassociation.org/competitions/BilbaoOpen2026) | 3.12, 1.60, 2.21, 1.55, 5.45 |
 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | **2.33** | [Granada Open 2026](https://www.worldcubeassociation.org/competitions/GranadaOpen2026) | 2.09, 2.42, 1.79, 3.05, 2.49 |

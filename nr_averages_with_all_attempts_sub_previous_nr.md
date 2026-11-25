@@ -1,7 +1,7 @@
 ## Averages récord nacional con todos los intentos mejores que el anterior récord nacional
 
 *Nota: Los récords continentales y mundiales también cuentan como récord nacional. Se omite el primer récord de cada categoría.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

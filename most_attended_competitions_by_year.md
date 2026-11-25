@@ -1,38 +1,38 @@
 ## Más competiciones cada año
 
 *Nota: Muestra los 25 competidores españoles con más competiciones cada año.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 2026
 
 | Competiciones | Persona |
 | ---: | :--- |
-| 29 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
+| 30 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 26 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
 | 25 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 25 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
+| 25 | [Sergio Chaparro Díaz-Cano](https://www.worldcubeassociation.org/persons/2023DIAZ45) |
 | 25 | [Víctor Tretyakov Timofeyeva](https://www.worldcubeassociation.org/persons/2023TIMO01) |
 | 24 | [Francisco Montañés Barbudo](https://www.worldcubeassociation.org/persons/2014BARB07) |
-| 24 | [Sergio Chaparro Díaz-Cano](https://www.worldcubeassociation.org/persons/2023DIAZ45) |
+| 24 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 24 | [Miguel Ángel Meza](https://www.worldcubeassociation.org/persons/2023MEZA02) |
 | 23 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) |
 | 23 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
-| 23 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 23 | [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) |
 | 22 | [Rocío Fernández Usero](https://www.worldcubeassociation.org/persons/2014USER01) |
+| 22 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) |
 | 22 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
-| 22 | [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) |
 | 22 | [Eduardo Lucas Muñoz de Lucas](https://www.worldcubeassociation.org/persons/2022LUCA04) |
+| 22 | [Arturo Lizama Montoya](https://www.worldcubeassociation.org/persons/2022MONT30) |
 | 22 | [Javier Lizama Montoya](https://www.worldcubeassociation.org/persons/2022MONT31) |
-| 21 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) |
 | 21 | [Laura Freitas Martín](https://www.worldcubeassociation.org/persons/2018MART18) |
-| 21 | [Arturo Lizama Montoya](https://www.worldcubeassociation.org/persons/2022MONT30) |
+| 21 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 20 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
-| 20 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 19 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
 | 19 | [Alex Mora](https://www.worldcubeassociation.org/persons/2025MORA11) |
+| 18 | [David Sánchez Peris](https://www.worldcubeassociation.org/persons/2017PERI05) |
 | 18 | [Arturo González Medina](https://www.worldcubeassociation.org/persons/2018MEDI10) |
-| 18 | [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) |
 
 ### 2025
 

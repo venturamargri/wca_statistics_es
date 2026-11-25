@@ -1,6 +1,6 @@
 ## Más competiciones disputadas en una misma semana (único)
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Competiciones | Persona | Inicio | Fin | Competiciones (lista) |
 | ---: | :--- | :--- | :--- | :--- |

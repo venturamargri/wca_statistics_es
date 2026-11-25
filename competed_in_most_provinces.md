@@ -1,7 +1,7 @@
 ## Más provincias en las que se ha competido
 
 *Nota: Provincia o ciudad autónoma calculada a partir de las coordenadas de la competición (50 provincias y 2 ciudades autónomas).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Persona | Completadas | Faltan | Provincias pendientes | Completado en |
 | :--- | ---: | ---: | :--- | :--- |

@@ -1,6 +1,6 @@
 ## Mejor single que cuenta en un average de 5
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -9,8 +9,8 @@
 | ---: | :--- | :--- |
 | 4.92 | [Biel Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ08) | [Granollers Open 2026](https://www.worldcubeassociation.org/competitions/GranollersOpen2026/results/by_person#2015GONZ08) |
 | 5.80 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | [Mejorada Open 2026](https://www.worldcubeassociation.org/competitions/MejoradaOpen2026/results/by_person#2017KRAS05) |
-| 5.83 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | [Albacete Cubea y Vete 2025](https://www.worldcubeassociation.org/competitions/AlbaceteCubeayVete2025/results/by_person#2017KRAS05) |
 | 5.83 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025/results/by_person#2017KRAS05) |
+| 5.83 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | [Albacete Cubea y Vete 2025](https://www.worldcubeassociation.org/competitions/AlbaceteCubeayVete2025/results/by_person#2017KRAS05) |
 | 5.85 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | [Nexta Andorra Championship 2026](https://www.worldcubeassociation.org/competitions/NextaAndorraChampionship2026/results/by_person#2017KRAS05) |
 | 5.86 | [Biel Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ08) | [Madrid Norte Open 2025](https://www.worldcubeassociation.org/competitions/MadridNorteOpen2025/results/by_person#2015GONZ08) |
 | 5.87 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | [Madrid Norte Open 2025](https://www.worldcubeassociation.org/competitions/MadridNorteOpen2025/results/by_person#2017KRAS05) |
@@ -30,8 +30,8 @@
 | 0.93 | [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) | [GAN CubingVic 2026](https://www.worldcubeassociation.org/competitions/GANCubingVic2026/results/by_person#2021SAMP01) |
 | 0.94 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | [Gares Open 2026](https://www.worldcubeassociation.org/competitions/GaresOpen2026/results/by_person#2023LARR09) |
 | 0.95 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | [Basauri Open 2026](https://www.worldcubeassociation.org/competitions/BasauriOpen2026/results/by_person#2023LARR09) |
-| 0.98 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | [Portugalete Open 2025](https://www.worldcubeassociation.org/competitions/PortugaleteOpen2025/results/by_person#2023LARR09) |
 | 0.98 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | [Sarriguren Open 2025](https://www.worldcubeassociation.org/competitions/SarrigurenOpen2025/results/by_person#2023LARR09) |
+| 0.98 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | [Portugalete Open 2025](https://www.worldcubeassociation.org/competitions/PortugaleteOpen2025/results/by_person#2023LARR09) |
 
 ### 4x4x4 Cube
 
@@ -61,7 +61,7 @@
 | 47.39 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | [Baztan Open 2024](https://www.worldcubeassociation.org/competitions/BaztanOpen2024/results/by_person#2012GONZ10) |
 | 47.47 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2012GONZ10) |
 | 47.52 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | [Bilbao Open 2023](https://www.worldcubeassociation.org/competitions/BilbaoOpen2023/results/by_person#2012GONZ10) |
-| 47.56 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | [Basauri Side Events 2025](https://www.worldcubeassociation.org/competitions/BasauriSideEvents2025/results/by_person#2012GONZ10) |
+| 47.56 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2012GONZ10) |
 
 ### 3x3x3 One-Handed
 
@@ -101,8 +101,8 @@
 | 1.25 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | [Amore Amorebieta Open 2026](https://www.worldcubeassociation.org/competitions/AmoreAmorebietaOpen2026/results/by_person#2022LARR02) |
 | 1.26 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | [Bilbao Urte Berri OpeN 2025](https://www.worldcubeassociation.org/competitions/BilbaoUrteBerriOpeN2025/results/by_person#2022LARR02) |
 | 1.28 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | [Esprit Cube Labenne 2026](https://www.worldcubeassociation.org/competitions/EspritCubeLabenne2026/results/by_person#2022LARR02) |
-| 1.29 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | [Durango Open 2026](https://www.worldcubeassociation.org/competitions/DurangoOpen2026/results/by_person#2022LARR02) |
 | 1.29 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | [WCA European Championship 2026](https://www.worldcubeassociation.org/competitions/Euro2026/results/by_person#2022LARR02) |
+| 1.29 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | [Durango Open 2026](https://www.worldcubeassociation.org/competitions/DurangoOpen2026/results/by_person#2022LARR02) |
 | 1.30 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | [Basauri Open 2026](https://www.worldcubeassociation.org/competitions/BasauriOpen2026/results/by_person#2022LARR02) |
 | 1.30 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | [Sarriguren Open 2025](https://www.worldcubeassociation.org/competitions/SarrigurenOpen2025/results/by_person#2022LARR02) |
 | 1.33 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | [Warm Up Lent 2026](https://www.worldcubeassociation.org/competitions/WarmUpLent2026/results/by_person#2022LARR02) |

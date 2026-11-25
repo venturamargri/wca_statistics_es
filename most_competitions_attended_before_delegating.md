@@ -1,7 +1,7 @@
 ## Más competiciones disputadas antes de delegar una
 
 *Nota: Solo se cuentan las competiciones que comenzaron antes de la primera delegada.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Competiciones | Persona | Primera competición | Primera delegada |
 | ---: | :--- | :--- | :--- |

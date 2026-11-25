@@ -1,7 +1,7 @@
 ## Delegado en más provincias
 
 *Nota: Provincia o ciudad autónoma calculada a partir de las coordenadas de la competición (50 provincias y 2 ciudades autónomas). Solo se incluyen delegados españoles y competiciones en España con resultados publicados.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Delegado | Delegadas | Faltan | Provincias pendientes | Completado en |
 | :--- | ---: | ---: | :--- | :--- |

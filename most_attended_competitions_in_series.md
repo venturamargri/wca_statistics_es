@@ -1,7 +1,7 @@
 ## Más competiciones disputadas en una misma serie
 
 *Nota: Solo competiciones celebradas en España con resultados publicados.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### Campeonato de España
@@ -514,72 +514,35 @@ _Total de competiciones: 5_
 | 12 | [Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01) | 3 |
 
 ### Gelves Open
-_Total de competiciones: 1_
+_Total de competiciones: 2_
 
 | Posición | Persona | Competiciones |
 | ---: | :--- | ---: |
-| 1 | [Adrián López Rojo](https://www.worldcubeassociation.org/persons/2024ROJO01) | 1 |
-| 1 | [Alberto Rodríguez Escobar](https://www.worldcubeassociation.org/persons/2025ESCO04) | 1 |
-| 1 | [Alejandro Delgado Barcia](https://www.worldcubeassociation.org/persons/2023BARC03) | 1 |
-| 1 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 1 |
-| 1 | [Álvaro García Colodro](https://www.worldcubeassociation.org/persons/2025COLO03) | 1 |
-| 1 | [Álvaro Pedrote Valverde](https://www.worldcubeassociation.org/persons/2024VALV01) | 1 |
-| 1 | [Ana Varnhagen Osorio](https://www.worldcubeassociation.org/persons/2023OSOR03) | 1 |
-| 1 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 1 |
-| 1 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | 1 |
-| 1 | [Arthur Joseph Maxwell](https://www.worldcubeassociation.org/persons/2025MAXW03) | 1 |
-| 1 | [Blanca Piédrola Sánchez](https://www.worldcubeassociation.org/persons/2023SANC29) | 1 |
-| 1 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 1 |
-| 1 | [Carlos Pajuelo Rojo](https://www.worldcubeassociation.org/persons/2018ROJO01) | 1 |
-| 1 | [Claudia Insua Conesa](https://www.worldcubeassociation.org/persons/2024CONE01) | 1 |
-| 1 | [Daniel Ledsam](https://www.worldcubeassociation.org/persons/2025LEDS02) | 1 |
-| 1 | [Daniel Martínez Rodríguez](https://www.worldcubeassociation.org/persons/2024RODR06) | 1 |
-| 1 | [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) | 1 |
-| 1 | [David Grima Martínez](https://www.worldcubeassociation.org/persons/2025MART57) | 1 |
-| 1 | [David Landero Villalón](https://www.worldcubeassociation.org/persons/2024VILL48) | 1 |
-| 1 | [David Sánchez Serrano](https://www.worldcubeassociation.org/persons/2016SERR09) | 1 |
-| 1 | [Diego Martínez Linares](https://www.worldcubeassociation.org/persons/2024LINA03) | 1 |
-| 1 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) | 1 |
-| 1 | [Francisco Álvarez-Ossorio Maraver](https://www.worldcubeassociation.org/persons/2024MARA12) | 1 |
-| 1 | [George Edward Maxwell](https://www.worldcubeassociation.org/persons/2025MAXW04) | 1 |
-| 1 | [Gladys Garcés](https://www.worldcubeassociation.org/persons/2018NAYL01) | 1 |
-| 1 | [Helena Martín Katerji](https://www.worldcubeassociation.org/persons/2023KATE03) | 1 |
-| 1 | [Hugo Peña Pavón](https://www.worldcubeassociation.org/persons/2023PAVO01) | 1 |
-| 1 | [Hugo Sibille Peralías](https://www.worldcubeassociation.org/persons/2025PERA01) | 1 |
-| 1 | [Ismael Martín Katerji](https://www.worldcubeassociation.org/persons/2023KATE04) | 1 |
-| 1 | [Izan Arribas Puerta](https://www.worldcubeassociation.org/persons/2025PUER03) | 1 |
-| 1 | [Jose Cortés Coveñas](https://www.worldcubeassociation.org/persons/2025COVE01) | 1 |
-| 1 | [Joseph Ledsam](https://www.worldcubeassociation.org/persons/2025LEDS01) | 1 |
-| 1 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 1 |
-| 1 | [Juan García Colodro](https://www.worldcubeassociation.org/persons/2025COLO04) | 1 |
-| 1 | [Julio Antonio Fernández Atenciano](https://www.worldcubeassociation.org/persons/2024ATEN01) | 1 |
-| 1 | [Leonard Wetzel](https://www.worldcubeassociation.org/persons/2016WETZ01) | 1 |
-| 1 | [Liberto Ventura Mesa](https://www.worldcubeassociation.org/persons/2023MESA04) | 1 |
-| 1 | [Lucas Herraez Pérez](https://www.worldcubeassociation.org/persons/2025PERE47) | 1 |
-| 1 | [Manuel Viera Rivas](https://www.worldcubeassociation.org/persons/2023RIVA17) | 1 |
-| 1 | [Mario Grima Martínez](https://www.worldcubeassociation.org/persons/2025MART27) | 1 |
-| 1 | [Martín Rico Muñoz](https://www.worldcubeassociation.org/persons/2025MUNO04) | 1 |
-| 1 | [Mateo Botella García](https://www.worldcubeassociation.org/persons/2023GARM04) | 1 |
-| 1 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 1 |
-| 1 | [Miguel Ángel Martínez Gallego](https://www.worldcubeassociation.org/persons/2023GALL21) | 1 |
-| 1 | [Miguel Ángel Pérez Gómez](https://www.worldcubeassociation.org/persons/2023GOME64) | 1 |
-| 1 | [Nicolás Navarro Rodríguez](https://www.worldcubeassociation.org/persons/2024RODR96) | 1 |
-| 1 | [Olivier Sibille Peralías](https://www.worldcubeassociation.org/persons/2025PERA02) | 1 |
-| 1 | [Omar Nwelati Malo](https://www.worldcubeassociation.org/persons/2025MALO06) | 1 |
-| 1 | [Pablo Cabello Rodríguez](https://www.worldcubeassociation.org/persons/2022RODR17) | 1 |
-| 1 | [Paula Victoria Caballero Ezequiel](https://www.worldcubeassociation.org/persons/2024EZEQ01) | 1 |
-| 1 | [Pedro Collado Palma](https://www.worldcubeassociation.org/persons/2022PALM06) | 1 |
-| 1 | [Pedro González Grima](https://www.worldcubeassociation.org/persons/2025GRIM05) | 1 |
-| 1 | [Petra Wetzel](https://www.worldcubeassociation.org/persons/2020WETZ01) | 1 |
-| 1 | [Pilar Mesa Blanco](https://www.worldcubeassociation.org/persons/2025BLAN03) | 1 |
-| 1 | [Rafael Medina Facal](https://www.worldcubeassociation.org/persons/2025FACA01) | 1 |
-| 1 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 1 |
-| 1 | [Roberto López Rojo](https://www.worldcubeassociation.org/persons/2024ROJO02) | 1 |
-| 1 | [Rubén Cabello Toscano](https://www.worldcubeassociation.org/persons/2025TOSC01) | 1 |
-| 1 | [Sergio Chaparro Díaz-Cano](https://www.worldcubeassociation.org/persons/2023DIAZ45) | 1 |
-| 1 | [Unai Nwelati Malo](https://www.worldcubeassociation.org/persons/2025MALO07) | 1 |
-| 1 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 1 |
-| 1 | [Victor Salas](https://www.worldcubeassociation.org/persons/2024SALA13) | 1 |
+| 1 | [Alejandro Delgado Barcia](https://www.worldcubeassociation.org/persons/2023BARC03) | 2 |
+| 1 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 2 |
+| 1 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 2 |
+| 1 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | 2 |
+| 1 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 2 |
+| 1 | [Carlos Pajuelo Rojo](https://www.worldcubeassociation.org/persons/2018ROJO01) | 2 |
+| 1 | [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) | 2 |
+| 1 | [David Grima Martínez](https://www.worldcubeassociation.org/persons/2025MART57) | 2 |
+| 1 | [David Landero Villalón](https://www.worldcubeassociation.org/persons/2024VILL48) | 2 |
+| 1 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) | 2 |
+| 1 | [Helena Martín Katerji](https://www.worldcubeassociation.org/persons/2023KATE03) | 2 |
+| 1 | [Ismael Martín Katerji](https://www.worldcubeassociation.org/persons/2023KATE04) | 2 |
+| 1 | [Joseph Ledsam](https://www.worldcubeassociation.org/persons/2025LEDS01) | 2 |
+| 1 | [Mario Grima Martínez](https://www.worldcubeassociation.org/persons/2025MART27) | 2 |
+| 1 | [Martín Rico Muñoz](https://www.worldcubeassociation.org/persons/2025MUNO04) | 2 |
+| 1 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 2 |
+| 1 | [Miguel Ángel Pérez Gómez](https://www.worldcubeassociation.org/persons/2023GOME64) | 2 |
+| 1 | [Omar Nwelati Malo](https://www.worldcubeassociation.org/persons/2025MALO06) | 2 |
+| 1 | [Pablo Cabello Rodríguez](https://www.worldcubeassociation.org/persons/2022RODR17) | 2 |
+| 1 | [Paula Victoria Caballero Ezequiel](https://www.worldcubeassociation.org/persons/2024EZEQ01) | 2 |
+| 1 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 2 |
+| 1 | [Sergio Chaparro Díaz-Cano](https://www.worldcubeassociation.org/persons/2023DIAZ45) | 2 |
+| 1 | [Unai Nwelati Malo](https://www.worldcubeassociation.org/persons/2025MALO07) | 2 |
+| 1 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 2 |
+| 1 | [Victor Salas](https://www.worldcubeassociation.org/persons/2024SALA13) | 2 |
 
 ### Sevilla Open
 _Total de competiciones: 1_

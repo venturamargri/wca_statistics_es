@@ -1,7 +1,7 @@
 ## Mejor primer single
 
 *Nota: Mejor primer intento oficial conseguido al participar por primera vez en cada categoría (si el primer intento absoluto fue DNF/DNS, no cuenta).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -163,8 +163,8 @@
 | 3.98 | [Angel Lorenzo Campillo](https://www.worldcubeassociation.org/persons/2022CAMP06) |
 | 4.19 | [Samuel Orellana Mateo](https://www.worldcubeassociation.org/persons/2025MATE11) |
 | 4.20 | [Gel Hernández Blanco](https://www.worldcubeassociation.org/persons/2024BLAN14) |
-| 4.69 | [Andrés Arenas Sánchez](https://www.worldcubeassociation.org/persons/2022SANC04) |
 | 4.69 | [Sergio Hidalgo López](https://www.worldcubeassociation.org/persons/2022LOPE08) |
+| 4.69 | [Andrés Arenas Sánchez](https://www.worldcubeassociation.org/persons/2022SANC04) |
 | 4.73 | [Enzo Anula Cano](https://www.worldcubeassociation.org/persons/2025CANO10) |
 | 4.74 | [Sergio Cockerham](https://www.worldcubeassociation.org/persons/2023COCK03) |
 | 4.75 | [Nicolas Cano Bolado](https://www.worldcubeassociation.org/persons/2022BOLA03) |

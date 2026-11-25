@@ -1,6 +1,6 @@
 ## Más competiciones disputadas en un mismo mes (único)
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Competiciones | Persona | Mes | Año |
 | :--- | :--- | :--- | :--- |

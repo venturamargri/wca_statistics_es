@@ -1,7 +1,7 @@
 ## Número de récords por persona
 
 *Nota: Cada récord cuenta una sola vez en su nivel más alto (WR > ER > NR).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Persona | Total | WR | ER | NR |
 | :--- | ---: | ---: | ---: | ---: |

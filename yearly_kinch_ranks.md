@@ -1,7 +1,7 @@
 ## Clasificación Kinch por año
 
 *Nota: Ranking Kinch calculado anualmente usando únicamente las marcas del formato principal WCA conseguidas en ese año, comparadas frente a la mejor marca española de ese mismo año (sobre las categorías oficiales con resultados españoles en dicho año).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 2026
@@ -11,19 +11,19 @@
 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 55.59 |
 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | 55.17 |
 | [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) | 53.79 |
-| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 52.26 |
+| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 52.90 |
+| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 52.31 |
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 51.56 |
 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 51.26 |
 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | 49.54 |
 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 48.62 |
-| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 47.76 |
 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) | 46.85 |
 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | 46.06 |
-| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 45.58 |
+| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 45.77 |
+| [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) | 43.09 |
 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) | 42.89 |
-| [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) | 42.89 |
+| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 42.04 |
 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 41.63 |
-| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 41.34 |
 | [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) | 41.23 |
 | [Ot Caminals Aleu](https://www.worldcubeassociation.org/persons/2022ALEU01) | 41.22 |
 | [Iker Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2016RUIZ05) | 40.92 |
@@ -33,9 +33,9 @@
 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 39.56 |
 | [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) | 38.83 |
 | [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) | 38.29 |
-| [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | 37.73 |
+| [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | 37.92 |
 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 36.38 |
-| [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 35.99 |
+| [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 36.37 |
 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | 35.39 |
 | [Mikel Manterola Zarraga](https://www.worldcubeassociation.org/persons/2024ZARR01) | 34.67 |
 

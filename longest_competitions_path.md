@@ -1,7 +1,7 @@
 ## Mayor distancia recorrida entre competiciones
 
 *Nota: Calculada como la suma de distancias en línea recta entre competiciones consecutivas disputadas.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Persona | Distancia |
 | :--- | ---: |
@@ -9,7 +9,7 @@
 | [Albert Garriga Gea](https://www.worldcubeassociation.org/persons/2019GEAA01) | 110 076 km |
 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) | 109 613 km |
 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | 104 610 km |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 93 246 km |
+| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 93 338 km |
 | [Laura Tarrés Gimeno](https://www.worldcubeassociation.org/persons/2015GIME02) | 90 934 km |
 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 85 015 km |
 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | 80 669 km |
@@ -20,7 +20,7 @@
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 60 827 km |
 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | 57 631 km |
 | [Guillermo Conde Gil](https://www.worldcubeassociation.org/persons/2008COND01) | 57 262 km |
-| [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) | 55 173 km |
+| [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) | 55 265 km |
 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 54 329 km |
 | [Laura Freitas Martín](https://www.worldcubeassociation.org/persons/2018MART18) | 53 604 km |
 | [Pi Sevilla Hernández](https://www.worldcubeassociation.org/persons/2013HENA01) | 52 439 km |
@@ -35,15 +35,15 @@
 | [Gonzalo Blanco Herrero](https://www.worldcubeassociation.org/persons/2015HERR12) | 47 560 km |
 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 47 557 km |
 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 46 978 km |
-| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 46 318 km |
+| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 46 411 km |
 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) | 45 470 km |
+| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 44 898 km |
 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) | 44 896 km |
-| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 44 806 km |
 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 44 377 km |
 | [Sergi Sabat](https://www.worldcubeassociation.org/persons/2010SABA01) | 44 319 km |
 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) | 40 570 km |
 | [Javier Lizama Montoya](https://www.worldcubeassociation.org/persons/2022MONT31) | 40 212 km |
-| [Arturo Lizama Montoya](https://www.worldcubeassociation.org/persons/2022MONT30) | 39 739 km |
+| [Arturo Lizama Montoya](https://www.worldcubeassociation.org/persons/2022MONT30) | 40 163 km |
 | [Imanol Azurmendi Huici](https://www.worldcubeassociation.org/persons/2022HUIC01) | 38 865 km |
 | [Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13) | 37 538 km |
 | [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) | 36 540 km |
@@ -79,7 +79,7 @@
 | [Héctor Haro Guerrero](https://www.worldcubeassociation.org/persons/2018GUER09) | 23 140 km |
 | [Leonardo Loaiza Del Valle](https://www.worldcubeassociation.org/persons/2022VALL08) | 23 135 km |
 | [Maider Arce López de Ipiña](https://www.worldcubeassociation.org/persons/2015ARCE04) | 22 534 km |
-| [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | 22 445 km |
+| [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | 22 460 km |
 | [Pedro Collado Palma](https://www.worldcubeassociation.org/persons/2022PALM06) | 22 387 km |
 | [Jesús Cuenca Martínez](https://www.worldcubeassociation.org/persons/2015CUEN01) | 22 316 km |
 | [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) | 21 969 km |
@@ -89,13 +89,13 @@
 | [Jayden Paredes Vergara](https://www.worldcubeassociation.org/persons/2017PARE13) | 20 778 km |
 | [Arnau Sucarrats Martinez](https://www.worldcubeassociation.org/persons/2023MART75) | 20 751 km |
 | [Astrid Gómez Martin](https://www.worldcubeassociation.org/persons/2022MART26) | 20 745 km |
-| [Sergio Chaparro Díaz-Cano](https://www.worldcubeassociation.org/persons/2023DIAZ45) | 20 599 km |
+| [Sergio Chaparro Díaz-Cano](https://www.worldcubeassociation.org/persons/2023DIAZ45) | 20 691 km |
 | [Esteban Huertas Paños](https://www.worldcubeassociation.org/persons/2023PANO04) | 20 467 km |
 | [Salvador González Carrera](https://www.worldcubeassociation.org/persons/2022CARR24) | 20 336 km |
 | [Miguel Almirall Pérez](https://www.worldcubeassociation.org/persons/2017PERE14) | 20 112 km |
+| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 19 577 km |
 | [Javier París](https://www.worldcubeassociation.org/persons/2005PARI01) | 19 576 km |
 | [Izan Cantero Herrera](https://www.worldcubeassociation.org/persons/2018HERR18) | 19 555 km |
-| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 19 485 km |
 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 19 378 km |
 | [Jorge G. Membrillera Pérez](https://www.worldcubeassociation.org/persons/2016MEMB03) | 19 130 km |
 | [Gonzalo Orellana Barrasa](https://www.worldcubeassociation.org/persons/2010OREL02) | 19 048 km |
@@ -110,9 +110,9 @@
 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | 18 185 km |
 | [Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02) | 17 962 km |
 | [Mar Gallego Vicente](https://www.worldcubeassociation.org/persons/2013VICE01) | 17 807 km |
-| [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | 17 770 km |
+| [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | 17 785 km |
+| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 17 664 km |
 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) | 17 371 km |
-| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 17 283 km |
 | [Alejandro Aguado Barahona](https://www.worldcubeassociation.org/persons/2007AGUA01) | 16 689 km |
 | [Miguel Ángel Meza](https://www.worldcubeassociation.org/persons/2023MEZA02) | 16 304 km |
 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) | 15 689 km |
@@ -120,9 +120,9 @@
 | [Victor Eyzaguirre Sanz](https://www.worldcubeassociation.org/persons/2023SANZ03) | 15 568 km |
 | [Agustín Díaz Morón](https://www.worldcubeassociation.org/persons/2007DIAZ01) | 15 344 km |
 | [Carlos Angosto Hernández](https://www.worldcubeassociation.org/persons/2005ANGO01) | 15 081 km |
-| [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | 14 940 km |
+| [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | 14 955 km |
 | [Àlex Domingo Risco](https://www.worldcubeassociation.org/persons/2015RISC01) | 14 850 km |
-| [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) | 14 534 km |
+| [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) | 14 626 km |
 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 14 438 km |
 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) | 14 395 km |
 | [Celia López Martín](https://www.worldcubeassociation.org/persons/2014MART44) | 14 307 km |
@@ -136,7 +136,7 @@
 | [César Pérez García](https://www.worldcubeassociation.org/persons/2008PERE01) | 12 870 km |
 | [Enzo Perez De Sousa](https://www.worldcubeassociation.org/persons/2023SOUS01) | 12 663 km |
 | [Asier Cardoso Sánchez](https://www.worldcubeassociation.org/persons/2009SANC06) | 12 521 km |
-| [David Sánchez Peris](https://www.worldcubeassociation.org/persons/2017PERI05) | 12 407 km |
+| [David Sánchez Peris](https://www.worldcubeassociation.org/persons/2017PERI05) | 12 422 km |
 | [Jon Larruzea Marijuan](https://www.worldcubeassociation.org/persons/2023MARI07) | 12 262 km |
 | [Erik Román Pérez](https://www.worldcubeassociation.org/persons/2010PERE05) | 12 081 km |
 | [David Ruscalleda Gómez](https://www.worldcubeassociation.org/persons/2013GOME02) | 11 973 km |
@@ -144,15 +144,15 @@
 | [Jacobo Vélez Gómez](https://www.worldcubeassociation.org/persons/2024GOME34) | 11 874 km |
 | [Jerónimo Ibarra Bernal](https://www.worldcubeassociation.org/persons/2010IBAR01) | 11 833 km |
 | [Marcos Plaza Nocito](https://www.worldcubeassociation.org/persons/2018NOCI01) | 11 756 km |
+| [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) | 11 642 km |
 | [Javier Soto Bustos](https://www.worldcubeassociation.org/persons/2008SOTO02) | 11 461 km |
 | [Javier Tovar Castro](https://www.worldcubeassociation.org/persons/2016CAST23) | 11 460 km |
 | [Rodrigo Pueblas Núñez](https://www.worldcubeassociation.org/persons/2014NUNE05) | 11 402 km |
-| [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) | 11 349 km |
 | [Liberto Ventura Mesa](https://www.worldcubeassociation.org/persons/2023MESA04) | 11 347 km |
-| [Raúl Serrano Martínez](https://www.worldcubeassociation.org/persons/2017MART16) | 11 213 km |
+| [Raúl Serrano Martínez](https://www.worldcubeassociation.org/persons/2017MART16) | 11 228 km |
 | [Noah Preukschat Vadillo](https://www.worldcubeassociation.org/persons/2023VADI01) | 11 209 km |
 | [José Miguel Lorente Pérez](https://www.worldcubeassociation.org/persons/2016PERE08) | 11 206 km |
-| [Raúl Banacloche Biot](https://www.worldcubeassociation.org/persons/2015BANA01) | 11 124 km |
+| [Raúl Banacloche Biot](https://www.worldcubeassociation.org/persons/2015BANA01) | 11 139 km |
 | [Pol González Sierras](https://www.worldcubeassociation.org/persons/2015SIER01) | 10 956 km |
 | [Xènia Subirats](https://www.worldcubeassociation.org/persons/2016SUBI02) | 10 929 km |
 | [Gael Galeote Flores](https://www.worldcubeassociation.org/persons/2025FLOR26) | 10 911 km |
@@ -191,12 +191,12 @@
 | [Mateo Peciña](https://www.worldcubeassociation.org/persons/2015PECI01) | 9 209 km |
 | [Erik Subirats](https://www.worldcubeassociation.org/persons/2016SUBI01) | 9 162 km |
 | [Ricard Albí Bros](https://www.worldcubeassociation.org/persons/2016BROS02) | 9 116 km |
+| [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | 9 111 km |
 | [Pau Carbonell](https://www.worldcubeassociation.org/persons/2021CARB01) | 9 096 km |
+| [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) | 9 083 km |
 | [Marisa Revaliente Ruiz](https://www.worldcubeassociation.org/persons/2022RUIZ02) | 9 072 km |
-| [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) | 9 068 km |
 | [David Sánchez Serrano](https://www.worldcubeassociation.org/persons/2016SERR09) | 9 061 km |
 | [Adrián Bernete Berlanga](https://www.worldcubeassociation.org/persons/2015BERL01) | 9 046 km |
-| [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | 9 018 km |
 | [Antoni Guiscafrè Rosselló](https://www.worldcubeassociation.org/persons/2017ROSS03) | 9 017 km |
 | [Raúl Ramos](https://www.worldcubeassociation.org/persons/2015RAMO08) | 8 974 km |
 | [Daniel Borrajo Gutiérrez](https://www.worldcubeassociation.org/persons/2008BORR01) | 8 940 km |
@@ -209,7 +209,7 @@
 | [María Ángeles García Franco](https://www.worldcubeassociation.org/persons/2018FRAN17) | 8 657 km |
 | [Marc Serra Torres](https://www.worldcubeassociation.org/persons/2019TORR29) | 8 630 km |
 | [Rodrigo Delgado Martínez](https://www.worldcubeassociation.org/persons/2022MART63) | 8 534 km |
-| [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 8 315 km |
+| [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 8 407 km |
 | [Ana Iglesias Arias](https://www.worldcubeassociation.org/persons/2022ARIA03) | 8 305 km |
 | [Zaloa Aguirre](https://www.worldcubeassociation.org/persons/2010AGUI06) | 8 217 km |
 | [Juan José Olivella Moreno](https://www.worldcubeassociation.org/persons/2016MORE05) | 8 167 km |
@@ -260,10 +260,10 @@
 | [Marcos De Pablo Cantero](https://www.worldcubeassociation.org/persons/2023CANT07) | 6 151 km |
 | [Santiago Osorio Cristóbal](https://www.worldcubeassociation.org/persons/2015CRIS01) | 6 132 km |
 | [Néstor Garrido](https://www.worldcubeassociation.org/persons/2019GARR09) | 6 113 km |
+| [Arnau López García](https://www.worldcubeassociation.org/persons/2024GARC49) | 6 065 km |
 | [Pedro José García Serrano](https://www.worldcubeassociation.org/persons/2016SERR04) | 6 053 km |
-| [Arnau López García](https://www.worldcubeassociation.org/persons/2024GARC49) | 6 049 km |
-| [Joan Manuel Ciurlizza López-Caparrós](https://www.worldcubeassociation.org/persons/2020LOPE03) | 5 984 km |
 | [Montse García Cerdán](https://www.worldcubeassociation.org/persons/2016CERD01) | 5 984 km |
+| [Joan Manuel Ciurlizza López-Caparrós](https://www.worldcubeassociation.org/persons/2020LOPE03) | 5 984 km |
 | [Jesús Paulino Gómez Martos](https://www.worldcubeassociation.org/persons/2017MART45) | 5 956 km |
 | [Carlos Meza Peraza](https://www.worldcubeassociation.org/persons/2024PERA02) | 5 917 km |
 | [David Zaheri Prieto](https://www.worldcubeassociation.org/persons/2016PRIE04) | 5 910 km |
@@ -299,16 +299,16 @@
 | [José Manuel García Mouzo](https://www.worldcubeassociation.org/persons/2008GARC11) | 5 193 km |
 | [Santi Martínez Gracia](https://www.worldcubeassociation.org/persons/2024GRAC04) | 5 162 km |
 | [Cristóbal Martínez Romero](https://www.worldcubeassociation.org/persons/2023ROME26) | 5 143 km |
-| [Héctor Sanchis Miedes](https://www.worldcubeassociation.org/persons/2022MIED01) | 5 127 km |
+| [Héctor Sanchis Miedes](https://www.worldcubeassociation.org/persons/2022MIED01) | 5 142 km |
 | [Candela Huang Garcia Rueda](https://www.worldcubeassociation.org/persons/2022RUED04) | 5 061 km |
+| [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) | 4 972 km |
 | [Marc Robert Serrano](https://www.worldcubeassociation.org/persons/2023SERR10) | 4 954 km |
-| [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) | 4 951 km |
 | [José Luis Molina López](https://www.worldcubeassociation.org/persons/2015LOPE29) | 4 946 km |
 | [Brais Suárez](https://www.worldcubeassociation.org/persons/2023SUAR07) | 4 918 km |
 | [Jaime Calvo Sotillos](https://www.worldcubeassociation.org/persons/2017SOTI02) | 4 843 km |
 | [Darío Montalvo Ureña](https://www.worldcubeassociation.org/persons/2015UREN01) | 4 823 km |
 | [Arturo Pérez Anguita](https://www.worldcubeassociation.org/persons/2022ANGU03) | 4 815 km |
-| [Patxi Griffiths](https://www.worldcubeassociation.org/persons/2024GRIF09) | 4 800 km |
+| [Patxi Griffiths](https://www.worldcubeassociation.org/persons/2024GRIF09) | 4 815 km |
 | [Nadia Ghadban Gimeno](https://www.worldcubeassociation.org/persons/2017GIME01) | 4 782 km |
 | [Javier Álvarez Suárez](https://www.worldcubeassociation.org/persons/2017SUAR04) | 4 781 km |
 | [Francisco Javier Molina Bautista](https://www.worldcubeassociation.org/persons/2015BAUT02) | 4 779 km |
@@ -361,10 +361,10 @@
 | [Jordi Piqueras Gómez](https://www.worldcubeassociation.org/persons/2008PIQU01) | 3 947 km |
 | [Javier Espinosa García](https://www.worldcubeassociation.org/persons/2010ESPI01) | 3 932 km |
 | [Jesús Bastida Gil](https://www.worldcubeassociation.org/persons/2016GILJ03) | 3 898 km |
+| [Pablo Cabello Rodríguez](https://www.worldcubeassociation.org/persons/2022RODR17) | 3 850 km |
+| [David Landero Villalón](https://www.worldcubeassociation.org/persons/2024VILL48) | 3 839 km |
+| [Joel de Villelongue Stingaci](https://www.worldcubeassociation.org/persons/2024STIN01) | 3 829 km |
 | [Núria Tirado Miralles](https://www.worldcubeassociation.org/persons/2017MIRA09) | 3 829 km |
-| [Joel de Villelongue Stingaci](https://www.worldcubeassociation.org/persons/2024STIN01) | 3 814 km |
-| [Pablo Cabello Rodríguez](https://www.worldcubeassociation.org/persons/2022RODR17) | 3 757 km |
-| [David Landero Villalón](https://www.worldcubeassociation.org/persons/2024VILL48) | 3 746 km |
 | [Ana Varnhagen Osorio](https://www.worldcubeassociation.org/persons/2023OSOR03) | 3 730 km |
 | [Marco Trueba Aragon](https://www.worldcubeassociation.org/persons/2024ARAG02) | 3 717 km |
 | [Alejandra Simon Gomez](https://www.worldcubeassociation.org/persons/2023GOME23) | 3 689 km |
@@ -372,13 +372,13 @@
 | [Roberto Lloréns Dueñas](https://www.worldcubeassociation.org/persons/2024DUEN04) | 3 677 km |
 | [Maria Luisa Menéndez Atarés](https://www.worldcubeassociation.org/persons/2024ATAR01) | 3 649 km |
 | [Erik Pujol Vázquez](https://www.worldcubeassociation.org/persons/2021VAZQ01) | 3 625 km |
-| [Blanca Piédrola Sánchez](https://www.worldcubeassociation.org/persons/2023SANC29) | 3 619 km |
 | [Rafa Diranzo Argatu](https://www.worldcubeassociation.org/persons/2024ARGA01) | 3 619 km |
+| [Blanca Piédrola Sánchez](https://www.worldcubeassociation.org/persons/2023SANC29) | 3 619 km |
 | [Marta García Torre](https://www.worldcubeassociation.org/persons/2016TORR15) | 3 609 km |
 | [Adrián Goncalves Romero](https://www.worldcubeassociation.org/persons/2024ROME25) | 3 605 km |
 | [Noé Muñoz](https://www.worldcubeassociation.org/persons/2016MUNO02) | 3 585 km |
+| [Marc García Díaz](https://www.worldcubeassociation.org/persons/2017DIAZ19) | 3 566 km |
 | [Javier Atienza Rodriguez](https://www.worldcubeassociation.org/persons/2016RODR48) | 3 555 km |
-| [Marc García Díaz](https://www.worldcubeassociation.org/persons/2017DIAZ19) | 3 551 km |
 | [Javier Rodríguez Domínguez](https://www.worldcubeassociation.org/persons/2011DOMA01) | 3 551 km |
 | [Yago Malleiro Cellitti](https://www.worldcubeassociation.org/persons/2023CELL01) | 3 550 km |
 | [Josep Maria Puig Valverde](https://www.worldcubeassociation.org/persons/2023VALV04) | 3 522 km |
@@ -396,8 +396,8 @@
 | [Germán Bernácer Sanchis](https://www.worldcubeassociation.org/persons/2011SANC11) | 3 429 km |
 | [Sergio Ramos González](https://www.worldcubeassociation.org/persons/2022GONZ09) | 3 415 km |
 | [Francisco Gallego Salido](https://www.worldcubeassociation.org/persons/2012SALI03) | 3 407 km |
+| [Paula Escamilla Carrasco](https://www.worldcubeassociation.org/persons/2022CARR32) | 3 393 km |
 | [Javier Vega Aramburu](https://www.worldcubeassociation.org/persons/2009ARAM01) | 3 382 km |
-| [Paula Escamilla Carrasco](https://www.worldcubeassociation.org/persons/2022CARR32) | 3 377 km |
 | [Adrián Domínguez Bogado](https://www.worldcubeassociation.org/persons/2022BOGA01) | 3 361 km |
 | [Carlos López Marí](https://www.worldcubeassociation.org/persons/2009MARI03) | 3 342 km |
 | [Mario Clemente Serrano](https://www.worldcubeassociation.org/persons/2024SERR09) | 3 324 km |
@@ -408,9 +408,9 @@
 | [Carlos Martínez Garrido](https://www.worldcubeassociation.org/persons/2009MART01) | 3 291 km |
 | [Peio Calonge Aurtenetxe](https://www.worldcubeassociation.org/persons/2019CALO01) | 3 287 km |
 | [Daniel Prieto Paz](https://www.worldcubeassociation.org/persons/2008PRIE01) | 3 256 km |
+| [Ricardo Bayona Salvador](https://www.worldcubeassociation.org/persons/2014SALV02) | 3 242 km |
 | [Bernat Tobella Tarrés](https://www.worldcubeassociation.org/persons/2021TARR02) | 3 239 km |
 | [Jaione Bengoetxea Azurmendi](https://www.worldcubeassociation.org/persons/2023AZUR01) | 3 239 km |
-| [Ricardo Bayona Salvador](https://www.worldcubeassociation.org/persons/2014SALV02) | 3 227 km |
 | [Pedro Plaza Saavedra](https://www.worldcubeassociation.org/persons/2010PLAZ01) | 3 222 km |
 | [Nacho Alustiza Bueno](https://www.worldcubeassociation.org/persons/2025BUEN08) | 3 207 km |
 | [Andoni Colmenero Briones](https://www.worldcubeassociation.org/persons/2024BRIO01) | 3 196 km |
@@ -426,8 +426,8 @@
 | [Lucas Benito Rolando](https://www.worldcubeassociation.org/persons/2010BENI02) | 3 127 km |
 | [William Velez Martin](https://www.worldcubeassociation.org/persons/2024MART58) | 3 118 km |
 | [David Doblas Hernández](https://www.worldcubeassociation.org/persons/2017HERN34) | 3 115 km |
+| [Moisés Abad Suárez](https://www.worldcubeassociation.org/persons/2022SUAR09) | 3 115 km |
 | [Jose Maria Moreno Pueyo](https://www.worldcubeassociation.org/persons/2005MARI01) | 3 091 km |
-| [Moisés Abad Suárez](https://www.worldcubeassociation.org/persons/2022SUAR09) | 3 086 km |
 | [Miguel Espelleta Pontón](https://www.worldcubeassociation.org/persons/2016PONT01) | 3 046 km |
 | [Xavi Gisbert](https://www.worldcubeassociation.org/persons/2017GISB01) | 3 045 km |
 | [Guillermo Campon](https://www.worldcubeassociation.org/persons/2024CAMP27) | 3 040 km |
@@ -445,19 +445,20 @@
 | [Rodrigo de la Fuente Pelayo](https://www.worldcubeassociation.org/persons/2022PELA02) | 2 914 km |
 | [Iris Valverde Blanco](https://www.worldcubeassociation.org/persons/2022BLAN01) | 2 905 km |
 | [Jesús Sánchez Fuentes](https://www.worldcubeassociation.org/persons/2023FUEN06) | 2 884 km |
+| [Mateo Catalá Devesa](https://www.worldcubeassociation.org/persons/2023DEVE07) | 2 884 km |
 | [Daniel Delgado Ruják](https://www.worldcubeassociation.org/persons/2022RUJA01) | 2 869 km |
-| [Mateo Catalá Devesa](https://www.worldcubeassociation.org/persons/2023DEVE07) | 2 869 km |
 | [Antonio Gallardo Blanco](https://www.worldcubeassociation.org/persons/2016BLAN13) | 2 868 km |
 | [Diego Arche Andradas](https://www.worldcubeassociation.org/persons/2015ANDR06) | 2 868 km |
 | [Jesús Javier Ruiz Martín](https://www.worldcubeassociation.org/persons/2016MART76) | 2 863 km |
 | [Unai Castillo Erro](https://www.worldcubeassociation.org/persons/2017ERRO01) | 2 857 km |
 | [Christian Daniel Avila Mendez](https://www.worldcubeassociation.org/persons/2023MEND45) | 2 856 km |
 | [Diego García Martínez](https://www.worldcubeassociation.org/persons/2015MART35) | 2 852 km |
+| [Enrique Larriviere Teruel](https://www.worldcubeassociation.org/persons/2024TERU01) | 2 832 km |
 | [Álvaro Alonso Larena](https://www.worldcubeassociation.org/persons/2017ALON04) | 2 830 km |
 | [Ángela Augustín Sáez de Tejada](https://www.worldcubeassociation.org/persons/2014TEJA07) | 2 829 km |
 | [Jon Alegria Diez](https://www.worldcubeassociation.org/persons/2017DIEZ01) | 2 822 km |
 | [Jaime Olivé](https://www.worldcubeassociation.org/persons/2022OLIV01) | 2 794 km |
-| [Alejandro Delgado Barcia](https://www.worldcubeassociation.org/persons/2023BARC03) | 2 787 km |
+| [Alejandro Delgado Barcia](https://www.worldcubeassociation.org/persons/2023BARC03) | 2 792 km |
 | [Alejandro Fernández López](https://www.worldcubeassociation.org/persons/2023LOPE49) | 2 766 km |
 | [Diego de Pereda Sebastián](https://www.worldcubeassociation.org/persons/2006DEPE01) | 2 761 km |
 | [Jacobo Formigós](https://www.worldcubeassociation.org/persons/2022FORM01) | 2 743 km |
@@ -470,7 +471,6 @@
 | [Éric Batista Rodríguez](https://www.worldcubeassociation.org/persons/2017RODR55) | 2 685 km |
 | [Sandra Novales Peláez](https://www.worldcubeassociation.org/persons/2015PELA01) | 2 672 km |
 | [Alberto Pisa Ibarz](https://www.worldcubeassociation.org/persons/2022IBAR02) | 2 641 km |
-| [Enrique Larriviere Teruel](https://www.worldcubeassociation.org/persons/2024TERU01) | 2 635 km |
 | [Ana Lucía Galeote](https://www.worldcubeassociation.org/persons/2007GALE01) | 2 635 km |
 | [Sara Plaza](https://www.worldcubeassociation.org/persons/2023PLAZ04) | 2 633 km |
 | [Inés Fraile Menéndez](https://www.worldcubeassociation.org/persons/2023MENE05) | 2 616 km |
@@ -493,8 +493,8 @@
 | [Jorge Morata Carrasco](https://www.worldcubeassociation.org/persons/2008MORA02) | 2 448 km |
 | [Isabel Casado Cascajo](https://www.worldcubeassociation.org/persons/2008CASC01) | 2 442 km |
 | [Juan Pablo Ceballos Arenas](https://www.worldcubeassociation.org/persons/2025AREN05) | 2 416 km |
-| [Cecilia Rábago Bagüés](https://www.worldcubeassociation.org/persons/2025BAGU03) | 2 391 km |
 | [Josu Altadill](https://www.worldcubeassociation.org/persons/2022ALTA08) | 2 391 km |
+| [Cecilia Rábago Bagüés](https://www.worldcubeassociation.org/persons/2025BAGU03) | 2 391 km |
 | [Jon López Oya](https://www.worldcubeassociation.org/persons/2018LOPE31) | 2 384 km |
 | [Hector de Mingo Castanedo](https://www.worldcubeassociation.org/persons/2023CAST34) | 2 376 km |
 | [Ismael Cutanda Fernández](https://www.worldcubeassociation.org/persons/2016FERN06) | 2 374 km |
@@ -515,10 +515,10 @@
 | [Javier Suescun Abinzano](https://www.worldcubeassociation.org/persons/2023ABIN01) | 2 293 km |
 | [Samuel Abad Suárez](https://www.worldcubeassociation.org/persons/2022SUAR14) | 2 292 km |
 | [Jesús Conejo Boraita](https://www.worldcubeassociation.org/persons/2017BORA03) | 2 282 km |
+| [Santiago Serrano Cernadas](https://www.worldcubeassociation.org/persons/2024CERN02) | 2 279 km |
 | [José Vázquez Sánchez](https://www.worldcubeassociation.org/persons/2016SANC43) | 2 278 km |
 | [Gil Mateu Casadesús](https://www.worldcubeassociation.org/persons/2023CASA01) | 2 268 km |
 | [Pau Martínez Ruiz](https://www.worldcubeassociation.org/persons/2017RUIZ16) | 2 265 km |
-| [Santiago Serrano Cernadas](https://www.worldcubeassociation.org/persons/2024CERN02) | 2 264 km |
 | [Mikel Bustamante Bedmar](https://www.worldcubeassociation.org/persons/2012BEDM01) | 2 262 km |
 | [Nicolas Egal Castro](https://www.worldcubeassociation.org/persons/2022CAST06) | 2 255 km |
 | [Daniel Flores Hermosa](https://www.worldcubeassociation.org/persons/2023HERM06) | 2 251 km |
@@ -541,30 +541,30 @@
 | [Mario Díaz Moreno](https://www.worldcubeassociation.org/persons/2017MORE19) | 2 129 km |
 | [Diego Garcia](https://www.worldcubeassociation.org/persons/2024GARC15) | 2 114 km |
 | [José Antonio Domínguez Miguel](https://www.worldcubeassociation.org/persons/2004ANTO01) | 2 113 km |
-| [Ibai Nabarro Oyarzabal](https://www.worldcubeassociation.org/persons/2017OYAR02) | 2 108 km |
 | [Bárbara Arocha Mahtani](https://www.worldcubeassociation.org/persons/2025MAHT01) | 2 108 km |
+| [Ibai Nabarro Oyarzabal](https://www.worldcubeassociation.org/persons/2017OYAR02) | 2 108 km |
 | [Marcos Juan López Barberá](https://www.worldcubeassociation.org/persons/2023BARB18) | 2 089 km |
 | [Raúl Fernández de Cos](https://www.worldcubeassociation.org/persons/2023COSR01) | 2 082 km |
 | [Víctor Martín Sola](https://www.worldcubeassociation.org/persons/2023SOLA10) | 2 078 km |
 | [Gustavo Adolfo Hidalgo Chópite](https://www.worldcubeassociation.org/persons/2014HIDA02) | 2 073 km |
 | [Daniel Martín Martínez](https://www.worldcubeassociation.org/persons/2011MART01) | 2 070 km |
+| [Joan Canaves del Pozo](https://www.worldcubeassociation.org/persons/2022POZO01) | 2 064 km |
 | [Llucia Canaves Valestrini](https://www.worldcubeassociation.org/persons/2022VALE07) | 2 064 km |
 | [Pau Canaves Valestrini](https://www.worldcubeassociation.org/persons/2022VALE08) | 2 064 km |
-| [Joan Canaves del Pozo](https://www.worldcubeassociation.org/persons/2022POZO01) | 2 064 km |
 | [Julen Insausti Jiménez](https://www.worldcubeassociation.org/persons/2018JIME01) | 2 055 km |
 | [Javi Paterna Torró](https://www.worldcubeassociation.org/persons/2023TORR24) | 2 054 km |
-| [Laura Martínez Escribano](https://www.worldcubeassociation.org/persons/2025ESCR01) | 2 053 km |
 | [Iago Rego García](https://www.worldcubeassociation.org/persons/2008REGO01) | 2 053 km |
+| [Laura Martínez Escribano](https://www.worldcubeassociation.org/persons/2025ESCR01) | 2 053 km |
 | [Marc Pello Biel](https://www.worldcubeassociation.org/persons/2023BIEL02) | 2 047 km |
 | [Óscar Gervasini Lois](https://www.worldcubeassociation.org/persons/2023LOIS01) | 2 041 km |
-| [Bryant Borrego Alvarado](https://www.worldcubeassociation.org/persons/2019ALVA14) | 2 039 km |
 | [Nelson Alfredo González Marcano](https://www.worldcubeassociation.org/persons/2025MARC02) | 2 039 km |
+| [Bryant Borrego Alvarado](https://www.worldcubeassociation.org/persons/2019ALVA14) | 2 039 km |
 | [Alberto Hernández](https://www.worldcubeassociation.org/persons/2022HERN09) | 2 030 km |
 | [Patricia Acosta Contreras](https://www.worldcubeassociation.org/persons/2011CONT05) | 2 026 km |
 | [Leo Partinén Calvo](https://www.worldcubeassociation.org/persons/2015CALV04) | 2 021 km |
 | [Álvaro Ruiz Lamett](https://www.worldcubeassociation.org/persons/2023LAME02) | 2 019 km |
-| [Fernando Lago Díaz](https://www.worldcubeassociation.org/persons/2024DIAZ02) | 2 009 km |
 | [Alejandro García-Carrasco Gómez](https://www.worldcubeassociation.org/persons/2016GOME16) | 2 009 km |
+| [Fernando Lago Díaz](https://www.worldcubeassociation.org/persons/2024DIAZ02) | 2 009 km |
 | [Marc Seguí Torrandell](https://www.worldcubeassociation.org/persons/2018TORR23) | 2 007 km |
 | [Marco Andrade González](https://www.worldcubeassociation.org/persons/2024GONZ63) | 2 004 km |
 | [Yuri Cerruti Garde](https://www.worldcubeassociation.org/persons/2023GARD04) | 1 994 km |
@@ -579,15 +579,15 @@
 | [Rubén López Álvarez](https://www.worldcubeassociation.org/persons/2022ALVA01) | 1 954 km |
 | [Nicole Cabaya](https://www.worldcubeassociation.org/persons/2015CABA04) | 1 954 km |
 | [Santiago Arias Ferreiro](https://www.worldcubeassociation.org/persons/2024FERR09) | 1 947 km |
-| [Elena Filiberto Chamorro](https://www.worldcubeassociation.org/persons/2022CHAM12) | 1 929 km |
+| [Elena Filiberto Chamorro](https://www.worldcubeassociation.org/persons/2022CHAM12) | 1 944 km |
 | [Daniel Martínez Rodríguez](https://www.worldcubeassociation.org/persons/2024RODR06) | 1 923 km |
 | [German Anashkin](https://www.worldcubeassociation.org/persons/2015ANAS01) | 1 916 km |
 | [Carlos Escudero Blanco](https://www.worldcubeassociation.org/persons/2023BLAN02) | 1 914 km |
 | [Miguel Pastor](https://www.worldcubeassociation.org/persons/2010PAST01) | 1 910 km |
 | [Jorge Marín Segovia](https://www.worldcubeassociation.org/persons/2016SEGO02) | 1 909 km |
 | [Sergio Hidalgo López](https://www.worldcubeassociation.org/persons/2022LOPE08) | 1 906 km |
-| [Ivet Soler Espinalt](https://www.worldcubeassociation.org/persons/2024ESPI15) | 1 902 km |
 | [Hugo de Miguel Monge](https://www.worldcubeassociation.org/persons/2019MONG05) | 1 902 km |
+| [Ivet Soler Espinalt](https://www.worldcubeassociation.org/persons/2024ESPI15) | 1 902 km |
 | [Thiago de la Torre Lamenca](https://www.worldcubeassociation.org/persons/2024LAME01) | 1 900 km |
 | [Emilio Martín López](https://www.worldcubeassociation.org/persons/2022LOPE29) | 1 898 km |
 | [Hugo Pellicer Checa](https://www.worldcubeassociation.org/persons/2023CHEC06) | 1 888 km |
@@ -616,21 +616,22 @@
 | [Moisés Fernández Rodríguez](https://www.worldcubeassociation.org/persons/2026RODR57) | 1 741 km |
 | [Carlos Torres Araya](https://www.worldcubeassociation.org/persons/2017ARAY01) | 1 740 km |
 | [Sergio Cockerham](https://www.worldcubeassociation.org/persons/2023COCK03) | 1 737 km |
-| [Rubén Martín Milán](https://www.worldcubeassociation.org/persons/2007MILA01) | 1 736 km |
 | [Manuel García Amado](https://www.worldcubeassociation.org/persons/2016AMAD02) | 1 736 km |
+| [Rubén Martín Milán](https://www.worldcubeassociation.org/persons/2007MILA01) | 1 736 km |
 | [Miguel Angel Navalón Valera](https://www.worldcubeassociation.org/persons/2005NAVA01) | 1 726 km |
 | [Victor Ortega Gordo](https://www.worldcubeassociation.org/persons/2008ORTE01) | 1 721 km |
 | [Peio López de Biñaspre Jaureguibeitia](https://www.worldcubeassociation.org/persons/2024JAUR02) | 1 717 km |
 | [Ignacio Sáez Sabido](https://www.worldcubeassociation.org/persons/2016SABI01) | 1 711 km |
-| [Manuel Navarro López](https://www.worldcubeassociation.org/persons/2013LOPE08) | 1 708 km |
 | [David Bay Revert](https://www.worldcubeassociation.org/persons/2023REVE03) | 1 708 km |
 | [Mario Rodríguez Fernández](https://www.worldcubeassociation.org/persons/2012FERN03) | 1 708 km |
+| [Manuel Navarro López](https://www.worldcubeassociation.org/persons/2013LOPE08) | 1 708 km |
 | [Fran León Blanco](https://www.worldcubeassociation.org/persons/2023BLAN05) | 1 705 km |
 | [Andoni Colmenero Martin](https://www.worldcubeassociation.org/persons/2025MART20) | 1 703 km |
 | [Martina López de Biñaspre Jaureguibeitia](https://www.worldcubeassociation.org/persons/2025JAUR01) | 1 697 km |
 | [Miriam España López](https://www.worldcubeassociation.org/persons/2010ESPA02) | 1 688 km |
 | [Roberto Delmás Fernández](https://www.worldcubeassociation.org/persons/2009DELM01) | 1 686 km |
 | [Adrian Muñoz Martin](https://www.worldcubeassociation.org/persons/2005MUNO01) | 1 685 km |
+| [Paula Victoria Caballero Ezequiel](https://www.worldcubeassociation.org/persons/2024EZEQ01) | 1 683 km |
 | [Alejandro Vaca Diaz](https://www.worldcubeassociation.org/persons/2020DIAZ01) | 1 659 km |
 | [Unai Sevilla Medina](https://www.worldcubeassociation.org/persons/2018MEDI15) | 1 655 km |
 | [Oriol Mas Alarcón](https://www.worldcubeassociation.org/persons/2023ALAR04) | 1 649 km |
@@ -642,7 +643,6 @@
 | [Adrià Dalmau López](https://www.worldcubeassociation.org/persons/2010DALM02) | 1 606 km |
 | [Mikel Sánchez Zaragüeta](https://www.worldcubeassociation.org/persons/2020ZARA02) | 1 605 km |
 | [Marcos Roiz Agudo](https://www.worldcubeassociation.org/persons/2022AGUD01) | 1 592 km |
-| [Paula Victoria Caballero Ezequiel](https://www.worldcubeassociation.org/persons/2024EZEQ01) | 1 591 km |
 | [Iñigo Mallo Lizaso](https://www.worldcubeassociation.org/persons/2018LIZA05) | 1 589 km |
 | [Cristina Iturbe Jabaloyes](https://www.worldcubeassociation.org/persons/2016JABA03) | 1 581 km |
 | [Albert Muñoz Martin](https://www.worldcubeassociation.org/persons/2005MUNO02) | 1 573 km |
@@ -659,8 +659,8 @@
 | [Lucas Cano Rodríguez](https://www.worldcubeassociation.org/persons/2022RODR33) | 1 523 km |
 | [José Manuel Toledo Betancor](https://www.worldcubeassociation.org/persons/2017BETA01) | 1 517 km |
 | [Álvaro Loring García](https://www.worldcubeassociation.org/persons/2016GARC54) | 1 516 km |
-| [Bruno de Febrer](https://www.worldcubeassociation.org/persons/2016FEBR01) | 1 514 km |
 | [Abel Martínez Salas](https://www.worldcubeassociation.org/persons/2023SALA21) | 1 514 km |
+| [Bruno de Febrer](https://www.worldcubeassociation.org/persons/2016FEBR01) | 1 514 km |
 | [Iago González Carballo](https://www.worldcubeassociation.org/persons/2017CARB01) | 1 512 km |
 | [Andreu Vercher Moll](https://www.worldcubeassociation.org/persons/2022MOLL05) | 1 504 km |
 | [José María Pernas Herrera](https://www.worldcubeassociation.org/persons/2024HERR16) | 1 503 km |
@@ -673,8 +673,8 @@
 | [Aritz Ochoa Gil](https://www.worldcubeassociation.org/persons/2024GILA02) | 1 485 km |
 | [Yeray Varela Mouzo](https://www.worldcubeassociation.org/persons/2024MOUZ01) | 1 482 km |
 | [Gabriel González Hernández](https://www.worldcubeassociation.org/persons/2024HERN47) | 1 481 km |
-| [Adrián López Rojo](https://www.worldcubeassociation.org/persons/2024ROJO01) | 1 476 km |
 | [Roberto López Rojo](https://www.worldcubeassociation.org/persons/2024ROJO02) | 1 476 km |
+| [Adrián López Rojo](https://www.worldcubeassociation.org/persons/2024ROJO01) | 1 476 km |
 | [Omar Karim Melgar](https://www.worldcubeassociation.org/persons/2024MELG02) | 1 474 km |
 | [Naiara Gervasini Ramos](https://www.worldcubeassociation.org/persons/2024RAMO25) | 1 473 km |
 | [Juan Antonio Escagedo Malfaz](https://www.worldcubeassociation.org/persons/2023MALF01) | 1 469 km |
@@ -694,8 +694,8 @@
 | [Carlos Navalón Podio](https://www.worldcubeassociation.org/persons/2015PODI01) | 1 400 km |
 | [Mario Juan Lobato](https://www.worldcubeassociation.org/persons/2022LOBA01) | 1 393 km |
 | [Genís Vicens Viola](https://www.worldcubeassociation.org/persons/2015VIOL01) | 1 390 km |
-| [Miguel Ángel González Herrero](https://www.worldcubeassociation.org/persons/2017HERR16) | 1 387 km |
 | [Javier Encinas](https://www.worldcubeassociation.org/persons/2017ENCI01) | 1 387 km |
+| [Miguel Ángel González Herrero](https://www.worldcubeassociation.org/persons/2017HERR16) | 1 387 km |
 | [Gonzalo Salinas Perez](https://www.worldcubeassociation.org/persons/2014PERE09) | 1 386 km |
 | [Alejandro García Revuelta](https://www.worldcubeassociation.org/persons/2022REVU01) | 1 386 km |
 | [Alonso del Olmo Mateo](https://www.worldcubeassociation.org/persons/2022MATE01) | 1 385 km |
@@ -713,31 +713,31 @@
 | [Alberto Martínez Rocasolano](https://www.worldcubeassociation.org/persons/2025ROCA01) | 1 348 km |
 | [Francisco Pérez Morales](https://www.worldcubeassociation.org/persons/2018MORA17) | 1 346 km |
 | [David Román Aguirre](https://www.worldcubeassociation.org/persons/2015AGUI08) | 1 345 km |
-| [Núria Soriano López-Cobo](https://www.worldcubeassociation.org/persons/2025LOPE41) | 1 342 km |
 | [Rafael Alférez Robisco](https://www.worldcubeassociation.org/persons/2015ROBI03) | 1 342 km |
+| [Núria Soriano López-Cobo](https://www.worldcubeassociation.org/persons/2025LOPE41) | 1 342 km |
 | [Jon Ander Iturburu](https://www.worldcubeassociation.org/persons/2008ITUR01) | 1 337 km |
+| [Carlos Pajuelo Rojo](https://www.worldcubeassociation.org/persons/2018ROJO01) | 1 336 km |
 | [Eric Arenas Gutierrez](https://www.worldcubeassociation.org/persons/2024GUTI09) | 1 332 km |
-| [Carlos Pajuelo Rojo](https://www.worldcubeassociation.org/persons/2018ROJO01) | 1 331 km |
 | [Pablo Roca García](https://www.worldcubeassociation.org/persons/2017GARC26) | 1 324 km |
 | [José Ángel Morales Gómez](https://www.worldcubeassociation.org/persons/2024GOME54) | 1 323 km |
 | [Nines Lázaro Alcázar](https://www.worldcubeassociation.org/persons/2018ALCA04) | 1 315 km |
-| [César Rojas Contreras](https://www.worldcubeassociation.org/persons/2007CONT01) | 1 314 km |
 | [María Estefanía Martínez Ayala](https://www.worldcubeassociation.org/persons/2013AYAL01) | 1 314 km |
+| [César Rojas Contreras](https://www.worldcubeassociation.org/persons/2007CONT01) | 1 314 km |
 | [Alejandro Díez Pedraza](https://www.worldcubeassociation.org/persons/2017PEDR05) | 1 308 km |
+| [Pau Tamarit Montalt](https://www.worldcubeassociation.org/persons/2023MONT39) | 1 302 km |
 | [Janot Alabert Planas](https://www.worldcubeassociation.org/persons/2015PLAN02) | 1 300 km |
 | [Claudia Chaparro Díaz-Cano](https://www.worldcubeassociation.org/persons/2024DIAZ10) | 1 295 km |
 | [Karel Chamorro Fresno](https://www.worldcubeassociation.org/persons/2023FRES02) | 1 292 km |
 | [Nil Carné Dubreuil](https://www.worldcubeassociation.org/persons/2023DUBR01) | 1 291 km |
 | [Federico Tomás Cazorla Alcalde](https://www.worldcubeassociation.org/persons/2025ALCA01) | 1 288 km |
-| [Pau Tamarit Montalt](https://www.worldcubeassociation.org/persons/2023MONT39) | 1 287 km |
 | [Miguel Forteza del Rey Macías](https://www.worldcubeassociation.org/persons/2018MACI03) | 1 284 km |
 | [Lánder Osés Oliveira](https://www.worldcubeassociation.org/persons/2008OSES01) | 1 281 km |
 | [Carlota Gervasini](https://www.worldcubeassociation.org/persons/2023GERV01) | 1 275 km |
 | [Pedro del Val Martinez](https://www.worldcubeassociation.org/persons/2023MARP02) | 1 273 km |
 | [Carlos Pérez Martínez](https://www.worldcubeassociation.org/persons/2023MARC23) | 1 271 km |
 | [Luis Herrera Collado](https://www.worldcubeassociation.org/persons/2010HERR05) | 1 271 km |
-| [Rubén Suárez González](https://www.worldcubeassociation.org/persons/2022GONZ15) | 1 270 km |
 | [Martí Porcar Cortés](https://www.worldcubeassociation.org/persons/2023CORT03) | 1 270 km |
+| [Rubén Suárez González](https://www.worldcubeassociation.org/persons/2022GONZ15) | 1 270 km |
 | [Raúl Jaén Pérez](https://www.worldcubeassociation.org/persons/2016PERE09) | 1 269 km |
 | [Pol Jiménez Asunción](https://www.worldcubeassociation.org/persons/2023ASUN01) | 1 269 km |
 | [Hodei Ugarte Esparza](https://www.worldcubeassociation.org/persons/2023ESPA04) | 1 260 km |
@@ -746,9 +746,10 @@
 | [Fernando Campoy Galera](https://www.worldcubeassociation.org/persons/2016GALE01) | 1 254 km |
 | [Diego López Miano](https://www.worldcubeassociation.org/persons/2023MIAN01) | 1 252 km |
 | [Alberto Albor Soto](https://www.worldcubeassociation.org/persons/2023SOTO17) | 1 245 km |
-| [Miguel Ángel Martínez Gallego](https://www.worldcubeassociation.org/persons/2023GALL21) | 1 243 km |
 | [Manuel Iglesias Alonso](https://www.worldcubeassociation.org/persons/2016ALON03) | 1 243 km |
+| [Miguel Ángel Martínez Gallego](https://www.worldcubeassociation.org/persons/2023GALL21) | 1 243 km |
 | [Eduardo Paez Rubio](https://www.worldcubeassociation.org/persons/2022RUBI05) | 1 240 km |
+| [Pablo Jiménez Jaén](https://www.worldcubeassociation.org/persons/2015JAEN01) | 1 237 km |
 | [Eduardo Sánchez Gómez](https://www.worldcubeassociation.org/persons/2025GOME06) | 1 237 km |
 | [Rafa Serrano Hinojosa](https://www.worldcubeassociation.org/persons/2011HINO01) | 1 235 km |
 | [Miguel González Fernández](https://www.worldcubeassociation.org/persons/2023FERN31) | 1 225 km |
@@ -761,25 +762,25 @@
 | [Víctor Manuel Cortés Enrique](https://www.worldcubeassociation.org/persons/2015ENRI01) | 1 204 km |
 | [Francisco Javier Parra Prendes](https://www.worldcubeassociation.org/persons/2023PREN03) | 1 203 km |
 | [Javier Bay](https://www.worldcubeassociation.org/persons/2023BAYJ01) | 1 202 km |
+| [Javier Casaus Rodríguez](https://www.worldcubeassociation.org/persons/2023RODR68) | 1 200 km |
 | [Luis Guisado Pérez](https://www.worldcubeassociation.org/persons/2023PERE31) | 1 189 km |
-| [Javier Casaus Rodríguez](https://www.worldcubeassociation.org/persons/2023RODR68) | 1 185 km |
-| [María Orosia Pérez Campo](https://www.worldcubeassociation.org/persons/2007PERE01) | 1 184 km |
 | [Ferran Vila Crespo](https://www.worldcubeassociation.org/persons/2025CRES02) | 1 184 km |
 | [Sven Puga](https://www.worldcubeassociation.org/persons/2014PUGA01) | 1 184 km |
+| [María Orosia Pérez Campo](https://www.worldcubeassociation.org/persons/2007PERE01) | 1 184 km |
+| [Darío Ramírez Pino](https://www.worldcubeassociation.org/persons/2024PINO01) | 1 181 km |
 | [Daniel Paredes de la Peña](https://www.worldcubeassociation.org/persons/2022PENA02) | 1 181 km |
 | [Andrés Arenas Sánchez](https://www.worldcubeassociation.org/persons/2022SANC04) | 1 181 km |
-| [Darío Ramírez Pino](https://www.worldcubeassociation.org/persons/2024PINO01) | 1 181 km |
 | [Bruno Carrasco Bustamante](https://www.worldcubeassociation.org/persons/2024BUST09) | 1 178 km |
 | [Ainhoa Sáez de Langarica Cordero](https://www.worldcubeassociation.org/persons/2026CORD01) | 1 168 km |
 | [Francisco Jesús Prieto Molina](https://www.worldcubeassociation.org/persons/2019MOLI01) | 1 159 km |
 | [David Aguilera Busselle](https://www.worldcubeassociation.org/persons/2017BUSS01) | 1 153 km |
 | [Guillermo Daniel Flores Noborikawa](https://www.worldcubeassociation.org/persons/2022NOBO01) | 1 150 km |
+| [Andreu Martinez Llorca](https://www.worldcubeassociation.org/persons/2026LLOR01) | 1 148 km |
 | [Adrián Camps](https://www.worldcubeassociation.org/persons/2024CAMP25) | 1 147 km |
 | [Alejandro Villar Márquez](https://www.worldcubeassociation.org/persons/2022MARQ03) | 1 144 km |
 | [Axel Martín Ferrer](https://www.worldcubeassociation.org/persons/2022FERR21) | 1 142 km |
 | [Iván Montoya García](https://www.worldcubeassociation.org/persons/2015GARC04) | 1 137 km |
 | [Mario Diez del Corral](https://www.worldcubeassociation.org/persons/2018CORR05) | 1 136 km |
-| [Pablo Jiménez Jaén](https://www.worldcubeassociation.org/persons/2015JAEN01) | 1 134 km |
 | [Carlos Chamizo Cano](https://www.worldcubeassociation.org/persons/2016CANO02) | 1 132 km |
 | [Adrián Velasco Álvarez](https://www.worldcubeassociation.org/persons/2025ALVA16) | 1 132 km |
 | [Oriol Moreno Garcia](https://www.worldcubeassociation.org/persons/2009GARC03) | 1 131 km |
@@ -796,6 +797,7 @@
 | [Carmen Gómez Martínez](https://www.worldcubeassociation.org/persons/2024MARC21) | 1 104 km |
 | [Karim Heljam Casanova](https://www.worldcubeassociation.org/persons/2022CASA01) | 1 103 km |
 | [Eric Costa Xiong](https://www.worldcubeassociation.org/persons/2025XION02) | 1 100 km |
+| [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) | 1 096 km |
 | [Sebastian Marín Barrutti](https://www.worldcubeassociation.org/persons/2022BARR20) | 1 087 km |
 | [Guillermo Ibáñez Lafuente](https://www.worldcubeassociation.org/persons/2022LAFU02) | 1 083 km |
 | [Leo del Ser](https://www.worldcubeassociation.org/persons/2024SERL01) | 1 074 km |
@@ -804,7 +806,6 @@
 | [Fernando Curto Anoll](https://www.worldcubeassociation.org/persons/2018ANOL01) | 1 065 km |
 | [Arnau Prat Plana](https://www.worldcubeassociation.org/persons/2017PLAN01) | 1 064 km |
 | [Iván Criado García](https://www.worldcubeassociation.org/persons/2023GARC92) | 1 062 km |
-| [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) | 1 059 km |
 | [Juan Antonio Guerrero](https://www.worldcubeassociation.org/persons/2018GUER01) | 1 058 km |
 | [Joel Criado González](https://www.worldcubeassociation.org/persons/2023GONZ28) | 1 057 km |
 | [Ángel Sopo López](https://www.worldcubeassociation.org/persons/2010SOPO01) | 1 052 km |
@@ -819,8 +820,8 @@
 | [Lidio Miguel González Herrero](https://www.worldcubeassociation.org/persons/2014HERR07) | 1 033 km |
 | [Álvaro Díaz Jordan](https://www.worldcubeassociation.org/persons/2016JORD03) | 1 030 km |
 | [Unai López Garrués](https://www.worldcubeassociation.org/persons/2024GARR10) | 1 028 km |
-| [Ramón Viladomat Arro](https://www.worldcubeassociation.org/persons/2009ARRO01) | 1 021 km |
 | [Alejandro Oliva Gómez](https://www.worldcubeassociation.org/persons/2016GOME04) | 1 021 km |
+| [Ramón Viladomat Arro](https://www.worldcubeassociation.org/persons/2009ARRO01) | 1 021 km |
 | [Gema Peña Hernández Arroyo](https://www.worldcubeassociation.org/persons/2018ARRO01) | 1 017 km |
 | [Arnau Masriera Ramírez](https://www.worldcubeassociation.org/persons/2017RAMI14) | 1 016 km |
 | [Jordi Young Savin](https://www.worldcubeassociation.org/persons/2026SAVI01) | 1 014 km |
@@ -828,22 +829,22 @@
 | [Daniel del Olmo Rodrigo](https://www.worldcubeassociation.org/persons/2018RODR42) | 1 012 km |
 | [Fernando Vidal Agustin](https://www.worldcubeassociation.org/persons/2005VIDA01) | 1 011 km |
 | [Rafael Saez Ribas](https://www.worldcubeassociation.org/persons/2014RIBA01) | 1 010 km |
-| [Antonio José Piñero Ruíz](https://www.worldcubeassociation.org/persons/2024RUIZ24) | 1 005 km |
 | [Darío Piñero Riquelme](https://www.worldcubeassociation.org/persons/2024RIQU01) | 1 005 km |
+| [Antonio José Piñero Ruíz](https://www.worldcubeassociation.org/persons/2024RUIZ24) | 1 005 km |
 | [María Maícas Royo](https://www.worldcubeassociation.org/persons/2023ROYO02) | 1 004 km |
 | [Martín Rico Muñoz](https://www.worldcubeassociation.org/persons/2025MUNO04) | 998 km |
 | [Eder Villar Martinez](https://www.worldcubeassociation.org/persons/2017MART38) | 996 km |
+| [Ruben Filiberto Cobos](https://www.worldcubeassociation.org/persons/2024COBO02) | 992 km |
 | [Rafael Vílchez López](https://www.worldcubeassociation.org/persons/2010VILC01) | 990 km |
 | [Sara Camacho García](https://www.worldcubeassociation.org/persons/2014GARC29) | 990 km |
 | [Guillermo Sánchez Gutiérrez](https://www.worldcubeassociation.org/persons/2023GUTI33) | 989 km |
 | [Enric Martínez Cot](https://www.worldcubeassociation.org/persons/2016COTE02) | 988 km |
 | [Gema Crespo Mataix](https://www.worldcubeassociation.org/persons/2017MATA03) | 984 km |
-| [Javier Luis Cagiao Pampín](https://www.worldcubeassociation.org/persons/2025PAMP02) | 983 km |
 | [Ricardo Sánchez Gutiérrez](https://www.worldcubeassociation.org/persons/2014GUTI05) | 983 km |
+| [Javier Luis Cagiao Pampín](https://www.worldcubeassociation.org/persons/2025PAMP02) | 983 km |
 | [Carlos Barriga Aparicio](https://www.worldcubeassociation.org/persons/2016APAR01) | 981 km |
 | [Sara Sánchez Jiménez](https://www.worldcubeassociation.org/persons/2024JIME20) | 979 km |
 | [Manuel Jesús Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2014RUIZ14) | 978 km |
-| [Ruben Filiberto Cobos](https://www.worldcubeassociation.org/persons/2024COBO02) | 976 km |
 | [Álvaro Moreno Peláez](https://www.worldcubeassociation.org/persons/2019PELA01) | 975 km |
 | [Honghao Chen Li](https://www.worldcubeassociation.org/persons/2016LIHO02) | 974 km |
 | [Enrique Olmedo Gómez](https://www.worldcubeassociation.org/persons/2026GOME30) | 972 km |
@@ -855,55 +856,55 @@
 | [Álex Pozuelo](https://www.worldcubeassociation.org/persons/2023POZU02) | 961 km |
 | [Luis Garcés Méndez](https://www.worldcubeassociation.org/persons/2010GARC03) | 958 km |
 | [Omar De Las Heras Sánchez](https://www.worldcubeassociation.org/persons/2024SANC69) | 957 km |
-| [Pedro Diaz Alonso](https://www.worldcubeassociation.org/persons/2016ALON04) | 955 km |
 | [Rubin Pande Dhital](https://www.worldcubeassociation.org/persons/2024DHIT01) | 955 km |
+| [Pedro Diaz Alonso](https://www.worldcubeassociation.org/persons/2016ALON04) | 955 km |
 | [Hugo Mateo Trejo](https://www.worldcubeassociation.org/persons/2017TREJ01) | 954 km |
 | [Mauro Vargas Sánchez](https://www.worldcubeassociation.org/persons/2023SANC07) | 946 km |
+| [Ismael Martín Katerji](https://www.worldcubeassociation.org/persons/2023KATE04) | 943 km |
+| [Helena Martín Katerji](https://www.worldcubeassociation.org/persons/2023KATE03) | 943 km |
 | [Miquel Sánchez Najarro](https://www.worldcubeassociation.org/persons/2018NAJA04) | 942 km |
-| [Helena Martín Katerji](https://www.worldcubeassociation.org/persons/2023KATE03) | 938 km |
-| [Ismael Martín Katerji](https://www.worldcubeassociation.org/persons/2023KATE04) | 938 km |
 | [Diego Piñeiro Ogando](https://www.worldcubeassociation.org/persons/2025OGAN01) | 934 km |
 | [Emma Fernández Barranco](https://www.worldcubeassociation.org/persons/2016BARR13) | 923 km |
 | [Giovanni Pacchetti](https://www.worldcubeassociation.org/persons/2022PACC02) | 923 km |
 | [Arturo Mañas Lopez](https://www.worldcubeassociation.org/persons/2022LOPE22) | 922 km |
 | [Miriam Xi Mudarra Hurtado](https://www.worldcubeassociation.org/persons/2016HURT03) | 921 km |
 | [Daniel Cantero Fernández](https://www.worldcubeassociation.org/persons/2019FERN06) | 920 km |
+| [Miguel Ángel Pérez Gómez](https://www.worldcubeassociation.org/persons/2023GOME64) | 917 km |
 | [Oriol Pardo García](https://www.worldcubeassociation.org/persons/2025GARC44) | 916 km |
 | [Santiago Baldío Torró](https://www.worldcubeassociation.org/persons/2023TORR25) | 914 km |
-| [Alba Periago](https://www.worldcubeassociation.org/persons/2018PERI04) | 913 km |
 | [Rómulo Alexandross Rodríguez Santana](https://www.worldcubeassociation.org/persons/2025SANT06) | 913 km |
-| [Miguel Ángel Pérez Gómez](https://www.worldcubeassociation.org/persons/2023GOME64) | 912 km |
+| [Alba Periago](https://www.worldcubeassociation.org/persons/2018PERI04) | 913 km |
 | [Guillermo Sánchez Gómez](https://www.worldcubeassociation.org/persons/2025GOME21) | 909 km |
+| [Kike Sempere Ten](https://www.worldcubeassociation.org/persons/2024TENK01) | 908 km |
 | [Antonio Navarro Martínez](https://www.worldcubeassociation.org/persons/2022MART52) | 907 km |
-| [Francisco García Rodríguez](https://www.worldcubeassociation.org/persons/2024RODR52) | 902 km |
 | [Ivan García Simon](https://www.worldcubeassociation.org/persons/2024SIMO08) | 902 km |
+| [Francisco García Rodríguez](https://www.worldcubeassociation.org/persons/2024RODR52) | 902 km |
 | [Álvaro Gallego Miguel](https://www.worldcubeassociation.org/persons/2016MIGU05) | 901 km |
 | [Javier Piedrola Sanchez](https://www.worldcubeassociation.org/persons/2024SANC03) | 901 km |
 | [Marta Manrique](https://www.worldcubeassociation.org/persons/2023MANR01) | 899 km |
 | [Juan del Olmo Such](https://www.worldcubeassociation.org/persons/2023SUCH02) | 897 km |
 | [Ramón Pacheco Rico](https://www.worldcubeassociation.org/persons/2016RICO02) | 894 km |
 | [Ignacio Cascos Fernández](https://www.worldcubeassociation.org/persons/2025FERN19) | 893 km |
-| [Kike Sempere Ten](https://www.worldcubeassociation.org/persons/2024TENK01) | 893 km |
 | [David Hoffmann](https://www.worldcubeassociation.org/persons/2023HOFF03) | 892 km |
 | [Javier López Corral](https://www.worldcubeassociation.org/persons/2008LOPE01) | 891 km |
 | [Miguel Ángel Humanes Calderón](https://www.worldcubeassociation.org/persons/2023CALD13) | 890 km |
 | [Jordi Freixa](https://www.worldcubeassociation.org/persons/2022FREI07) | 889 km |
 | [Juan Carlos Sánchez Gutiérrez](https://www.worldcubeassociation.org/persons/2024GUTI11) | 887 km |
-| [Sergio Barbellido Berrocal](https://www.worldcubeassociation.org/persons/2024BERR11) | 881 km |
 | [Rodrigo Díaz](https://www.worldcubeassociation.org/persons/2022DIAZ01) | 881 km |
+| [Sergio Barbellido Berrocal](https://www.worldcubeassociation.org/persons/2024BERR11) | 881 km |
 | [Zhiqi Zhou Xie](https://www.worldcubeassociation.org/persons/2023XIEZ01) | 878 km |
 | [Jessica Amorós Molina](https://www.worldcubeassociation.org/persons/2008AMOR01) | 876 km |
 | [Gonzalo Ibáñez López](https://www.worldcubeassociation.org/persons/2016LOPE36) | 876 km |
 | [Cristóbal Carrasco Luque](https://www.worldcubeassociation.org/persons/2017LUQU02) | 873 km |
 | [Jorge Antonio Calvo Sanz](https://www.worldcubeassociation.org/persons/2018SANZ03) | 871 km |
 | [Daniel Moreno Valero](https://www.worldcubeassociation.org/persons/2013VALE01) | 870 km |
-| [Adrian Oyanguren Ramirez](https://www.worldcubeassociation.org/persons/2023RAMI36) | 869 km |
 | [Frank Sebastian Oyanguren Ramirez](https://www.worldcubeassociation.org/persons/2023RAMI37) | 869 km |
+| [Adrian Oyanguren Ramirez](https://www.worldcubeassociation.org/persons/2023RAMI36) | 869 km |
 | [Jaime Solsona](https://www.worldcubeassociation.org/persons/2010SOLS01) | 868 km |
 | [Gonzalo Pérez Odero](https://www.worldcubeassociation.org/persons/2022ODER01) | 865 km |
 | [Federico Alfaro](https://www.worldcubeassociation.org/persons/2024ALFA08) | 865 km |
-| [Cayetano Escalante Torrejon](https://www.worldcubeassociation.org/persons/2024TORR39) | 863 km |
 | [Lena Insúa Plaza](https://www.worldcubeassociation.org/persons/2023PLAZ02) | 863 km |
+| [Cayetano Escalante Torrejon](https://www.worldcubeassociation.org/persons/2024TORR39) | 863 km |
 | [Sergi Canal Garcia](https://www.worldcubeassociation.org/persons/2024GARC83) | 859 km |
 | [Joan Ivorra de Trazegnies](https://www.worldcubeassociation.org/persons/2022TRAZ01) | 857 km |
 | [Alejandro Navarro](https://www.worldcubeassociation.org/persons/2018NAVA18) | 852 km |
@@ -918,24 +919,24 @@
 | [Mircea Crisan Córdoba](https://www.worldcubeassociation.org/persons/2017CORD08) | 832 km |
 | [Jose Antonio Pérez Díaz](https://www.worldcubeassociation.org/persons/2023DIAZ23) | 830 km |
 | [Mar Lancharro Alonso](https://www.worldcubeassociation.org/persons/2022ALON02) | 830 km |
-| [Álvaro Márquez Valero](https://www.worldcubeassociation.org/persons/2016VALE08) | 827 km |
 | [Rocío Tomé González](https://www.worldcubeassociation.org/persons/2015GONZ20) | 827 km |
+| [Álvaro Márquez Valero](https://www.worldcubeassociation.org/persons/2016VALE08) | 827 km |
 | [Javier Navarro Sánchez](https://www.worldcubeassociation.org/persons/2017SANC16) | 824 km |
 | [Elena Prieto](https://www.worldcubeassociation.org/persons/2026PRIE01) | 822 km |
 | [Sofía Tendero Bautista](https://www.worldcubeassociation.org/persons/2023BAUT07) | 819 km |
 | [Xavier Labarga](https://www.worldcubeassociation.org/persons/2024LABA01) | 818 km |
 | [Álvaro Jiménez Peña](https://www.worldcubeassociation.org/persons/2024PENA02) | 817 km |
 | [Pablo Luque Maldonado](https://www.worldcubeassociation.org/persons/2017MALD07) | 814 km |
-| [Diego Lago Mendoza](https://www.worldcubeassociation.org/persons/2017MEND27) | 811 km |
 | [Martin Azurmendi Alkorta](https://www.worldcubeassociation.org/persons/2022ALKO01) | 811 km |
+| [Diego Lago Mendoza](https://www.worldcubeassociation.org/persons/2017MEND27) | 811 km |
 | [Martín Alonso](https://www.worldcubeassociation.org/persons/2025ALON01) | 809 km |
 | [Alan Scott Camacho Baños](https://www.worldcubeassociation.org/persons/2013BANO01) | 807 km |
 | [Samuel Martinez Sanchez](https://www.worldcubeassociation.org/persons/2024SANC51) | 806 km |
 | [Rafael Esparza Torrejon](https://www.worldcubeassociation.org/persons/2024TORR32) | 804 km |
 | [Arnau Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ07) | 802 km |
 | [Guillem Pórtulas Asensio](https://www.worldcubeassociation.org/persons/2009ASEN01) | 799 km |
-| [Juan Guerrero Rodríguez](https://www.worldcubeassociation.org/persons/2009RODR01) | 794 km |
 | [Gabriel Núñez Cantos](https://www.worldcubeassociation.org/persons/2017CANT07) | 794 km |
+| [Juan Guerrero Rodríguez](https://www.worldcubeassociation.org/persons/2009RODR01) | 794 km |
 | [Bruno Granado Torres](https://www.worldcubeassociation.org/persons/2023TORR51) | 791 km |
 | [Haizea Valls Diaz](https://www.worldcubeassociation.org/persons/2023DIAZ21) | 789 km |
 | [Carmen Centelles Guarc](https://www.worldcubeassociation.org/persons/2017GUAR04) | 789 km |
@@ -954,8 +955,8 @@
 | [Antonio Miguel Mudarra Vela](https://www.worldcubeassociation.org/persons/2017VELA02) | 757 km |
 | [Albert Valentí Vergara](https://www.worldcubeassociation.org/persons/2025VERG01) | 755 km |
 | [Daniel Martín Lobo](https://www.worldcubeassociation.org/persons/2016LOBO01) | 755 km |
-| [Marc Maravall Diez](https://www.worldcubeassociation.org/persons/2024DIEZ01) | 754 km |
 | [Javier González Granados](https://www.worldcubeassociation.org/persons/2015GRAN01) | 754 km |
+| [Marc Maravall Diez](https://www.worldcubeassociation.org/persons/2024DIEZ01) | 754 km |
 | [Héctor Sebastián Lombraña](https://www.worldcubeassociation.org/persons/2010LOMB01) | 750 km |
 | [María Villán Coto](https://www.worldcubeassociation.org/persons/2014COTO01) | 750 km |
 | [Isabel María Amor Martínez](https://www.worldcubeassociation.org/persons/2015MART36) | 750 km |
@@ -965,24 +966,24 @@
 | [Javier Rodríguez Ochoa](https://www.worldcubeassociation.org/persons/2025OCHO08) | 746 km |
 | [Simón Devesa Ortiz](https://www.worldcubeassociation.org/persons/2024ORTI03) | 746 km |
 | [Markel Ontañon Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ21) | 744 km |
+| [Jorge Gómez Sierra](https://www.worldcubeassociation.org/persons/2019SIER02) | 736 km |
 | [Óscar Zhu](https://www.worldcubeassociation.org/persons/2022ZHUO02) | 732 km |
 | [Lucas Herraez Pérez](https://www.worldcubeassociation.org/persons/2025PERE47) | 729 km |
 | [Iván Vera Pérez-Ilzarbe](https://www.worldcubeassociation.org/persons/2023PERI03) | 729 km |
-| [Daniel Dragos Ilies](https://www.worldcubeassociation.org/persons/2016ILIE01) | 726 km |
 | [Mikel Labarga Lusarreta](https://www.worldcubeassociation.org/persons/2024LUSA01) | 726 km |
+| [Daniel Dragos Ilies](https://www.worldcubeassociation.org/persons/2016ILIE01) | 726 km |
 | [Enmanuel Melero](https://www.worldcubeassociation.org/persons/2023MELE02) | 725 km |
 | [Darío Hammad Vayá](https://www.worldcubeassociation.org/persons/2023VAYA01) | 725 km |
-| [Jorge Gómez Sierra](https://www.worldcubeassociation.org/persons/2019SIER02) | 721 km |
-| [Iker Gallego Gómez](https://www.worldcubeassociation.org/persons/2023GOME61) | 719 km |
 | [Mario Rodríguez Navarro](https://www.worldcubeassociation.org/persons/2024NAVA07) | 719 km |
-| [Miguel Gómez Leal](https://www.worldcubeassociation.org/persons/2009GOME01) | 718 km |
+| [Iker Gallego Gómez](https://www.worldcubeassociation.org/persons/2023GOME61) | 719 km |
 | [Xabier González González](https://www.worldcubeassociation.org/persons/2009GONZ06) | 718 km |
+| [Miguel Gómez Leal](https://www.worldcubeassociation.org/persons/2009GOME01) | 718 km |
 | [Ignacio García de Bringas](https://www.worldcubeassociation.org/persons/2008GARC03) | 717 km |
-| [Miguel Ibeas Agudo](https://www.worldcubeassociation.org/persons/2026AGUD05) | 716 km |
+| [Adrián Alba Montes](https://www.worldcubeassociation.org/persons/2022MONT03) | 716 km |
+| [Gabriel de la Torre Agudo](https://www.worldcubeassociation.org/persons/2026AGUD02) | 716 km |
 | [Alejandro Marín Rubio](https://www.worldcubeassociation.org/persons/2024RUBI07) | 716 km |
 | [Marc Martín León](https://www.worldcubeassociation.org/persons/2023LEON11) | 716 km |
-| [Gabriel de la Torre Agudo](https://www.worldcubeassociation.org/persons/2026AGUD02) | 716 km |
-| [Adrián Alba Montes](https://www.worldcubeassociation.org/persons/2022MONT03) | 716 km |
+| [Miguel Ibeas Agudo](https://www.worldcubeassociation.org/persons/2026AGUD05) | 716 km |
 | [Rodrigo Erce Exposito](https://www.worldcubeassociation.org/persons/2023EXPO02) | 714 km |
 | [Guillem Serrallonga Rosell](https://www.worldcubeassociation.org/persons/2023ROSE09) | 713 km |
 | [Esperanza Reyes Escalante](https://www.worldcubeassociation.org/persons/2026ESCA01) | 712 km |
@@ -990,21 +991,20 @@
 | [Rafael G. Membrillera Pérez](https://www.worldcubeassociation.org/persons/2017MEMB01) | 707 km |
 | [Alexandra Gross Leal](https://www.worldcubeassociation.org/persons/2025LEAL07) | 704 km |
 | [Brais Piñeiro Ogando](https://www.worldcubeassociation.org/persons/2025OGAN02) | 703 km |
-| [Markel Perona Guerra](https://www.worldcubeassociation.org/persons/2017GUER22) | 700 km |
 | [Manuel Vicente Galipienso Penalva](https://www.worldcubeassociation.org/persons/2016PENA12) | 700 km |
+| [Markel Perona Guerra](https://www.worldcubeassociation.org/persons/2017GUER22) | 700 km |
 | [David Escobar](https://www.worldcubeassociation.org/persons/2022ESCO06) | 694 km |
 | [Guiu Torras Arcusa](https://www.worldcubeassociation.org/persons/2024ARCU01) | 693 km |
 | [Lukas Alexander Galvez Echeverria](https://www.worldcubeassociation.org/persons/2022ECHE02) | 693 km |
-| [Edorta Vázquez Clemente](https://www.worldcubeassociation.org/persons/2009CLEM01) | 687 km |
 | [Julen Ferro Bañales](https://www.worldcubeassociation.org/persons/2009BANA01) | 687 km |
+| [Edorta Vázquez Clemente](https://www.worldcubeassociation.org/persons/2009CLEM01) | 687 km |
 | [Álvaro Huerga Robles](https://www.worldcubeassociation.org/persons/2009ROBL01) | 687 km |
 | [David Mesas García](https://www.worldcubeassociation.org/persons/2023GARC65) | 685 km |
-| [Asier Olavarria Berasategui](https://www.worldcubeassociation.org/persons/2023BERA03) | 684 km |
 | [Miguel Ángel de Haro Ceballos](https://www.worldcubeassociation.org/persons/2017CEBA01) | 684 km |
+| [Asier Olavarria Berasategui](https://www.worldcubeassociation.org/persons/2023BERA03) | 684 km |
 | [Pablo González Monfort](https://www.worldcubeassociation.org/persons/2023MONF01) | 683 km |
-| [Alonso Velasco Álvarez](https://www.worldcubeassociation.org/persons/2026ALVA02) | 682 km |
 | [Hugo Muñoz Escudero](https://www.worldcubeassociation.org/persons/2015ESCU02) | 682 km |
-| [Alex Polliotto](https://www.worldcubeassociation.org/persons/2024POLL02) | 682 km |
+| [Alonso Velasco Álvarez](https://www.worldcubeassociation.org/persons/2026ALVA02) | 682 km |
 
 
 <a href="https://github.com/venturamargri/wca_statistics_es" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

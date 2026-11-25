@@ -1,7 +1,7 @@
 ## Comparación de blind entre cubos consecutivos
 
 *Nota: Menor proporción entre los singles oficiales (PB) de categorías a ciegas consecutivas (y 3BLD frente a 3x3x3). Es obligatorio tener single oficial en ambas categorías.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Blindfolded / 3x3x3
@@ -13,11 +13,11 @@
 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) | 23.90 | 10.05 | 2.378 |
 | [Alejandro Jiménez Hernández](https://www.worldcubeassociation.org/persons/2022HERN16) | 20.43 | 8.25 | 2.476 |
 | [Jorge Rodón Leiva](https://www.worldcubeassociation.org/persons/2018LEIV03) | 21.22 | 7.52 | 2.822 |
-| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 21.99 | 7.37 | 2.984 |
 | [Javier Hernandez Requena](https://www.worldcubeassociation.org/persons/2012REQU01) | 48.65 | 15.32 | 3.176 |
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 22.80 | 6.68 | 3.413 |
 | [Sergio Chaparro Díaz-Cano](https://www.worldcubeassociation.org/persons/2023DIAZ45) | 43.37 | 12.65 | 3.428 |
 | [Sergio Bodega Herráiz](https://www.worldcubeassociation.org/persons/2014HERR08) | 1:05.01 | 18.49 | 3.516 |
+| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 21.99 | 6.21 | 3.541 |
 | [Julio Perugorria Lorente](https://www.worldcubeassociation.org/persons/2014LORE02) | 41.46 | 11.14 | 3.722 |
 | [Ot Caminals Aleu](https://www.worldcubeassociation.org/persons/2022ALEU01) | 28.60 | 7.54 | 3.793 |
 | [Lucas Benito Rolando](https://www.worldcubeassociation.org/persons/2010BENI02) | 36.93 | 9.57 | 3.859 |

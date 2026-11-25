@@ -1,7 +1,7 @@
 ## Mayor % de competiciones disputadas en la comunidad autónoma de la primera competición
 
 *Nota: Comunidad o ciudad autónoma calculada a partir de las coordenadas de la competición (17 comunidades autónomas y 2 ciudades autónomas). Porcentaje de competiciones disputadas en la comunidad autónoma del debut respecto al total de competiciones (incluyendo extranjero).The ratio is computed against all competitions attended, including those abroad.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Persona | Primera competición | Comunidad autónoma | En la comunidad autónoma | Total | Porcentaje |
 | :--- | :--- | :--- | ---: | ---: | ---: |
@@ -18,20 +18,20 @@
 | [Santiago Alejandro Zerpa Ruel](https://www.worldcubeassociation.org/persons/2023RUEL02) | [X-Madrid Open 2023](https://www.worldcubeassociation.org/competitions/XMadridOpen2023) | Comunidad de Madrid | 16 | 16 | 100.0% |
 | [Saul Andrés Herrero](https://www.worldcubeassociation.org/persons/2024HERR10) | [Parla Open 2024](https://www.worldcubeassociation.org/competitions/ParlaOpen2024) | Comunidad de Madrid | 16 | 16 | 100.0% |
 | [Óscar Roldán Blay](https://www.worldcubeassociation.org/persons/2014BLAY01) | [UPV Open 2014](https://www.worldcubeassociation.org/competitions/UPVOpen2014) | Comunitat Valenciana | 16 | 16 | 100.0% |
-| [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) | [Mairena Open 2023](https://www.worldcubeassociation.org/competitions/MairenaOpen2023) | Andalucía | 14 | 14 | 100.0% |
+| [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) | [Mairena Open 2023](https://www.worldcubeassociation.org/competitions/MairenaOpen2023) | Andalucía | 15 | 15 | 100.0% |
 | [Emilio Martín López](https://www.worldcubeassociation.org/persons/2022LOPE29) | [Chanquete Open 2022](https://www.worldcubeassociation.org/competitions/ChanqueteOpen2022) | Andalucía | 14 | 14 | 100.0% |
+| [Helena Martín Katerji](https://www.worldcubeassociation.org/persons/2023KATE03) | [Mairena Open 2023](https://www.worldcubeassociation.org/competitions/MairenaOpen2023) | Andalucía | 14 | 14 | 100.0% |
+| [Ismael Martín Katerji](https://www.worldcubeassociation.org/persons/2023KATE04) | [Mairena Open 2023](https://www.worldcubeassociation.org/competitions/MairenaOpen2023) | Andalucía | 14 | 14 | 100.0% |
 | [Marina Comas Serra](https://www.worldcubeassociation.org/persons/2024SERR15) | [Fires de Girona 2024](https://www.worldcubeassociation.org/competitions/FiresdeGirona2024) | Cataluña | 14 | 14 | 100.0% |
+| [Asier Martín Poves](https://www.worldcubeassociation.org/persons/2023POVE01) | [Burjassot Open 2023](https://www.worldcubeassociation.org/competitions/BurjassotOpen2023) | Comunitat Valenciana | 13 | 13 | 100.0% |
 | [Beñat Morán del Campo](https://www.worldcubeassociation.org/persons/2023CAMP17) | [Erandio TxikiOpen 2023](https://www.worldcubeassociation.org/competitions/ErandioTxikiOpen2023) | País Vasco | 13 | 13 | 100.0% |
 | [David Sánchez Hommen](https://www.worldcubeassociation.org/persons/2015HOMM02) | [Valencia Open 2015](https://www.worldcubeassociation.org/competitions/ValenciaOpen2015) | Comunitat Valenciana | 13 | 13 | 100.0% |
 | [Emma Vazquez Maldonado](https://www.worldcubeassociation.org/persons/2026MALD01) | [Alcobendas Virgen de la Paz Open 2026](https://www.worldcubeassociation.org/competitions/AlcobendasOpen2026) | Comunidad de Madrid | 13 | 13 | 100.0% |
 | [Eric Gómez](https://www.worldcubeassociation.org/persons/2023GOME25) | [Tarragona Side Events 2023](https://www.worldcubeassociation.org/competitions/TarragonaSideEvents2023) | Cataluña | 13 | 13 | 100.0% |
 | [Gustavo Aguilar Mora](https://www.worldcubeassociation.org/persons/2023MORA72) | [Mairena Open 2023](https://www.worldcubeassociation.org/competitions/MairenaOpen2023) | Andalucía | 13 | 13 | 100.0% |
-| [Helena Martín Katerji](https://www.worldcubeassociation.org/persons/2023KATE03) | [Mairena Open 2023](https://www.worldcubeassociation.org/competitions/MairenaOpen2023) | Andalucía | 13 | 13 | 100.0% |
-| [Ismael Martín Katerji](https://www.worldcubeassociation.org/persons/2023KATE04) | [Mairena Open 2023](https://www.worldcubeassociation.org/competitions/MairenaOpen2023) | Andalucía | 13 | 13 | 100.0% |
 | [Juan González](https://www.worldcubeassociation.org/persons/2016GONZ38) | [Arnold Open 2016](https://www.worldcubeassociation.org/competitions/ArnoldOpen2016) | Cataluña | 13 | 13 | 100.0% |
 | [Leyre Leva Rios](https://www.worldcubeassociation.org/persons/2025RIOS01) | [Huashang: Las Tablas Open 2025](https://www.worldcubeassociation.org/competitions/HuashangLasTablasOpen2025) | Comunidad de Madrid | 13 | 13 | 100.0% |
 | [Lorea Eriz Ávila](https://www.worldcubeassociation.org/persons/2019AVIL07) | [Bilbao Open 2019](https://www.worldcubeassociation.org/competitions/BilbaoOpen2019) | País Vasco | 13 | 13 | 100.0% |
-| [Asier Martín Poves](https://www.worldcubeassociation.org/persons/2023POVE01) | [Burjassot Open 2023](https://www.worldcubeassociation.org/competitions/BurjassotOpen2023) | Comunitat Valenciana | 12 | 12 | 100.0% |
 | [Ekain Mosteiro Moreno](https://www.worldcubeassociation.org/persons/2024MORE43) | [Bilbao Open 2024](https://www.worldcubeassociation.org/competitions/BilbaoOpen2024) | País Vasco | 12 | 12 | 100.0% |
 | [Guillem Serrallonga Rosell](https://www.worldcubeassociation.org/persons/2023ROSE09) | [Nhood Xperience Sant Boi 2023](https://www.worldcubeassociation.org/competitions/NhoodXperienceSantBoi2023) | Cataluña | 12 | 12 | 100.0% |
 | [Guiu Torras Arcusa](https://www.worldcubeassociation.org/persons/2024ARCU01) | [Santpedor Open 2024](https://www.worldcubeassociation.org/competitions/SantpedorOpen2024) | Cataluña | 12 | 12 | 100.0% |
@@ -41,7 +41,9 @@
 | [Darío Ramírez Pino](https://www.worldcubeassociation.org/persons/2024PINO01) | [Écija Open 2024](https://www.worldcubeassociation.org/competitions/EcijaOpen2024) | Andalucía | 11 | 11 | 100.0% |
 | [Hugo Fernández](https://www.worldcubeassociation.org/persons/2023FERN44) | [Tarragona Side Events 2023](https://www.worldcubeassociation.org/competitions/TarragonaSideEvents2023) | Cataluña | 11 | 11 | 100.0% |
 | [Héctor Castro Lázaro](https://www.worldcubeassociation.org/persons/2018LAZA11) | [Fuenlabrada Open 2018](https://www.worldcubeassociation.org/competitions/FuenlabradaOpen2018) | Comunidad de Madrid | 11 | 11 | 100.0% |
+| [Miguel Ángel Pérez Gómez](https://www.worldcubeassociation.org/persons/2023GOME64) | [Mairena Open 2023](https://www.worldcubeassociation.org/competitions/MairenaOpen2023) | Andalucía | 11 | 11 | 100.0% |
 | [Nicolás Gómez Torrego](https://www.worldcubeassociation.org/persons/2023TORR28) | [Nhood Alcalá Mystery Open 2023](https://www.worldcubeassociation.org/competitions/NhoodAlcalaMysteryOpen2023) | Comunidad de Madrid | 11 | 11 | 100.0% |
+| [Sergio Bueno Merino](https://www.worldcubeassociation.org/persons/2016MERI01) | [Spanish Championship 2016](https://www.worldcubeassociation.org/competitions/SpanishChampionship2016) | Andalucía | 11 | 11 | 100.0% |
 | [Adrià Alsina Sanchez](https://www.worldcubeassociation.org/persons/2023SANC76) | [Torelló Open 2023](https://www.worldcubeassociation.org/competitions/TorelloOpen2023) | Cataluña | 10 | 10 | 100.0% |
 | [Aimar Morán del Campo](https://www.worldcubeassociation.org/persons/2023CAMP36) | [La Perrera Udazkena Open 2023](https://www.worldcubeassociation.org/competitions/LaPerreraUdazkenaOpen2023) | País Vasco | 10 | 10 | 100.0% |
 | [Cristian Saltos Diaz](https://www.worldcubeassociation.org/persons/2016DIAZ19) | [Basauri Open 2016](https://www.worldcubeassociation.org/competitions/BasauriOpen2016) | País Vasco | 10 | 10 | 100.0% |
@@ -54,11 +56,9 @@
 | [José Enrique Pardo López](https://www.worldcubeassociation.org/persons/2023LOPE52) | [Aldeilla FMC Open 2023](https://www.worldcubeassociation.org/competitions/AldeillaFMCOpen2023) | Andalucía | 10 | 10 | 100.0% |
 | [Laura Cano](https://www.worldcubeassociation.org/persons/2022CANO07) | [Chanquete Open 2022](https://www.worldcubeassociation.org/competitions/ChanqueteOpen2022) | Andalucía | 10 | 10 | 100.0% |
 | [Mario Rivas Reinoso](https://www.worldcubeassociation.org/persons/2023REIN02) | [Aldeilla Open 2023](https://www.worldcubeassociation.org/competitions/AldeillaOpen2023) | Andalucía | 10 | 10 | 100.0% |
-| [Miguel Ángel Pérez Gómez](https://www.worldcubeassociation.org/persons/2023GOME64) | [Mairena Open 2023](https://www.worldcubeassociation.org/competitions/MairenaOpen2023) | Andalucía | 10 | 10 | 100.0% |
 | [Nines Lázaro Alcázar](https://www.worldcubeassociation.org/persons/2018ALCA04) | [Chanquete Open 2018](https://www.worldcubeassociation.org/competitions/ChanqueteOpen2018) | Andalucía | 10 | 10 | 100.0% |
 | [Pablo Reyes Rimón](https://www.worldcubeassociation.org/persons/2017RIMO01) | [Villanueva Open 2017](https://www.worldcubeassociation.org/competitions/VillanuevadelaCanadaOpen2017) | Comunidad de Madrid | 10 | 10 | 100.0% |
 | [Raúl Gómez Medina](https://www.worldcubeassociation.org/persons/2022MEDI10) | [Minyons de Terrassa Open 2022](https://www.worldcubeassociation.org/competitions/Minyons2022) | Cataluña | 10 | 10 | 100.0% |
-| [Sergio Bueno Merino](https://www.worldcubeassociation.org/persons/2016MERI01) | [Spanish Championship 2016](https://www.worldcubeassociation.org/competitions/SpanishChampionship2016) | Andalucía | 10 | 10 | 100.0% |
 | [Alejandro Andrés Calapancea](https://www.worldcubeassociation.org/persons/2024CALA03) | [Getafe Continúa 2024](https://www.worldcubeassociation.org/competitions/GetafeContinua2024) | Comunidad de Madrid | 9 | 9 | 100.0% |
 | [Alfonso Peinado Molina](https://www.worldcubeassociation.org/persons/2022MOLI04) | [Chanquete Open 2022](https://www.worldcubeassociation.org/competitions/ChanqueteOpen2022) | Andalucía | 9 | 9 | 100.0% |
 | [Ander Mateo](https://www.worldcubeassociation.org/persons/2018MATE02) | [Spanish Championship 2018](https://www.worldcubeassociation.org/competitions/Spain2018) | Comunidad Foral de Navarra | 9 | 9 | 100.0% |

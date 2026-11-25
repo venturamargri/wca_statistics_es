@@ -1,7 +1,7 @@
 ## Menor tiempo en conseguir todos los singles
 
 *Nota: Cada tabla cubre un periodo en el que el conjunto de categorías oficiales no cambió. Aparecen quienes lograron resultado en todas las categorías de ese periodo en alguno de sus días de competición dentro del mismo. Los días se cuentan desde su primera competición.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 1 de enero de 2020 – 1 de enero de 2027
@@ -15,6 +15,7 @@ Categorías: 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 C
 | 741 | [Ot Caminals Aleu](https://www.worldcubeassociation.org/persons/2022ALEU01) |
 | 854 | [Vidal Perea Cívico](https://www.worldcubeassociation.org/persons/2024CIVI01) |
 | 1043 | [Miguel Valero Olmo](https://www.worldcubeassociation.org/persons/2023VALE42) |
+| 1141 | [Sergio Chaparro Díaz-Cano](https://www.worldcubeassociation.org/persons/2023DIAZ45) |
 | 1540 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 1954 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
 | 2219 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
@@ -24,6 +25,7 @@ Categorías: 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 C
 | 2933 | [Rodrigo Pueblas Núñez](https://www.worldcubeassociation.org/persons/2014NUNE05) |
 | 2989 | [Iker Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2016RUIZ05) |
 | 3101 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) |
+| 3143 | [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) |
 | 3144 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
 | 3430 | [Artur Miralles Hernàndez](https://www.worldcubeassociation.org/persons/2015HERN17) |
 | 3892 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |

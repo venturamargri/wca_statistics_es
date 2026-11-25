@@ -1,6 +1,6 @@
 ## Número de récords mundiales por persona
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | WRs | Persona |
 | ---: | :--- |

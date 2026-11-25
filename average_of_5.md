@@ -1,7 +1,7 @@
 ## Average de 5
 
 *Nota: Se consideran 5 intentos oficiales consecutivos. Solo se incluyen competidores del top 200 nacional en single.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -47,7 +47,7 @@
 | 28.99 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 28.58, 30.49, 25.90, 34.14, 27.89 |
 | 29.31 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | 29.44, 32.31, 26.10, 30.15, 28.33 |
 | 29.65 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 29.80, 30.84, 34.74, 28.30, 27.50 |
-| 29.96 | [Marcos Aparicio Caro](https://www.worldcubeassociation.org/persons/2016CARO06) | 39.78, 29.16, 29.66, 27.87, 31.07 |
+| 29.84 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | 36.54, 30.12, 30.12, 28.97, 29.28 |
 
 ### 5x5x5 Cube
 

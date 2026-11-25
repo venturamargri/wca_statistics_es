@@ -1,6 +1,6 @@
 ## Más intentos antes de lograr una resolución válida en BLD
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -12,19 +12,19 @@
 | 29 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
 | 23 | [Laura Tarrés Gimeno](https://www.worldcubeassociation.org/persons/2015GIME02) |
 | 22 | [Lucía Pascual Muñoz](https://www.worldcubeassociation.org/persons/2016MUNO13) |
-| 20 | [Astrid Gómez Martin](https://www.worldcubeassociation.org/persons/2022MART26) |
 | 20 | [Oscar Sánchez Najarro](https://www.worldcubeassociation.org/persons/2017NAJA02) |
+| 20 | [Astrid Gómez Martin](https://www.worldcubeassociation.org/persons/2022MART26) |
 | 20 | [Aitor Javier Rubio Pozuelo](https://www.worldcubeassociation.org/persons/2022POZU01) |
 | 19 | [Fran León Blanco](https://www.worldcubeassociation.org/persons/2023BLAN05) |
 | 18 | [Carlos Escudero Blanco](https://www.worldcubeassociation.org/persons/2023BLAN02) |
 | 17 | [Leonardo Jiménez Arias](https://www.worldcubeassociation.org/persons/2023ARIA06) |
+| 17 | [Elena Filiberto Chamorro](https://www.worldcubeassociation.org/persons/2022CHAM12) |
 | 17 | [Elisabet Delgado Mas](https://www.worldcubeassociation.org/persons/2011DELG01) |
 | 17 | [Javier Tovar Castro](https://www.worldcubeassociation.org/persons/2016CAST23) |
-| 17 | [Elena Filiberto Chamorro](https://www.worldcubeassociation.org/persons/2022CHAM12) |
 | 16 | [Daniel Borrajo Gutiérrez](https://www.worldcubeassociation.org/persons/2008BORR01) |
-| 16 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
-| 16 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) |
 | 16 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) |
+| 16 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) |
+| 16 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
 | 15 | [Pedro Collado Palma](https://www.worldcubeassociation.org/persons/2022PALM06) |
 | 14 | [Carlos Cascos González](https://www.worldcubeassociation.org/persons/2022GONZ04) |
 

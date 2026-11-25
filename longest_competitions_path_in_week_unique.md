@@ -1,7 +1,7 @@
 ## Mayor distancia recorrida entre competiciones en una misma semana (único)
 
 *Nota: Suma de distancias entre competiciones en la misma semana (lunes-domingo). Cada persona aparece como máximo una vez.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Distancia | Persona | Inicio | Fin | Competiciones |
 | ---: | :--- | :--- | :--- | :--- |

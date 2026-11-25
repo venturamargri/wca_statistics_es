@@ -1,7 +1,7 @@
 ## Peor resultado que logró podio por año en competiciones en España
 
 *Nota: Solo finales en competiciones celebradas en España, independientemente de la nacionalidad del medallista. Se ignoran resultados donde la métrica principal sea DNF.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 2026
@@ -93,8 +93,8 @@
 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 3:36.80 | **3:50.67** | [Ciu La Mancha Open 2026](https://www.worldcubeassociation.org/competitions/CiuLaManchaOpen2026/results/podiums#e777) | 3 |
 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 3:41.30 | **3:50.47** | [Arriate Open 2026](https://www.worldcubeassociation.org/competitions/ArriateOpen2026/results/podiums#e777) | 1 |
 | [David Sánchez Serrano](https://www.worldcubeassociation.org/persons/2016SERR09) | 3:38.91 | **3:45.84** | [Campeonato de Andalucía 2026](https://www.worldcubeassociation.org/competitions/CampeonatodeAndalucia2026/results/podiums#e777) | 3 |
-| [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) | 3:11.87 | **3:38.05** | [Momias Quinto Open 2026](https://www.worldcubeassociation.org/competitions/MomiasQuintoOpen2026/results/podiums#e777) | 3 |
-| [Daniel Cofreces Jaureguizar](https://www.worldcubeassociation.org/persons/2011COFR01) | 3:21.52 | **3:35.09** | [Alella Open 2026](https://www.worldcubeassociation.org/competitions/AlellaOpen2026/results/podiums#e777) | 2 |
+| [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | 3:32.67 | **3:45.60** | [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026/results/podiums#e777) | 3 |
+| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 3:37.25 | **3:43.65** | [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026/results/podiums#e777) | 2 |
 
 #### 3x3x3 Blindfolded
 
@@ -159,6 +159,7 @@
 
 | Persona | Single | Average | Competición | Puesto |
 | :--- | ---: | ---: | :--- | :--: |
+| [Asier Martín Poves](https://www.worldcubeassociation.org/persons/2023POVE01) | 1:19.39 | **1:23.54** | [L'Eliana Open 2026](https://www.worldcubeassociation.org/competitions/LElianaOpen2026/results/podiums#eminx) | 3 |
 | [Eduardo Pires](https://www.worldcubeassociation.org/persons/2024PIRE04) | 1:10.12 | **1:19.18** | [Ruta Cubera: Lalín Open 2026](https://www.worldcubeassociation.org/competitions/RutaCuberaLalinOpen2026/results/podiums#eminx) | 3 |
 | [Samuel María Liñares](https://www.worldcubeassociation.org/persons/2022LINA04) | 1:11.99 | **1:18.10** | [Camino de Santiago Open 2026](https://www.worldcubeassociation.org/competitions/CaminodeSantiagoOpen2026/results/podiums#eminx) | 3 |
 | [Samuel María Liñares](https://www.worldcubeassociation.org/persons/2022LINA04) | 1:10.13 | **1:15.43** | [Legio Open 2026](https://www.worldcubeassociation.org/competitions/LegioOpen2026/results/podiums#eminx) | 3 |
@@ -167,8 +168,7 @@
 | [Arnau López García](https://www.worldcubeassociation.org/persons/2024GARC49) | 59.39 | **1:11.50** | [Tomelloso Open 2026](https://www.worldcubeassociation.org/competitions/TomellosoOpen2026/results/podiums#eminx) | 3 |
 | [Sergio Márquez Fernández-Jardón](https://www.worldcubeassociation.org/persons/2023FERN54) | 1:04.90 | **1:10.91** | [Camino de Santiago Open 2026](https://www.worldcubeassociation.org/competitions/CaminodeSantiagoOpen2026/results/podiums#eminx) | 2 |
 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 1:05.21 | **1:10.09** | [Arriate Open 2026](https://www.worldcubeassociation.org/competitions/ArriateOpen2026/results/podiums#eminx) | 3 |
-| [Núria Carrillo Pascual](https://www.worldcubeassociation.org/persons/2025PASC02) | 1:06.97 | **1:09.76** | [Alella Open 2026](https://www.worldcubeassociation.org/competitions/AlellaOpen2026/results/podiums#eminx) | 3 |
-| [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) | 1:01.63 | **1:08.82** | [Cintruenigo Open 2026](https://www.worldcubeassociation.org/competitions/CintruenigoOpen2026/results/podiums#eminx) | 3 |
+| [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | 1:04.02 | **1:09.95** | [L'Eliana Open 2026](https://www.worldcubeassociation.org/competitions/LElianaOpen2026/results/podiums#eminx) | 2 |
 
 #### Pyraminx
 

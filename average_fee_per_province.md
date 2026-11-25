@@ -1,7 +1,7 @@
 ## Cuota media de inscripción por provincia
 
 *Nota: Provincia o ciudad autónoma calculada a partir de las coordenadas de la competición (50 provincias y 2 ciudades autónomas). Solo se incluyen competiciones en EUR.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 2026
@@ -13,7 +13,6 @@
 | Alacant/Alicante | 16.00 € | 1 |
 | Santa Cruz de Tenerife | 16.00 € | 1 |
 | Zaragoza | 16.00 € | 1 |
-| Sevilla | 15.60 € | 5 |
 | Cuenca | 15.00 € | 1 |
 | Castelló/Castellón | 15.00 € | 1 |
 | Valladolid | 15.00 € | 1 |
@@ -25,14 +24,15 @@
 | Granada | 15.00 € | 2 |
 | Ciudad Real | 15.00 € | 3 |
 | Cádiz | 15.00 € | 2 |
+| Sevilla | 15.00 € | 6 |
 | Murcia | 15.00 € | 3 |
 | Málaga | 15.00 € | 3 |
 | Toledo | 14.00 € | 3 |
 | A Coruña | 13.50 € | 2 |
 | Barcelona | 13.12 € | 8 |
+| Valencia | 12.50 € | 5 |
 | Lugo | 12.00 € | 1 |
 | Pontevedra | 12.00 € | 2 |
-| Valencia | 11.88 € | 4 |
 | Madrid | 11.85 € | 20 |
 | Navarra | 11.67 € | 6 |
 | Bizkaia/Vizcaya | 10.43 € | 7 |

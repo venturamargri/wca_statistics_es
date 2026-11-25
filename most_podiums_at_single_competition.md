@@ -1,6 +1,6 @@
 ## Más podios en una misma competición
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Podios | Persona |
 | ---: | :--- |

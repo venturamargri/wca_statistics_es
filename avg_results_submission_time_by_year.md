@@ -1,25 +1,25 @@
 ## Tiempo medio de envío de resultados por delegados cada año
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 2026
 
 | Delegado | Tiempo medio | Total delegadas |
 | ---: | :--- | ---: |
-| [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | -0.13h | 2 |
-| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 12.42h | 24 |
+| [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 10.76h | 3 |
 | [Rocío Fernández Usero](https://www.worldcubeassociation.org/persons/2014USER01) | 13.15h | 16 |
+| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 13.23h | 25 |
 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 13.43h | 13 |
 | [Jaione Bengoetxea Azurmendi](https://www.worldcubeassociation.org/persons/2023AZUR01) | 13.59h | 2 |
-| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 14.68h | 20 |
+| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 15.54h | 21 |
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 15.80h | 15 |
 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 21.53h | 22 |
 | [Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44) | 21.73h | 12 |
 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | 1d 0.13h | 21 |
 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) | 1d 1.65h | 15 |
-| [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) | 1d 7.70h | 9 |
-| [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | 1d 21.73h | 13 |
+| [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) | 1d 7.14h | 10 |
+| [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | 1d 20.32h | 14 |
 | [María Ángeles García Franco](https://www.worldcubeassociation.org/persons/2018FRAN17) | 2d 14.80h | 2 |
 | [Pau Carbonell](https://www.worldcubeassociation.org/persons/2021CARB01) | 2d 19.12h | 4 |
 | [Albert Garriga Gea](https://www.worldcubeassociation.org/persons/2019GEAA01) | 3d 13.59h | 8 |

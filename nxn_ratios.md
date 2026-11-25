@@ -1,7 +1,7 @@
 ## Comparación de NxNxN entre cubos consecutivos
 
 *Nota: Menor proporción entre los averages oficiales (PB) de dos cubos NxNxN consecutivos. Es obligatorio tener average oficial en ambas categorías.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 7x7x7 / 6x6x6
@@ -35,9 +35,9 @@
 | :--- | ---: | ---: | ---: |
 | [Alejandro Albor Soto](https://www.worldcubeassociation.org/persons/2023SOTO18) | 3:25.36 | 2:03.08 | 1.669 |
 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 1:29.37 | 53.49 | 1.671 |
-| [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) | 3:48.00 | 2:16.15 | 1.675 |
 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) | 2:58.26 | 1:45.89 | 1.683 |
 | [Carlos Tapp](https://www.worldcubeassociation.org/persons/2013TAPP01) | 1:48.17 | 1:04.11 | 1.687 |
+| [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 2:15.57 | 1:20.29 | 1.689 |
 | [Pau Carbonell](https://www.worldcubeassociation.org/persons/2021CARB01) | 2:40.82 | 1:34.64 | 1.699 |
 | [David Aguilera Busselle](https://www.worldcubeassociation.org/persons/2017BUSS01) | 2:17.48 | 1:20.54 | 1.707 |
 | [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) | 1:37.44 | 56.94 | 1.711 |
@@ -46,13 +46,13 @@
 | [Javier Tovar Castro](https://www.worldcubeassociation.org/persons/2016CAST23) | 2:09.06 | 1:14.13 | 1.741 |
 | [Vidal Perea Cívico](https://www.worldcubeassociation.org/persons/2024CIVI01) | 2:11.36 | 1:14.73 | 1.758 |
 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | 4:28.96 | 2:31.93 | 1.770 |
-| [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 2:23.14 | 1:20.29 | 1.783 |
 | [Irene Fraile Menéndez](https://www.worldcubeassociation.org/persons/2022MENE02) | 4:17.22 | 2:23.56 | 1.792 |
 | [Joan Ferret Sonet](https://www.worldcubeassociation.org/persons/2023SONE02) | 5:02.26 | 2:48.46 | 1.794 |
 | [Diego Garcia Pino](https://www.worldcubeassociation.org/persons/2022PINO01) | 2:09.87 | 1:12.25 | 1.798 |
 | [Gustavo Adolfo Hidalgo Chópite](https://www.worldcubeassociation.org/persons/2014HIDA02) | 2:26.37 | 1:20.91 | 1.809 |
 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | 2:04.86 | 1:08.97 | 1.810 |
 | [Juan González](https://www.worldcubeassociation.org/persons/2016GONZ38) | 2:46.84 | 1:32.11 | 1.811 |
+| [Ivet Soler Espinalt](https://www.worldcubeassociation.org/persons/2024ESPI15) | 5:19.13 | 2:56.07 | 1.813 |
 
 ### 5x5x5 / 4x4x4
 

@@ -1,7 +1,7 @@
 ## Días en los que un récord nacional se batió más de una vez
 
 *Nota: Siguiendo el Reglamento 9i2, solo el mejor resultado del día es oficial, pero aquí se listan todos los resultados que igualaron o superaron el récord nacional previo ese día.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | # | Fecha | Categoría | Tipo | NR previo | Resultados |
 | ---: | :--- | :--- | :--- | ---: | :--- |

@@ -1,11 +1,11 @@
 ## Más competiciones en el extranjero
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Competiciones | Persona |
 | ---: | :--- |
 | 80 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
-| 33 | [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) |
+| 34 | [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) |
 | 30 | [Jesús Masanet García](https://www.worldcubeassociation.org/persons/2004MASA01) |
 | 22 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 22 | [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) |

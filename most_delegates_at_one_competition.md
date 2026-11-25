@@ -1,7 +1,7 @@
 ## Más delegados en una misma competición
 
 *Nota: Solo competiciones celebradas en España con resultados publicados.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### Solo delegados asignados

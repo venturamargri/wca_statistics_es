@@ -1,7 +1,7 @@
 ## Mayor % de rondas disputadas en una competición
 
 *Nota: Competiciones con más de 1 categoría y más de 10 rondas.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | % | Persona | Competición | Rondas disputadas | Rondas totales |
 | ---: | :--- | :--- | ---: | ---: |
@@ -13,27 +13,27 @@
 | 100.0% | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Fuenlabrada Open 2017](https://www.worldcubeassociation.org/competitions/FuenlabradaOpen2017) | 28 | 28 |
 | 100.0% | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Parla Open 2022](https://www.worldcubeassociation.org/competitions/ParlaOpen2022) | 26 | 26 |
 | 100.0% | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Quijote Open 2017](https://www.worldcubeassociation.org/competitions/QuijoteOpen2017) | 26 | 26 |
-| 100.0% | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Ciu La Mancha Open 2024](https://www.worldcubeassociation.org/competitions/CiuLaManchaOpen2024) | 26 | 26 |
-| 100.0% | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Portugalete 700 Open 2022](https://www.worldcubeassociation.org/competitions/Portugalete700Open2022) | 26 | 26 |
 | 100.0% | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Portugalete Open 2025](https://www.worldcubeassociation.org/competitions/PortugaleteOpen2025) | 26 | 26 |
+| 100.0% | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Portugalete 700 Open 2022](https://www.worldcubeassociation.org/competitions/Portugalete700Open2022) | 26 | 26 |
+| 100.0% | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Ciu La Mancha Open 2024](https://www.worldcubeassociation.org/competitions/CiuLaManchaOpen2024) | 26 | 26 |
 | 100.0% | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | [Portugalete Open 2023](https://www.worldcubeassociation.org/competitions/PortugaleteOpen2023) | 26 | 26 |
 | 100.0% | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | [Portugalete Open 2025](https://www.worldcubeassociation.org/competitions/PortugaleteOpen2025) | 26 | 26 |
 | 100.0% | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Arnold Open 2016](https://www.worldcubeassociation.org/competitions/ArnoldOpen2016) | 25 | 25 |
-| 100.0% | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Tembleque Open 2017](https://www.worldcubeassociation.org/competitions/TemblequeOpen2017) | 25 | 25 |
-| 100.0% | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Parla Open 2018](https://www.worldcubeassociation.org/competitions/ParlaOpen2018) | 25 | 25 |
 | 100.0% | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Imaginalia Open 2018](https://www.worldcubeassociation.org/competitions/ImaginaliaOpen2018) | 25 | 25 |
+| 100.0% | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Parla Open 2018](https://www.worldcubeassociation.org/competitions/ParlaOpen2018) | 25 | 25 |
+| 100.0% | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Tembleque Open 2017](https://www.worldcubeassociation.org/competitions/TemblequeOpen2017) | 25 | 25 |
 | 100.0% | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Imaginalia Open 2018](https://www.worldcubeassociation.org/competitions/ImaginaliaOpen2018) | 25 | 25 |
 | 100.0% | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Fuentes de Andalucía Open 2025](https://www.worldcubeassociation.org/competitions/FuentesdeAndaluciaOpen2025) | 25 | 25 |
-| 100.0% | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | [Fuentes de Andalucía Open 2025](https://www.worldcubeassociation.org/competitions/FuentesdeAndaluciaOpen2025) | 25 | 25 |
 | 100.0% | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | [Fuentes de Andalucía Open 2025](https://www.worldcubeassociation.org/competitions/FuentesdeAndaluciaOpen2025) | 25 | 25 |
+| 100.0% | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | [Fuentes de Andalucía Open 2025](https://www.worldcubeassociation.org/competitions/FuentesdeAndaluciaOpen2025) | 25 | 25 |
 | 100.0% | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | [Lleida Winter Open 2023](https://www.worldcubeassociation.org/competitions/LleidaWinter2023) | 24 | 24 |
 | 100.0% | [Pol Juny Sánchez](https://www.worldcubeassociation.org/persons/2017SANC31) | [Lleida Winter Open 2023](https://www.worldcubeassociation.org/competitions/LleidaWinter2023) | 24 | 24 |
 | 100.0% | [Oscar Sánchez Najarro](https://www.worldcubeassociation.org/persons/2017NAJA02) | [Lleida Winter Open 2023](https://www.worldcubeassociation.org/competitions/LleidaWinter2023) | 24 | 24 |
 | 100.0% | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | [Lleida Winter Open 2023](https://www.worldcubeassociation.org/competitions/LleidaWinter2023) | 24 | 24 |
 | 100.0% | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Ciu La Mancha Open 2025](https://www.worldcubeassociation.org/competitions/CiuLaManchaOpen2025) | 24 | 24 |
 | 100.0% | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Bilbao Open 2023](https://www.worldcubeassociation.org/competitions/BilbaoOpen2023) | 24 | 24 |
-| 100.0% | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | [Imaginalia Open 2019](https://www.worldcubeassociation.org/competitions/ImaginaliaOpen2019) | 24 | 24 |
 | 100.0% | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | [Tembleque Open 2018](https://www.worldcubeassociation.org/competitions/TemblequeOpen2018) | 24 | 24 |
+| 100.0% | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | [Imaginalia Open 2019](https://www.worldcubeassociation.org/competitions/ImaginaliaOpen2019) | 24 | 24 |
 | 100.0% | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | [Bilbao Open 2024](https://www.worldcubeassociation.org/competitions/BilbaoOpen2024) | 24 | 24 |
 | 100.0% | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | [Ruta Valenciana II: Tio Pep 2024](https://www.worldcubeassociation.org/competitions/RutaValencianaIITioPep2024) | 24 | 24 |
 | 100.0% | [Darío Pérez Melendo](https://www.worldcubeassociation.org/persons/2021PERE03) | [Lleida Winter Open 2023](https://www.worldcubeassociation.org/competitions/LleidaWinter2023) | 24 | 24 |
@@ -41,10 +41,10 @@
 | 100.0% | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | [Ruta Valenciana II: Tio Pep 2024](https://www.worldcubeassociation.org/competitions/RutaValencianaIITioPep2024) | 24 | 24 |
 | 100.0% | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Cerbuna Open 2015](https://www.worldcubeassociation.org/competitions/CerbunaOpen2015) | 23 | 23 |
 | 100.0% | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Écija Open 2024](https://www.worldcubeassociation.org/competitions/EcijaOpen2024) | 23 | 23 |
-| 100.0% | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Martorell Open 2023](https://www.worldcubeassociation.org/competitions/MartorellOpen2023) | 23 | 23 |
-| 100.0% | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Ciu Open 2022](https://www.worldcubeassociation.org/competitions/CiuOpen2022) | 23 | 23 |
 | 100.0% | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Iruña Open 2019](https://www.worldcubeassociation.org/competitions/IrunaOpen2019) | 23 | 23 |
+| 100.0% | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Martorell Open 2023](https://www.worldcubeassociation.org/competitions/MartorellOpen2023) | 23 | 23 |
 | 100.0% | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Getafe Vuelve 2019](https://www.worldcubeassociation.org/competitions/GetafeVuelve2019) | 23 | 23 |
+| 100.0% | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | [Ciu Open 2022](https://www.worldcubeassociation.org/competitions/CiuOpen2022) | 23 | 23 |
 | 100.0% | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Getafe Vuelve 2019](https://www.worldcubeassociation.org/competitions/GetafeVuelve2019) | 23 | 23 |
 | 100.0% | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Ciu Open 2023](https://www.worldcubeassociation.org/competitions/CiuOpen2023) | 23 | 23 |
 | 100.0% | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Aldeilla Winter Open 2025](https://www.worldcubeassociation.org/competitions/AldeillaWinterOpen2025) | 23 | 23 |

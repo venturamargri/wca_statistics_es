@@ -1,19 +1,19 @@
 ## Más resoluciones por año
 
 *Nota: Muestra los 25 competidores españoles con más resoluciones válidas cada año.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 2026
 
 | Válidas | Intentos | Persona |
 | ---: | ---: | :--- |
+| **2012** | 2081 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | **1927** | 2006 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
-| **1912** | 1980 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
-| **1666** | 1848 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
+| **1755** | 1941 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
+| **1440** | 1465 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) |
 | **1415** | 1485 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
-| **1357** | 1381 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) |
-| **1285** | 1390 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
+| **1379** | 1490 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | **1243** | 1259 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | **1239** | 1319 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
 | **1227** | 1247 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
@@ -24,15 +24,15 @@
 | **1043** | 1068 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) |
 | **1040** | 1104 | [Víctor Tretyakov Timofeyeva](https://www.worldcubeassociation.org/persons/2023TIMO01) |
 | **998** | 1017 | [Lucía González Garcia-Moya](https://www.worldcubeassociation.org/persons/2024GARC06) |
+| **950** | 973 | [David Sánchez Peris](https://www.worldcubeassociation.org/persons/2017PERI05) |
+| **932** | 946 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | **932** | 985 | [Germán García Molina](https://www.worldcubeassociation.org/persons/2023MOLI01) |
 | **930** | 954 | [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) |
 | **911** | 947 | [Nuria Soria García](https://www.worldcubeassociation.org/persons/2022GARC12) |
+| **903** | 915 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) |
 | **894** | 1003 | [Javier Lizama Montoya](https://www.worldcubeassociation.org/persons/2022MONT31) |
-| **893** | 913 | [David Sánchez Peris](https://www.worldcubeassociation.org/persons/2017PERI05) |
 | **880** | 897 | [Rodrigo Delgado Martínez](https://www.worldcubeassociation.org/persons/2022MART63) |
 | **879** | 909 | [Ekaitz Rey González](https://www.worldcubeassociation.org/persons/2017GONZ50) |
-| **863** | 876 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
-| **840** | 970 | [Miguel Ángel Meza](https://www.worldcubeassociation.org/persons/2023MEZA02) |
 
 ### 2025
 

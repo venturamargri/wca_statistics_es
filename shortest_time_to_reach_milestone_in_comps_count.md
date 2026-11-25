@@ -1,6 +1,6 @@
 ## Menor tiempo en alcanzar hitos de competiciones
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 150 competiciones
@@ -128,11 +128,11 @@
 | 92 | [Iris Valverde Blanco](https://www.worldcubeassociation.org/persons/2022BLAN01) |
 | 97 | [Javier Álvarez Suárez](https://www.worldcubeassociation.org/persons/2017SUAR04) |
 | 99 | [Jaime Olivé](https://www.worldcubeassociation.org/persons/2022OLIV01) |
-| 99 | [Antonio Fernández Bernal](https://www.worldcubeassociation.org/persons/2024BERN23) |
 | 99 | [Adriel Kachappilly Pandary](https://www.worldcubeassociation.org/persons/2026PAND02) |
+| 99 | [Antonio Fernández Bernal](https://www.worldcubeassociation.org/persons/2024BERN23) |
 | 99 | [Jon Larruzea Marijuan](https://www.worldcubeassociation.org/persons/2023MARI07) |
-| 106 | [Federico Tomás Cazorla Alcalde](https://www.worldcubeassociation.org/persons/2025ALCA01) |
 | 106 | [Miguel Sánchez Escribano](https://www.worldcubeassociation.org/persons/2016ESCR01) |
+| 106 | [Federico Tomás Cazorla Alcalde](https://www.worldcubeassociation.org/persons/2025ALCA01) |
 | 107 | [Daniel Ruiz Tapia](https://www.worldcubeassociation.org/persons/2025TAPI12) |
 
 

@@ -1,43 +1,43 @@
 ## Clasificación Sum of Ranks (SoR) por año
 
 *Nota: Sum of Ranks anual usando únicamente las marcas del formato principal WCA logradas ese año. En las categorías oficiales vigentes de ese año en las que no se registró marca, se asigna el puesto (total de clasificados españoles ese año + 1).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 2026
 
 | Persona | Sum of Ranks |
 | :--- | ---: |
-| [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | 230 |
-| [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 262 |
-| [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | 284 |
-| [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) | 319 |
-| [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 353 |
-| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 357 |
-| [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 458 |
-| [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 510 |
-| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 512 |
-| [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | 513 |
-| [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) | 516 |
-| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 537 |
-| [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) | 549 |
-| [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) | 574 |
-| [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | 632 |
-| [Ot Caminals Aleu](https://www.worldcubeassociation.org/persons/2022ALEU01) | 660 |
-| [Óscar Gervasini Lois](https://www.worldcubeassociation.org/persons/2023LOIS01) | 754 |
-| [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) | 791 |
-| [Marcos Plaza Nocito](https://www.worldcubeassociation.org/persons/2018NOCI01) | 828 |
-| [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | 862 |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 893 |
-| [Samuel María Liñares](https://www.worldcubeassociation.org/persons/2022LINA04) | 903 |
-| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 915 |
-| [Lucas Campaniello González](https://www.worldcubeassociation.org/persons/2023GONZ90) | 917 |
-| [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | 918 |
-| [Arnau López García](https://www.worldcubeassociation.org/persons/2024GARC49) | 921 |
-| [Gael Galeote Flores](https://www.worldcubeassociation.org/persons/2025FLOR26) | 923 |
-| [Lucía González Garcia-Moya](https://www.worldcubeassociation.org/persons/2024GARC06) | 955 |
-| [Leonardo Jiménez Arias](https://www.worldcubeassociation.org/persons/2023ARIA06) | 956 |
-| [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 956 |
+| [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | 231 |
+| [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 263 |
+| [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | 285 |
+| [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) | 321 |
+| [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 354 |
+| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 360 |
+| [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 461 |
+| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 500 |
+| [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 514 |
+| [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | 517 |
+| [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) | 520 |
+| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 530 |
+| [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) | 546 |
+| [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) | 583 |
+| [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | 641 |
+| [Ot Caminals Aleu](https://www.worldcubeassociation.org/persons/2022ALEU01) | 663 |
+| [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 738 |
+| [Óscar Gervasini Lois](https://www.worldcubeassociation.org/persons/2023LOIS01) | 765 |
+| [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) | 795 |
+| [Marcos Plaza Nocito](https://www.worldcubeassociation.org/persons/2018NOCI01) | 833 |
+| [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | 838 |
+| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 898 |
+| [Samuel María Liñares](https://www.worldcubeassociation.org/persons/2022LINA04) | 915 |
+| [Lucas Campaniello González](https://www.worldcubeassociation.org/persons/2023GONZ90) | 920 |
+| [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | 924 |
+| [Gael Galeote Flores](https://www.worldcubeassociation.org/persons/2025FLOR26) | 930 |
+| [Arnau López García](https://www.worldcubeassociation.org/persons/2024GARC49) | 930 |
+| [Lucía González Garcia-Moya](https://www.worldcubeassociation.org/persons/2024GARC06) | 962 |
+| [Leonardo Jiménez Arias](https://www.worldcubeassociation.org/persons/2023ARIA06) | 964 |
+| [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 965 |
 
 ### 2025
 

@@ -1,7 +1,7 @@
 ## Distribución por año de debut del Top 100
 
 *Nota: Año de debut (según el WCA ID) de los 100 mejores competidores vigentes en el ranking nacional de cada una de las 17 categorías oficiales actuales (usando el formato principal WCA), ordenado de más a menos competidores.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -33,19 +33,19 @@
 | 2023 | 27 | #1 [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) |
 | 2022 | 14 | #5 [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) |
 | 2024 | 11 | #23 [José Ángel Morales Gómez](https://www.worldcubeassociation.org/persons/2024GOME54) |
-| 2016 | 10 | #11 [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
+| 2016 | 10 | #9 [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
 | 2018 | 8 | #3 [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) |
 | 2017 | 8 | #25 [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
 | 2015 | 6 | #4 [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 2011 | 4 | #34 [Daniel Cofreces Jaureguizar](https://www.worldcubeassociation.org/persons/2011COFR01) |
 | 2014 | 3 | #7 [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
+| 2025 | 2 | #93 [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 2012 | 2 | #22 [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
-| 2025 | 1 | #99 [Gael Galeote Flores](https://www.worldcubeassociation.org/persons/2025FLOR26) |
 | 2021 | 1 | #2 [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) |
 | 2020 | 1 | #65 [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) |
 | 2019 | 1 | #58 [Pedro Sanz Rodriguez](https://www.worldcubeassociation.org/persons/2019RODR39) |
 | 2013 | 1 | #16 [Eki Gartzia González](https://www.worldcubeassociation.org/persons/2013GONZ05) |
-| 2010 | 1 | #10 [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
+| 2010 | 1 | #11 [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 2009 | 1 | #35 [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 | 2008 | 1 | #29 [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 
@@ -54,15 +54,15 @@
 | Año de debut | Competidores | Mejor clasificado |
 | :--: | ---: | :--- |
 | 2023 | 15 | #4 [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
-| 2016 | 14 | #15 [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
+| 2016 | 14 | #16 [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
 | 2017 | 12 | #8 [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
-| 2022 | 11 | #11 [Óscar Pérez Mengual](https://www.worldcubeassociation.org/persons/2022MENG02) |
+| 2022 | 11 | #9 [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) |
 | 2015 | 7 | #2 [Biel Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ08) |
 | 2024 | 6 | #35 [Mario Clemente Serrano](https://www.worldcubeassociation.org/persons/2024SERR09) |
 | 2018 | 6 | #32 [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 2011 | 5 | #3 [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) |
 | 2019 | 4 | #6 [Pedro Sanz Rodriguez](https://www.worldcubeassociation.org/persons/2019RODR39) |
-| 2014 | 4 | #9 [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
+| 2014 | 4 | #10 [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
 | 2025 | 3 | #58 [Gael Galeote Flores](https://www.worldcubeassociation.org/persons/2025FLOR26) |
 | 2013 | 3 | #43 [Borja Perez](https://www.worldcubeassociation.org/persons/2013PERE05) |
 | 2012 | 3 | #1 [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) |
@@ -90,10 +90,10 @@
 | 2012 | 3 | #1 [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) |
 | 2010 | 3 | #20 [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) |
 | 2025 | 2 | #89 [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
-| 2008 | 2 | #41 [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
+| 2008 | 2 | #42 [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 2021 | 1 | #95 [Darío Pérez Melendo](https://www.worldcubeassociation.org/persons/2021PERE03) |
 | 2020 | 1 | #3 [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) |
-| 2009 | 1 | #44 [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
+| 2009 | 1 | #45 [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 
 ### 6x6x6 Cube
 
@@ -114,7 +114,7 @@
 | 2021 | 2 | #76 [Pau Carbonell](https://www.worldcubeassociation.org/persons/2021CARB01) |
 | 2013 | 2 | #7 [Carlos Tapp](https://www.worldcubeassociation.org/persons/2013TAPP01) |
 | 2008 | 2 | #19 [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
-| 2025 | 1 | #43 [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
+| 2025 | 1 | #37 [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 2020 | 1 | #5 [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) |
 | 2009 | 1 | #61 [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 
@@ -135,12 +135,12 @@
 | 2013 | 3 | #4 [Carlos Tapp](https://www.worldcubeassociation.org/persons/2013TAPP01) |
 | 2012 | 3 | #2 [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) |
 | 2010 | 3 | #13 [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) |
-| 2021 | 2 | #53 [Darío Pérez Melendo](https://www.worldcubeassociation.org/persons/2021PERE03) |
+| 2021 | 2 | #55 [Darío Pérez Melendo](https://www.worldcubeassociation.org/persons/2021PERE03) |
 | 2008 | 2 | #20 [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
-| 2026 | 1 | #62 [Ismael Gómez Castillo](https://www.worldcubeassociation.org/persons/2026CAST11) |
-| 2025 | 1 | #40 [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
+| 2026 | 1 | #64 [Ismael Gómez Castillo](https://www.worldcubeassociation.org/persons/2026CAST11) |
+| 2025 | 1 | #39 [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 2020 | 1 | #5 [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) |
-| 2009 | 1 | #83 [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
+| 2009 | 1 | #84 [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 
 ### 3x3x3 Blindfolded
 
@@ -261,10 +261,10 @@
 
 | Año de debut | Competidores | Mejor clasificado |
 | :--: | ---: | :--- |
-| 2023 | 26 | #3 [Asier Prieto Manzarraga](https://www.worldcubeassociation.org/persons/2023MANZ03) |
+| 2023 | 27 | #3 [Asier Prieto Manzarraga](https://www.worldcubeassociation.org/persons/2023MANZ03) |
 | 2022 | 14 | #1 [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) |
 | 2016 | 10 | #3 [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
-| 2024 | 9 | #9 [Darío Ramírez Pino](https://www.worldcubeassociation.org/persons/2024PINO01) |
+| 2024 | 8 | #9 [Darío Ramírez Pino](https://www.worldcubeassociation.org/persons/2024PINO01) |
 | 2018 | 7 | #9 [Héctor Haro Guerrero](https://www.worldcubeassociation.org/persons/2018GUER09) |
 | 2017 | 7 | #25 [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
 | 2015 | 7 | #18 [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
@@ -314,7 +314,7 @@
 | 2020 | 3 | #62 [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) |
 | 2019 | 3 | #57 [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) |
 | 2014 | 3 | #19 [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
-| 2025 | 2 | #33 [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
+| 2025 | 2 | #32 [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 2013 | 2 | #77 [Mar Gallego Vicente](https://www.worldcubeassociation.org/persons/2013VICE01) |
 | 2012 | 2 | #63 [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) |
 | 2010 | 2 | #1 [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |

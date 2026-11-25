@@ -1,18 +1,18 @@
 ## Mayor % de resoluciones válidas en cada categoría
 
 *Nota: Intentos individuales válidos frente al total (excluyendo DNS). Mínimo 10 intentos.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
 
 | % | Válidas | Total | Persona |
 | ---: | ---: | ---: | :--- |
-| 100.00% | 740 | 740 | [Raúl Banacloche Biot](https://www.worldcubeassociation.org/persons/2015BANA01) |
+| 100.00% | 755 | 755 | [Raúl Banacloche Biot](https://www.worldcubeassociation.org/persons/2015BANA01) |
 | 100.00% | 445 | 445 | [Joel Santamaría Arriola](https://www.worldcubeassociation.org/persons/2022ARRI02) |
 | 100.00% | 355 | 355 | [Pablo Fraile Menendez](https://www.worldcubeassociation.org/persons/2023MENE01) |
+| 100.00% | 335 | 335 | [Ricardo Bayona Salvador](https://www.worldcubeassociation.org/persons/2014SALV02) |
 | 100.00% | 335 | 335 | [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) |
-| 100.00% | 325 | 325 | [Ricardo Bayona Salvador](https://www.worldcubeassociation.org/persons/2014SALV02) |
 | 100.00% | 320 | 320 | [Sergio Ramos González](https://www.worldcubeassociation.org/persons/2022GONZ09) |
 | 100.00% | 305 | 305 | [Celia López Martín](https://www.worldcubeassociation.org/persons/2014MART44) |
 | 100.00% | 275 | 275 | [Manuel Arjona Crespo](https://www.worldcubeassociation.org/persons/2014CRES02) |
@@ -63,12 +63,12 @@
 | 100.00% | 301 | 301 | [Blanca Hidalgo Domingo](https://www.worldcubeassociation.org/persons/2022DOMI02) |
 | 100.00% | 259 | 259 | [Pedro Sanz Rodriguez](https://www.worldcubeassociation.org/persons/2019RODR39) |
 | 100.00% | 232 | 232 | [Daniele Vanoli Hernández](https://www.worldcubeassociation.org/persons/2016HERN05) |
-| 100.00% | 215 | 215 | [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) |
+| 100.00% | 220 | 220 | [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) |
 | 100.00% | 205 | 205 | [Pau Carbonell](https://www.worldcubeassociation.org/persons/2021CARB01) |
 | 100.00% | 187 | 187 | [Óscar Gervasini Lois](https://www.worldcubeassociation.org/persons/2023LOIS01) |
-| 100.00% | 160 | 160 | [Marc García Díaz](https://www.worldcubeassociation.org/persons/2017DIAZ19) |
+| 100.00% | 165 | 165 | [Marc García Díaz](https://www.worldcubeassociation.org/persons/2017DIAZ19) |
+| 100.00% | 155 | 155 | [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) |
 | 100.00% | 145 | 145 | [Jaime Botello García](https://www.worldcubeassociation.org/persons/2016GARC52) |
-| 100.00% | 140 | 140 | [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) |
 | 100.00% | 137 | 137 | [Víctor Martín Sola](https://www.worldcubeassociation.org/persons/2023SOLA10) |
 | 100.00% | 130 | 130 | [Arabel•la Puig Villacorta](https://www.worldcubeassociation.org/persons/2023VILL48) |
 | 100.00% | 125 | 125 | [Joan Manuel Ciurlizza López-Caparrós](https://www.worldcubeassociation.org/persons/2020LOPE03) |
@@ -110,18 +110,18 @@
 | ---: | ---: | ---: | :--- |
 | 100.00% | 147 | 147 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) |
 | 100.00% | 123 | 123 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) |
-| 100.00% | 98 | 98 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 100.00% | 101 | 101 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 100.00% | 96 | 96 | [Javier Tovar Castro](https://www.worldcubeassociation.org/persons/2016CAST23) |
-| 100.00% | 92 | 92 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
+| 100.00% | 95 | 95 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 100.00% | 78 | 78 | [Lía Medina Ortells](https://www.worldcubeassociation.org/persons/2022MEDI03) |
 | 100.00% | 74 | 74 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
 | 100.00% | 66 | 66 | [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) |
 | 100.00% | 63 | 63 | [Oscar Sánchez Najarro](https://www.worldcubeassociation.org/persons/2017NAJA02) |
 | 100.00% | 56 | 56 | [Mikel Manterola Zarraga](https://www.worldcubeassociation.org/persons/2024ZARR01) |
+| 100.00% | 52 | 52 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 100.00% | 51 | 51 | [Jerónimo Ibarra Bernal](https://www.worldcubeassociation.org/persons/2010IBAR01) |
 | 100.00% | 50 | 50 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
 | 100.00% | 49 | 49 | [Alberto Masó Molina](https://www.worldcubeassociation.org/persons/2011MOLI01) |
-| 100.00% | 49 | 49 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 100.00% | 46 | 46 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) |
 | 100.00% | 45 | 45 | [Diego Garcia Pino](https://www.worldcubeassociation.org/persons/2022PINO01) |
 | 100.00% | 43 | 43 | [Daniel Cofreces Jaureguizar](https://www.worldcubeassociation.org/persons/2011COFR01) |
@@ -139,9 +139,9 @@
 | 100.00% | 87 | 87 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
 | 100.00% | 86 | 86 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
 | 100.00% | 76 | 76 | [Lía Medina Ortells](https://www.worldcubeassociation.org/persons/2022MEDI03) |
+| 100.00% | 75 | 75 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 100.00% | 73 | 73 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 100.00% | 73 | 73 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
-| 100.00% | 72 | 72 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 100.00% | 66 | 66 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
 | 100.00% | 62 | 62 | [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) |
 | 100.00% | 60 | 60 | [Pau Carbonell](https://www.worldcubeassociation.org/persons/2021CARB01) |
@@ -161,11 +161,11 @@
 | 76.53% | 225 | 294 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
 | 76.14% | 67 | 88 | [Ángel de Jaén Gotarredona](https://www.worldcubeassociation.org/persons/2007GOTA01) |
 | 68.62% | 387 | 564 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) |
-| 66.39% | 320 | 482 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 66.53% | 324 | 487 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 60.37% | 454 | 752 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 60.27% | 135 | 224 | [Artur Miralles Hernàndez](https://www.worldcubeassociation.org/persons/2015HERN17) |
-| 59.62% | 93 | 156 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
 | 59.15% | 84 | 142 | [David Ruscalleda Gómez](https://www.worldcubeassociation.org/persons/2013GOME02) |
+| 59.01% | 95 | 161 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
 | 57.89% | 22 | 38 | [Jerónimo Ibarra Bernal](https://www.worldcubeassociation.org/persons/2010IBAR01) |
 | 57.14% | 12 | 21 | [Alejandro Organvides](https://www.worldcubeassociation.org/persons/2011ORGA01) |
 | 56.14% | 32 | 57 | [Blai Solernou Lòpez](https://www.worldcubeassociation.org/persons/2012LAPE01) |
@@ -238,7 +238,7 @@
 | 100.00% | 286 | 286 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
 | 100.00% | 260 | 260 | [Jorge Rodón Leiva](https://www.worldcubeassociation.org/persons/2018LEIV03) |
 | 100.00% | 229 | 229 | [Germán García Molina](https://www.worldcubeassociation.org/persons/2023MOLI01) |
-| 100.00% | 195 | 195 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) |
+| 100.00% | 200 | 200 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) |
 | 100.00% | 187 | 187 | [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) |
 | 100.00% | 184 | 184 | [Joel Santamaría Arriola](https://www.worldcubeassociation.org/persons/2022ARRI02) |
 | 100.00% | 181 | 181 | [Hugo Barjollo Morales](https://www.worldcubeassociation.org/persons/2024MORA08) |
@@ -258,17 +258,15 @@
 
 | % | Válidas | Total | Persona |
 | ---: | ---: | ---: | :--- |
-| 100.00% | 410 | 410 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) |
-| 100.00% | 215 | 215 | [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) |
+| 100.00% | 220 | 220 | [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) |
 | 100.00% | 194 | 194 | [Fernando Astasio Ávila](https://www.worldcubeassociation.org/persons/2016AVIL02) |
-| 100.00% | 169 | 169 | [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) |
+| 100.00% | 160 | 160 | [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) |
 | 100.00% | 152 | 152 | [Peio Calonge Aurtenetxe](https://www.worldcubeassociation.org/persons/2019CALO01) |
 | 100.00% | 150 | 150 | [Darío Montalvo Ureña](https://www.worldcubeassociation.org/persons/2015UREN01) |
-| 100.00% | 150 | 150 | [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) |
 | 100.00% | 145 | 145 | [Ana Iglesias Arias](https://www.worldcubeassociation.org/persons/2022ARIA03) |
+| 100.00% | 142 | 142 | [Mateo Catalá Devesa](https://www.worldcubeassociation.org/persons/2023DEVE07) |
 | 100.00% | 140 | 140 | [Alejandro Chaves Gaitán](https://www.worldcubeassociation.org/persons/2024GAIT01) |
 | 100.00% | 130 | 130 | [Abel Martínez Salas](https://www.worldcubeassociation.org/persons/2023SALA21) |
-| 100.00% | 127 | 127 | [Mateo Catalá Devesa](https://www.worldcubeassociation.org/persons/2023DEVE07) |
 | 100.00% | 125 | 125 | [José María García Carrión](https://www.worldcubeassociation.org/persons/2016CARR02) |
 | 100.00% | 114 | 114 | [Ana Varnhagen Osorio](https://www.worldcubeassociation.org/persons/2023OSOR03) |
 | 100.00% | 107 | 107 | [Josep Maria Puig Valverde](https://www.worldcubeassociation.org/persons/2023VALV04) |
@@ -278,6 +276,8 @@
 | 100.00% | 97 | 97 | [Ekaitz Zubizarreta](https://www.worldcubeassociation.org/persons/2014ZUBI03) |
 | 100.00% | 96 | 96 | [Zaloa Aguirre](https://www.worldcubeassociation.org/persons/2010AGUI06) |
 | 100.00% | 95 | 95 | [Jayden Paredes Vergara](https://www.worldcubeassociation.org/persons/2017PARE13) |
+| 100.00% | 90 | 90 | [Óscar Roldán Blay](https://www.worldcubeassociation.org/persons/2014BLAY01) |
+| 100.00% | 90 | 90 | [Luar Soler Gómez](https://www.worldcubeassociation.org/persons/2024GOME59) |
 
 ### Clock
 
@@ -312,18 +312,18 @@
 | 100.00% | 355 | 355 | [Daniele Vanoli Hernández](https://www.worldcubeassociation.org/persons/2016HERN05) |
 | 100.00% | 265 | 265 | [Samuel María Liñares](https://www.worldcubeassociation.org/persons/2022LINA04) |
 | 100.00% | 245 | 245 | [Pau Carbonell](https://www.worldcubeassociation.org/persons/2021CARB01) |
-| 100.00% | 212 | 212 | [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) |
+| 100.00% | 217 | 217 | [Francisco Huertas Molina](https://www.worldcubeassociation.org/persons/2018MOLI03) |
 | 100.00% | 195 | 195 | [Gabriel Rasines Rodríguez](https://www.worldcubeassociation.org/persons/2022RODR52) |
-| 100.00% | 185 | 185 | [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) |
+| 100.00% | 190 | 190 | [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) |
 | 100.00% | 180 | 180 | [Manuel Arjona Crespo](https://www.worldcubeassociation.org/persons/2014CRES02) |
+| 100.00% | 175 | 175 | [Héctor Sanchis Miedes](https://www.worldcubeassociation.org/persons/2022MIED01) |
 | 100.00% | 170 | 170 | [Marcos Plaza Nocito](https://www.worldcubeassociation.org/persons/2018NOCI01) |
 | 100.00% | 170 | 170 | [Naia Noceda López](https://www.worldcubeassociation.org/persons/2023LOPE11) |
 | 100.00% | 165 | 165 | [Alejandro Vaca Diaz](https://www.worldcubeassociation.org/persons/2020DIAZ01) |
-| 100.00% | 165 | 165 | [Héctor Sanchis Miedes](https://www.worldcubeassociation.org/persons/2022MIED01) |
 | 100.00% | 164 | 164 | [Aleix Foguet](https://www.worldcubeassociation.org/persons/2023FOGU01) |
 | 100.00% | 155 | 155 | [Raúl Ramos](https://www.worldcubeassociation.org/persons/2015RAMO08) |
+| 100.00% | 155 | 155 | [Marc García Díaz](https://www.worldcubeassociation.org/persons/2017DIAZ19) |
 | 100.00% | 150 | 150 | [Carla Domingo Buisán](https://www.worldcubeassociation.org/persons/2022BUIS01) |
-| 100.00% | 145 | 145 | [Marc García Díaz](https://www.worldcubeassociation.org/persons/2017DIAZ19) |
 | 100.00% | 140 | 140 | [Brais Suárez](https://www.worldcubeassociation.org/persons/2023SUAR07) |
 | 100.00% | 130 | 130 | [Pol Jiménez Asunción](https://www.worldcubeassociation.org/persons/2023ASUN01) |
 | 100.00% | 129 | 129 | [Daniel Olmedo Fraile](https://www.worldcubeassociation.org/persons/2023FRAI01) |
@@ -337,16 +337,16 @@
 | 100.00% | 260 | 260 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
 | 100.00% | 237 | 237 | [Javier López Fernández](https://www.worldcubeassociation.org/persons/2016FERN07) |
 | 100.00% | 155 | 155 | [Fernando Granado Torres](https://www.worldcubeassociation.org/persons/2022TORR12) |
+| 100.00% | 155 | 155 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 100.00% | 150 | 150 | [Gabriel Rasines Rodríguez](https://www.worldcubeassociation.org/persons/2022RODR52) |
 | 100.00% | 143 | 143 | [Pi Sevilla Hernández](https://www.worldcubeassociation.org/persons/2013HENA01) |
-| 100.00% | 140 | 140 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 100.00% | 135 | 135 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
 | 100.00% | 135 | 135 | [Alberto Pisa Ibarz](https://www.worldcubeassociation.org/persons/2022IBAR02) |
 | 100.00% | 127 | 127 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) |
 | 100.00% | 122 | 122 | [Leonardo Jiménez Arias](https://www.worldcubeassociation.org/persons/2023ARIA06) |
+| 100.00% | 120 | 120 | [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) |
 | 100.00% | 119 | 119 | [Lía Medina Ortells](https://www.worldcubeassociation.org/persons/2022MEDI03) |
 | 100.00% | 105 | 105 | [Naia Noceda López](https://www.worldcubeassociation.org/persons/2023LOPE11) |
-| 100.00% | 105 | 105 | [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) |
 | 100.00% | 102 | 102 | [Ricardo Bayona Salvador](https://www.worldcubeassociation.org/persons/2014SALV02) |
 | 100.00% | 99 | 99 | [Javier Bilbao](https://www.worldcubeassociation.org/persons/2024BILB02) |
 | 100.00% | 94 | 94 | [Lucas Campaniello González](https://www.worldcubeassociation.org/persons/2023GONZ90) |

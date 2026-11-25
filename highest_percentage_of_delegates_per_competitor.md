@@ -1,7 +1,7 @@
 ## Mayor porcentaje de delegados por competidor
 
 *Nota: Solo competiciones celebradas en España con resultados publicados.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### Solo delegados asignados
@@ -56,8 +56,8 @@
 | 6.52% | [Arganda Open 2026](https://www.worldcubeassociation.org/competitions/ArgandaOpen2026) | 3 | 46 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08), [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02), [Rocío Fernández Usero](https://www.worldcubeassociation.org/persons/2014USER01) |
 | 6.52% | [Puerto Real Camaleón Open 2026](https://www.worldcubeassociation.org/competitions/PuertoRealCamaleonOpen2026) | 3 | 46 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11), [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01), [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 6.45% | [Cayro Toledo Open 2026](https://www.worldcubeassociation.org/competitions/CayroToledoOpen2026) | 2 | 31 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18), [Rocío Fernández Usero](https://www.worldcubeassociation.org/persons/2014USER01) |
+| 6.38% | [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026) | 3 | 47 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11), [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01), [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 6.35% | [Velilla Open 2026](https://www.worldcubeassociation.org/competitions/VelillaOpen2026) | 4 | 63 | [Ben Royce](https://www.worldcubeassociation.org/persons/2015ROYC01), [Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44), [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08), [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
-| 6.25% | [Baztan Open 2023](https://www.worldcubeassociation.org/competitions/BaztanOpen2023) | 3 | 48 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02), [Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02), [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 
 ### Solo delegados no asignados
 

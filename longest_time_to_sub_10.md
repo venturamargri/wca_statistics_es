@@ -1,6 +1,6 @@
 ## Mayor tiempo en conseguir un average sub-10 en 3x3x3
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Persona | Años |
 | :--- | ---: |

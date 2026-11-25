@@ -1,7 +1,7 @@
 ## Más aciertos N/N en 3x3x3 Multi-Blind
 
 *Nota: Intentos de 3x3x3 Multi-Blind con todos los cubos resueltos (0 fallos). Mínimo 3 aciertos N/N.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Persona | Aciertos N/N | Desglose |
 | :--- | ---: | :--- |

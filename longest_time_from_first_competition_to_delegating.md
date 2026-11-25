@@ -1,6 +1,6 @@
 ## Mayor tiempo desde la primera competición hasta delegar una
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Días | Persona | Primera competición | Primera delegada |
 | ---: | :--- | :--- | :--- |

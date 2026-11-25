@@ -1,7 +1,7 @@
 ## Delegado en más países
 
 *Nota: Muestra los delegados españoles que han delegado en más países distintos (excluyendo competiciones FMC multisede).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Nombre | Países |
 | :--- | ---: |

@@ -1,7 +1,7 @@
 ## Menor diferencia entre el oro y la plata
 
 *Nota: Finales en cualquier competición donde el 1.º y el 2.º puesto fueron conseguidos por competidores españoles. Incluye empates exactos (0.00) resueltos por single o empatados en el 1.º puesto.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -68,6 +68,7 @@
 
 | Diferencia | Oro | Marca oro | Plata | Marca plata | Competición |
 | ---: | :--- | ---: | :--- | ---: | :--- |
+| 0.27 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | 2:15.30 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 2:15.57 | [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026/results/all#e666_f) |
 | 0.47 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 2:15.00 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) | 2:15.47 | [Les Franqueses Open 2018](https://www.worldcubeassociation.org/competitions/LesFranquesesOpen2018/results/all#e666_c) |
 | 0.49 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 1:45.17 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 1:45.66 | [Arrigorriaga Side Events 2023](https://www.worldcubeassociation.org/competitions/ArrigorriagaSideEvents2023/results/all#e666_f) |
 | 0.51 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | 2:25.15 | [Diego Garcia Pino](https://www.worldcubeassociation.org/persons/2022PINO01) | 2:25.66 | [El Corazón de La Axarquía 2025](https://www.worldcubeassociation.org/competitions/ElCorazondeLaAxarquia2025/results/all#e666_c) |
@@ -77,7 +78,6 @@
 | 0.91 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 2:36.82 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 2:37.73 | [Ruta Cubera: Arriate Open 2025](https://www.worldcubeassociation.org/competitions/RutaCuberaArriateOpen2025/results/all#e666_c) |
 | 1.05 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 3:21.83 | [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) | 3:22.88 | [Granada Open 2012](https://www.worldcubeassociation.org/competitions/GranadaOpen2012/results/all#e666_c) |
 | 1.14 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 1:40.45 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 1:41.59 | [Spanish Championship 2022](https://www.worldcubeassociation.org/competitions/SpanishChampionship2022/results/all#e666_c) |
-| 1.55 | [Carlos Tapp](https://www.worldcubeassociation.org/persons/2013TAPP01) | 2:31.51 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 2:33.06 | [Spanish Championship 2015](https://www.worldcubeassociation.org/competitions/SpanishChampionship2015/results/all#e666_c) |
 
 ### 7x7x7 Cube
 
@@ -86,13 +86,13 @@
 | 0.03 | [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) | 5:23.91 | [Guillermo Conde Gil](https://www.worldcubeassociation.org/persons/2008COND01) | 5:23.94 | [Spanish Championship 2011](https://www.worldcubeassociation.org/competitions/SpanishChampionship2011/results/all#e777_c) |
 | 0.57 | [Carlos Tapp](https://www.worldcubeassociation.org/persons/2013TAPP01) | 3:57.86 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | 3:58.43 | [KubeKings Weekend 2015](https://www.worldcubeassociation.org/competitions/KubeKingsWeekend2015/results/all#e777_c) |
 | 1.56 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | 3:40.05 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 3:41.61 | [Spanish Championship 2015](https://www.worldcubeassociation.org/competitions/SpanishChampionship2015/results/all#e777_c) |
+| 1.93 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 3:41.72 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 3:43.65 | [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026/results/all#e777_f) |
 | 2.18 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 2:23.03 | [Carlos Tapp](https://www.worldcubeassociation.org/persons/2013TAPP01) | 2:25.21 | [Spain 2018](https://www.worldcubeassociation.org/competitions/Spain2018/results/all#e777_f) |
 | 2.75 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 3:30.42 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 3:33.17 | [Parla Open 2018](https://www.worldcubeassociation.org/competitions/ParlaOpen2018/results/all#e777_c) |
 | 2.88 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 3:28.96 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 3:31.84 | [Bilbao Open 2018](https://www.worldcubeassociation.org/competitions/BilbaoOpen2018/results/all#e777_c) |
 | 2.92 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 3:39.80 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 3:42.72 | [Les Franqueses Open 2018](https://www.worldcubeassociation.org/competitions/LesFranquesesOpen2018/results/all#e777_c) |
 | 3.35 | [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) | 5:57.78 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | 6:01.13 | [Barcelona Open 2011](https://www.worldcubeassociation.org/competitions/BarcelonaSummerOpen2011/results/all#e777_c) |
 | 3.79 | [Carlos Tapp](https://www.worldcubeassociation.org/persons/2013TAPP01) | 2:53.21 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 2:57.00 | [IPM Open 2017](https://www.worldcubeassociation.org/competitions/IPMOpen2017/results/all#e777_c) |
-| 4.12 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | 5:47.97 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 5:52.09 | [Barcelona Winter Open 2012](https://www.worldcubeassociation.org/competitions/BarcelonaWinterOpen2012/results/all#e777_f) |
 
 ### 3x3x3 Blindfolded
 
@@ -163,11 +163,11 @@
 | 0.01 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | 3.47 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 3.48 | [Velilla Open 2024](https://www.worldcubeassociation.org/competitions/VelillaOpen2024/results/all#epyram_f) |
 | 0.02 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | 2.87 | [Héctor Haro Guerrero](https://www.worldcubeassociation.org/persons/2018GUER09) | 2.89 | [Amore Open 2024](https://www.worldcubeassociation.org/competitions/AmoreOpen2024/results/all#epyram_f) |
 | 0.02 | [Héctor Haro Guerrero](https://www.worldcubeassociation.org/persons/2018GUER09) | 3.32 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | 3.34 | [Bilbao Open 2023](https://www.worldcubeassociation.org/competitions/BilbaoOpen2023/results/all#epyram_f) |
+| 0.02 | [Javier Casaus Rodríguez](https://www.worldcubeassociation.org/persons/2023RODR68) | 3.50 | [Pau Tamarit Montalt](https://www.worldcubeassociation.org/persons/2023MONT39) | 3.52 | [L'Eliana Open 2026](https://www.worldcubeassociation.org/competitions/LElianaOpen2026/results/all#epyram_f) |
 | 0.02 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | 7.25 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 7.27 | [Murcia Open 2011](https://www.worldcubeassociation.org/competitions/MurciaOpen2011/results/all#epyram_f) |
 | 0.03 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | 2.11 | [Asier Prieto Manzarraga](https://www.worldcubeassociation.org/persons/2023MANZ03) | 2.14 | [Iruña Open 2025](https://www.worldcubeassociation.org/competitions/IrunaOpen2025/results/all#epyram_f) |
 | 0.03 | [Lucía González Garcia-Moya](https://www.worldcubeassociation.org/persons/2024GARC06) | 2.92 | [Lucas Campaniello González](https://www.worldcubeassociation.org/persons/2023GONZ90) | 2.95 | [URJC Open 2026](https://www.worldcubeassociation.org/competitions/URJCOpen2026/results/all#epyram_f) |
 | 0.03 | [Lucas Campaniello González](https://www.worldcubeassociation.org/persons/2023GONZ90) | 2.93 | [Yago Malleiro Cellitti](https://www.worldcubeassociation.org/persons/2023CELL01) | 2.96 | [Velilla Open 2026](https://www.worldcubeassociation.org/competitions/VelillaOpen2026/results/all#epyram_f) |
-| 0.03 | [Laura Tarrés Gimeno](https://www.worldcubeassociation.org/persons/2015GIME02) | 4.01 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | 4.04 | [Basauri Open 2022](https://www.worldcubeassociation.org/competitions/BasauriOpen2022/results/all#epyram_f) |
 
 ### Clock
 

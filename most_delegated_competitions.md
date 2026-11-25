@@ -1,7 +1,7 @@
 ## Más competiciones delegadas
 
 *Nota: Desglose según el rango del delegado en el primer día de cada competición (Trainee, Junior, Full o Desconocido antes de 2024).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Delegadas | Persona | Trainee | Junior | Full | Sin registro | Lista en WCA |
 | ---: | :--- | ---: | ---: | ---: | ---: | :--: |
@@ -9,26 +9,26 @@
 | 91 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | 0 | 0 | 91 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=7399) |
 | 86 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 0 | 39 | 47 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=6113) |
 | 71 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) | 0 | 0 | 71 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=285) |
-| 64 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 7 | 25 | 32 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=90178) |
+| 65 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 7 | 25 | 33 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=90178) |
 | 58 | [Albert Garriga Gea](https://www.worldcubeassociation.org/persons/2019GEAA01) | 0 | 31 | 27 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=135764) |
 | 56 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) | 0 | 24 | 32 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=47863) |
-| 54 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 7 | 28 | 19 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=8717) |
+| 55 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 7 | 28 | 20 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=8717) |
 | 50 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | 0 | 0 | 0 | 50 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=284) |
 | 42 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 0 | 0 | 0 | 42 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1273) |
 | 40 | [Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44) | 0 | 18 | 22 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=29128) |
 | 39 | [Luis J. Iáñez](https://www.worldcubeassociation.org/persons/2009PARE02) | 0 | 0 | 0 | 39 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=17) |
-| 35 | [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | 5 | 16 | 14 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=6666) |
+| 36 | [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | 5 | 16 | 15 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=6666) |
 | 31 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 0 | 0 | 0 | 31 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=7340) |
 | 17 | [Rocío Fernández Usero](https://www.worldcubeassociation.org/persons/2014USER01) | 5 | 12 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=13900) |
 | 14 | [Alberto Masó Molina](https://www.worldcubeassociation.org/persons/2011MOLI01) | 0 | 0 | 0 | 14 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=7233) |
 | 13 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 5 | 8 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=77586) |
 | 13 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | 0 | 0 | 0 | 13 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=29615) |
+| 10 | [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) | 7 | 3 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=284641) |
 | 10 | [David Calvo Vivas](https://www.worldcubeassociation.org/persons/2005CALV02) | 0 | 0 | 0 | 10 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1613) |
-| 9 | [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) | 7 | 2 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=284641) |
 | 6 | [Leovigildo Sánchez Casado](https://www.worldcubeassociation.org/persons/2009CASA01) | 0 | 0 | 0 | 6 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1347) |
 | 5 | [Víctor Torrecilla Chicote](https://www.worldcubeassociation.org/persons/2008TORR02) | 0 | 0 | 0 | 5 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1666) |
 | 4 | [Pau Carbonell](https://www.worldcubeassociation.org/persons/2021CARB01) | 4 | 0 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=204558) |
-| 2 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 2 | 0 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=462633) |
+| 3 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 3 | 0 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=462633) |
 | 2 | [María Ángeles García Franco](https://www.worldcubeassociation.org/persons/2018FRAN17) | 2 | 0 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=112652) |
 | 2 | [Jaione Bengoetxea Azurmendi](https://www.worldcubeassociation.org/persons/2023AZUR01) | 2 | 0 | 0 | 0 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=329050) |
 | 1 | [Ernesto Fernández Regueira](https://www.worldcubeassociation.org/persons/2004FERN01) | 0 | 0 | 0 | 1 | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=1617) |

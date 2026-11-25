@@ -1,7 +1,7 @@
 ## Mayor número posible de resoluciones en una competición
 
 *Nota: Suma las resoluciones esperadas de todas las rondas celebradas en la competición.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Resoluciones | Competición | Rondas |
 | ---: | :--- | ---: |

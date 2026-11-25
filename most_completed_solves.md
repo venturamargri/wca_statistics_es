@@ -1,6 +1,6 @@
 ## Más resoluciones completadas
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### Competición
@@ -34,13 +34,13 @@
 | :--- | ---: | ---: |
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | **11239** | 11892 |
 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | **10245** | 10723 |
-| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | **10025** | 10327 |
+| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | **10125** | 10428 |
 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) | **9395** | 9903 |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **9083** | 9394 |
-| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | **9015** | 9674 |
+| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | **9152** | 9464 |
+| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | **9104** | 9767 |
 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | **8378** | 8530 |
 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | **8227** | 8438 |
-| [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) | **8049** | 8225 |
+| [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) | **8132** | 8309 |
 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | **7539** | 8108 |
 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) | **7204** | 7442 |
 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | **6733** | 6824 |
@@ -59,7 +59,7 @@
 | :--- | ---: | ---: |
 | 2025 | **161951** | 169318 |
 | 2024 | **155035** | 162144 |
-| 2026 | **149302** | 156902 |
+| 2026 | **152691** | 160469 |
 | 2023 | **125898** | 131367 |
 | 2018 | **70707** | 73621 |
 | 2017 | **68956** | 72164 |
@@ -82,19 +82,19 @@
 
 |  | Válidas | Intentos |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **261687** | 266578 |
-| 2x2x2 Cube | **184101** | 188413 |
-| Pyraminx | **130216** | 133226 |
-| Skewb | **109311** | 111486 |
-| 4x4x4 Cube | **87922** | 90456 |
+| 3x3x3 Cube | **262573** | 267491 |
+| 2x2x2 Cube | **184728** | 189063 |
+| Pyraminx | **130748** | 133772 |
+| Skewb | **109653** | 111838 |
+| 4x4x4 Cube | **88270** | 90808 |
 | 3x3x3 One-Handed | **67391** | 69274 |
-| Clock | **42843** | 48924 |
-| 5x5x5 Cube | **37772** | 38724 |
-| Square-1 | **35255** | 36363 |
-| Megaminx | **32486** | 33561 |
-| 3x3x3 Blindfolded | **7789** | 23000 |
-| 6x6x6 Cube | **6390** | 6622 |
-| 7x7x7 Cube | **4936** | 5223 |
+| Clock | **43090** | 49200 |
+| 5x5x5 Cube | **37878** | 38832 |
+| Square-1 | **35406** | 36519 |
+| Megaminx | **32562** | 33640 |
+| 3x3x3 Blindfolded | **7804** | 23074 |
+| 6x6x6 Cube | **6421** | 6655 |
+| 7x7x7 Cube | **4964** | 5251 |
 | 3x3x3 Fewest Moves | **4023** | 5768 |
 | Magic | **2408** | 2668 |
 | 3x3x3 With Feet | **1274** | 1382 |

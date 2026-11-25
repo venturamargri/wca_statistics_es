@@ -1,7 +1,7 @@
 ## Mayores intervalos entre competiciones
 
 *Nota: Solo incluye competidores españoles. Muestra la mayor pausa de al menos 5 años entre dos competiciones consecutivas.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Intervalo | Persona | Desde | Hasta |
 | ---: | :--- | :--- | :--- |

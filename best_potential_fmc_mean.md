@@ -1,7 +1,7 @@
 ## Mejor media potencial de FMC
 
 *Nota: Calculada tomando el mejor resultado español de cada uno de los 3 intentos en una misma ronda.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Media | Intento 1 | Intento 2 | Intento 3 | Competición |
 | :--: | :--: | :--: | :--: | :--- |

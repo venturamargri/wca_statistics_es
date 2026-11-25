@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -19,26 +19,26 @@
 | 7.69 | [Jaime Botello García](https://www.worldcubeassociation.org/persons/2016GARC52) |
 | 7.97 | [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) |
 | 8.04 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
-| 8.10 | [David Sánchez Peris](https://www.worldcubeassociation.org/persons/2017PERI05) |
 | 8.13 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
+| 8.15 | [David Sánchez Peris](https://www.worldcubeassociation.org/persons/2017PERI05) |
 | 8.18 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) |
 | 8.24 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) |
 | 8.27 | [Marisa Revaliente Ruiz](https://www.worldcubeassociation.org/persons/2022RUIZ02) |
 | 8.36 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 8.44 | [Carlos Cascos González](https://www.worldcubeassociation.org/persons/2022GONZ04) |
 | 8.55 | [Óscar Gervasini Lois](https://www.worldcubeassociation.org/persons/2023LOIS01) |
-| 8.60 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 8.61 | [Alec Stromberg](https://www.worldcubeassociation.org/persons/2023STRO13) |
 | 8.64 | [Marcos Aparicio Caro](https://www.worldcubeassociation.org/persons/2016CARO06) |
-| 8.65 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
 | 8.66 | [Álvaro González Vizuete](https://www.worldcubeassociation.org/persons/2018VIZU01) |
+| 8.66 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
+| 8.74 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
 | 8.78 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
 | 8.79 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
-| 8.85 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
 | 8.86 | [Sergio Márquez Fernández-Jardón](https://www.worldcubeassociation.org/persons/2023FERN54) |
 | 8.88 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) |
 | 8.93 | [Mikel Manterola Zarraga](https://www.worldcubeassociation.org/persons/2024ZARR01) |
 | 8.93 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) |
+| 8.94 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 9.00 | [Daniel Cofreces Jaureguizar](https://www.worldcubeassociation.org/persons/2011COFR01) |
 | 9.05 | [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) |
 | 9.15 | [Marcos Juan López Barberá](https://www.worldcubeassociation.org/persons/2023BARB18) |
@@ -49,21 +49,21 @@
 | 9.36 | [Santiago Osorio Cristóbal](https://www.worldcubeassociation.org/persons/2015CRIS01) |
 | 9.38 | [Darío Ramírez Pino](https://www.worldcubeassociation.org/persons/2024PINO01) |
 | 9.41 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
-| 9.42 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 9.46 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 9.51 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 | 9.63 | [Gael Galeote Flores](https://www.worldcubeassociation.org/persons/2025FLOR26) |
 | 9.64 | [Nelson Alfredo González Marcano](https://www.worldcubeassociation.org/persons/2025MARC02) |
-| 9.64 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) |
 | 9.67 | [Marcos Plaza Nocito](https://www.worldcubeassociation.org/persons/2018NOCI01) |
+| 9.69 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) |
 | 9.70 | [Vidal Perea Cívico](https://www.worldcubeassociation.org/persons/2024CIVI01) |
 | 9.74 | [Guillermo Cascales Ñíguez](https://www.worldcubeassociation.org/persons/2014NIGU02) |
 | 9.85 | [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) |
 | 9.87 | [Liam Nilsson González](https://www.worldcubeassociation.org/persons/2023GONZ35) |
 | 9.89 | [Pedro Collado Palma](https://www.worldcubeassociation.org/persons/2022PALM06) |
 | 9.91 | [Jorge G. Membrillera Pérez](https://www.worldcubeassociation.org/persons/2016MEMB03) |
+| 9.93 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
 | 9.94 | [Lucía González Garcia-Moya](https://www.worldcubeassociation.org/persons/2024GARC06) |
 | 9.94 | [Daniel Caín Rodríguez Trapero](https://www.worldcubeassociation.org/persons/2022TRAP01) |
-| 9.95 | [Germán García Molina](https://www.worldcubeassociation.org/persons/2023MOLI01) |
 
 ### 2x2x2 Cube
 
@@ -71,18 +71,19 @@
 | ---: | :--- |
 | 1.39 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) |
 | 2.03 | [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) |
-| 2.07 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
-| 2.14 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
+| 2.12 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
+| 2.18 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 2.20 | [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) |
+| 2.27 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 2.42 | [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) |
 | 2.46 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) |
 | 2.47 | [Alec Stromberg](https://www.worldcubeassociation.org/persons/2023STRO13) |
-| 2.47 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 2.54 | [Óscar Gervasini Lois](https://www.worldcubeassociation.org/persons/2023LOIS01) |
-| 2.58 | [Sergio Márquez Fernández-Jardón](https://www.worldcubeassociation.org/persons/2023FERN54) |
 | 2.58 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
+| 2.58 | [Sergio Márquez Fernández-Jardón](https://www.worldcubeassociation.org/persons/2023FERN54) |
 | 2.59 | [Àlex Domingo Risco](https://www.worldcubeassociation.org/persons/2015RISC01) |
 | 2.59 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
+| 2.62 | [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) |
 | 2.64 | [Marcos Aparicio Caro](https://www.worldcubeassociation.org/persons/2016CARO06) |
 | 2.65 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
 | 2.67 | [Ot Caminals Aleu](https://www.worldcubeassociation.org/persons/2022ALEU01) |
@@ -90,7 +91,6 @@
 | 2.71 | [Darío Ramírez Pino](https://www.worldcubeassociation.org/persons/2024PINO01) |
 | 2.73 | [José Ángel Morales Gómez](https://www.worldcubeassociation.org/persons/2024GOME54) |
 | 2.73 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) |
-| 2.75 | [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) |
 | 2.76 | [Aitor Javier Rubio Pozuelo](https://www.worldcubeassociation.org/persons/2022POZU01) |
 | 2.80 | [Francisco Javier García Góngora](https://www.worldcubeassociation.org/persons/2023GONG04) |
 | 2.83 | [Víctor Tretyakov Timofeyeva](https://www.worldcubeassociation.org/persons/2023TIMO01) |
@@ -100,10 +100,11 @@
 | 2.95 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
 | 3.03 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 3.17 | [Lucas Campaniello González](https://www.worldcubeassociation.org/persons/2023GONZ90) |
+| 3.18 | [Asier Martín Poves](https://www.worldcubeassociation.org/persons/2023POVE01) |
 | 3.19 | [Héctor Haro Guerrero](https://www.worldcubeassociation.org/persons/2018GUER09) |
 | 3.22 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
-| 3.25 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
 | 3.25 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
+| 3.25 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
 | 3.26 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
 | 3.30 | [Jaime Botello García](https://www.worldcubeassociation.org/persons/2016GARC52) |
 | 3.31 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
@@ -112,13 +113,12 @@
 | 3.34 | [Arturo González Medina](https://www.worldcubeassociation.org/persons/2018MEDI10) |
 | 3.35 | [Pablo Cuesta Sierra](https://www.worldcubeassociation.org/persons/2016CUES01) |
 | 3.37 | [Asier Adell Díaz](https://www.worldcubeassociation.org/persons/2023DIAZ20) |
-| 3.38 | [Pedro Sanz Rodriguez](https://www.worldcubeassociation.org/persons/2019RODR39) |
+| 3.37 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
 | 3.38 | [Álvaro Pérez Moreno](https://www.worldcubeassociation.org/persons/2023MORE35) |
+| 3.38 | [Pedro Sanz Rodriguez](https://www.worldcubeassociation.org/persons/2019RODR39) |
 | 3.40 | [Lucía González Garcia-Moya](https://www.worldcubeassociation.org/persons/2024GARC06) |
 | 3.40 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
-| 3.45 | [Asier Martín Poves](https://www.worldcubeassociation.org/persons/2023POVE01) |
 | 3.47 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
-| 3.50 | [Samuel María Liñares](https://www.worldcubeassociation.org/persons/2022LINA04) |
 
 ### 4x4x4 Cube
 
@@ -131,21 +131,21 @@
 | 31.53 | [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) |
 | 31.72 | [Pedro Sanz Rodriguez](https://www.worldcubeassociation.org/persons/2019RODR39) |
 | 32.18 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
+| 32.49 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) |
 | 32.49 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
-| 32.66 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) |
+| 32.71 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) |
 | 33.25 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
 | 33.43 | [Marcos Aparicio Caro](https://www.worldcubeassociation.org/persons/2016CARO06) |
 | 33.65 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
-| 33.92 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) |
 | 33.98 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
-| 34.11 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
+| 34.01 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 34.13 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) |
-| 34.29 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 34.37 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 | 34.43 | [Daniel Cofreces Jaureguizar](https://www.worldcubeassociation.org/persons/2011COFR01) |
-| 34.60 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
+| 34.66 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 34.67 | [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) |
-| 35.10 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
+| 34.81 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
+| 34.96 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
 | 35.20 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
 | 35.48 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
 | 35.95 | [Mikel Manterola Zarraga](https://www.worldcubeassociation.org/persons/2024ZARR01) |
@@ -159,16 +159,16 @@
 | 37.52 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
 | 37.67 | [Carlos Cascos González](https://www.worldcubeassociation.org/persons/2022GONZ04) |
 | 37.72 | [Jorge Marín Segovia](https://www.worldcubeassociation.org/persons/2016SEGO02) |
-| 37.82 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 37.91 | [Alec Stromberg](https://www.worldcubeassociation.org/persons/2023STRO13) |
+| 37.95 | [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) |
 | 38.01 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
+| 38.04 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
 | 38.25 | [Mario Clemente Serrano](https://www.worldcubeassociation.org/persons/2024SERR09) |
 | 38.42 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
-| 38.42 | [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) |
-| 38.54 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
 | 38.89 | [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) |
 | 38.93 | [Marcos Plaza Nocito](https://www.worldcubeassociation.org/persons/2018NOCI01) |
 | 39.02 | [Álvaro González Vizuete](https://www.worldcubeassociation.org/persons/2018VIZU01) |
+| 39.06 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 39.06 | [Diego Garcia Pino](https://www.worldcubeassociation.org/persons/2022PINO01) |
 | 39.24 | [Diego Lago Mendoza](https://www.worldcubeassociation.org/persons/2017MEND27) |
 | 39.28 | [Adrián Martínez Macías](https://www.worldcubeassociation.org/persons/2013MACI01) |
@@ -205,21 +205,22 @@
 | 1:08.74 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 1:08.77 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 1:08.95 | [Marcos Aparicio Caro](https://www.worldcubeassociation.org/persons/2016CARO06) |
+| 1:09.03 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) |
 | 1:09.08 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 1:09.33 | [Carlos Tapp](https://www.worldcubeassociation.org/persons/2013TAPP01) |
 | 1:10.06 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
-| 1:10.20 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) |
-| 1:10.73 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 1:11.08 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
+| 1:11.45 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 1:12.25 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
-| 1:12.75 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
+| 1:12.58 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
+| 1:13.28 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 1:13.28 | [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) |
 | 1:13.68 | [Daniel Rodríguez Espinosa](https://www.worldcubeassociation.org/persons/2017ESPI14) |
 | 1:14.20 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
-| 1:14.34 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 1:15.36 | [Jorge Marín Segovia](https://www.worldcubeassociation.org/persons/2016SEGO02) |
 | 1:15.37 | [Álvaro González Vizuete](https://www.worldcubeassociation.org/persons/2018VIZU01) |
 | 1:15.51 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
+| 1:16.18 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
 | 1:16.58 | [Antoni Guiscafrè Rosselló](https://www.worldcubeassociation.org/persons/2017ROSS03) |
 | 1:17.32 | [Darío Ramírez Pino](https://www.worldcubeassociation.org/persons/2024PINO01) |
 | 1:17.69 | [Jerónimo Ibarra Bernal](https://www.worldcubeassociation.org/persons/2010IBAR01) |
@@ -228,7 +229,6 @@
 | 1:18.23 | [Miguel Alonso Gil](https://www.worldcubeassociation.org/persons/2017GILM01) |
 | 1:18.82 | [Jan Nilsson González](https://www.worldcubeassociation.org/persons/2023GONZ34) |
 | 1:18.88 | [Alejandro Fernández López](https://www.worldcubeassociation.org/persons/2023LOPE49) |
-| 1:19.00 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
 
 ### 6x6x6 Cube
 
@@ -262,28 +262,28 @@
 | 2:22.39 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
 | 2:22.75 | [Diego Garcia Pino](https://www.worldcubeassociation.org/persons/2022PINO01) |
 | 2:23.64 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) |
+| 2:23.81 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 2:25.34 | [Javier Tovar Castro](https://www.worldcubeassociation.org/persons/2016CAST23) |
-| 2:25.43 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 2:26.67 | [Daniel Ortega Pastor](https://www.worldcubeassociation.org/persons/2014PAST03) |
 | 2:27.78 | [Antoni Guiscafrè Rosselló](https://www.worldcubeassociation.org/persons/2017ROSS03) |
 | 2:29.25 | [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) |
 | 2:29.80 | [Ismael Lorente](https://www.worldcubeassociation.org/persons/2016LORE02) |
 | 2:30.34 | [Vidal Perea Cívico](https://www.worldcubeassociation.org/persons/2024CIVI01) |
-| 2:30.93 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
+| 2:30.56 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
+| 2:32.99 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
 | 2:33.73 | [Jerónimo Ibarra Bernal](https://www.worldcubeassociation.org/persons/2010IBAR01) |
-| 2:34.41 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 2:35.99 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 2:36.09 | [Janot Alabert Planas](https://www.worldcubeassociation.org/persons/2015PLAN02) |
 | 2:36.17 | [Jan Nilsson González](https://www.worldcubeassociation.org/persons/2023GONZ34) |
+| 2:36.18 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 2:36.50 | [Pol González Sierras](https://www.worldcubeassociation.org/persons/2015SIER01) |
 | 2:36.51 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
-| 2:38.82 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
+| 2:37.72 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) |
 | 2:38.98 | [Jorge Marín Segovia](https://www.worldcubeassociation.org/persons/2016SEGO02) |
 | 2:39.01 | [Leonardo Jiménez Arias](https://www.worldcubeassociation.org/persons/2023ARIA06) |
 | 2:41.91 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
 | 2:42.64 | [Gustavo Adolfo Hidalgo Chópite](https://www.worldcubeassociation.org/persons/2014HIDA02) |
 | 2:43.52 | [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) |
-| 2:44.00 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) |
 
 ### 7x7x7 Cube
 
@@ -317,10 +317,10 @@
 | 3:38.24 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
 | 3:40.29 | [Marcos Plaza Nocito](https://www.worldcubeassociation.org/persons/2018NOCI01) |
 | 3:41.21 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
-| 3:45.20 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 3:44.89 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 3:47.18 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
+| 3:55.03 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 3:56.77 | [Diego Garcia Pino](https://www.worldcubeassociation.org/persons/2022PINO01) |
-| 3:58.51 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 3:59.71 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) |
 | 3:59.81 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
 | 4:02.30 | [David Sánchez Serrano](https://www.worldcubeassociation.org/persons/2016SERR09) |
@@ -330,6 +330,7 @@
 | 4:06.94 | [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) |
 | 4:08.11 | [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) |
 | 4:08.88 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
+| 4:09.36 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
 | 4:11.28 | [Jacobo Vélez Gómez](https://www.worldcubeassociation.org/persons/2024GOME34) |
 | 4:15.73 | [Pau Carbonell](https://www.worldcubeassociation.org/persons/2021CARB01) |
 | 4:16.96 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
@@ -338,7 +339,6 @@
 | 4:22.60 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 4:25.28 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) |
 | 4:26.92 | [Hugo Presa Martínez](https://www.worldcubeassociation.org/persons/2017MART57) |
-| 4:28.46 | [Jan Nilsson González](https://www.worldcubeassociation.org/persons/2023GONZ34) |
 
 ### 3x3x3 Fewest Moves
 
@@ -413,8 +413,8 @@
 | 15.71 | [Liberto Ventura Mesa](https://www.worldcubeassociation.org/persons/2023MESA04) |
 | 16.11 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 16.19 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
-| 16.27 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
 | 16.27 | [Daniel Cofreces Jaureguizar](https://www.worldcubeassociation.org/persons/2011COFR01) |
+| 16.27 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
 | 16.74 | [Marcos Plaza Nocito](https://www.worldcubeassociation.org/persons/2018NOCI01) |
 | 16.86 | [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) |
 | 16.87 | [Borja Perez](https://www.worldcubeassociation.org/persons/2013PERE05) |
@@ -489,26 +489,26 @@
 | 1:05.23 | [Blanca Hidalgo Domingo](https://www.worldcubeassociation.org/persons/2022DOMI02) |
 | 1:05.50 | [Lucía González Garcia-Moya](https://www.worldcubeassociation.org/persons/2024GARC06) |
 | 1:05.62 | [Oriol Mas Alarcón](https://www.worldcubeassociation.org/persons/2023ALAR04) |
-| 1:05.83 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) |
 | 1:06.00 | [Gonzalo Blanco Herrero](https://www.worldcubeassociation.org/persons/2015HERR12) |
 | 1:06.08 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 1:06.18 | [Óscar Zhu](https://www.worldcubeassociation.org/persons/2022ZHUO02) |
+| 1:06.65 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) |
 | 1:06.74 | [Mikel Manterola Zarraga](https://www.worldcubeassociation.org/persons/2024ZARR01) |
 | 1:07.45 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) |
 | 1:08.12 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) |
 | 1:08.27 | [Aurelio Sanchez Jimenez](https://www.worldcubeassociation.org/persons/2019JIME10) |
 | 1:08.66 | [Mar Gallego Vicente](https://www.worldcubeassociation.org/persons/2013VICE01) |
 | 1:09.44 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) |
+| 1:09.80 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
 | 1:09.86 | [Leonardo Jiménez Arias](https://www.worldcubeassociation.org/persons/2023ARIA06) |
 | 1:10.04 | [Darío Pérez Melendo](https://www.worldcubeassociation.org/persons/2021PERE03) |
-| 1:10.12 | [Mario Clemente Serrano](https://www.worldcubeassociation.org/persons/2024SERR09) |
 
 ### Pyraminx
 
 | Media móvil | Persona |
 | ---: | :--- |
 | 1.94 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) |
-| 2.23 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
+| 2.47 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
 | 2.51 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
 | 2.54 | [Oriol Mas Alarcón](https://www.worldcubeassociation.org/persons/2023ALAR04) |
 | 2.55 | [Asier Prieto Manzarraga](https://www.worldcubeassociation.org/persons/2023MANZ03) |
@@ -521,19 +521,19 @@
 | 3.18 | [Aleix Foguet](https://www.worldcubeassociation.org/persons/2023FOGU01) |
 | 3.22 | [Alec Stromberg](https://www.worldcubeassociation.org/persons/2023STRO13) |
 | 3.35 | [Leny De Pablo Hosty](https://www.worldcubeassociation.org/persons/2023HOST01) |
-| 3.39 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 3.41 | [Yago Malleiro Cellitti](https://www.worldcubeassociation.org/persons/2023CELL01) |
-| 3.58 | [Héctor Sanchis Miedes](https://www.worldcubeassociation.org/persons/2022MIED01) |
+| 3.42 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 3.64 | [Héctor Sanchis Miedes](https://www.worldcubeassociation.org/persons/2022MIED01) |
 | 3.71 | [Pablo Fraile Menendez](https://www.worldcubeassociation.org/persons/2023MENE01) |
 | 3.77 | [Andrés Arenas Sánchez](https://www.worldcubeassociation.org/persons/2022SANC04) |
 | 3.83 | [Laura Tarrés Gimeno](https://www.worldcubeassociation.org/persons/2015GIME02) |
+| 3.86 | [Pau Tamarit Montalt](https://www.worldcubeassociation.org/persons/2023MONT39) |
+| 3.94 | [Javier Casaus Rodríguez](https://www.worldcubeassociation.org/persons/2023RODR68) |
 | 4.03 | [Aurelio Sanchez Jimenez](https://www.worldcubeassociation.org/persons/2019JIME10) |
-| 4.08 | [Pau Tamarit Montalt](https://www.worldcubeassociation.org/persons/2023MONT39) |
+| 4.12 | [Arnau López García](https://www.worldcubeassociation.org/persons/2024GARC49) |
 | 4.17 | [Alejandro González Rodríguez](https://www.worldcubeassociation.org/persons/2022RODR09) |
-| 4.22 | [Arnau López García](https://www.worldcubeassociation.org/persons/2024GARC49) |
 | 4.23 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 4.31 | [Hugo Pérez Rodríguez](https://www.worldcubeassociation.org/persons/2023RODR51) |
-| 4.34 | [Javier Casaus Rodríguez](https://www.worldcubeassociation.org/persons/2023RODR68) |
 | 4.35 | [Ot Caminals Aleu](https://www.worldcubeassociation.org/persons/2022ALEU01) |
 | 4.39 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
 | 4.41 | [Blanca Hidalgo Domingo](https://www.worldcubeassociation.org/persons/2022DOMI02) |
@@ -544,19 +544,19 @@
 | 4.68 | [Àlex Domingo Risco](https://www.worldcubeassociation.org/persons/2015RISC01) |
 | 4.72 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
 | 4.74 | [Santiago Arias Ferreiro](https://www.worldcubeassociation.org/persons/2024FERR09) |
-| 4.80 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
+| 4.88 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
 | 4.93 | [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) |
 | 4.96 | [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) |
 | 5.04 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
-| 5.04 | [Alejandro Delgado Barcia](https://www.worldcubeassociation.org/persons/2023BARC03) |
 | 5.06 | [Núria Carrillo Pascual](https://www.worldcubeassociation.org/persons/2025PASC02) |
 | 5.08 | [Alejandro García-Carrasco Gómez](https://www.worldcubeassociation.org/persons/2016GOME16) |
-| 5.10 | [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) |
 | 5.10 | [Diego Arche Andradas](https://www.worldcubeassociation.org/persons/2015ANDR06) |
+| 5.10 | [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) |
 | 5.17 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 5.19 | [Fernando Lago Díaz](https://www.worldcubeassociation.org/persons/2024DIAZ02) |
 | 5.26 | [Nicolas Cano Bolado](https://www.worldcubeassociation.org/persons/2022BOLA03) |
 | 5.27 | [Jon Iribarren Pang](https://www.worldcubeassociation.org/persons/2024PANG01) |
+| 5.28 | [Alejandro Delgado Barcia](https://www.worldcubeassociation.org/persons/2023BARC03) |
 
 ### Clock
 
@@ -576,15 +576,15 @@
 | 5.66 | [Aleix Foguet](https://www.worldcubeassociation.org/persons/2023FOGU01) |
 | 5.66 | [Blanca Hidalgo Domingo](https://www.worldcubeassociation.org/persons/2022DOMI02) |
 | 5.72 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
-| 5.80 | [Raúl Serrano Martínez](https://www.worldcubeassociation.org/persons/2017MART16) |
 | 5.86 | [Hugo Barjollo Morales](https://www.worldcubeassociation.org/persons/2024MORA08) |
+| 5.98 | [Raúl Serrano Martínez](https://www.worldcubeassociation.org/persons/2017MART16) |
 | 6.09 | [Fernando Granado Torres](https://www.worldcubeassociation.org/persons/2022TORR12) |
 | 6.31 | [Fernando Lago Díaz](https://www.worldcubeassociation.org/persons/2024DIAZ02) |
 | 6.33 | [Víctor Tretyakov Timofeyeva](https://www.worldcubeassociation.org/persons/2023TIMO01) |
 | 6.68 | [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) |
 | 6.75 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
-| 6.80 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 6.80 | [Alec Stromberg](https://www.worldcubeassociation.org/persons/2023STRO13) |
+| 6.80 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 6.88 | [Marcos Mora Prieto](https://www.worldcubeassociation.org/persons/2025PRIE04) |
 | 7.02 | [Javier Lizama Montoya](https://www.worldcubeassociation.org/persons/2022MONT31) |
 | 7.03 | [Álvaro Jiménez Peña](https://www.worldcubeassociation.org/persons/2024PENA02) |
@@ -609,9 +609,9 @@
 | 8.60 | [Nuria Soria García](https://www.worldcubeassociation.org/persons/2022GARC12) |
 | 8.75 | [Yago Malleiro Cellitti](https://www.worldcubeassociation.org/persons/2023CELL01) |
 | 8.76 | [Pedro Sanz Rodriguez](https://www.worldcubeassociation.org/persons/2019RODR39) |
+| 8.83 | [David Sánchez Peris](https://www.worldcubeassociation.org/persons/2017PERI05) |
 | 8.84 | [Daniel Cabezudo Fernández](https://www.worldcubeassociation.org/persons/2023FERN62) |
 | 8.88 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
-| 8.89 | [Leny De Pablo Hosty](https://www.worldcubeassociation.org/persons/2023HOST01) |
 
 ### Skewb
 
@@ -619,13 +619,13 @@
 | ---: | :--- |
 | 2.18 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
 | 2.49 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
-| 3.14 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
+| 3.31 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 3.38 | [Héctor Haro Guerrero](https://www.worldcubeassociation.org/persons/2018GUER09) |
 | 3.48 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 3.62 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
-| 3.80 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) |
 | 3.82 | [Jorge Orrite De Alba](https://www.worldcubeassociation.org/persons/2015ORRI01) |
 | 3.90 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
+| 3.95 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) |
 | 3.97 | [Antoni Guiscafrè Rosselló](https://www.worldcubeassociation.org/persons/2017ROSS03) |
 | 4.02 | [Santiago Arias Ferreiro](https://www.worldcubeassociation.org/persons/2024FERR09) |
 | 4.05 | [Julio Perugorria Lorente](https://www.worldcubeassociation.org/persons/2014LORE02) |
@@ -634,46 +634,46 @@
 | 4.30 | [Pol Juny Sánchez](https://www.worldcubeassociation.org/persons/2017SANC31) |
 | 4.39 | [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) |
 | 4.40 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) |
+| 4.52 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
 | 4.57 | [Mar Gallego Vicente](https://www.worldcubeassociation.org/persons/2013VICE01) |
 | 4.67 | [Diego Rodríguez Villafañe](https://www.worldcubeassociation.org/persons/2023VILL80) |
-| 4.68 | [Diego Rica Reyes](https://www.worldcubeassociation.org/persons/2025REYE25) |
 | 4.68 | [Manuel Arjona Crespo](https://www.worldcubeassociation.org/persons/2014CRES02) |
-| 4.73 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
+| 4.68 | [Diego Rica Reyes](https://www.worldcubeassociation.org/persons/2025REYE25) |
 | 4.84 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) |
 | 4.84 | [Alec Stromberg](https://www.worldcubeassociation.org/persons/2023STRO13) |
 | 4.87 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
 | 4.92 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
 | 4.95 | [Ekaitz Rey González](https://www.worldcubeassociation.org/persons/2017GONZ50) |
+| 4.96 | [Oscar Sánchez Najarro](https://www.worldcubeassociation.org/persons/2017NAJA02) |
 | 4.96 | [Àlex Domingo Risco](https://www.worldcubeassociation.org/persons/2015RISC01) |
 | 4.96 | [Lander Fernandez](https://www.worldcubeassociation.org/persons/2016FERN20) |
-| 4.96 | [Oscar Sánchez Najarro](https://www.worldcubeassociation.org/persons/2017NAJA02) |
 | 5.00 | [Liberto Ventura Mesa](https://www.worldcubeassociation.org/persons/2023MESA04) |
 | 5.02 | [Rodrigo Delgado Martínez](https://www.worldcubeassociation.org/persons/2022MART63) |
+| 5.08 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 5.11 | [Daniele Vanoli Hernández](https://www.worldcubeassociation.org/persons/2016HERN05) |
+| 5.16 | [Ricardo Bayona Salvador](https://www.worldcubeassociation.org/persons/2014SALV02) |
 | 5.17 | [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) |
-| 5.19 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
-| 5.23 | [Ricardo Bayona Salvador](https://www.worldcubeassociation.org/persons/2014SALV02) |
-| 5.24 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 5.24 | [Javier López Fernández](https://www.worldcubeassociation.org/persons/2016FERN07) |
 | 5.24 | [Eki Gartzia González](https://www.worldcubeassociation.org/persons/2013GONZ05) |
+| 5.24 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 5.28 | [Javier Suescun Abinzano](https://www.worldcubeassociation.org/persons/2023ABIN01) |
 | 5.30 | [Lucía González Garcia-Moya](https://www.worldcubeassociation.org/persons/2024GARC06) |
 | 5.31 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) |
 | 5.37 | [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) |
+| 5.38 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
 | 5.38 | [Javier Tovar Castro](https://www.worldcubeassociation.org/persons/2016CAST23) |
 | 5.39 | [Arturo Pérez Anguita](https://www.worldcubeassociation.org/persons/2022ANGU03) |
 | 5.43 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) |
 | 5.44 | [Hugo de Miguel Monge](https://www.worldcubeassociation.org/persons/2019MONG05) |
-| 5.45 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 | 5.45 | [Lucas Campaniello González](https://www.worldcubeassociation.org/persons/2023GONZ90) |
-| 5.46 | [Óscar Gervasini Lois](https://www.worldcubeassociation.org/persons/2023LOIS01) |
+| 5.45 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 
 ### Square-1
 
 | Media móvil | Persona |
 | ---: | :--- |
+| 8.63 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 8.91 | [Samuel María Liñares](https://www.worldcubeassociation.org/persons/2022LINA04) |
-| 8.94 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 9.24 | [Arnau López García](https://www.worldcubeassociation.org/persons/2024GARC49) |
 | 9.93 | [Sergio Ramos González](https://www.worldcubeassociation.org/persons/2022GONZ09) |
 | 10.52 | [Artur Miralles Hernàndez](https://www.worldcubeassociation.org/persons/2015HERN17) |
@@ -690,17 +690,17 @@
 | 13.12 | [Alec Stromberg](https://www.worldcubeassociation.org/persons/2023STRO13) |
 | 13.40 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 13.71 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
+| 13.80 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 14.33 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 14.65 | [Iñigo Mallo Lizaso](https://www.worldcubeassociation.org/persons/2018LIZA05) |
-| 14.72 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
-| 14.72 | [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) |
-| 14.96 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
+| 14.80 | [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) |
 | 14.97 | [Erik Subirats](https://www.worldcubeassociation.org/persons/2016SUBI01) |
 | 16.27 | [Leny De Pablo Hosty](https://www.worldcubeassociation.org/persons/2023HOST01) |
 | 16.38 | [Sergio Márquez Fernández-Jardón](https://www.worldcubeassociation.org/persons/2023FERN54) |
 | 16.67 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
-| 16.75 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
-| 16.88 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
-| 17.13 | [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) |
+| 16.79 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) |
+| 16.91 | [Daniel Moreno Jimenez](https://www.worldcubeassociation.org/persons/2023JIME34) |
+| 17.03 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) |
 | 17.14 | [Carla Domingo Buisán](https://www.worldcubeassociation.org/persons/2022BUIS01) |
 | 17.42 | [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) |
 | 17.81 | [Javier Bilbao](https://www.worldcubeassociation.org/persons/2024BILB02) |

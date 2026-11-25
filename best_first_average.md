@@ -1,7 +1,7 @@
 ## Mejor primer average
 
 *Nota: Mejor average conseguido la primera vez que se participa oficialmente en cada categoría.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -188,8 +188,8 @@
 | 6.47 | [Jan Banegas i Ruiz](https://www.worldcubeassociation.org/persons/2023RUIZ31) |
 | 6.59 | [Jorge Sampedro Saiz](https://www.worldcubeassociation.org/persons/2019SAIZ01) |
 | 6.65 | [Andrés Arenas Sánchez](https://www.worldcubeassociation.org/persons/2022SANC04) |
-| 6.75 | [Jorge Ruiz Mejía](https://www.worldcubeassociation.org/persons/2017MEJI04) |
 | 6.75 | [Ekain Bengoetxea Olano](https://www.worldcubeassociation.org/persons/2025OLAN01) |
+| 6.75 | [Jorge Ruiz Mejía](https://www.worldcubeassociation.org/persons/2017MEJI04) |
 | 6.81 | [Pablo Ortega Rubio](https://www.worldcubeassociation.org/persons/2016RUBI02) |
 
 ### Square-1

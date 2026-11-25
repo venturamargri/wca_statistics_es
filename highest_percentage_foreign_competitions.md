@@ -1,7 +1,7 @@
 ## Mayor porcentaje de competiciones en el extranjero
 
 *Nota: Porcentaje de competiciones disputadas fuera de España sobre el total de competiciones oficiales. Mínimo 10 competiciones (se excluyen competiciones multisede internacionales).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | % Extranjero | Fuera de España | Total | Persona |
 | ---: | ---: | ---: | :--- |
@@ -11,7 +11,7 @@
 | 100.00% | 11 | 11 | [Adrian Oyanguren Ramirez](https://www.worldcubeassociation.org/persons/2023RAMI36) |
 | 100.00% | 11 | 11 | [Frank Sebastian Oyanguren Ramirez](https://www.worldcubeassociation.org/persons/2023RAMI37) |
 | 100.00% | 11 | 11 | [Leonardo Loaiza Del Valle](https://www.worldcubeassociation.org/persons/2022VALL08) |
-| 97.06% | 33 | 34 | [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) |
+| 97.14% | 34 | 35 | [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) |
 | 93.33% | 14 | 15 | [Izan Cantero Herrera](https://www.worldcubeassociation.org/persons/2018HERR18) |
 | 91.67% | 11 | 12 | [Juan Pablo Ceballos Arenas](https://www.worldcubeassociation.org/persons/2025AREN05) |
 | 84.62% | 11 | 13 | [Adrián González Mesa](https://www.worldcubeassociation.org/persons/2023MESA03) |
@@ -61,7 +61,6 @@
 | 18.75% | 9 | 48 | [Ivan Ros Godia](https://www.worldcubeassociation.org/persons/2018GODI01) |
 | 18.18% | 2 | 11 | [Adrià Prats](https://www.worldcubeassociation.org/persons/2016PRAT03) |
 | 18.18% | 2 | 11 | [Arnau Sales Rodríguez](https://www.worldcubeassociation.org/persons/2024RODR91) |
-| 18.18% | 2 | 11 | [Paula Escamilla Carrasco](https://www.worldcubeassociation.org/persons/2022CARR32) |
 | 18.18% | 2 | 11 | [William Velez Martin](https://www.worldcubeassociation.org/persons/2024MART58) |
 | 17.65% | 3 | 17 | [Andoni Colmenero Martin](https://www.worldcubeassociation.org/persons/2025MART20) |
 | 17.54% | 10 | 57 | [Alejandro Riveiro Rodríguez](https://www.worldcubeassociation.org/persons/2008RODR01) |
@@ -74,6 +73,7 @@
 | 16.67% | 2 | 12 | [Blai Solernou Lòpez](https://www.worldcubeassociation.org/persons/2012LAPE01) |
 | 16.67% | 2 | 12 | [Fernando Lago Díaz](https://www.worldcubeassociation.org/persons/2024DIAZ02) |
 | 16.67% | 2 | 12 | [Mateo López Ruiz](https://www.worldcubeassociation.org/persons/2025RUIZ02) |
+| 16.67% | 2 | 12 | [Paula Escamilla Carrasco](https://www.worldcubeassociation.org/persons/2022CARR32) |
 | 16.42% | 22 | 134 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 16.00% | 4 | 25 | [Zaloa Aguirre](https://www.worldcubeassociation.org/persons/2010AGUI06) |
 | 15.71% | 11 | 70 | [Pi Sevilla Hernández](https://www.worldcubeassociation.org/persons/2013HENA01) |

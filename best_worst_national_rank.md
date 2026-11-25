@@ -1,7 +1,7 @@
 ## Mejor peor ranking nacional
 
 *Nota: Competidores ordenados según su peor posición nacional (NR más alto) entre las 17 categorías actuales (formato principal WCA: average en 13 y single en las 4 a ciegas). En las categorías sin ranking nacional se asigna el puesto penalizado (total de clasificados + 1).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Persona | Peor ranking | Categoría |
 | :--- | ---: | :--- |
@@ -15,7 +15,7 @@
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 87 | Clock |
 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 89 | 3x3x3 Cube |
 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 92 | Clock |
-| [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 105 | Pyraminx |
+| [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 106 | Pyraminx |
 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 112 | Skewb |
 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 116 | Megaminx |
 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) | 119 | Clock |
@@ -24,8 +24,8 @@
 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) | 136 | Skewb |
 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | 142 | Pyraminx |
 | [Samuel María Liñares](https://www.worldcubeassociation.org/persons/2022LINA04) | 163 | 3x3x3 Cube |
-| [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) | 164 | 7x7x7 Cube (sin marca) |
 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | 165 | 3x3x3 Cube |
+| [Marco Criado Gómez](https://www.worldcubeassociation.org/persons/2022GOME12) | 166 | 7x7x7 Cube (sin marca) |
 | [Daniel Ortega Pastor](https://www.worldcubeassociation.org/persons/2014PAST03) | 168 | 2x2x2 Cube |
 | [Artur Miralles Hernàndez](https://www.worldcubeassociation.org/persons/2015HERN17) | 174 | Skewb |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | 176 | Clock |
@@ -40,7 +40,7 @@
 | [Miguel Martínez Montañes](https://www.worldcubeassociation.org/persons/2023MONT04) | 209 | 3x3x3 Blindfolded |
 | [Adrián Martínez Macías](https://www.worldcubeassociation.org/persons/2013MACI01) | 210 | Megaminx |
 | [Santiago Borrego Verde](https://www.worldcubeassociation.org/persons/2016VERD05) | 215 | 3x3x3 One-Handed |
-| [Arnau López García](https://www.worldcubeassociation.org/persons/2024GARC49) | 217 | 6x6x6 Cube (sin marca) |
+| [Arnau López García](https://www.worldcubeassociation.org/persons/2024GARC49) | 219 | 6x6x6 Cube (sin marca) |
 | [Laura Tarrés Gimeno](https://www.worldcubeassociation.org/persons/2015GIME02) | 219 | 3x3x3 Cube |
 | [Laura Freitas Martín](https://www.worldcubeassociation.org/persons/2018MART18) | 221 | 3x3x3 One-Handed |
 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 223 | 3x3x3 Blindfolded |

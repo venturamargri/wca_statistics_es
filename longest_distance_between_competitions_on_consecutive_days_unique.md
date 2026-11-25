@@ -1,7 +1,7 @@
 ## Mayor distancia entre competiciones en días consecutivos (único)
 
 *Nota: Distancia directa entre dos competiciones con fechas adyacentes o solapadas. Máximo una entrada por persona.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Persona | Distancia | Desde | Hasta |
 | :--- | ---: | :--- | :--- |

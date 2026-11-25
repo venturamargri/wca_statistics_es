@@ -1,7 +1,7 @@
 ## Más competiciones organizadas en una misma ciudad antes de organizar fuera
 
 *Nota: Cuenta cuántas competiciones organizó un organizador español en su primera ciudad antes de organizar en otra distinta.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Persona | Ciudad | Competiciones | Terminó en |
 | :--- | :--- | ---: | :--- |

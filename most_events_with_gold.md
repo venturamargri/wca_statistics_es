@@ -1,12 +1,12 @@
 ## Más categorías distintas con oro
 
 *Nota: Competidores españoles que han ganado al menos una final en el mayor número de categorías oficiales actuales (sobre 17).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Categorías | Persona | Total oros | Categorías ganadas |
 | ---: | :--- | ---: | :--- |
 | 16 / 17 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 173 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 One-Handed, Megaminx, Pyraminx, Skewb, Square-1, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
-| 15 / 17 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 381 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 One-Handed, Clock, Megaminx, Pyraminx, Skewb, Square-1, 3x3x3 Multi-Blind |
+| 15 / 17 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 383 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 One-Handed, Clock, Megaminx, Pyraminx, Skewb, Square-1, 3x3x3 Multi-Blind |
 | 15 / 17 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | 188 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 One-Handed, Clock, Megaminx, Pyraminx, Skewb, Square-1, 3x3x3 Multi-Blind |
 | 15 / 17 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | 131 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 One-Handed, Clock, Megaminx, Pyraminx, Skewb, Square-1, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
 | 14 / 17 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | 116 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed, Clock, Megaminx, Pyraminx, Skewb, Square-1, 3x3x3 Multi-Blind |
@@ -22,15 +22,16 @@
 | 9 / 17 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) | 68 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed, Square-1, 4x4x4 Blindfolded, 3x3x3 Multi-Blind |
 | 8 / 17 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) | 107 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 One-Handed, Megaminx |
 | 8 / 17 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 99 | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed, Megaminx |
-| 8 / 17 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 76 | 4x4x4 Cube, 3x3x3 Blindfolded, Clock, Megaminx, Pyraminx, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
+| 8 / 17 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 78 | 4x4x4 Cube, 3x3x3 Blindfolded, Clock, Megaminx, Pyraminx, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
 | 8 / 17 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) | 57 | 6x6x6 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, Clock, Pyraminx, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
 | 8 / 17 | [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) | 55 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Fewest Moves, 3x3x3 One-Handed |
+| 8 / 17 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | 36 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, Megaminx, Skewb, Square-1 |
 | 8 / 17 | [Gonzalo Orellana Barrasa](https://www.worldcubeassociation.org/persons/2010OREL02) | 27 | 2x2x2 Cube, 3x3x3 Fewest Moves, 3x3x3 One-Handed, Clock, Pyraminx, Skewb, 4x4x4 Blindfolded, 3x3x3 Multi-Blind |
 | 7 / 17 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 190 | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, Clock, Megaminx |
 | 7 / 17 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | 73 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 3x3x3 One-Handed, Skewb |
 | 7 / 17 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 71 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 Fewest Moves |
 | 7 / 17 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) | 63 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 Blindfolded, 3x3x3 Fewest Moves, 3x3x3 Multi-Blind |
-| 7 / 17 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | 34 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, Skewb, Square-1 |
+| 7 / 17 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 27 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, Megaminx, Pyraminx, Skewb, Square-1 |
 | 7 / 17 | [Alejandro Riveiro Rodríguez](https://www.worldcubeassociation.org/persons/2008RODR01) | 25 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 3x3x3 Fewest Moves, Clock, Megaminx, Pyraminx |
 | 7 / 17 | [Jerónimo Ibarra Bernal](https://www.worldcubeassociation.org/persons/2010IBAR01) | 24 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 3x3x3 Fewest Moves, 3x3x3 One-Handed |
 | 7 / 17 | [Mikel Manterola Zarraga](https://www.worldcubeassociation.org/persons/2024ZARR01) | 22 | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, 3x3x3 One-Handed, Megaminx |
@@ -41,7 +42,6 @@
 | 6 / 17 | [Jordi Lleixà López](https://www.worldcubeassociation.org/persons/2023LOPE09) | 65 | 3x3x3 Blindfolded, 3x3x3 Fewest Moves, Skewb, 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
 | 6 / 17 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) | 41 | 2x2x2 Cube, 4x4x4 Cube, 3x3x3 Fewest Moves, 3x3x3 One-Handed, Skewb, Square-1 |
 | 6 / 17 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | 40 | 3x3x3 Cube, 2x2x2 Cube, Clock, Pyraminx, Skewb, Square-1 |
-| 6 / 17 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 25 | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, Megaminx, Pyraminx, Square-1 |
 | 6 / 17 | [Sergio Márquez Fernández-Jardón](https://www.worldcubeassociation.org/persons/2023FERN54) | 22 | 3x3x3 Cube, 2x2x2 Cube, Clock, Pyraminx, Skewb, Square-1 |
 | 6 / 17 | [Rodrigo Septién Rodríguez](https://www.worldcubeassociation.org/persons/2008SEPT01) | 21 | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 Fewest Moves, Pyraminx, Square-1 |
 | 5 / 17 | [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) | 25 | 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, Megaminx |

@@ -1,7 +1,7 @@
 ## Mejor ritmo en 3x3x3 Multi-Blind
 
 *Nota: Menor tiempo medio por cubo intentado en intentos oficiales válidos de 3x3x3 Multi-Blind con al menos 5 cubos intentados (los DNF no registran tiempo ni cubos en la base de datos). Se muestra el mejor registro de cada persona.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Seg / cubo | Persona | Resultado | Intentados | Competición |
 | ---: | :--- | ---: | ---: | :--- |

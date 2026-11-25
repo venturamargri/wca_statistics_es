@@ -1,7 +1,7 @@
 ## Racha más larga invicto en finales de una categoría
 
 *Nota: Mayor número de finales consecutivas ganadas por un competidor español en la misma categoría (mínimo 2 victorias seguidas). Se muestra la mejor racha de cada persona por categoría.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -14,10 +14,10 @@
 | 5 | [Biel Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ08) | 11&nbsp;oct&nbsp;2019 | 15&nbsp;feb&nbsp;2020 |
 | 5 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 4&nbsp;oct&nbsp;2014 | 2&nbsp;abr&nbsp;2016 |
 | 4 | [Marisa Revaliente Ruiz](https://www.worldcubeassociation.org/persons/2022RUIZ02) | 7&nbsp;jun&nbsp;2025 | 4&nbsp;oct&nbsp;2025 |
+| 3 | [David Sánchez Peris](https://www.worldcubeassociation.org/persons/2017PERI05) | 29&nbsp;ago&nbsp;2026 | 21&nbsp;nov&nbsp;2026 (en curso) |
 | 3 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 19&nbsp;oct&nbsp;2024 | 3&nbsp;may&nbsp;2025 |
 | 3 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) | 26&nbsp;sep&nbsp;2026 | 24&nbsp;oct&nbsp;2026 |
 | 3 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 12&nbsp;nov&nbsp;2016 | 8&nbsp;abr&nbsp;2017 |
-| 3 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | 18&nbsp;ene&nbsp;2014 | 9&nbsp;ago&nbsp;2014 |
 
 ### 2x2x2 Cube
 
@@ -25,9 +25,9 @@
 | ---: | :--- | :--- | :--- |
 | 18 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 7&nbsp;jul&nbsp;2012 | 5&nbsp;mar&nbsp;2016 |
 | 8 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) | 21&nbsp;abr&nbsp;2018 | 13&nbsp;abr&nbsp;2019 |
+| 6 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 12&nbsp;sep&nbsp;2026 | 21&nbsp;nov&nbsp;2026 (en curso) |
 | 6 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | 29&nbsp;mar&nbsp;2025 | 9&nbsp;ago&nbsp;2025 |
 | 6 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 5&nbsp;abr&nbsp;2025 | 24&nbsp;may&nbsp;2025 |
-| 5 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 12&nbsp;sep&nbsp;2026 | 14&nbsp;nov&nbsp;2026 (en curso) |
 | 5 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 12&nbsp;jul&nbsp;2014 | 3&nbsp;oct&nbsp;2015 |
 | 4 | [Guillermo Cascales Ñíguez](https://www.worldcubeassociation.org/persons/2014NIGU02) | 10&nbsp;nov&nbsp;2018 | 13&nbsp;jul&nbsp;2019 |
 | 4 | [Ibai Tobar Argaiz](https://www.worldcubeassociation.org/persons/2018ARGA01) | 27&nbsp;abr&nbsp;2024 | 26&nbsp;oct&nbsp;2024 |
@@ -46,8 +46,8 @@
 | 4 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) | 5&nbsp;sep&nbsp;2026 | 26&nbsp;sep&nbsp;2026 |
 | 4 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | 26&nbsp;ene&nbsp;2013 | 24&nbsp;ago&nbsp;2013 |
 | 4 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 29&nbsp;jul&nbsp;2023 | 14&nbsp;oct&nbsp;2023 |
+| 3 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | 29&nbsp;ago&nbsp;2026 | 21&nbsp;nov&nbsp;2026 (en curso) |
 | 3 | [Santiago Osorio Cristóbal](https://www.worldcubeassociation.org/persons/2015CRIS01) | 19&nbsp;jul&nbsp;2025 | 9&nbsp;may&nbsp;2026 (en curso) |
-| 3 | [Álvaro González Vizuete](https://www.worldcubeassociation.org/persons/2018VIZU01) | 13&nbsp;sep&nbsp;2025 | 24&nbsp;oct&nbsp;2026 (en curso) |
 
 ### 5x5x5 Cube
 
@@ -100,8 +100,8 @@
 | ---: | :--- | :--- | :--- |
 | 16 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 19&nbsp;mar&nbsp;2022 | 18&nbsp;feb&nbsp;2023 |
 | 11 | [Iker Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2016RUIZ05) | 20&nbsp;sep&nbsp;2025 | 7&nbsp;mar&nbsp;2026 |
+| 8 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 28&nbsp;mar&nbsp;2026 | 21&nbsp;nov&nbsp;2026 (en curso) |
 | 8 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 13&nbsp;jul&nbsp;2019 | 5&nbsp;mar&nbsp;2022 |
-| 7 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) | 28&nbsp;mar&nbsp;2026 | 17&nbsp;oct&nbsp;2026 (en curso) |
 | 7 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | 1&nbsp;nov&nbsp;2014 | 13&nbsp;feb&nbsp;2016 |
 | 7 | [Jorge Rodón Leiva](https://www.worldcubeassociation.org/persons/2018LEIV03) | 22&nbsp;mar&nbsp;2025 | 18&nbsp;oct&nbsp;2025 |
 | 6 | [Carlos Angosto Hernández](https://www.worldcubeassociation.org/persons/2005ANGO01) | 3&nbsp;dic&nbsp;2005 | 2&nbsp;may&nbsp;2008 |

@@ -1,7 +1,7 @@
 ## Peor resultado que logró victoria por año en competiciones en España
 
 *Nota: Solo finales en competiciones celebradas en España, independientemente de la nacionalidad del ganador. Se ignoran resultados donde la métrica principal sea DNF.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 2026
@@ -29,12 +29,12 @@
 | [Marc García Díaz](https://www.worldcubeassociation.org/persons/2017DIAZ19) | 2.75 | **3.31** | [Canet d'en Berenguer Open 2026](https://www.worldcubeassociation.org/competitions/CanetdenBerenguerOpen2026/results/podiums#e222) |
 | [Samuel María Liñares](https://www.worldcubeassociation.org/persons/2022LINA04) | 2.45 | **3.10** | [Pucela Open 2026](https://www.worldcubeassociation.org/competitions/PucelaOpen2026/results/podiums#e222) |
 | [Pedro Azevedo](https://www.worldcubeassociation.org/persons/2018AZEV03) | 2.58 | **3.04** | [Compostela Cubing 2026](https://www.worldcubeassociation.org/competitions/CompostelaCubing2026/results/podiums#e222) |
+| [Asier Martín Poves](https://www.worldcubeassociation.org/persons/2023POVE01) | 2.34 | **2.92** | [L'Eliana Open 2026](https://www.worldcubeassociation.org/competitions/LElianaOpen2026/results/podiums#e222) |
 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 1.95 | **2.92** | [Ruta Cubera: Vila-real Open 2026](https://www.worldcubeassociation.org/competitions/RutaCuberaVilarealOpen2026/results/podiums#e222) |
 | [Evan Millsap](https://www.worldcubeassociation.org/persons/2022MILL05) | 2.62 | **2.91** | [Gran Turia Open 2026](https://www.worldcubeassociation.org/competitions/GranTuriaOpen2026/results/podiums#e222) |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 1.88 | **2.85** | [Vilajuga Vilafranca 2026](https://www.worldcubeassociation.org/competitions/VilajugaVilafranca2026/results/podiums#e222) |
 | [Pablo Amoraga Velasco](https://www.worldcubeassociation.org/persons/2023VELA19) | 2.15 | **2.83** | [Mallorca Open 2026](https://www.worldcubeassociation.org/competitions/MallorcaOpen2026/results/podiums#e222) |
 | [Daniel Cabezudo Fernández](https://www.worldcubeassociation.org/persons/2023FERN62) | 1.81 | **2.76** | [Camino de Santiago Open 2026](https://www.worldcubeassociation.org/competitions/CaminodeSantiagoOpen2026/results/podiums#e222) |
-| [Icaro Ricciardi](https://www.worldcubeassociation.org/persons/2024RICC02) | 2.10 | **2.73** | [Tenerife Open 2026](https://www.worldcubeassociation.org/competitions/TenerifeOpen2026/results/podiums#e222) |
 
 #### 4x4x4 Cube
 
@@ -63,8 +63,8 @@
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 1:03.08 | **1:08.31** | [Tomelloso Open 2026](https://www.worldcubeassociation.org/competitions/TomellosoOpen2026/results/podiums#e555) |
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 1:02.14 | **1:07.88** | [Chiclana Open 2026](https://www.worldcubeassociation.org/competitions/ChiclanaOpen2026/results/podiums#e555) |
 | [Darío Ramírez Pino](https://www.worldcubeassociation.org/persons/2024PINO01) | 1:01.80 | **1:07.64** | [Puerto Real Camaleón Open 2026](https://www.worldcubeassociation.org/competitions/PuertoRealCamaleonOpen2026/results/podiums#e555) |
+| [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | 1:01.93 | **1:05.20** | [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026/results/podiums#e555) |
 | [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) | 1:00.37 | **1:04.80** | [Cintruenigo Open 2026](https://www.worldcubeassociation.org/competitions/CintruenigoOpen2026/results/podiums#e555) |
-| [Taj Bressert](https://www.worldcubeassociation.org/persons/2023BRES01) | 1:03.29 | **1:04.48** | [Mairena Open 2026](https://www.worldcubeassociation.org/competitions/MairenaOpen2026/results/podiums#e555) |
 
 #### 6x6x6 Cube
 
@@ -72,6 +72,7 @@
 | :--- | ---: | ---: | :--- |
 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 2:20.40 | **2:23.14** | [Puerto Real Camaleón Open 2026](https://www.worldcubeassociation.org/competitions/PuertoRealCamaleonOpen2026/results/podiums#e666) |
 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 2:05.99 | **2:16.77** | [Arriate Open 2026](https://www.worldcubeassociation.org/competitions/ArriateOpen2026/results/podiums#e666) |
+| [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | 2:13.21 | **2:15.30** | [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026/results/podiums#e666) |
 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 2:02.69 | **2:05.66** | [Ciu La Mancha Open 2026](https://www.worldcubeassociation.org/competitions/CiuLaManchaOpen2026/results/podiums#e666) |
 | [Óscar Pérez Mengual](https://www.worldcubeassociation.org/persons/2022MENG02) | 1:49.46 | **1:53.10** | [Alella Open 2026](https://www.worldcubeassociation.org/competitions/AlellaOpen2026/results/podiums#e666) |
 | [Óscar Pérez Mengual](https://www.worldcubeassociation.org/persons/2022MENG02) | 1:43.11 | **1:52.33** | [Vilajuga Vilafranca 2026](https://www.worldcubeassociation.org/competitions/VilajugaVilafranca2026/results/podiums#e666) |
@@ -79,13 +80,13 @@
 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 1:36.64 | **1:47.47** | [Arganda Open 2026](https://www.worldcubeassociation.org/competitions/ArgandaOpen2026/results/podiums#e666) |
 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 1:39.57 | **1:47.26** | [Mejorada Open 2026](https://www.worldcubeassociation.org/competitions/MejoradaOpen2026/results/podiums#e666) |
 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | 1:39.57 | **1:42.61** | [Ukubom Moratalla Open 2026](https://www.worldcubeassociation.org/competitions/UkubomMoratallaOpen2026/results/podiums#e666) |
-| [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 1:38.51 | **1:41.87** | [X-Madrid Open 2026](https://www.worldcubeassociation.org/competitions/XMadridOpen2026/results/podiums#e666) |
 
 #### 7x7x7 Cube
 
 | Persona | Single | Average | Competición |
 | :--- | ---: | ---: | :--- |
 | [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 3:41.30 | **3:50.47** | [Arriate Open 2026](https://www.worldcubeassociation.org/competitions/ArriateOpen2026/results/podiums#e777) |
+| [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 3:34.53 | **3:41.72** | [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026/results/podiums#e777) |
 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 3:20.76 | **3:27.78** | [Ciu La Mancha Open 2026](https://www.worldcubeassociation.org/competitions/CiuLaManchaOpen2026/results/podiums#e777) |
 | [Óscar Pérez Mengual](https://www.worldcubeassociation.org/persons/2022MENG02) | 2:49.58 | **2:57.33** | [Alella Open 2026](https://www.worldcubeassociation.org/competitions/AlellaOpen2026/results/podiums#e777) |
 | [Óscar Pérez Mengual](https://www.worldcubeassociation.org/persons/2022MENG02) | 2:44.62 | **2:51.48** | [Vilajuga Vilafranca 2026](https://www.worldcubeassociation.org/competitions/VilajugaVilafranca2026/results/podiums#e777) |
@@ -94,7 +95,6 @@
 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | 2:24.87 | **2:27.85** | [Begastri Open 2026](https://www.worldcubeassociation.org/competitions/BegastriOpen2026/results/podiums#e777) |
 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | 2:23.39 | **2:27.81** | [Ukubom Moratalla Open 2026](https://www.worldcubeassociation.org/competitions/UkubomMoratallaOpen2026/results/podiums#e777) |
 | [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | 2:17.41 | **2:23.58** | [Ocaña BotijOpen 2026](https://www.worldcubeassociation.org/competitions/OcanaBotijOpen2026/results/podiums#e777) |
-| [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 2:12.15 | **2:19.37** | [Parets Open 2026](https://www.worldcubeassociation.org/competitions/ParetsOpen2026/results/podiums#e777) |
 
 #### 3x3x3 Blindfolded
 
@@ -148,6 +148,7 @@
 
 | Persona | Single | Average | Competición |
 | :--- | ---: | ---: | :--- |
+| [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | 1:00.25 | **1:08.21** | [L'Eliana Open 2026](https://www.worldcubeassociation.org/competitions/LElianaOpen2026/results/podiums#eminx) |
 | [Jayden Paredes Vergara](https://www.worldcubeassociation.org/persons/2017PARE13) | 57.47 | **1:01.07** | [Camino de Santiago Open 2026](https://www.worldcubeassociation.org/competitions/CaminodeSantiagoOpen2026/results/podiums#eminx) |
 | [Nikita Belyi](https://www.worldcubeassociation.org/persons/2016BELY02) | 45.87 | **58.79** | [Alella Open 2026](https://www.worldcubeassociation.org/competitions/AlellaOpen2026/results/podiums#eminx) |
 | [Germán García Molina](https://www.worldcubeassociation.org/persons/2023MOLI01) | 51.84 | **56.79** | [Legio Open 2026](https://www.worldcubeassociation.org/competitions/LegioOpen2026/results/podiums#eminx) |
@@ -157,7 +158,6 @@
 | [Germán García Molina](https://www.worldcubeassociation.org/persons/2023MOLI01) | 51.33 | **55.19** | [Tomelloso Open 2026](https://www.worldcubeassociation.org/competitions/TomellosoOpen2026/results/podiums#eminx) |
 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) | 47.21 | **51.55** | [Ruta Cubera: Vila-real Open 2026](https://www.worldcubeassociation.org/competitions/RutaCuberaVilarealOpen2026/results/podiums#eminx) |
 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | 43.30 | **48.43** | [Momias Quinto Open 2026](https://www.worldcubeassociation.org/competitions/MomiasQuintoOpen2026/results/podiums#eminx) |
-| [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | 45.70 | **47.74** | [Santpedor Open 2026](https://www.worldcubeassociation.org/competitions/SantpedorOpen2026/results/podiums#eminx) |
 
 #### Pyraminx
 
@@ -198,11 +198,11 @@
 | [Adrián Camps](https://www.worldcubeassociation.org/persons/2024CAMP25) | 3.96 | **4.65** | [Gran Turia Open 2026](https://www.worldcubeassociation.org/competitions/GranTuriaOpen2026/results/podiums#eskewb) |
 | [Marc Serra Torres](https://www.worldcubeassociation.org/persons/2019TORR29) | 3.77 | **4.58** | [Mallorca Open 2026](https://www.worldcubeassociation.org/competitions/MallorcaOpen2026/results/podiums#eskewb) |
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 3.56 | **4.58** | [Ukubom Moratalla Open 2026](https://www.worldcubeassociation.org/competitions/UkubomMoratallaOpen2026/results/podiums#eskewb) |
+| [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | 3.69 | **4.51** | [L'Eliana Open 2026](https://www.worldcubeassociation.org/competitions/LElianaOpen2026/results/podiums#eskewb) |
 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | 1.91 | **4.51** | [IndalOpen O'Clock 2026](https://www.worldcubeassociation.org/competitions/IndalOpenOClock2026/results/podiums#eskewb) |
 | [Arnau López García](https://www.worldcubeassociation.org/persons/2024GARC49) | 3.58 | **4.49** | [UPV Open 2026](https://www.worldcubeassociation.org/competitions/UPVOpen2026/results/podiums#eskewb) |
 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) | 3.99 | **4.47** | [Cayro Toledo Open 2026](https://www.worldcubeassociation.org/competitions/CayroToledoOpen2026/results/podiums#eskewb) |
 | [Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03) | 4.10 | **4.32** | [Momias Quinto Open 2026](https://www.worldcubeassociation.org/competitions/MomiasQuintoOpen2026/results/podiums#eskewb) |
-| [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | 3.52 | **4.32** | [Sarriguren Open 2026](https://www.worldcubeassociation.org/competitions/SarrigurenOpen2026/results/podiums#eskewb) |
 
 #### Square-1
 

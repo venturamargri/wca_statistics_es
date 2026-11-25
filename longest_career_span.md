@@ -1,7 +1,7 @@
 ## Carreras más longevas
 
 *Nota: Mayor tiempo transcurrido entre la primera y la última competición oficial disputada por competidores españoles.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Años | Días | Persona | Primera comp. | Última comp. | Competiciones |
 | ---: | ---: | :--- | :--- | :--- | ---: |
@@ -21,7 +21,7 @@
 | 17.56 | 6413 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) | 24&nbsp;abr&nbsp;2009 | 14&nbsp;nov&nbsp;2026 | 123 |
 | 16.79 | 6133 | [Javier París](https://www.worldcubeassociation.org/persons/2005PARI01) | 3&nbsp;dic&nbsp;2005 | 18&nbsp;sep&nbsp;2022 | 40 |
 | 16.77 | 6127 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | 10&nbsp;jul&nbsp;2009 | 19&nbsp;abr&nbsp;2026 | 90 |
-| 16.71 | 6105 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 27&nbsp;feb&nbsp;2010 | 15&nbsp;nov&nbsp;2026 | 139 |
+| 16.73 | 6112 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 27&nbsp;feb&nbsp;2010 | 22&nbsp;nov&nbsp;2026 | 140 |
 | 16.58 | 6056 | [Francisco Pérez Padilla](https://www.worldcubeassociation.org/persons/2008PERE02) | 5&nbsp;abr&nbsp;2008 | 3&nbsp;nov&nbsp;2024 | 27 |
 | 16.43 | 6000 | [Miriam España López](https://www.worldcubeassociation.org/persons/2010ESPA02) | 27&nbsp;feb&nbsp;2010 | 2&nbsp;ago&nbsp;2026 | 18 |
 | 16.35 | 5972 | [Sergi Sabat](https://www.worldcubeassociation.org/persons/2010SABA01) | 9&nbsp;jul&nbsp;2010 | 14&nbsp;nov&nbsp;2026 | 79 |
@@ -58,8 +58,8 @@
 | 12.69 | 4635 | [Rafael Saez Ribas](https://www.worldcubeassociation.org/persons/2014RIBA01) | 1&nbsp;mar&nbsp;2014 | 8&nbsp;nov&nbsp;2026 | 30 |
 | 12.58 | 4594 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 4&nbsp;abr&nbsp;2014 | 1&nbsp;nov&nbsp;2026 | 51 |
 | 12.57 | 4593 | [Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02) | 5&nbsp;may&nbsp;2012 | 1&nbsp;dic&nbsp;2024 | 78 |
+| 12.56 | 4587 | [Ricardo Bayona Salvador](https://www.worldcubeassociation.org/persons/2014SALV02) | 2&nbsp;may&nbsp;2014 | 22&nbsp;nov&nbsp;2026 | 33 |
 | 12.52 | 4572 | [Adrián Martínez Macías](https://www.worldcubeassociation.org/persons/2013MACI01) | 21&nbsp;sep&nbsp;2013 | 29&nbsp;mar&nbsp;2026 | 60 |
-| 12.52 | 4572 | [Ricardo Bayona Salvador](https://www.worldcubeassociation.org/persons/2014SALV02) | 2&nbsp;may&nbsp;2014 | 7&nbsp;nov&nbsp;2026 | 32 |
 | 12.47 | 4553 | [Blai Solernou Lòpez](https://www.worldcubeassociation.org/persons/2012LAPE01) | 26&nbsp;ene&nbsp;2012 | 14&nbsp;jul&nbsp;2024 | 12 |
 | 12.35 | 4510 | [Patricia Acosta Contreras](https://www.worldcubeassociation.org/persons/2011CONT05) | 16&nbsp;dic&nbsp;2011 | 21&nbsp;abr&nbsp;2024 | 16 |
 | 12.34 | 4508 | [Pi Sevilla Hernández](https://www.worldcubeassociation.org/persons/2013HENA01) | 28&nbsp;sep&nbsp;2013 | 31&nbsp;ene&nbsp;2026 | 74 |
@@ -74,14 +74,14 @@
 | 11.87 | 4334 | [Alfonso Perez Arnal](https://www.worldcubeassociation.org/persons/2005PERE01) | 3&nbsp;dic&nbsp;2005 | 15&nbsp;oct&nbsp;2017 | 5 |
 | 11.81 | 4313 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) | 30&nbsp;abr&nbsp;2011 | 19&nbsp;feb&nbsp;2023 | 36 |
 | 11.81 | 4313 | [Ciro Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC01) | 30&nbsp;abr&nbsp;2011 | 19&nbsp;feb&nbsp;2023 | 28 |
+| 11.75 | 4292 | [Raúl Banacloche Biot](https://www.worldcubeassociation.org/persons/2015BANA01) | 21&nbsp;feb&nbsp;2015 | 22&nbsp;nov&nbsp;2026 | 56 |
 | 11.73 | 4286 | [Germán Bernácer Sanchis](https://www.worldcubeassociation.org/persons/2011SANC11) | 16&nbsp;dic&nbsp;2011 | 10&nbsp;sep&nbsp;2023 | 11 |
 | 11.73 | 4285 | [Manuel Jesús Carrasco Ruiz](https://www.worldcubeassociation.org/persons/2014RUIZ14) | 26&nbsp;sep&nbsp;2014 | 20&nbsp;jun&nbsp;2026 | 31 |
 | 11.71 | 4277 | [Biel Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ08) | 28&nbsp;feb&nbsp;2015 | 14&nbsp;nov&nbsp;2026 | 65 |
-| 11.71 | 4277 | [Raúl Banacloche Biot](https://www.worldcubeassociation.org/persons/2015BANA01) | 21&nbsp;feb&nbsp;2015 | 7&nbsp;nov&nbsp;2026 | 55 |
 | 11.70 | 4272 | [Jose Angel Montesa Solaz](https://www.worldcubeassociation.org/persons/2011SOLA01) | 16&nbsp;dic&nbsp;2011 | 27&nbsp;ago&nbsp;2023 | 40 |
 | 11.64 | 4250 | [Adrián Bernete Berlanga](https://www.worldcubeassociation.org/persons/2015BERL01) | 28&nbsp;feb&nbsp;2015 | 18&nbsp;oct&nbsp;2026 | 26 |
+| 11.60 | 4236 | [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | 18&nbsp;abr&nbsp;2015 | 22&nbsp;nov&nbsp;2026 | 77 |
 | 11.58 | 4229 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | 11&nbsp;abr&nbsp;2015 | 8&nbsp;nov&nbsp;2026 | 125 |
-| 11.56 | 4221 | [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | 18&nbsp;abr&nbsp;2015 | 7&nbsp;nov&nbsp;2026 | 76 |
 | 11.49 | 4195 | [Cristian Fernández Díaz](https://www.worldcubeassociation.org/persons/2013DIAZ07) | 11&nbsp;oct&nbsp;2013 | 6&nbsp;abr&nbsp;2025 | 11 |
 | 11.43 | 4173 | [Sergio Carbonell Soler](https://www.worldcubeassociation.org/persons/2011SOLE01) | 5&nbsp;mar&nbsp;2011 | 7&nbsp;ago&nbsp;2022 | 10 |
 | 11.37 | 4152 | [David Ruscalleda Gómez](https://www.worldcubeassociation.org/persons/2013GOME02) | 20&nbsp;jul&nbsp;2013 | 1&nbsp;dic&nbsp;2024 | 34 |
@@ -91,15 +91,15 @@
 | 11.20 | 4090 | [Jon Ander Iturburu](https://www.worldcubeassociation.org/persons/2008ITUR01) | 19&nbsp;sep&nbsp;2008 | 1&nbsp;dic&nbsp;2019 | 14 |
 | 11.17 | 4081 | [Víctor Coris](https://www.worldcubeassociation.org/persons/2015CORI02) | 12&nbsp;sep&nbsp;2015 | 14&nbsp;nov&nbsp;2026 | 11 |
 | 11.16 | 4075 | [Ángela Augustín Sáez de Tejada](https://www.worldcubeassociation.org/persons/2014TEJA07) | 15&nbsp;nov&nbsp;2014 | 11&nbsp;ene&nbsp;2026 | 13 |
+| 11.12 | 4062 | [Pablo Jiménez Jaén](https://www.worldcubeassociation.org/persons/2015JAEN01) | 9&nbsp;oct&nbsp;2015 | 22&nbsp;nov&nbsp;2026 | 8 |
 | 11.08 | 4047 | [Santiago Osorio Cristóbal](https://www.worldcubeassociation.org/persons/2015CRIS01) | 11&nbsp;abr&nbsp;2015 | 10&nbsp;may&nbsp;2026 | 15 |
 | 11.02 | 4025 | [Núria Pérez Casas](https://www.worldcubeassociation.org/persons/2015CASA01) | 28&nbsp;feb&nbsp;2015 | 7&nbsp;mar&nbsp;2026 | 25 |
 | 11.00 | 4019 | [Jose Maria Moreno Pueyo](https://www.worldcubeassociation.org/persons/2005MARI01) | 3&nbsp;dic&nbsp;2005 | 4&nbsp;dic&nbsp;2016 | 12 |
 | 11.00 | 4019 | [Lorenzo Moreno Pueyo](https://www.worldcubeassociation.org/persons/2005MORE01) | 3&nbsp;dic&nbsp;2005 | 4&nbsp;dic&nbsp;2016 | 11 |
+| 11.00 | 4018 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 22&nbsp;nov&nbsp;2015 | 22&nbsp;nov&nbsp;2026 | 139 |
 | 10.98 | 4012 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 14&nbsp;nov&nbsp;2015 | 8&nbsp;nov&nbsp;2026 | 179 |
-| 10.98 | 4011 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | 22&nbsp;nov&nbsp;2015 | 15&nbsp;nov&nbsp;2026 | 138 |
 | 10.98 | 4011 | [Víctor Manuel Cortés Enrique](https://www.worldcubeassociation.org/persons/2015ENRI01) | 14&nbsp;nov&nbsp;2015 | 7&nbsp;nov&nbsp;2026 | 12 |
 | 10.96 | 4004 | [Sergi Forrellat](https://www.worldcubeassociation.org/persons/2015FORR03) | 28&nbsp;nov&nbsp;2015 | 14&nbsp;nov&nbsp;2026 | 2 |
-| 10.95 | 3999 | [Pablo Jiménez Jaén](https://www.worldcubeassociation.org/persons/2015JAEN01) | 9&nbsp;oct&nbsp;2015 | 20&nbsp;sep&nbsp;2026 | 7 |
 | 10.93 | 3991 | [Roberto Carmona Goikoetxea](https://www.worldcubeassociation.org/persons/2015GOIK01) | 3&nbsp;oct&nbsp;2015 | 6&nbsp;sep&nbsp;2026 | 35 |
 | 10.87 | 3970 | [Agustín Díaz Morón](https://www.worldcubeassociation.org/persons/2007DIAZ01) | 5&nbsp;may&nbsp;2007 | 18&nbsp;mar&nbsp;2018 | 40 |
 | 10.77 | 3935 | [Àlex Domingo Risco](https://www.worldcubeassociation.org/persons/2015RISC01) | 12&nbsp;sep&nbsp;2015 | 21&nbsp;jun&nbsp;2026 | 67 |

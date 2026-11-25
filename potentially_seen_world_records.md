@@ -1,7 +1,7 @@
 ## Récords mundiales potencialmente presenciados
 
 *Nota: Número de récords mundiales batidos en competiciones a las que asistió el competidor.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | WRs | Persona |
 | ---: | :--- |

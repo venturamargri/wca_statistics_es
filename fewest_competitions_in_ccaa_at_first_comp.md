@@ -1,7 +1,7 @@
 ## Menor % de competiciones disputadas en la comunidad autónoma de la primera competición
 
 *Nota: Comunidad o ciudad autónoma calculada a partir de las coordenadas de la competición (17 comunidades autónomas y 2 ciudades autónomas). Porcentaje de competiciones disputadas en la comunidad autónoma del debut respecto al total de competiciones (incluyendo extranjero). Mínimo 10 competiciones.The ratio is computed against all competitions attended, including those abroad. Requires at least 10 total competitions.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Persona | Primera competición | Comunidad autónoma | En la comunidad autónoma | Total | Porcentaje |
 | :--- | :--- | :--- | ---: | ---: | ---: |
@@ -10,7 +10,7 @@
 | [Alberto Masó Molina](https://www.worldcubeassociation.org/persons/2011MOLI01) | [Murcia Open 2011](https://www.worldcubeassociation.org/competitions/MurciaOpen2011) | Región de Murcia | 1 | 51 | 2.0% |
 | [Erik Román Pérez](https://www.worldcubeassociation.org/persons/2010PERE05) | [Zaragoza Open 2010](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2010) | Aragón | 1 | 46 | 2.2% |
 | [Guillermo Conde Gil](https://www.worldcubeassociation.org/persons/2008COND01) | [Spanish Championship 2008](https://www.worldcubeassociation.org/competitions/Spain2008) | Galicia | 1 | 42 | 2.4% |
-| [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | [Cerbuna Open 2015](https://www.worldcubeassociation.org/competitions/CerbunaOpen2015) | Aragón | 2 | 76 | 2.6% |
+| [Alberto Romero Fernández](https://www.worldcubeassociation.org/persons/2015ROME03) | [Cerbuna Open 2015](https://www.worldcubeassociation.org/competitions/CerbunaOpen2015) | Aragón | 2 | 77 | 2.6% |
 | [David Ruscalleda Gómez](https://www.worldcubeassociation.org/persons/2013GOME02) | [Gernika Open 2013](https://www.worldcubeassociation.org/competitions/GernikaOpen2013) | País Vasco | 1 | 34 | 2.9% |
 | [Astrid Gómez Martin](https://www.worldcubeassociation.org/persons/2022MART26) | [Lleida Open 2022](https://www.worldcubeassociation.org/competitions/LleidaOpen2022) | Cataluña | 2 | 66 | 3.0% |
 | [Lía Medina Ortells](https://www.worldcubeassociation.org/persons/2022MEDI03) | [Iruña Open 2022](https://www.worldcubeassociation.org/competitions/IrunaOpen2022) | Comunidad Foral de Navarra | 1 | 32 | 3.1% |
@@ -25,9 +25,9 @@
 | [Rodrigo Septién Rodríguez](https://www.worldcubeassociation.org/persons/2008SEPT01) | [Spanish Championship 2008](https://www.worldcubeassociation.org/competitions/Spain2008) | Galicia | 1 | 21 | 4.8% |
 | [Itxo Mena Marcos](https://www.worldcubeassociation.org/persons/2017MARC19) | [Tembleque Open 2017](https://www.worldcubeassociation.org/competitions/TemblequeOpen2017) | Castilla-La Mancha | 1 | 20 | 5.0% |
 | [Javier Bilbao](https://www.worldcubeassociation.org/persons/2024BILB02) | [Ruta Valenciana II: Tio Pep 2024](https://www.worldcubeassociation.org/competitions/RutaValencianaIITioPep2024) | Comunitat Valenciana | 1 | 19 | 5.3% |
-| [Raúl Banacloche Biot](https://www.worldcubeassociation.org/persons/2015BANA01) | [MAD Cube Weekend 2015](https://www.worldcubeassociation.org/competitions/MADCubeWeekend2015) | Comunidad de Madrid | 3 | 55 | 5.5% |
+| [Raúl Banacloche Biot](https://www.worldcubeassociation.org/persons/2015BANA01) | [MAD Cube Weekend 2015](https://www.worldcubeassociation.org/competitions/MADCubeWeekend2015) | Comunidad de Madrid | 3 | 56 | 5.4% |
 | [Alejandro García Revuelta](https://www.worldcubeassociation.org/persons/2022REVU01) | [Campeonato de España 2022](https://www.worldcubeassociation.org/competitions/SpanishChampionship2022) | Comunidad de Madrid | 1 | 18 | 5.6% |
-| [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | [Spanish Championship 2019](https://www.worldcubeassociation.org/competitions/SpanishChampionship2019) | Castilla-La Mancha | 3 | 53 | 5.7% |
+| [Elies Qin Lloret Garcia](https://www.worldcubeassociation.org/persons/2019GARC35) | [Spanish Championship 2019](https://www.worldcubeassociation.org/competitions/SpanishChampionship2019) | Castilla-La Mancha | 3 | 54 | 5.6% |
 | [Javier Bay](https://www.worldcubeassociation.org/persons/2023BAYJ01) | [NxN Tormes Open 2023](https://www.worldcubeassociation.org/competitions/NxNTormesOpen2023) | Castilla y León | 1 | 17 | 5.9% |
 | [Jacobo Vélez Gómez](https://www.worldcubeassociation.org/persons/2024GOME34) | [Lazarillo Open 2024](https://www.worldcubeassociation.org/competitions/LazarilloOpen2024) | Castilla y León | 2 | 34 | 5.9% |
 | [David Rosado De La Dehesa](https://www.worldcubeassociation.org/persons/2024DEHE01) | [Lazarillo Open 2024](https://www.worldcubeassociation.org/competitions/LazarilloOpen2024) | Castilla y León | 2 | 33 | 6.1% |
@@ -58,19 +58,19 @@
 | [Pedro Miguel Pastor Gonzalvo](https://www.worldcubeassociation.org/persons/2008GONZ01) | [European Championship 2008](https://www.worldcubeassociation.org/competitions/Euro2008) | País Vasco | 1 | 13 | 7.7% |
 | [Fernando Granado Torres](https://www.worldcubeassociation.org/persons/2022TORR12) | [Chanquete Open 2022](https://www.worldcubeassociation.org/competitions/ChanqueteOpen2022) | Andalucía | 3 | 38 | 7.9% |
 | [Marcos Ameijeiras Moreno](https://www.worldcubeassociation.org/persons/2008MORE01) | [Madrid Open 2008](https://www.worldcubeassociation.org/competitions/MadridOpen2008) | Comunidad de Madrid | 10 | 126 | 7.9% |
+| [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) | [Campeonato de España 2022](https://www.worldcubeassociation.org/competitions/SpanishChampionship2022) | Comunidad de Madrid | 3 | 37 | 8.1% |
 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) | [Castellon Open 2011](https://www.worldcubeassociation.org/competitions/CastellonOpen2011) | Comunitat Valenciana | 6 | 74 | 8.1% |
 | [Fernando Lago Díaz](https://www.worldcubeassociation.org/persons/2024DIAZ02) | [URJC Open 2024](https://www.worldcubeassociation.org/competitions/URJCOpen2024) | Comunidad de Madrid | 1 | 12 | 8.3% |
 | [Jairo Nieva Dominguez](https://www.worldcubeassociation.org/persons/2017DOMI07) | [Iruña Open 2017](https://www.worldcubeassociation.org/competitions/IrunaOpen2017) | Comunidad Foral de Navarra | 1 | 12 | 8.3% |
-| [Daniel Peñalver Mares](https://www.worldcubeassociation.org/persons/2022MARE04) | [Campeonato de España 2022](https://www.worldcubeassociation.org/competitions/SpanishChampionship2022) | Comunidad de Madrid | 3 | 36 | 8.3% |
+| [Javier Casaus Rodríguez](https://www.worldcubeassociation.org/persons/2023RODR68) | [Begastri Open 2023](https://www.worldcubeassociation.org/competitions/BegastriOpen2023) | Región de Murcia | 1 | 12 | 8.3% |
 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) | [Spanish Championship 2014](https://www.worldcubeassociation.org/competitions/SpanishChampionship2014) | Comunidad de Madrid | 8 | 96 | 8.3% |
 | [Javier Cabezuelo Sánchez](https://www.worldcubeassociation.org/persons/2007SANC01) | [Spanish Championship 2007](https://www.worldcubeassociation.org/competitions/Spain2007) | Cataluña | 7 | 81 | 8.6% |
 | [Pedro Luis Muñoz Yañez](https://www.worldcubeassociation.org/persons/2004LUIS03) | [Spanish Championship 2004](https://www.worldcubeassociation.org/competitions/Spain2004) | Comunidad de Madrid | 8 | 91 | 8.8% |
 | [César Rojas Contreras](https://www.worldcubeassociation.org/persons/2007CONT01) | [Spanish Championship 2007](https://www.worldcubeassociation.org/competitions/Spain2007) | Cataluña | 1 | 11 | 9.1% |
-| [Javier Casaus Rodríguez](https://www.worldcubeassociation.org/persons/2023RODR68) | [Begastri Open 2023](https://www.worldcubeassociation.org/competitions/BegastriOpen2023) | Región de Murcia | 1 | 11 | 9.1% |
 | [Santiago Arias Ferreiro](https://www.worldcubeassociation.org/persons/2024FERR09) | [Costa de la Luz Open 2024](https://www.worldcubeassociation.org/competitions/CostadelaLuzOpen2024) | Andalucía | 1 | 11 | 9.1% |
 | [Valentino Espinoza](https://www.worldcubeassociation.org/persons/2023ESPI38) | [Cabanillas del Campo Open 2023](https://www.worldcubeassociation.org/competitions/CabanillasdelCampoOpen2023) | Castilla-La Mancha | 1 | 11 | 9.1% |
 | [Jaume Casado Ruiz](https://www.worldcubeassociation.org/persons/2008CASA01) | [Madrid Open 2008](https://www.worldcubeassociation.org/competitions/MadridOpen2008) | Comunidad de Madrid | 3 | 33 | 9.1% |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Murcia Open 2010](https://www.worldcubeassociation.org/competitions/MurciaOpen2010) | Región de Murcia | 13 | 139 | 9.4% |
+| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | [Murcia Open 2010](https://www.worldcubeassociation.org/competitions/MurciaOpen2010) | Región de Murcia | 13 | 140 | 9.3% |
 | [Mar Sánchez Moya](https://www.worldcubeassociation.org/persons/2016MOYA03) | [Arnold Open 2016](https://www.worldcubeassociation.org/competitions/ArnoldOpen2016) | Cataluña | 2 | 21 | 9.5% |
 | [Beatriz García García](https://www.worldcubeassociation.org/persons/2023GARC59) | [Torrelavega Open 2023](https://www.worldcubeassociation.org/competitions/TorrelavegaOpen2023) | Cantabria | 1 | 10 | 10.0% |
 | [Ismael Pérez Herrero](https://www.worldcubeassociation.org/persons/2025HERR07) | [Getafe Open 2025](https://www.worldcubeassociation.org/competitions/GetafeOpen2025) | Comunidad de Madrid | 1 | 10 | 10.0% |
@@ -97,7 +97,7 @@
 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | [Zaragoza Open 2014](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2014) | Aragón | 7 | 51 | 13.7% |
 | [Francisco José Campos Rocamora](https://www.worldcubeassociation.org/persons/2013ROCA01) | [Molina Open 2013](https://www.worldcubeassociation.org/competitions/MolinaOpen2013) | Región de Murcia | 11 | 80 | 13.8% |
 | [José Miguel Romero Castellón](https://www.worldcubeassociation.org/persons/2018CAST55) | [Albacete Open 2018](https://www.worldcubeassociation.org/competitions/AlbaceteOpen2018) | Castilla-La Mancha | 4 | 29 | 13.8% |
-| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Imaginalia Open 2018](https://www.worldcubeassociation.org/competitions/ImaginaliaOpen2018) | Castilla-La Mancha | 17 | 121 | 14.0% |
+| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Imaginalia Open 2018](https://www.worldcubeassociation.org/competitions/ImaginaliaOpen2018) | Castilla-La Mancha | 17 | 122 | 13.9% |
 | [Diego García Martínez](https://www.worldcubeassociation.org/persons/2015MART35) | [Spanish Championship 2015](https://www.worldcubeassociation.org/competitions/SpanishChampionship2015) | Andalucía | 2 | 14 | 14.3% |
 | [Federico Alfaro](https://www.worldcubeassociation.org/persons/2024ALFA08) | [Spanish Championship 2024](https://www.worldcubeassociation.org/competitions/SpanishChampionship2024) | Castilla-La Mancha | 2 | 14 | 14.3% |
 | [Javier Álvarez Suárez](https://www.worldcubeassociation.org/persons/2017SUAR04) | [Iruña Open 2017](https://www.worldcubeassociation.org/competitions/IrunaOpen2017) | Comunidad Foral de Navarra | 2 | 14 | 14.3% |

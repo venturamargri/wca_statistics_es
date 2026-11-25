@@ -1,7 +1,7 @@
 ## Más semanas consecutivas delegando una competición
 
 *Nota: Solo incluye delegados españoles. Semanas ISO de lunes a domingo.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Semanas | Persona | Inicio | Fin |
 | ---: | :--- | :--- | :--- |
@@ -30,9 +30,9 @@
 | 1 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Basauri Open 2010](https://www.worldcubeassociation.org/competitions/BasauriOpen2010) | [Basauri Open 2010](https://www.worldcubeassociation.org/competitions/BasauriOpen2010) |
 | 1 | [María Ángeles García Franco](https://www.worldcubeassociation.org/persons/2018FRAN17) | [El Tormes Open 2026](https://www.worldcubeassociation.org/competitions/ElTormesOpen2026) | [El Tormes Open 2026](https://www.worldcubeassociation.org/competitions/ElTormesOpen2026) |
 | 1 | [Leovigildo Sánchez Casado](https://www.worldcubeassociation.org/persons/2009CASA01) | [Granada Open 2012](https://www.worldcubeassociation.org/competitions/GranadaOpen2012) | [Granada Open 2012](https://www.worldcubeassociation.org/competitions/GranadaOpen2012) |
+| 1 | [Jaione Bengoetxea Azurmendi](https://www.worldcubeassociation.org/persons/2023AZUR01) | [Sarriguren Open 2026](https://www.worldcubeassociation.org/competitions/SarrigurenOpen2026) | [Sarriguren Open 2026](https://www.worldcubeassociation.org/competitions/SarrigurenOpen2026) |
 | 1 | [Ernesto Fernández Regueira](https://www.worldcubeassociation.org/persons/2004FERN01) | [Murcia Open 2009](https://www.worldcubeassociation.org/competitions/MurciaOpen2009) | [Murcia Open 2009](https://www.worldcubeassociation.org/competitions/MurciaOpen2009) |
 | 1 | [Alexandre Toledo Guillén](https://www.worldcubeassociation.org/persons/2005TOLE01) | [Murcia Open 2010](https://www.worldcubeassociation.org/competitions/MurciaOpen2010) | [Murcia Open 2010](https://www.worldcubeassociation.org/competitions/MurciaOpen2010) |
-| 1 | [Jaione Bengoetxea Azurmendi](https://www.worldcubeassociation.org/persons/2023AZUR01) | [Sarriguren Open 2026](https://www.worldcubeassociation.org/competitions/SarrigurenOpen2026) | [Sarriguren Open 2026](https://www.worldcubeassociation.org/competitions/SarrigurenOpen2026) |
 | 1 | [Antonio Gallego Zambrano](https://www.worldcubeassociation.org/persons/2004GALL01) | [Spanish Championship 2005](https://www.worldcubeassociation.org/competitions/Spain2005) | [Spanish Championship 2005](https://www.worldcubeassociation.org/competitions/Spain2005) |
 
 

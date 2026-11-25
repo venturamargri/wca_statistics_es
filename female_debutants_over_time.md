@@ -1,11 +1,11 @@
 ## Porcentaje de nuevas debutantes por año
 
 *Nota: Porcentaje de mujeres sobre el total de competidores españoles que debutaron en la WCA cada año (según el año de su WCA ID, independientemente del país de debut).*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Año | % |
 | :--: | ---: |
-| 2026 | 17.06% |
+| 2026 | 16.63% |
 | 2025 | 15.50% |
 | 2024 | 11.97% |
 | 2023 | 13.43% |

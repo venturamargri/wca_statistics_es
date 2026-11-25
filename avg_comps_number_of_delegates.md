@@ -1,7 +1,7 @@
 ## Media de competiciones previas de los delegados según número de delegados
 
 *Nota: Agrupa las competiciones según el número de delegados asignados y muestra aquellas con mayor media de competiciones disputadas por sus delegados hasta esa fecha.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 19 Delegates
@@ -96,12 +96,12 @@
 | [Alella Open 2026](https://www.worldcubeassociation.org/competitions/AlellaOpen2026) | [Albert Garriga Gea](https://www.worldcubeassociation.org/persons/2019GEAA01), [Anton Piau](https://www.worldcubeassociation.org/persons/2008PIAU01), [Pau Carbonell](https://www.worldcubeassociation.org/persons/2021CARB01) | 106.33 |
 | [Móstoles Open 2026](https://www.worldcubeassociation.org/competitions/MostolesOpen2026) | [Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44), [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08), [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 102.67 |
 | [Mirasierra Open 2026](https://www.worldcubeassociation.org/competitions/MirasierraOpen2026) | [Ben Royce](https://www.worldcubeassociation.org/persons/2015ROYC01), [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08), [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | 101.33 |
+| [Gelves Open 2026](https://www.worldcubeassociation.org/competitions/GelvesOpen2026) | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01), [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11), [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 101.00 |
 | [Getafe Open 2025](https://www.worldcubeassociation.org/competitions/GetafeOpen2025) | [Ben Royce](https://www.worldcubeassociation.org/persons/2015ROYC01), [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08), [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 100.33 |
 | [Puerto Real Camaleón Open 2026](https://www.worldcubeassociation.org/competitions/PuertoRealCamaleonOpen2026) | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01), [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11), [Ventura Márquez Grima](https://www.worldcubeassociation.org/persons/2025GRIM01) | 100.00 |
 | [Ciu La Mancha Open 2025](https://www.worldcubeassociation.org/competitions/CiuLaManchaOpen2025) | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01), [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11), [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 98.33 |
 | [Calvià Open 2025](https://www.worldcubeassociation.org/competitions/CalviaOpen2025) | [Albert Garriga Gea](https://www.worldcubeassociation.org/persons/2019GEAA01), [Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01), [Ben Royce](https://www.worldcubeassociation.org/persons/2015ROYC01) | 94.33 |
 | [Blind Madrid 2025](https://www.worldcubeassociation.org/competitions/BlindMadrid2025) | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01), [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08), [Pedro Azevedo](https://www.worldcubeassociation.org/persons/2018AZEV03) | 92.00 |
-| [Valdepeñas Open 2025](https://www.worldcubeassociation.org/competitions/ValdepenasOpen2025) | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01), [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11), [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) | 91.67 |
 
 ### 2 Delegates
 

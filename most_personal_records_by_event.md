@@ -1,7 +1,7 @@
 ## Más récords personales (PB) por categoría
 
 *Nota: Cuenta cuántas veces cada competidor mejoró su marca personal (single o average) en cada categoría.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### 3x3x3 Cube
@@ -10,9 +10,9 @@
 | ---: | :--- |
 | 56 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
 | 54 | [Aratz Larruzea](https://www.worldcubeassociation.org/persons/2022LARR02) |
-| 52 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
-| 52 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 52 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
+| 52 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 52 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 | 49 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
 | 48 | [Artur Miralles Hernàndez](https://www.worldcubeassociation.org/persons/2015HERN17) |
 | 46 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
@@ -30,9 +30,9 @@
 | 32 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 31 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
 | 30 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
-| 30 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
-| 30 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) |
 | 30 | [Santiago Borrego Verde](https://www.worldcubeassociation.org/persons/2016VERD05) |
+| 30 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) |
+| 30 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 
 ### 4x4x4 Cube
 
@@ -44,8 +44,8 @@
 | 45 | [Mikel Pérez Iniesto](https://www.worldcubeassociation.org/persons/2017INIE02) |
 | 44 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) |
 | 43 | [Jose Angel Montesa Solaz](https://www.worldcubeassociation.org/persons/2011SOLA01) |
-| 42 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 42 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
+| 42 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 41 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
 | 41 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 
@@ -54,30 +54,30 @@
 | PBs | Persona |
 | ---: | :--- |
 | 43 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
-| 42 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 42 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
+| 42 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 41 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
 | 40 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) |
 | 38 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
 | 37 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) |
-| 35 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) |
-| 35 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) |
 | 35 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
+| 35 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) |
+| 35 | [Sofía Guerrero Neto](https://www.worldcubeassociation.org/persons/2017NETO02) |
 
 ### 6x6x6 Cube
 
 | PBs | Persona |
 | ---: | :--- |
 | 40 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
-| 26 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) |
 | 26 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
-| 24 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
+| 26 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) |
 | 24 | [Daniel Ortega Pastor](https://www.worldcubeassociation.org/persons/2014PAST03) |
+| 24 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
+| 22 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) |
+| 22 | [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) |
+| 22 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 22 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
 | 22 | [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) |
-| 22 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
-| 22 | [José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01) |
-| 22 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) |
 
 ### 7x7x7 Cube
 
@@ -86,11 +86,11 @@
 | 36 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) |
 | 35 | [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) |
 | 27 | [Carlos Tapp](https://www.worldcubeassociation.org/persons/2013TAPP01) |
-| 27 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) |
 | 27 | [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) |
+| 27 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) |
 | 26 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
-| 25 | [Javier Tovar Castro](https://www.worldcubeassociation.org/persons/2016CAST23) |
 | 25 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
+| 25 | [Javier Tovar Castro](https://www.worldcubeassociation.org/persons/2016CAST23) |
 | 23 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
 | 21 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 
@@ -115,13 +115,13 @@
 | ---: | :--- |
 | 17 | [Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02) |
 | 17 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
-| 16 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 16 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
-| 15 | [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) |
+| 16 | [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) |
 | 15 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
-| 13 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) |
+| 15 | [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) |
 | 13 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
-| 12 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
+| 13 | [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) |
+| 12 | [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) |
 | 12 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 
 ### 3x3x3 One-Handed
@@ -131,13 +131,13 @@
 | 42 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
 | 41 | [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) |
 | 40 | [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) |
-| 39 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 39 | [Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13) |
+| 39 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 37 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 37 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 36 | [Adrián Martínez Macías](https://www.worldcubeassociation.org/persons/2013MACI01) |
 | 34 | [Sergi Sabat](https://www.worldcubeassociation.org/persons/2010SABA01) |
-| 33 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
+| 33 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 
 ### Megaminx
 
@@ -165,9 +165,9 @@
 | 33 | [Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04) |
 | 31 | [Leny De Pablo Hosty](https://www.worldcubeassociation.org/persons/2023HOST01) |
 | 31 | [Héctor Haro Guerrero](https://www.worldcubeassociation.org/persons/2018GUER09) |
-| 30 | [Blanca Hidalgo Domingo](https://www.worldcubeassociation.org/persons/2022DOMI02) |
-| 30 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
 | 30 | [Aurelio Sanchez Jimenez](https://www.worldcubeassociation.org/persons/2019JIME10) |
+| 30 | [Blanca Hidalgo Domingo](https://www.worldcubeassociation.org/persons/2022DOMI02) |
+| 30 | [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) |
 
 ### Clock
 
@@ -178,11 +178,11 @@
 | 38 | [Víctor Tretyakov Timofeyeva](https://www.worldcubeassociation.org/persons/2023TIMO01) |
 | 35 | [Aitor Javier Rubio Pozuelo](https://www.worldcubeassociation.org/persons/2022POZU01) |
 | 34 | [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) |
-| 34 | [Francisco Javier García Góngora](https://www.worldcubeassociation.org/persons/2023GONG04) |
 | 34 | [Arturo Lizama Montoya](https://www.worldcubeassociation.org/persons/2022MONT30) |
+| 34 | [Francisco Javier García Góngora](https://www.worldcubeassociation.org/persons/2023GONG04) |
 | 33 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 32 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
-| 31 | [Marcos Caballero Marsilla](https://www.worldcubeassociation.org/persons/2023MARS33) |
+| 31 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 
 ### Skewb
 
@@ -193,10 +193,10 @@
 | 31 | [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) |
 | 30 | [Oscar Sánchez Najarro](https://www.worldcubeassociation.org/persons/2017NAJA02) |
 | 29 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) |
-| 28 | [Rodrigo Delgado Martínez](https://www.worldcubeassociation.org/persons/2022MART63) |
-| 28 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) |
 | 28 | [Mar Gallego Vicente](https://www.worldcubeassociation.org/persons/2013VICE01) |
-| 27 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
+| 28 | [Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03) |
+| 28 | [Rodrigo Delgado Martínez](https://www.worldcubeassociation.org/persons/2022MART63) |
+| 27 | [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) |
 | 27 | [Albert Mandicó Sampol](https://www.worldcubeassociation.org/persons/2021SAMP01) |
 
 ### Square-1
@@ -206,9 +206,9 @@
 | 39 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 | 38 | [Oscar Sánchez Najarro](https://www.worldcubeassociation.org/persons/2017NAJA02) |
 | 36 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) |
-| 34 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
 | 34 | [Alex Rosado Saez de Langarica](https://www.worldcubeassociation.org/persons/2023LANG03) |
 | 34 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
+| 34 | [Jose Sánchez García](https://www.worldcubeassociation.org/persons/2022GARC19) |
 | 32 | [Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37) |
 | 30 | [Sergi Sabat](https://www.worldcubeassociation.org/persons/2010SABA01) |
 | 28 | [Artur Miralles Hernàndez](https://www.worldcubeassociation.org/persons/2015HERN17) |
@@ -266,13 +266,13 @@
 | 23 | [Gonzalo Orellana Barrasa](https://www.worldcubeassociation.org/persons/2010OREL02) |
 | 19 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) |
 | 16 | [Eki Gartzia González](https://www.worldcubeassociation.org/persons/2013GONZ05) |
-| 15 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 15 | [Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01) |
-| 14 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) |
+| 15 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) |
 | 14 | [Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01) |
+| 14 | [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) |
 | 13 | [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) |
 | 11 | [Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01) |
-| 9 | [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) |
+| 9 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) |
 
 ### Rubik's Magic
 

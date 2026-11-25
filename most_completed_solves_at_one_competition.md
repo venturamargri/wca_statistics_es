@@ -1,6 +1,6 @@
 ## Más resoluciones completadas en una competición
 
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Persona | Competición | Válidas | Intentos |
 | :--- | ---: | ---: | ---: |

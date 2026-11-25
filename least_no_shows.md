@@ -1,7 +1,7 @@
 ## Competiciones con menos ausencias (no-shows)
 
 *Nota: Competiciones en España con registro WCA activo ordenadas por menor número de inscritos aceptados que no llegaron a competir.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 | Competición | Inscritos | Compitieron | Ausencias |
 | :--- | ---: | ---: | ---: |

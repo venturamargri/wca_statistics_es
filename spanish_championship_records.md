@@ -1,7 +1,7 @@
 ## Récords del Campeonato de España
 
 *Nota: Mejores marcas conseguidas en cualquier edición del Campeonato de España.*
-*Actualizado el 22 de noviembre de 2026*
+*Actualizado el 25 de noviembre de 2026*
 
 
 ### Single
