@@ -32,7 +32,7 @@ module Database
   )
   RESULTS_TABLES = %w(
     ranks_single
-    ranks_average
+    ranks_average scrambles
   )
   REQUIRED_TABLES = DEV_TABLES + RESULTS_TABLES
   INDICES = [

@@ -16,10 +16,10 @@ class FemaleOrganizersAndDelegates < Statistic
   def query
     <<-SQL
       WITH spain_comps AS (
-        SELECT c.id
-        FROM competitions c
+        SELECT DISTINCT r.competition_id AS id
+        FROM results r
+        JOIN competitions c ON c.id = r.competition_id
         WHERE c.country_id = 'Spain'
-          AND EXISTS (SELECT 1 FROM results r WHERE r.competition_id = c.id)
       ),
       roles AS (
         SELECT
