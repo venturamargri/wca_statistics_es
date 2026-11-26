@@ -7,22 +7,22 @@
 | :--- | :--- | :--- | ---: | ---: | :--- | :--- | ---: |
 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) | 4x4x4 Cube | Single | 10 | 21.71 | 13&nbsp;jul&nbsp;2013 | 12&nbsp;sep&nbsp;2026 | **4809** |
 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 3x3x3 Multi-Blind | Single | 13 | 36/38 58:23 | 9&nbsp;oct&nbsp;2015 | 17&nbsp;oct&nbsp;2026 | **4026** |
-| [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 4x4x4 Blindfolded | Average | 3 | 2:12.74 | 3&nbsp;dic&nbsp;2016 |  | **3644** |
+| [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 4x4x4 Blindfolded | Average | 3 | 2:12.74 | 3&nbsp;dic&nbsp;2016 |  | **3645** |
 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) | Clock | Average | 6 | 7.35 | 27&nbsp;feb&nbsp;2010 | 1&nbsp;feb&nbsp;2020 | **3626** |
 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) | 4x4x4 Cube | Average | 10 | 26.86 | 14&nbsp;dic&nbsp;2012 | 7&nbsp;oct&nbsp;2022 | **3584** |
 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 3x3x3 Blindfolded | Single | 8 | 16.39 | 15&nbsp;jul&nbsp;2016 | 21&nbsp;feb&nbsp;2026 | **3508** |
 | [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 3x3x3 Blindfolded | Average | 11 | 19.23 | 6&nbsp;feb&nbsp;2016 | 6&nbsp;dic&nbsp;2024 | **3226** |
 | [Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01) | Clock | Single | 2 | 5.83 | 17&nbsp;sep&nbsp;2011 | 1&nbsp;feb&nbsp;2020 | **3059** |
-| [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 7x7x7 Cube | Average | 9 | 2:07.28 | 12&nbsp;oct&nbsp;2018 |  | **2966** |
+| [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 7x7x7 Cube | Average | 9 | 2:07.28 | 12&nbsp;oct&nbsp;2018 |  | **2967** |
 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) | 5x5x5 Cube | Average | 11 | 54.53 | 18&nbsp;jul&nbsp;2014 | 27&nbsp;nov&nbsp;2021 | **2689** |
-| [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 5x5x5 Cube | Single | 5 | 42.20 | 16&nbsp;nov&nbsp;2019 |  | **2566** |
+| [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 5x5x5 Cube | Single | 5 | 42.20 | 16&nbsp;nov&nbsp;2019 |  | **2567** |
 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | Square-1 | Average | 11 | 11.51 | 16&nbsp;dic&nbsp;2011 | 16&nbsp;jun&nbsp;2018 | **2374** |
-| [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 3x3x3 Fewest Moves | Single | 2 | 18 | 12&nbsp;sep&nbsp;2020 |  | **2265** |
-| [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 3x3x3 Fewest Moves | Average | 6 | 21.33 | 12&nbsp;sep&nbsp;2020 |  | **2265** |
+| [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 3x3x3 Fewest Moves | Single | 2 | 18 | 12&nbsp;sep&nbsp;2020 |  | **2266** |
+| [Mauro Moisés Ortega López](https://www.worldcubeassociation.org/persons/2016LOPE44) | 3x3x3 Fewest Moves | Average | 6 | 21.33 | 12&nbsp;sep&nbsp;2020 |  | **2266** |
 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) | 3x3x3 Cube | Single | 7 | 5.52 | 16&nbsp;mar&nbsp;2013 | 30&nbsp;mar&nbsp;2019 | **2205** |
 | [Josete Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18) | 5x5x5 Blindfolded | Single | 5 | 8:19.06 | 29&nbsp;jul&nbsp;2017 | 5&nbsp;ago&nbsp;2023 | **2198** |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 2x2x2 Cube | Average | 2 | 1.66 | 5&nbsp;nov&nbsp;2016 | 5&nbsp;nov&nbsp;2022 | **2191** |
 | [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | 2x2x2 Cube | Single | 1 | 0.66 | 10&nbsp;nov&nbsp;2018 | 9&nbsp;nov&nbsp;2024 | **2191** |
+| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 2x2x2 Cube | Average | 2 | 1.66 | 5&nbsp;nov&nbsp;2016 | 5&nbsp;nov&nbsp;2022 | **2191** |
 | [Javier Cabezuelo Sánchez](https://www.worldcubeassociation.org/persons/2007SANC01) | 3x3x3 Fewest Moves | Average | 1 | 27.00 | 26&nbsp;sep&nbsp;2014 | 12&nbsp;sep&nbsp;2020 | **2178** |
 | [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | Square-1 | Single | 8 | 8.46 | 22&nbsp;sep&nbsp;2012 | 19&nbsp;jul&nbsp;2018 | **2126** |
 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | 2x2x2 Cube | Single | 1 | 1.00 | 16&nbsp;dic&nbsp;2011 | 16&nbsp;sep&nbsp;2017 | **2101** |
@@ -31,29 +31,29 @@
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 3x3x3 One-Handed | Average | 4 | 13.04 | 10&nbsp;dic&nbsp;2016 | 26&nbsp;mar&nbsp;2022 | **1932** |
 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) | 5x5x5 Cube | Single | 8 | 48.40 | 8&nbsp;ago&nbsp;2014 | 16&nbsp;nov&nbsp;2019 | **1926** |
 | [Lucas Benito Rolando](https://www.worldcubeassociation.org/persons/2010BENI02) | 3x3x3 Blindfolded | Single | 4 | 37.41 | 30&nbsp;abr&nbsp;2011 | 15&nbsp;jul&nbsp;2016 | **1903** |
-| [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 5x5x5 Cube | Average | 6 | 46.76 | 27&nbsp;nov&nbsp;2021 |  | **1824** |
+| [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 5x5x5 Cube | Average | 6 | 46.76 | 27&nbsp;nov&nbsp;2021 |  | **1825** |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 3x3x3 One-Handed | Single | 1 | 9.95 | 13&nbsp;jul&nbsp;2017 | 15&nbsp;abr&nbsp;2022 | **1737** |
 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | Skewb | Average | 3 | 2.59 | 16&nbsp;sep&nbsp;2017 | 4&nbsp;jun&nbsp;2022 | **1722** |
 | [Rodrigo Septién Rodríguez](https://www.worldcubeassociation.org/persons/2008SEPT01) | 4x4x4 Cube | Single | 6 | 34.90 | 12&nbsp;sep&nbsp;2009 | 2&nbsp;may&nbsp;2014 | **1693** |
 | [Pablo Aguilar Dominguez](https://www.worldcubeassociation.org/persons/2010AGUI04) | 6x6x6 Cube | Single | 5 | 2:24.33 | 30&nbsp;abr&nbsp;2011 | 12&nbsp;sep&nbsp;2015 | **1596** |
-| [Ernesto Fernández Regueira](https://www.worldcubeassociation.org/persons/2004FERN01) | Clock | Average | 9 | 8.72 | 5&nbsp;nov&nbsp;2005 | 27&nbsp;feb&nbsp;2010 | **1575** |
 | [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | Clock | Average | 5 | 4.32 | 1&nbsp;feb&nbsp;2020 | 25&nbsp;may&nbsp;2024 | **1575** |
+| [Ernesto Fernández Regueira](https://www.worldcubeassociation.org/persons/2004FERN01) | Clock | Average | 9 | 8.72 | 5&nbsp;nov&nbsp;2005 | 27&nbsp;feb&nbsp;2010 | **1575** |
 | [Javier López Fernández](https://www.worldcubeassociation.org/persons/2016FERN07) | Square-1 | Average | 2 | 9.35 | 16&nbsp;jun&nbsp;2018 | 7&nbsp;oct&nbsp;2022 | **1574** |
 | [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | 4x4x4 Blindfolded | Single | 1 | 3:25.85 | 19&nbsp;jul&nbsp;2018 | 7&nbsp;oct&nbsp;2022 | **1541** |
 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) | 3x3x3 Cube | Average | 2 | 7.25 | 19&nbsp;jul&nbsp;2018 | 7&nbsp;oct&nbsp;2022 | **1541** |
 | [Ernesto Fernández Regueira](https://www.worldcubeassociation.org/persons/2004FERN01) | Clock | Single | 6 | 8.41 | 5&nbsp;nov&nbsp;2005 | 23&nbsp;ene&nbsp;2010 | **1540** |
-| [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 4x4x4 Cube | Average | 4 | 26.19 | 7&nbsp;oct&nbsp;2022 |  | **1510** |
-| [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 4x4x4 Blindfolded | Single | 4 | 1:45.73 | 7&nbsp;oct&nbsp;2022 |  | **1510** |
+| [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | 4x4x4 Cube | Average | 4 | 26.19 | 7&nbsp;oct&nbsp;2022 |  | **1511** |
+| [Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02) | 4x4x4 Blindfolded | Single | 4 | 1:45.73 | 7&nbsp;oct&nbsp;2022 |  | **1511** |
 | [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | Megaminx | Single | 2 | 43.55 | 13&nbsp;oct&nbsp;2017 | 27&nbsp;nov&nbsp;2021 | **1506** |
 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | Megaminx | Average | 6 | 42.93 | 13&nbsp;abr&nbsp;2019 | 27&nbsp;may&nbsp;2023 | **1505** |
 | [Alejandro Riveiro Rodríguez](https://www.worldcubeassociation.org/persons/2008RODR01) | Pyraminx | Single | 4 | 3.72 | 5&nbsp;abr&nbsp;2008 | 16&nbsp;dic&nbsp;2011 | **1350** |
-| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 3x3x3 One-Handed | Single | 1 | 8.56 | 7&nbsp;abr&nbsp;2023 |  | **1328** |
+| [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 3x3x3 One-Handed | Single | 1 | 8.56 | 7&nbsp;abr&nbsp;2023 |  | **1329** |
 | [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | 3x3x3 Cube | Single | 3 | 4.67 | 7&nbsp;oct&nbsp;2022 | 16&nbsp;may&nbsp;2026 | **1317** |
 | [Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01) | Pyraminx | Average | 4 | 4.47 | 14&nbsp;dic&nbsp;2012 | 2&nbsp;jul&nbsp;2016 | **1296** |
 | [Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02) | 3x3x3 Cube | Single | 2 | 5.22 | 30&nbsp;mar&nbsp;2019 | 7&nbsp;oct&nbsp;2022 | **1287** |
 | [Biel Salmons Gonzalez](https://www.worldcubeassociation.org/persons/2015GONZ08) | 3x3x3 One-Handed | Average | 3 | 11.84 | 26&nbsp;mar&nbsp;2022 | 27&nbsp;sep&nbsp;2025 | **1281** |
-| [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | Skewb | Single | 1 | 0.88 | 7&nbsp;abr&nbsp;2023 | 26&nbsp;sep&nbsp;2026 | **1268** |
 | [Javier Cabezuelo Sánchez](https://www.worldcubeassociation.org/persons/2007SANC01) | 3x3x3 Fewest Moves | Single | 2 | 22 | 11&nbsp;oct&nbsp;2013 | 1&nbsp;abr&nbsp;2017 | **1268** |
+| [Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04) | Skewb | Single | 1 | 0.88 | 7&nbsp;abr&nbsp;2023 | 26&nbsp;sep&nbsp;2026 | **1268** |
 | [Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02) | 3x3x3 Cube | Average | 3 | 7.56 | 26&nbsp;sep&nbsp;2014 | 10&nbsp;mar&nbsp;2018 | **1261** |
 
 
