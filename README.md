@@ -1,6 +1,6 @@
 Todas las estadísticas están calculadas únicamente para competidores que representan a España o competiciones celebradas en España.
 
-[Resultados](#results) (40) · [Récords](#records) (14) · [Podios y medallas](#podiums) (28) · [Hitos](#milestones) (6) · [Participación](#competing) (34) · [Viajes](#travel) (10) · [Delegados](#delegating) (23) · [Organización](#organizing) (5) · [Competiciones](#competitions) (24)
+[Resultados](#results) (40) · [Récords](#records) (16) · [Podios y medallas](#podiums) (28) · [Hitos](#milestones) (6) · [Participación](#competing) (34) · [Viajes](#travel) (12) · [Delegados](#delegating) (23) · [Organización](#organizing) (5) · [Competiciones](#competitions) (27)
 
 ## Resultados {#results}
 
@@ -42,15 +42,17 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Racha más larga de competiciones logrando al menos un récord personal (PB)](longest_streak_of_personal_records)
 - [Rankings anuales](yearly_rankings)
 - [Resultados más frecuentes](most_frequent_results)
-- [Rondas con más tiempos chocolate (.00)](chocolate_times_in_round)
+- [Tiempos chocolate (.00)](chocolate_times_in_round)
 - [Todas las 4-movers de 2x2x2](two_by_two_four_movers)
 
 ## Récords {#records}
 
 - [Averages récord nacional con todos los intentos mejores que el anterior récord nacional](nr_averages_with_all_attempts_sub_previous_nr)
 - [Días en los que un récord nacional se batió más de una vez](national_records_broken_multiple_times_in_one_day)
+- [Mayor tiempo en conseguir el primer Récord Nacional](slowest_first_nr)
 - [Mayor tiempo entre el primer y el último Récord Nacional (NR)](longest_nr_span)
 - [Mayor tiempo ostentando un récord nacional](longest_time_holding_national_record)
+- [Menor tiempo en conseguir el primer Récord Nacional](fastest_first_nr)
 - [Más récords en una misma competición](most_records_at_single_competition)
 - [Número de récords mundiales por persona](world_records_by_person)
 - [Número de récords por persona](record_count_by_person)
@@ -147,9 +149,11 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Mayor distancia recorrida entre competiciones en una misma semana](longest_competitions_path_in_week)
 - [Mayor distancia recorrida entre competiciones en una misma semana (único)](longest_competitions_path_in_week_unique)
 - [Más competiciones en el extranjero](most_competitions_abroad)
+- [Más comunidades autónomas distintas con podios](podiums_in_most_ccaa)
 - [Más comunidades autónomas en las que se ha competido](competed_in_most_ccaa)
 - [Más continentes visitados](most_visited_continents)
 - [Más países visitados](most_visited_countries)
+- [Más provincias distintas con podios](podiums_in_most_provinces)
 - [Más provincias en las que se ha competido](competed_in_most_provinces)
 
 ## Delegados {#delegating}
@@ -202,11 +206,14 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Cuota media de inscripción por provincia](average_fee_per_province)
 - [Mayor cuota de inscripción en competiciones](highest_registration_fee)
 - [Mayor número posible de resoluciones en una competición](highest_possible_number_of_solves_at_one_competition)
+- [Mayor red de competidores españoles distintos](largest_spanish_competitor_network)
 - [Mayores competiciones](biggest_competitions_in_spain)
 - [Mayores rondas](biggest_rounds)
 - [Media de categorías por competidor en cada competición](average_event_count_by_competition)
 - [Menor cuota de inscripción en competiciones](lowest_registration_fee)
 - [Más competiciones organizadas sin competir](pure_organizers)
+- [Más competidores españoles distintos delegados](most_spanish_competitors_delegated)
+- [Más competidores españoles distintos organizados](most_spanish_competitors_organized)
 - [Más favoritos (bookmarks) respecto al límite de competidores](most_bookmarks)
 - [Más rondas celebradas en una competición](most_rounds_at_competition)
 - [Número de competiciones por semana](competitions_count_by_week)
@@ -214,6 +221,6 @@ Todas las estadísticas están calculadas únicamente para competidores que repr
 - [Provincias con más competiciones cada año](provinces_with_most_competitions_by_year)
 
 
-Esta información se basa en los resultados oficiales publicados por la World Cube Association en [https://worldcubeassociation.org](https://worldcubeassociation.org) a fecha de 25 de noviembre de 2026.
+Esta información se basa en los resultados oficiales publicados por la World Cube Association en [https://worldcubeassociation.org](https://worldcubeassociation.org) a fecha de 26 de noviembre de 2026.
 
 <a href="https://github.com/venturamargri/wca_statistics_es" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

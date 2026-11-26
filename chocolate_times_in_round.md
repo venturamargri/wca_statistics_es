@@ -1,6 +1,6 @@
-## Rondas con más tiempos chocolate (.00)
+## Tiempos chocolate (.00)
 
-*Nota: Rondas oficiales de competidores españoles con varios tiempos exactos acabados en .00 (se excluyen FMC, Multi-Blind y tiempos de 10 minutos o más, ya que se truncan a los segundos).*
+*Nota: Rondas y competiciones oficiales de competidores españoles con más tiempos exactos acabados en .00 (se excluyen FMC, Multi-Blind y tiempos de 10 minutos o más, ya que se truncan a los segundos).*
 *Actualizado el 25 de noviembre de 2026*
 
 | Tiempos .00 | Persona | Categoría | Tiempos de la ronda | Competición |
@@ -55,6 +55,61 @@
 | 2 / 5 | [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | 4x4x4 Cube | 50.15, 1:22.07, 48.64, **1:04.00**, **59.00** | [Bilbao Open 2025](https://www.worldcubeassociation.org/competitions/BilbaoOpen2025/results/all#e444_d) |
 | 2 / 5 | [David Sánchez Peris](https://www.worldcubeassociation.org/persons/2017PERI05) | Megaminx | 1:38.72, **1:36.00**, 1:20.55, 1:42.57, **1:14.00** | [Tio Pep Cubea Muro d'Alcoi 2025](https://www.worldcubeassociation.org/competitions/TioPepCubeaMurodAlcoi2025/results/all#eminx_d) |
 | 2 / 5 | [Eduardo Sánchez Gómez](https://www.worldcubeassociation.org/persons/2025GOME06) | 2x2x2 Cube | **6.00**, 6.88, **7.00**, 10.39, 7.20 | [Lazarillo Salamanca Open 2025](https://www.worldcubeassociation.org/competitions/LazarilloSalamancaOpen2025/results/all#e222_d) |
+
+## Más tiempos chocolate (.00) en una competición
+
+| Persona | Competición | Chocolates |
+| :--- | :--- | ---: |
+| [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Montpellier Open 2011](https://www.worldcubeassociation.org/competitions/MontpellierOpen2011) | 8 |
+| [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | [Spanish Championship 2019](https://www.worldcubeassociation.org/competitions/SpanishChampionship2019) | 6 |
+| [Jorge Orrite De Alba](https://www.worldcubeassociation.org/persons/2015ORRI01) | [Jesuitinas Txantrea Open 2025](https://www.worldcubeassociation.org/competitions/JesuitinasTxantreaOpen2025) | 5 |
+| [Darío Pérez Melendo](https://www.worldcubeassociation.org/persons/2021PERE03) | [Spanish Championship 2022](https://www.worldcubeassociation.org/competitions/SpanishChampionship2022) | 5 |
+| [Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08) | [Tembleque Open 2018](https://www.worldcubeassociation.org/competitions/TemblequeOpen2018) | 5 |
+| [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | [Begastri Open 2026](https://www.worldcubeassociation.org/competitions/BegastriOpen2026) | 4 |
+| [Uhaitz Nava](https://www.worldcubeassociation.org/persons/2025NAVA04) | [Cintruenigo Open 2026](https://www.worldcubeassociation.org/competitions/CintruenigoOpen2026) | 4 |
+| [Marcos Mora Prieto](https://www.worldcubeassociation.org/persons/2025PRIE04) | [Móstoles Open 2026](https://www.worldcubeassociation.org/competitions/MostolesOpen2026) | 4 |
+| [Pau Carbonell](https://www.worldcubeassociation.org/persons/2021CARB01) | [Parets Open 2026](https://www.worldcubeassociation.org/competitions/ParetsOpen2026) | 4 |
+| [Darío Ramírez Pino](https://www.worldcubeassociation.org/persons/2024PINO01) | [Campeonato de Andalucía 2026](https://www.worldcubeassociation.org/competitions/CampeonatodeAndalucia2026) | 4 |
+| [Germán García Molina](https://www.worldcubeassociation.org/persons/2023MOLI01) | [Velilla Open 2026](https://www.worldcubeassociation.org/competitions/VelillaOpen2026) | 4 |
+| [Marco Trueba Aragon](https://www.worldcubeassociation.org/persons/2024ARAG02) | [Spanish Championship 2025](https://www.worldcubeassociation.org/competitions/SpanishChampionship2025) | 4 |
+| [Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91) | [Sueca Open 2025](https://www.worldcubeassociation.org/competitions/SuecaOpen2025) | 4 |
+| [Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02) | [Parla Open 2025](https://www.worldcubeassociation.org/competitions/ParlaOpen2025) | 4 |
+| [Artur Miralles Hernàndez](https://www.worldcubeassociation.org/persons/2015HERN17) | [Vall de Núria 2025](https://www.worldcubeassociation.org/competitions/ValldeNuria2025) | 4 |
+| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | [Fuentes de Andalucía Open 2025](https://www.worldcubeassociation.org/competitions/FuentesdeAndaluciaOpen2025) | 4 |
+| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Fuentes de Andalucía Open 2025](https://www.worldcubeassociation.org/competitions/FuentesdeAndaluciaOpen2025) | 4 |
+| [Nuria Soria García](https://www.worldcubeassociation.org/persons/2022GARC12) | [El Ejido Open 2025](https://www.worldcubeassociation.org/competitions/ElEjidoOpen2025) | 4 |
+| [Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04) | [Ruta Valenciana II: Tio Pep 2024](https://www.worldcubeassociation.org/competitions/RutaValencianaIITioPep2024) | 4 |
+| [Mar Gallego Vicente](https://www.worldcubeassociation.org/persons/2013VICE01) | [Portugal Championship 2024](https://www.worldcubeassociation.org/competitions/PortugalChampionship2024) | 4 |
+| [Carlos Cascos González](https://www.worldcubeassociation.org/persons/2022GONZ04) | [Parla Open 2024](https://www.worldcubeassociation.org/competitions/ParlaOpen2024) | 4 |
+| [Álvaro Aguilar Salobreña](https://www.worldcubeassociation.org/persons/2015SALO01) | [Costa de la Luz Open 2024](https://www.worldcubeassociation.org/competitions/CostadelaLuzOpen2024) | 4 |
+| [Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12) | [Écija Open 2024](https://www.worldcubeassociation.org/competitions/EcijaOpen2024) | 4 |
+| [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Cubing with Penguins 2023](https://www.worldcubeassociation.org/competitions/CubingwithPenguins2023) | 4 |
+| [Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11) | [Bilbao Open 2023](https://www.worldcubeassociation.org/competitions/BilbaoOpen2023) | 4 |
+| [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | [Archena 24 Horas 2022](https://www.worldcubeassociation.org/competitions/Archena24Horas2022) | 4 |
+| [Darío Pérez Melendo](https://www.worldcubeassociation.org/persons/2021PERE03) | [Mallorca Open 2022](https://www.worldcubeassociation.org/competitions/MallorcaOpen2022) | 4 |
+| [Oscar Sánchez Najarro](https://www.worldcubeassociation.org/persons/2017NAJA02) | [Baztan Open 2022](https://www.worldcubeassociation.org/competitions/BaztanOpen2022) | 4 |
+| [Arnau Tous Mateu](https://www.worldcubeassociation.org/persons/2016MATE04) | [Martorell Open 2019](https://www.worldcubeassociation.org/competitions/MartorellOpen2019) | 4 |
+| [Carlos Tapp](https://www.worldcubeassociation.org/persons/2013TAPP01) | [Spanish Championship 2019](https://www.worldcubeassociation.org/competitions/SpanishChampionship2019) | 4 |
+| [Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47) | [Spanish Championship 2019](https://www.worldcubeassociation.org/competitions/SpanishChampionship2019) | 4 |
+| [Adrián Martínez Macías](https://www.worldcubeassociation.org/persons/2013MACI01) | [UPM Open 2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019) | 4 |
+| [Jaime Calzado Gomez](https://www.worldcubeassociation.org/persons/2018GOME06) | [Urnieta Open 2019](https://www.worldcubeassociation.org/competitions/UrnietaOpen2019) | 4 |
+| [Marcos Ameijeiras Moreno](https://www.worldcubeassociation.org/persons/2008MORE01) | [Vedruna Balaguer Open 2019](https://www.worldcubeassociation.org/competitions/VedrunaBalaguerOpen2019) | 4 |
+| [Lorenzo Escobar Kraskouskaya](https://www.worldcubeassociation.org/persons/2017KRAS05) | [Imaginalia Open 2019](https://www.worldcubeassociation.org/competitions/ImaginaliaOpen2019) | 4 |
+| [Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01) | [Canarias Open 2018](https://www.worldcubeassociation.org/competitions/CanariasOpen2018) | 4 |
+| [Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04) | [IPM Open 2017](https://www.worldcubeassociation.org/competitions/IPMOpen2017) | 4 |
+| [Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01) | [Archena Open 2014](https://www.worldcubeassociation.org/competitions/ArchenaOpen2014) | 4 |
+| [Jose Angel Montesa Solaz](https://www.worldcubeassociation.org/persons/2011SOLA01) | [Murcia Open 2014](https://www.worldcubeassociation.org/competitions/MurciaOpen2014) | 4 |
+| [Elisabet Delgado Mas](https://www.worldcubeassociation.org/persons/2011DELG01) | [MIR Open 2013](https://www.worldcubeassociation.org/competitions/MIROpen2013) | 4 |
+| [Jin Feng Wang Qiu](https://www.worldcubeassociation.org/persons/2012QIUJ01) | [Granada Open 2012](https://www.worldcubeassociation.org/competitions/GranadaOpen2012) | 4 |
+| [Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01) | [Basauri Open 2010](https://www.worldcubeassociation.org/competitions/BasauriOpen2010) | 4 |
+| [Rodrigo de la Fuente Pelayo](https://www.worldcubeassociation.org/persons/2022PELA02) | [Pucela Open 2026](https://www.worldcubeassociation.org/competitions/PucelaOpen2026) | 3 |
+| [Daniel Olmedo Fraile](https://www.worldcubeassociation.org/persons/2023FRAI01) | [El Tormes Open 2026](https://www.worldcubeassociation.org/competitions/ElTormesOpen2026) | 3 |
+| [Núria Carrillo Pascual](https://www.worldcubeassociation.org/persons/2025PASC02) | [Nexta Andorra Championship 2026](https://www.worldcubeassociation.org/competitions/NextaAndorraChampionship2026) | 3 |
+| [Javier Casaus Rodríguez](https://www.worldcubeassociation.org/persons/2023RODR68) | [Guadix Open 2026](https://www.worldcubeassociation.org/competitions/GuadixOpen2026) | 3 |
+| [Alejandro Díaz Viaño](https://www.worldcubeassociation.org/persons/2026VIAN01) | [Legio Open 2026](https://www.worldcubeassociation.org/competitions/LegioOpen2026) | 3 |
+| [Javier Lizama Montoya](https://www.worldcubeassociation.org/persons/2022MONT31) | [Legio Open 2026](https://www.worldcubeassociation.org/competitions/LegioOpen2026) | 3 |
+| [Aitor Ibañez Larrea](https://www.worldcubeassociation.org/persons/2023LARR09) | [Durango Open 2026](https://www.worldcubeassociation.org/competitions/DurangoOpen2026) | 3 |
+| [Arturo González Medina](https://www.worldcubeassociation.org/persons/2018MEDI10) | [Villanueva Open 2026](https://www.worldcubeassociation.org/competitions/VillanuevaOpen2026) | 3 |
 
 
 <a href="https://github.com/venturamargri/wca_statistics_es" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
