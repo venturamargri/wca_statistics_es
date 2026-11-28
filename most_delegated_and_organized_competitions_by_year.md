@@ -1,7 +1,7 @@
 ## Más competiciones delegadas y organizadas cada año
 
 *Nota: Muestra cuántas de las competiciones delegadas por cada delegado español en un año fueron también organizadas por él.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 2026

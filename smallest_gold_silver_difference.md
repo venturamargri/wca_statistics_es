@@ -1,7 +1,7 @@
 ## Menor diferencia entre el oro y la plata
 
 *Nota: Finales en cualquier competición donde el 1.º y el 2.º puesto fueron conseguidos por competidores españoles. Incluye empates exactos (0.00) resueltos por single o empatados en el 1.º puesto.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

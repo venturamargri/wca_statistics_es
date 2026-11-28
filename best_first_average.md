@@ -1,7 +1,7 @@
 ## Mejor primer average
 
 *Nota: Mejor average conseguido la primera vez que se participa oficialmente en cada categoría.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

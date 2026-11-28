@@ -1,7 +1,7 @@
 ## Mayor porcentaje de DNF en toda la carrera
 
 *Nota: Porcentaje de intentos DNF sobre el total de intentos disputados (excluyendo DNS). Mínimo 100 intentos oficiales.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | % DNF | DNFs | Intentos | Persona |
 | ---: | ---: | ---: | :--- |

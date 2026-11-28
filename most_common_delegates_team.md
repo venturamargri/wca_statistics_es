@@ -1,7 +1,7 @@
 ## Equipos de delegados más habituales
 
 *Nota: Número de competiciones en España donde coincidió exactamente el mismo equipo de delegados.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Competiciones | Equipo |
 | :--- | :--- |

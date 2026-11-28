@@ -1,7 +1,7 @@
 ## Mejores marcas de rookies
 
 *Nota: Mejores singles y averages logrados por competidores españoles con menos de 366 días transcurridos desde su primera competición oficial (debut absoluto en la WCA). Se muestra la mejor marca rookie de cada persona.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube - Single

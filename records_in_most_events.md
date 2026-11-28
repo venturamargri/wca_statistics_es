@@ -1,7 +1,7 @@
 ## Récords en el mayor número de categorías
 
 *Nota: Se incluyen todos los récords históricos (no solo los vigentes).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### Cualquier récord

@@ -1,7 +1,7 @@
 ## Participación femenina en organización y delegación
 
 *Nota: Mujeres que más competiciones oficiales celebradas en España han organizado o delegado. El total cuenta competiciones distintas (si ejerció ambos roles en el mismo torneo, cuenta una sola vez).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Organizadas | Delegadas | Total |
 | :--- | ---: | ---: | ---: |

@@ -1,7 +1,7 @@
 ## Peor resultado que logró victoria
 
 *Nota: Solo finales de competidores españoles en competiciones celebradas en España. Se ignoran resultados donde la métrica principal sea DNF.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

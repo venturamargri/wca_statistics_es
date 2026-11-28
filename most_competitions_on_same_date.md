@@ -1,6 +1,6 @@
 ## Más años compitiendo en la misma fecha del calendario
 
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Años | Persona | Fecha | Lista de años |
 | ---: | :--- | :--- | :--- |

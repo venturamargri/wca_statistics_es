@@ -1,7 +1,7 @@
 ## Más resultados sub-X por categoría
 
 *Nota: Cuenta averages oficiales por debajo del umbral en categorías de velocidad, singles en BLD y puntos estrictamente superiores en Multi-Blind.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

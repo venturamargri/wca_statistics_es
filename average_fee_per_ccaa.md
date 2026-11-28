@@ -1,7 +1,7 @@
 ## Cuota media de inscripción por comunidad autónoma
 
 *Nota: Comunidad o ciudad autónoma calculada a partir de las coordenadas de la competición (17 comunidades autónomas y 2 ciudades autónomas). Solo se incluyen competiciones en EUR.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 2026

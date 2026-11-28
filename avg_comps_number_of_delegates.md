@@ -1,7 +1,7 @@
 ## Media de competiciones previas de los delegados según número de delegados
 
 *Nota: Agrupa las competiciones según el número de delegados asignados y muestra aquellas con mayor media de competiciones disputadas por sus delegados hasta esa fecha.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 19 Delegates

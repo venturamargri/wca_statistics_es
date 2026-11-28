@@ -1,6 +1,6 @@
 ## Más competiciones juntos
 
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Competiciones compartidas | Pareja |
 | ---: | :--- |

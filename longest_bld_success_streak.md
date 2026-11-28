@@ -1,7 +1,7 @@
 ## Mayor racha de éxitos seguidos a ciegas
 
 *Nota: Mayor número de intentos oficiales válidos consecutivos (sin DNF; los DNS se ignoran) en cada categoría a ciegas. Mínimo 2 éxitos seguidos; se muestra la mejor racha de cada persona.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Blindfolded

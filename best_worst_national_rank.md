@@ -1,7 +1,7 @@
 ## Mejor peor ranking nacional
 
 *Nota: Competidores ordenados según su peor posición nacional (NR más alto) entre las 17 categorías actuales (formato principal WCA: average en 13 y single en las 4 a ciegas). En las categorías sin ranking nacional se asigna el puesto penalizado (total de clasificados + 1).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Peor ranking | Categoría |
 | :--- | ---: | :--- |

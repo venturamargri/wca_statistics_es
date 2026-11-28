@@ -1,7 +1,7 @@
 ## Mayor distancia recorrida entre competiciones en una misma semana
 
 *Nota: Suma de distancias en línea recta entre competiciones disputadas dentro de la misma semana natural (lunes-domingo).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Distancia | Persona | Inicio | Fin | Competiciones |
 | ---: | :--- | :--- | :--- | :--- |

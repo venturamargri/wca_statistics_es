@@ -1,7 +1,7 @@
 ## Todas las 4-movers de 2x2x2
 
 *Nota: Mezclas oficiales de 2x2x2 (incluyendo mezclas extra) utilizadas en competiciones celebradas en España cuya solución óptima en métrica HTM es exactamente de 4 movimientos.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Competición | Ronda | Grupo | N.º | Mezcla | Solución óptima |
 | :--- | :--- | :--: | :--: | :--- | :--- |

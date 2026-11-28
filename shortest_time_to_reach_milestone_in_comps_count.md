@@ -1,6 +1,6 @@
 ## Menor tiempo en alcanzar hitos de competiciones
 
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 150 competiciones

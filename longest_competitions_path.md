@@ -1,7 +1,7 @@
 ## Mayor distancia recorrida entre competiciones
 
 *Nota: Calculada como la suma de distancias en línea recta entre competiciones consecutivas disputadas.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Distancia |
 | :--- | ---: |

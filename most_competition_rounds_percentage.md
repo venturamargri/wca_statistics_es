@@ -1,7 +1,7 @@
 ## Mayor % de rondas disputadas en una competición
 
 *Nota: Competiciones con más de 1 categoría y más de 10 rondas.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | % | Persona | Competición | Rondas disputadas | Rondas totales |
 | ---: | :--- | :--- | ---: | ---: |

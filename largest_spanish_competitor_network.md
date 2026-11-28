@@ -1,7 +1,7 @@
 ## Mayor red de competidores españoles distintos
 
 *Nota: Competidores españoles que han coincidido en competición (en cualquier país) con el mayor número de otros competidores españoles distintos, junto al porcentaje sobre el censo histórico español.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Españoles distintos | % del histórico |
 | :--- | ---: | ---: |

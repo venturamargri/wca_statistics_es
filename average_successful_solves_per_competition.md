@@ -1,7 +1,7 @@
 ## Media de resoluciones válidas por competición
 
 *Nota: Cuenta intentos individuales válidos (valor > 0). Se excluyen DNS e intentos vacíos. Mínimo 20 competiciones.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Media válidas | Total válidas | Competiciones |
 | :--- | ---: | ---: | ---: |

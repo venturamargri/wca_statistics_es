@@ -1,7 +1,7 @@
 ## Distribución por año de debut del Top 100
 
 *Nota: Año de debut (según el WCA ID) de los 100 mejores competidores vigentes en el ranking nacional de cada una de las 17 categorías oficiales actuales (usando el formato principal WCA), ordenado de más a menos competidores.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

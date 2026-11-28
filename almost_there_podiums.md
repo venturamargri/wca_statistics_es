@@ -1,7 +1,7 @@
 ## Más podios sin ganar y cuartos puestos sin podio
 
 *Nota: Competidores españoles con más medallas de plata o bronce sin haber ganado todavía ningún oro, y con más cuartos puestos en finales sin haber pisado nunca el podio.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### Más medallas de plata sin ningún oro

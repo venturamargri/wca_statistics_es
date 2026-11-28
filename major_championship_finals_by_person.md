@@ -1,7 +1,7 @@
 ## Número de finales en grandes campeonatos por persona
 
 *Nota: Finales disputadas por competidores españoles en Campeonatos del Mundo, Campeonatos de Europa y Campeonatos de España (incluye todas las categorías históricas).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Total | Mundial | Europeo | Nacional | Persona |
 | ---: | ---: | ---: | ---: | :--- |

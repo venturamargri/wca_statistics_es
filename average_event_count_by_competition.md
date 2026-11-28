@@ -1,7 +1,7 @@
 ## Media de categorías por competidor en cada competición
 
 *Nota: Número medio de categorías en las que participó cada competidor en la competición.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Competición | Media de categorías | Competidores |
 | :--- | ---: | ---: |

@@ -1,7 +1,7 @@
 ## Racha más larga asistiendo a todas las competiciones de una comunidad autónoma
 
 *Nota: La racha termina cuando el competidor falta a una competición celebrada en la comunidad autónoma. Comunidad o ciudad autónoma calculada a partir de las coordenadas de la competición (17 comunidades autónomas y 2 ciudades autónomas).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Competiciones | Persona | Comunidad autónoma | Inicio | Fin |
 | ---: | :--- | :--- | :--- | :--- |

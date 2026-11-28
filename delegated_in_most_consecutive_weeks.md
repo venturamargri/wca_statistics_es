@@ -1,7 +1,7 @@
 ## Más semanas consecutivas delegando una competición
 
 *Nota: Solo incluye delegados españoles. Semanas ISO de lunes a domingo.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Semanas | Persona | Inicio | Fin |
 | ---: | :--- | :--- | :--- |

@@ -1,7 +1,7 @@
 ## Tiempo en hacer podio en todas las categorías
 
 *Nota: Días transcurridos desde la primera competición oficial hasta conseguir al menos un podio en las 17 categorías oficiales actuales.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Días | Persona | Debut | Completado | Última categoría |
 | ---: | :--- | :--- | :--- | :--- |

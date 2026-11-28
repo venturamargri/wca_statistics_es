@@ -1,7 +1,7 @@
 ## Competiciones delegadas por año
 
 *Nota: Solo se incluyen delegados con al menos 3 competiciones delegadas.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Delegadas/año | Delegadas | Años | Persona | Lista en WCA |
 | ---: | ---: | ---: | :--- | :--: |

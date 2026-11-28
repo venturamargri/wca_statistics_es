@@ -1,6 +1,6 @@
 ## Más competiciones en el extranjero
 
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Competiciones | Persona |
 | ---: | :--- |

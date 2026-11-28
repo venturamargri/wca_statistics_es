@@ -1,7 +1,7 @@
 ## Mayor porcentaje de competiciones con al menos una medalla
 
 *Nota: Una medalla equivale a quedar entre los 3 primeros en una final. Solo competidores españoles con al menos 10 competiciones.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Porcentaje | Con medalla | Competiciones | Persona |
 | ---: | ---: | ---: | :--- |

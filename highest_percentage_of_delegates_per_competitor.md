@@ -1,7 +1,7 @@
 ## Mayor porcentaje de delegados por competidor
 
 *Nota: Solo competiciones celebradas en España con resultados publicados.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### Solo delegados asignados

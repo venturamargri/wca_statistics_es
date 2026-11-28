@@ -1,7 +1,7 @@
 ## Más personas distintas conocidas en competiciones
 
 *Nota: Dos personas cuentan como conocidas si ambas registraron al menos un resultado en la misma competición.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Personas conocidas | Competiciones | Persona |
 | ---: | ---: | :--- |

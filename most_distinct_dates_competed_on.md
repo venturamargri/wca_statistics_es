@@ -1,6 +1,6 @@
 ## Más fechas distintas del año en las que se ha competido
 
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Fechas | Persona | Desglose por mes |
 | ---: | :--- | :--- |

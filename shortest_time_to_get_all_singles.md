@@ -1,7 +1,7 @@
 ## Menor tiempo en conseguir todos los singles
 
 *Nota: Cada tabla cubre un periodo en el que el conjunto de categorías oficiales no cambió. Aparecen quienes lograron resultado en todas las categorías de ese periodo en alguno de sus días de competición dentro del mismo. Los días se cuentan desde su primera competición.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 1 de enero de 2020 – 1 de enero de 2027

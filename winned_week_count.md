@@ -1,7 +1,7 @@
 ## Más semanas ganadas
 
 *Nota: Número de semanas (de lunes a domingo) en las que el competidor logró el mejor single de todos los competidores españoles en esa categoría.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

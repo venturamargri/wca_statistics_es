@@ -1,7 +1,7 @@
 ## Más competidores españoles distintos organizados
 
 *Nota: Organizadores españoles de competiciones (en cualquier país) en las que ha participado el mayor número de competidores españoles distintos (excluyéndose a sí mismos).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Españoles distintos | Competiciones |
 | :--- | ---: | ---: |

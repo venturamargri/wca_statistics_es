@@ -1,7 +1,7 @@
 ## Más semanas consecutivas compitiendo
 
 *Nota: Solo incluye competidores españoles. Las semanas se cuentan de lunes a domingo (ISO). Varias competiciones en la misma semana cuentan como una.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Semanas | Persona | Inicio | Fin |
 | ---: | :--- | :--- | :--- |

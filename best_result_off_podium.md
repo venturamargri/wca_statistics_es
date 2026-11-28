@@ -1,7 +1,7 @@
 ## Mejor resultado fuera del podio
 
 *Nota: Solo se tienen en cuenta finales disputadas por competidores españoles en cualquier competición.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

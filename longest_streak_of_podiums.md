@@ -1,7 +1,7 @@
 ## Racha más larga de podios
 
 *Nota: Solo se tienen en cuenta finales en competiciones que celebraron dicha categoría.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Podios | Persona | Categoría | Inicio | Fin |
 | ---: | :--- | :--- | :--- | :--- |

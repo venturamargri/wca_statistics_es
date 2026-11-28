@@ -1,7 +1,7 @@
 ## Menor diferencia entre single y average
 
 *Nota: Se excluye FMC porque sus resultados son enteros.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

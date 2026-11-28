@@ -1,7 +1,7 @@
 ## Mejor primer single
 
 *Nota: Mejor primer intento oficial conseguido al participar por primera vez en cada categoría (si el primer intento absoluto fue DNF/DNS, no cuenta).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

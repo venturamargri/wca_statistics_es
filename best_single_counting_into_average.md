@@ -1,6 +1,6 @@
 ## Mejor single que cuenta en un average de 5
 
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

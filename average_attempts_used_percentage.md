@@ -1,7 +1,7 @@
 ## Mayor porcentaje medio de intentos disponibles utilizados
 
 *Nota: Para cada competición, los intentos disponibles son la suma de resoluciones esperadas de todas sus rondas, independientemente de en qué categorías se inscribiera el competidor. Cuentan los intentos iniciados (incluidos DNF, excluidos DNS y cortes no superados). Mínimo 20 competiciones.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | % | Persona | Intentados | Disponibles | Competiciones |
 | ---: | :--- | ---: | ---: | ---: |

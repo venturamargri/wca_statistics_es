@@ -1,7 +1,7 @@
 ## Menor % de competiciones disputadas en la misma ciudad que la primera competición
 
 *Nota: Calcula qué porcentaje del total de competiciones de un competidor español (incluyendo el extranjero) tuvo lugar en la ciudad de su debut. Mínimo 10 competiciones.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Primera competición | Ciudad | En la ciudad | Total | Porcentaje |
 | :--- | :--- | :--- | ---: | ---: | ---: |
@@ -67,9 +67,9 @@
 | [Ángel Quintana Mota](https://www.worldcubeassociation.org/persons/2022MOTA01) | [Dacada San Fernando Open 2022](https://www.worldcubeassociation.org/competitions/DacadaSanFernandoOpen2022) | San Fernando, Cádiz | 1 | 38 | 2.6% |
 | [Arián Martín Núñez](https://www.worldcubeassociation.org/persons/2020NUNE01) | [Getafe Continúa 2020](https://www.worldcubeassociation.org/competitions/GetafeContinua2020) | Getafe, Madrid | 1 | 36 | 2.8% |
 | [Marisa Revaliente Ruiz](https://www.worldcubeassociation.org/persons/2022RUIZ02) | [Ronda Open 2022](https://www.worldcubeassociation.org/competitions/RondaOpen2022) | Ronda, Málaga | 1 | 36 | 2.8% |
+| [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) | [Ticino Open 2018](https://www.worldcubeassociation.org/competitions/TicinoOpen2018) | Carabbia | 1 | 35 | 2.9% |
 | [Gonzalo Blanco Herrero](https://www.worldcubeassociation.org/persons/2015HERR12) | [Spanish Championship 2015](https://www.worldcubeassociation.org/competitions/SpanishChampionship2015) | Granada | 1 | 35 | 2.9% |
 | [Eder Olivencia González](https://www.worldcubeassociation.org/persons/2012GONZ10) | [Basauri Open 2012](https://www.worldcubeassociation.org/competitions/BasauriOpen2012) | Basauri (Bilbao) | 3 | 105 | 2.9% |
-| [Adriano Pallares](https://www.worldcubeassociation.org/persons/2018PALL03) | [Ticino Open 2018](https://www.worldcubeassociation.org/competitions/TicinoOpen2018) | Carabbia | 1 | 34 | 2.9% |
 | [David Ruscalleda Gómez](https://www.worldcubeassociation.org/persons/2013GOME02) | [Gernika Open 2013](https://www.worldcubeassociation.org/competitions/GernikaOpen2013) | Gernika | 1 | 34 | 2.9% |
 | [Jacobo Vélez Gómez](https://www.worldcubeassociation.org/persons/2024GOME34) | [Lazarillo Open 2024](https://www.worldcubeassociation.org/competitions/LazarilloOpen2024) | Salamanca | 1 | 34 | 2.9% |
 | [Leovigildo Sánchez Casado](https://www.worldcubeassociation.org/persons/2009CASA01) | [French Open 2009](https://www.worldcubeassociation.org/competitions/FrenchOpen2009) | Serris (Paris) | 1 | 34 | 2.9% |

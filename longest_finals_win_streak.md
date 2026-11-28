@@ -1,7 +1,7 @@
 ## Racha más larga invicto en finales de una categoría
 
 *Nota: Mayor número de finales consecutivas ganadas por un competidor español en la misma categoría (mínimo 2 victorias seguidas). Se muestra la mejor racha de cada persona por categoría.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

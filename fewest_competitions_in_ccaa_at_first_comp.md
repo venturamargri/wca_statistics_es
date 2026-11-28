@@ -1,7 +1,7 @@
 ## Menor % de competiciones disputadas en la comunidad autónoma de la primera competición
 
 *Nota: Comunidad o ciudad autónoma calculada a partir de las coordenadas de la competición (17 comunidades autónomas y 2 ciudades autónomas). Porcentaje de competiciones disputadas en la comunidad autónoma del debut respecto al total de competiciones (incluyendo extranjero). Mínimo 10 competiciones.The ratio is computed against all competitions attended, including those abroad. Requires at least 10 total competitions.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Primera competición | Comunidad autónoma | En la comunidad autónoma | Total | Porcentaje |
 | :--- | :--- | :--- | ---: | ---: | ---: |

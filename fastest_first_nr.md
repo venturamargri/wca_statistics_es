@@ -1,7 +1,7 @@
 ## Menor tiempo en conseguir el primer Récord Nacional
 
 *Nota: Días transcurridos desde la fecha de inicio de la primera competición oficial hasta el primer Récord Nacional (NR, ER o WR en cualquier categoría, single o average) para quienes lo lograron en 3 años o menos (≤ 1.095 días).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Días | Competición | Categoría |
 | :--- | ---: | :--- | :--- |

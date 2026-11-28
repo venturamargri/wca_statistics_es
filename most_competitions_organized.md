@@ -1,6 +1,6 @@
 ## Más competiciones organizadas
 
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Organizadas | Persona |
 | ---: | :--- |

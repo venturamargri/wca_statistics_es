@@ -1,7 +1,7 @@
 ## Más competiciones disputadas antes de organizar una
 
 *Nota: Solo se cuentan las competiciones que comenzaron antes de la primera organizada.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Competiciones | Persona | Primera competición | Primera organizada |
 | ---: | :--- | :--- | :--- |

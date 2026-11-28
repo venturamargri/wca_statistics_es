@@ -1,7 +1,7 @@
 ## Más competiciones antes de ganar por primera vez
 
 *Nota: Solo se cuentan competiciones que celebraron dicha categoría.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

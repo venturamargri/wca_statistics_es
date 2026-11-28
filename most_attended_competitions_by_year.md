@@ -1,7 +1,7 @@
 ## Más competiciones cada año
 
 *Nota: Muestra los 25 competidores españoles con más competiciones cada año.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 2026

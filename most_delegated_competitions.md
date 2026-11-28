@@ -1,7 +1,7 @@
 ## Más competiciones delegadas
 
 *Nota: Desglose según el rango del delegado en el primer día de cada competición (Trainee, Junior, Full o Desconocido antes de 2024).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Delegadas | Persona | Trainee | Junior | Full | Sin registro | Lista en WCA |
 | ---: | :--- | ---: | ---: | ---: | ---: | :--: |

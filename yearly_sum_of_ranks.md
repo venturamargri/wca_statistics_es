@@ -1,7 +1,7 @@
 ## Clasificación Sum of Ranks (SoR) por año
 
 *Nota: Sum of Ranks anual usando únicamente las marcas del formato principal WCA logradas ese año. En las categorías oficiales vigentes de ese año en las que no se registró marca, se asigna el puesto (total de clasificados españoles ese año + 1).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 2026

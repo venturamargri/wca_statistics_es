@@ -1,7 +1,7 @@
 ## Tiempos chocolate (.00)
 
 *Nota: Rondas y competiciones oficiales de competidores españoles con más tiempos exactos acabados en .00 (se excluyen FMC, Multi-Blind y tiempos de 10 minutos o más, ya que se truncan a los segundos).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Tiempos .00 | Persona | Categoría | Tiempos de la ronda | Competición |
 | :--: | :--- | :--- | :--- | :--- |

@@ -1,7 +1,7 @@
 ## Clasificación Kinch por año
 
 *Nota: Ranking Kinch calculado anualmente usando únicamente las marcas del formato principal WCA conseguidas en ese año, comparadas frente a la mejor marca española de ese mismo año (sobre las categorías oficiales con resultados españoles en dicho año).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 2026

@@ -1,6 +1,6 @@
 ## Más intentos antes de lograr una resolución válida en BLD
 
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Blindfolded

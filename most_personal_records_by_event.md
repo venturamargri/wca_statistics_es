@@ -1,7 +1,7 @@
 ## Más récords personales (PB) por categoría
 
 *Nota: Cuenta cuántas veces cada competidor mejoró su marca personal (single o average) en cada categoría.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

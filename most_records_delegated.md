@@ -1,7 +1,7 @@
 ## Más récords delegados
 
 *Nota: Récords oficiales batidos en competiciones donde figuraba como delegado un delegado español.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Récords | WR | CR | NR | Delegado |
 | ---: | ---: | ---: | ---: | :--- |

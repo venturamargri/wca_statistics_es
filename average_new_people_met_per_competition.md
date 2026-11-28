@@ -1,7 +1,7 @@
 ## Mayor media de personas nuevas conocidas por competición
 
 *Nota: Divide el total de competidores únicos con los que se ha coincidido a lo largo de la carrera entre el número de competiciones disputadas. Mínimo 20 competiciones.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Media nuevas personas | Personas únicas | Competiciones | Persona |
 | ---: | ---: | ---: | :--- |

@@ -1,7 +1,7 @@
 ## Resultados enviados más rápido
 
 *Nota: Solo se incluyen competiciones celebradas en España.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Competición | Tiempo de envío | Delegados |
 | :--- | ---: | :--- |

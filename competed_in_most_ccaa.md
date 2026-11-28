@@ -1,7 +1,7 @@
 ## Más comunidades autónomas en las que se ha competido
 
 *Nota: Comunidad o ciudad autónoma calculada a partir de las coordenadas de la competición (17 comunidades autónomas y 2 ciudades autónomas).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Completadas | Faltan | Comunidades autónomas pendientes | Completado en |
 | :--- | ---: | ---: | :--- | :--- |

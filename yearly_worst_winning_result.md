@@ -1,7 +1,7 @@
 ## Peor resultado que logró victoria por año en competiciones en España
 
 *Nota: Solo finales de competidores españoles en competiciones celebradas en España. Se ignoran resultados donde la métrica principal sea DNF.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 2026

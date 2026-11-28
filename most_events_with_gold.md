@@ -1,7 +1,7 @@
 ## Más categorías distintas con oro
 
 *Nota: Competidores españoles que han ganado al menos una final en el mayor número de categorías oficiales actuales (sobre 17).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Categorías | Persona | Total oros | Categorías ganadas |
 | ---: | :--- | ---: | :--- |

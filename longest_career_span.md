@@ -1,7 +1,7 @@
 ## Carreras más longevas
 
 *Nota: Mayor tiempo transcurrido entre la primera y la última competición oficial disputada por competidores españoles.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Años | Días | Persona | Primera comp. | Última comp. | Competiciones |
 | ---: | ---: | :--- | :--- | :--- | ---: |

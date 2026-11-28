@@ -1,7 +1,7 @@
 ## Racha más larga de competiciones consecutivas
 
 *Nota: La racha termina cuando el competidor falta a una competición celebrada en España.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Competiciones | Persona | Inicio | Fin |
 | ---: | :--- | :--- | :--- |

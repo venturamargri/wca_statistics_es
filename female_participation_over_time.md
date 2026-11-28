@@ -1,7 +1,7 @@
 ## Porcentaje de participación femenina a través del tiempo
 
 *Nota: Porcentaje de asistencias femeninas sobre el total de asistencias (de cualquier nacionalidad) en competiciones oficiales celebradas en España cada año. Cada competición a la que asiste una persona cuenta como una participación.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Año | % |
 | :--: | ---: |

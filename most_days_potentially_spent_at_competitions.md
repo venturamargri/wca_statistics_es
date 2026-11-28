@@ -1,6 +1,6 @@
 ## Más días potencialmente pasados en competiciones
 
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Días | Persona | Competiciones |
 | ---: | :--- | ---: |

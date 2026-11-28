@@ -1,7 +1,7 @@
 ## Más campeonatos disputados
 
 *Nota: Solo incluye participaciones representando a España. Los campeonatos elegibles son Mundiales, Europeos y Campeonatos de España.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### Todos los campeonatos

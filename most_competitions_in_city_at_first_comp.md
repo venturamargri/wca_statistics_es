@@ -1,7 +1,7 @@
 ## Mayor % de competiciones disputadas en la misma ciudad que la primera competición
 
 *Nota: Porcentaje de competiciones disputadas en la ciudad del debut respecto al total de competiciones del competidor.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Primera competición | Ciudad | En la ciudad | Total | Porcentaje |
 | :--- | :--- | :--- | ---: | ---: | ---: |

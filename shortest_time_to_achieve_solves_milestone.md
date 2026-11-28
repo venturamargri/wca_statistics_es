@@ -1,6 +1,6 @@
 ## Menor tiempo en alcanzar hitos de resoluciones
 
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 10000 resoluciones

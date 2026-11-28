@@ -1,7 +1,7 @@
 ## Racha más larga asistiendo a todas las competiciones de una ciudad
 
 *Nota: La racha termina cuando el competidor no asiste a una competición celebrada en esa ciudad.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Competiciones | Persona | Ciudad | Inicio | Fin |
 | ---: | :--- | :--- | :--- | :--- |

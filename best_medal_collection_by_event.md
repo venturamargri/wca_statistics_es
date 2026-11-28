@@ -1,7 +1,7 @@
 ## Mejor medallero por categoría
 
 *Nota: Se incluyen todas las medallas obtenidas en finales, sin importar el país donde se celebró la competición.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

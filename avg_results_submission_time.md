@@ -1,6 +1,6 @@
 ## Tiempo medio de envío de resultados por delegados
 
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Delegado | Tiempo medio | Total delegadas |
 | ---: | :--- | ---: |

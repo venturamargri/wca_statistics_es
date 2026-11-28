@@ -1,6 +1,6 @@
 ## Podios en el Campeonato de España por persona
 
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Oro | Plata | Bronce | Total |
 | :--- | :--: | :--: | :--: | :--: |

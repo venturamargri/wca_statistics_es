@@ -1,7 +1,7 @@
 ## Más récords por competición delegada
 
 *Nota: Solo incluye delegados españoles.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Media | Récords | Competiciones | Delegado |
 | ---: | ---: | ---: | :--- |

@@ -1,7 +1,7 @@
 ## Average de 5
 
 *Nota: Se consideran 5 intentos oficiales consecutivos. Solo se incluyen competidores del top 200 nacional en single.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Cube

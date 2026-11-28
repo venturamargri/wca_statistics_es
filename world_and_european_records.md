@@ -1,7 +1,7 @@
 ## Récords mundiales y europeos batidos
 
 *Nota: Se incluyen todos los récords históricos. Los récords que fueron WR en su momento aparecen solo en la tabla de récords mundiales.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### Récords mundiales

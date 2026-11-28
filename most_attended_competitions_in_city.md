@@ -1,7 +1,7 @@
 ## Más competiciones disputadas en una ciudad
 
 *Nota: Solo incluye competidores españoles y competiciones en España con resultados publicados.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### Madrid

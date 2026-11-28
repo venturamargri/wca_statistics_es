@@ -1,7 +1,7 @@
 ## Racha más larga asistiendo a todas las competiciones de una provincia
 
 *Nota: La racha termina cuando el competidor falta a una competición celebrada en la provincia. Provincia o ciudad autónoma calculada a partir de las coordenadas de la competición (50 provincias y 2 ciudades autónomas).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Competiciones | Persona | Provincia | Inicio | Fin |
 | ---: | :--- | :--- | :--- | :--- |

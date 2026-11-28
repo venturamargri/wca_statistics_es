@@ -1,7 +1,7 @@
 ## Mejor medallero en el extranjero por persona
 
 *Nota: Solo se tienen en cuenta las medallas conseguidas fuera de España.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Oro | Plata | Bronce | Total |
 | :--- | :--: | :--: | :--: | :--: |

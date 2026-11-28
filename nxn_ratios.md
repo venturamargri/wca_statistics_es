@@ -1,7 +1,7 @@
 ## Comparación de NxNxN entre cubos consecutivos
 
 *Nota: Menor proporción entre los averages oficiales (PB) de dos cubos NxNxN consecutivos. Es obligatorio tener average oficial en ambas categorías.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 7x7x7 / 6x6x6

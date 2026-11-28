@@ -1,6 +1,6 @@
 ## Racha más larga de récords mundiales del mismo tipo en una categoría
 
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Récords | Categoría | Tipo | Persona | Inicio | Fin | Años |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |

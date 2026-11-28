@@ -1,7 +1,7 @@
 ## Competiciones donde debutaron más campeones de España y récords nacionales
 
 *Nota: Competiciones celebradas en España donde debutaron más competidores que han logrado al menos un Récord Nacional (NR) o un título de campeón de España (mejor español clasificado con marca válida en la final de un Campeonato de España). Si una persona cumple ambos criterios, cuenta una sola vez en el total.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Total | Futuros NRs | Campeones de España | Competición | Personas |
 | ---: | ---: | ---: | :--- | :--- |

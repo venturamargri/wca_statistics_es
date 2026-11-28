@@ -1,7 +1,7 @@
 ## Más competiciones delegadas junto a otro delegado
 
 *Nota: Muestra cuántas veces ha co-delegado cada delegado español con otros compañeros.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### [Albert Garriga Gea](https://www.worldcubeassociation.org/persons/2019GEAA01)

@@ -1,7 +1,7 @@
 ## Comparación de blind entre cubos consecutivos
 
 *Nota: Menor proporción entre los singles oficiales (PB) de categorías a ciegas consecutivas (y 3BLD frente a 3x3x3). Es obligatorio tener single oficial en ambas categorías.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 
 ### 3x3x3 Blindfolded / 3x3x3

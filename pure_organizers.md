@@ -1,7 +1,7 @@
 ## Más competiciones organizadas sin competir
 
 *Nota: Competidores españoles que figuran como organizadores de competiciones ya celebradas en las que no registraron ningún resultado propio.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Sin competir | Total organizadas | Persona |
 | ---: | ---: | :--- |

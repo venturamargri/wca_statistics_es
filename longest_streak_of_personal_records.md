@@ -1,6 +1,6 @@
 ## Racha más larga de competiciones logrando al menos un récord personal (PB)
 
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Competiciones | Persona | Inicio | Fin |
 | ---: | :--- | :--- | :--- |

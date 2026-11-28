@@ -1,7 +1,7 @@
 ## Mayor porcentaje de competiciones en el extranjero
 
 *Nota: Porcentaje de competiciones disputadas fuera de España sobre el total de competiciones oficiales. Mínimo 10 competiciones (se excluyen competiciones multisede internacionales).*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | % Extranjero | Fuera de España | Total | Persona |
 | ---: | ---: | ---: | :--- |

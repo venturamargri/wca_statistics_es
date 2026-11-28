@@ -1,7 +1,7 @@
 ## Mayor distancia entre competiciones en días consecutivos
 
 *Nota: Distancia directa entre dos competiciones con fechas adyacentes o solapadas.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Distancia | Desde | Hasta |
 | :--- | ---: | :--- | :--- |

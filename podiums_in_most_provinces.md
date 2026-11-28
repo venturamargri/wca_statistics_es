@@ -1,7 +1,7 @@
 ## Más provincias distintas con podios
 
 *Nota: Competidores españoles que han conseguido al menos un podio oficial en más provincias distintas de España.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Provincias | Provincias con podio |
 | :--- | ---: | :--- |

@@ -1,7 +1,7 @@
 ## Proporción de medallas por competición
 
 *Nota: Solo se incluyen competidores españoles con una media superior a 2 medallas por competición.*
-*Actualizado el 25 de noviembre de 2026*
+*Actualizado el 28 de noviembre de 2026*
 
 | Persona | Medallas | Competiciones | Media |
 | :--- | ---: | ---: | ---: |
